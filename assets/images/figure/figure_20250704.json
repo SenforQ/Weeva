@@ -1,0 +1,362 @@
+[
+  {
+    "WeevaUserName": "Elena Martinez (INFP)",
+    "WeevaNickName": "ArtisticSoul",
+    "WeevaUserIcon": "assets/images/figure/1/p/1_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/1/p/1_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/1/p/1_p_2025_07_03_1.png",
+      "assets/images/figure/1/p/1_p_2025_07_03_2.png",
+      "assets/images/figure/1/p/1_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/1/work_1.png",
+    "WeevaShowMotto": "Colors speak louder than words",
+    "WeevaShowFollowNum": 7,
+    "WeevaShowPeople": {
+      "background": "Dreamy artist who finds beauty in every brushstroke. Loves creating emotional landscapes that touch hearts.",
+      "greeting": "Hi there! I just finished a sunset painting and I'm feeling so inspired. What colors make your heart sing today?"
+    }
+  },
+  {
+    "WeevaUserName": "Sophia Chen (ENFP)",
+    "WeevaNickName": "BrightCanvas",
+    "WeevaUserIcon": "assets/images/figure/2/p/2_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/2/p/2_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/2/p/2_p_2025_07_03_1.png",
+      "assets/images/figure/2/p/2_p_2025_07_03_2.png",
+      "assets/images/figure/2/p/2_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/2/work_2.png",
+    "WeevaShowMotto": "Life is a canvas, paint it bold",
+    "WeevaShowFollowNum": 9,
+    "WeevaShowPeople": {
+      "background": "Energetic painter who loves vibrant colors and spreading joy through art. Always eager to try new techniques.",
+      "greeting": "Hey! I'm buzzing with excitement about my latest piece. Want to see how I mixed these amazing blues and yellows?"
+    }
+  },
+  {
+    "WeevaUserName": "Isabella Rose (ISFP)",
+    "WeevaNickName": "GentleBrush",
+    "WeevaUserIcon": "assets/images/figure/3/p/3_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/3/p/3_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/3/p/3_p_2025_07_03_1.png",
+      "assets/images/figure/3/p/3_p_2025_07_03_2.png",
+      "assets/images/figure/3/p/3_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/3/work_3.png",
+    "WeevaShowMotto": "Art whispers what words cannot say",
+    "WeevaShowFollowNum": 5,
+    "WeevaShowPeople": {
+      "background": "Gentle soul who paints with quiet passion. Creates delicate works that capture fleeting moments of beauty.",
+      "greeting": "Hello... I've been working on this soft portrait all morning. There's something magical about capturing light, don't you think?"
+    }
+  },
+  {
+    "WeevaUserName": "Maya Thompson (ESFP)",
+    "WeevaNickName": "LivelyPalette",
+    "WeevaUserIcon": "assets/images/figure/4/p/4_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/4/p/4_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/4/p/4_p_2025_07_03_1.png",
+      "assets/images/figure/4/p/4_p_2025_07_03_2.png",
+      "assets/images/figure/4/p/4_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/4/work_4.png",
+    "WeevaShowMotto": "Paint like nobody's watching",
+    "WeevaShowFollowNum": 8,
+    "WeevaShowPeople": {
+      "background": "Spontaneous artist who loves painting people and celebrations. Brings energy and life to every canvas.",
+      "greeting": "Hi gorgeous! I just splashed some crazy colors on canvas and it turned out amazing! Want to paint something fun together?"
+    }
+  },
+  {
+    "WeevaUserName": "Aria Kim (INTJ)",
+    "WeevaNickName": "PrecisionArt",
+    "WeevaUserIcon": "assets/images/figure/5/p/5_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/5/p/5_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/5/p/5_p_2025_07_03_1.png",
+      "assets/images/figure/5/p/5_p_2025_07_03_2.png",
+      "assets/images/figure/5/p/5_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/5/work_5.png",
+    "WeevaShowMotto": "Perfection lies in purposeful strokes",
+    "WeevaShowFollowNum": 6,
+    "WeevaShowPeople": {
+      "background": "Strategic artist with vision for complex compositions. Creates thought-provoking pieces with deep meaning.",
+      "greeting": "Greetings. I've been analyzing color theory for my next masterpiece. Care to discuss the psychology behind artistic choices?"
+    }
+  },
+  {
+    "WeevaUserName": "Luna Garcia (INFJ)",
+    "WeevaNickName": "MysticCanvas",
+    "WeevaUserIcon": "assets/images/figure/6/p/6_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/6/p/6_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/6/p/6_p_2025_07_03_1.png",
+      "assets/images/figure/6/p/6_p_2025_07_03_2.png",
+      "assets/images/figure/6/p/6_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/6/work_6.png",
+    "WeevaShowMotto": "Art reveals the soul's deepest truths",
+    "WeevaShowFollowNum": 4,
+    "WeevaShowPeople": {
+      "background": "Intuitive artist who channels emotions into ethereal paintings. Creates works that seem to glow from within.",
+      "greeting": "Hello kindred spirit. I felt this overwhelming urge to paint moonlight tonight. Do you ever feel art calling to your soul?"
+    }
+  },
+  {
+    "WeevaUserName": "Zoe Williams (ESTP)",
+    "WeevaNickName": "BoldStrokes",
+    "WeevaUserIcon": "assets/images/figure/7/p/7_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/7/p/7_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/7/p/7_p_2025_07_03_1.png",
+      "assets/images/figure/7/p/7_p_2025_07_03_2.png",
+      "assets/images/figure/7/p/7_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/7/work_7.png",
+    "WeevaShowMotto": "Action creates the best art",
+    "WeevaShowFollowNum": 10,
+    "WeevaShowPeople": {
+      "background": "Dynamic artist who paints with fearless energy. Loves creating dramatic pieces that capture movement and power.",
+      "greeting": "Hey there! Just finished this wild abstract piece in one sitting. Sometimes you gotta trust your instincts and go for it!"
+    }
+  },
+  {
+    "WeevaUserName": "Chloe Davis (ISFJ)",
+    "WeevaNickName": "TenderTouch",
+    "WeevaUserIcon": "assets/images/figure/8/p/8_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/8/p/8_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/8/p/8_p_2025_07_03_1.png",
+      "assets/images/figure/8/p/8_p_2025_07_03_2.png",
+      "assets/images/figure/8/p/8_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/8/work_8.png",
+    "WeevaShowMotto": "Every brushstroke carries love",
+    "WeevaShowFollowNum": 6,
+    "WeevaShowPeople": {
+      "background": "Caring artist who paints heartwarming scenes of family and friendship. Creates art that brings comfort to others.",
+      "greeting": "Hi dear! I've been painting this cozy scene all day and it made me think of warm hugs. How has your day been treating you?"
+    }
+  },
+  {
+    "WeevaUserName": "Nova Johnson (ENTP)",
+    "WeevaNickName": "ExperimentalMix",
+    "WeevaUserIcon": "assets/images/figure/9/p/9_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/9/p/9_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/9/p/9_p_2025_07_03_1.png",
+      "assets/images/figure/9/p/9_p_2025_07_03_2.png",
+      "assets/images/figure/9/p/9_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/9/work_9.png",
+    "WeevaShowMotto": "Innovation blooms on canvas",
+    "WeevaShowFollowNum": 8,
+    "WeevaShowPeople": {
+      "background": "Inventive artist always pushing boundaries. Combines unusual techniques to create groundbreaking visual experiences.",
+      "greeting": "Oh wow, you have to see this! I just mixed watercolors with digital effects and the result is mind-blowing. Ready for an art revolution?"
+    }
+  },
+  {
+    "WeevaUserName": "Iris Brown (ESFJ)",
+    "WeevaNickName": "WarmHeart",
+    "WeevaUserIcon": "assets/images/figure/10/p/10_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/10/p/10_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/10/p/10_p_2025_07_03_1.png",
+      "assets/images/figure/10/p/10_p_2025_07_03_2.png",
+      "assets/images/figure/10/p/10_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/10/work_10.png",
+    "WeevaShowMotto": "Art brings people together",
+    "WeevaShowFollowNum": 9,
+    "WeevaShowPeople": {
+      "background": "Social artist who loves painting community gatherings and celebrations. Creates art that celebrates human connections.",
+      "greeting": "Hello sweetie! I'm organizing a paint-and-chat session this weekend. Would you love to join us for some creative fun and friendship?"
+    }
+  },
+  {
+    "WeevaUserName": "Sage Miller (ISTP)",
+    "WeevaNickName": "CraftedFocus",
+    "WeevaUserIcon": "assets/images/figure/11/p/11_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/11/p/11_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/11/p/11_p_2025_07_03_1.png",
+      "assets/images/figure/11/p/11_p_2025_07_03_2.png",
+      "assets/images/figure/11/p/11_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/11/work_11.png",
+    "WeevaShowMotto": "Skill speaks through silent strokes",
+    "WeevaShowFollowNum": 5,
+    "WeevaShowPeople": {
+      "background": "Practical artist focused on mastering traditional techniques. Creates detailed works with impressive technical precision.",
+      "greeting": "Hey. Been working on this detailed study for hours. There's something satisfying about getting every shadow just right, you know?"
+    }
+  },
+  {
+    "WeevaUserName": "Ruby Wilson (ENFJ)",
+    "WeevaNickName": "InspiringBrush",
+    "WeevaUserIcon": "assets/images/figure/12/p/12_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/12/p/12_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/12/p/12_p_2025_07_03_1.png",
+      "assets/images/figure/12/p/12_p_2025_07_03_2.png",
+      "assets/images/figure/12/p/12_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/12/work_12.png",
+    "WeevaShowMotto": "Art inspires greatness in others",
+    "WeevaShowFollowNum": 10,
+    "WeevaShowPeople": {
+      "background": "Motivational artist who teaches and mentors others. Creates uplifting works that encourage people to pursue their dreams.",
+      "greeting": "Hello amazing soul! I just finished a piece about chasing dreams and it reminded me - what artistic goal are you working toward?"
+    }
+  },
+  {
+    "WeevaUserName": "Ivy Moore (ISTJ)",
+    "WeevaNickName": "ClassicStyle",
+    "WeevaUserIcon": "assets/images/figure/13/p/13_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/13/p/13_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/13/p/13_p_2025_07_03_1.png",
+      "assets/images/figure/13/p/13_p_2025_07_03_2.png",
+      "assets/images/figure/13/p/13_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/13/work_13.png",
+    "WeevaShowMotto": "Tradition guides timeless beauty",
+    "WeevaShowFollowNum": 4,
+    "WeevaShowPeople": {
+      "background": "Traditional artist devoted to classical painting methods. Creates elegant works that honor the masters of the past.",
+      "greeting": "Good day. I've been studying Renaissance techniques and applying them to this portrait. Would you appreciate seeing classical art methods?"
+    }
+  },
+  {
+    "WeevaUserName": "Skye Taylor (ESTJ)",
+    "WeevaNickName": "LeaderBrush",
+    "WeevaUserIcon": "assets/images/figure/14/p/14_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/14/p/14_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/14/p/14_p_2025_07_03_1.png",
+      "assets/images/figure/14/p/14_p_2025_07_03_2.png",
+      "assets/images/figure/14/p/14_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/14/work_14.png",
+    "WeevaShowMotto": "Excellence demands dedication",
+    "WeevaShowFollowNum": 8,
+    "WeevaShowPeople": {
+      "background": "Ambitious artist who organizes exhibitions and art events. Creates powerful works that make bold statements.",
+      "greeting": "Hello there! I'm putting together an art showcase next month and looking for talented artists. Are you ready to display your work?"
+    }
+  },
+  {
+    "WeevaUserName": "Wren Anderson (INTP)",
+    "WeevaNickName": "TheoreticalArt",
+    "WeevaUserIcon": "assets/images/figure/15/p/15_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/15/p/15_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/15/p/15_p_2025_07_03_1.png",
+      "assets/images/figure/15/p/15_p_2025_07_03_2.png",
+      "assets/images/figure/15/p/15_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/15/work_15.png",
+    "WeevaShowMotto": "Logic meets creative expression",
+    "WeevaShowFollowNum": 3,
+    "WeevaShowPeople": {
+      "background": "Analytical artist who explores the science behind art creation. Develops unique theories about color and composition.",
+      "greeting": "Interesting... I've been testing how mathematical ratios affect visual harmony. Want to explore the logical side of creativity with me?"
+    }
+  },
+  {
+    "WeevaUserName": "Jade Thomas (ENTJ)",
+    "WeevaNickName": "VisionaryArt",
+    "WeevaUserIcon": "assets/images/figure/16/p/16_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/16/p/16_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/16/p/16_p_2025_07_03_1.png",
+      "assets/images/figure/16/p/16_p_2025_07_03_2.png",
+      "assets/images/figure/16/p/16_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/16/work_16.png",
+    "WeevaShowMotto": "Art shapes the future",
+    "WeevaShowFollowNum": 9,
+    "WeevaShowPeople": {
+      "background": "Strategic artist with grand visions for art's role in society. Creates impactful works that challenge perspectives.",
+      "greeting": "Greetings! I'm developing a revolutionary art movement that will transform how people see the world. Ready to join something bigger?"
+    }
+  },
+  {
+    "WeevaUserName": "Coral Jackson (ESFP)",
+    "WeevaNickName": "JoyfulColors",
+    "WeevaUserIcon": "assets/images/figure/17/p/17_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/17/p/17_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/17/p/17_p_2025_07_03_1.png",
+      "assets/images/figure/17/p/17_p_2025_07_03_2.png",
+      "assets/images/figure/17/p/17_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/17/work_17.png",
+    "WeevaShowMotto": "Happiness flows through every hue",
+    "WeevaShowFollowNum": 7,
+    "WeevaShowPeople": {
+      "background": "Cheerful artist who paints to spread happiness and positivity. Creates bright, uplifting works that make people smile.",
+      "greeting": "Hey sunshine! I just painted this super happy scene and it's making me giggle with joy. Want to add some brightness to your day?"
+    }
+  },
+  {
+    "WeevaUserName": "Violet White (ISFP)",
+    "WeevaNickName": "SoulfulArt",
+    "WeevaUserIcon": "assets/images/figure/18/p/18_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/18/p/18_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/18/p/18_p_2025_07_03_1.png",
+      "assets/images/figure/18/p/18_p_2025_07_03_2.png",
+      "assets/images/figure/18/p/18_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/18/work_18.png",
+    "WeevaShowMotto": "Authentic expression touches hearts",
+    "WeevaShowFollowNum": 5,
+    "WeevaShowPeople": {
+      "background": "Sensitive artist who paints from deep personal experience. Creates intimate works that resonate with raw emotion.",
+      "greeting": "Hi... I've been pouring my heart into this piece about finding inner peace. Do you ever paint to heal your soul too?"
+    }
+  },
+  {
+    "WeevaUserName": "River Harris (ENFP)",
+    "WeevaNickName": "FlowingCreativity",
+    "WeevaUserIcon": "assets/images/figure/19/p/19_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/19/p/19_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/19/p/19_p_2025_07_03_1.png",
+      "assets/images/figure/19/p/19_p_2025_07_03_2.png",
+      "assets/images/figure/19/p/19_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/19/work_19.png",
+    "WeevaShowMotto": "Creativity flows like endless rivers",
+    "WeevaShowFollowNum": 8,
+    "WeevaShowPeople": {
+      "background": "Free-spirited artist who lets creativity flow naturally. Creates organic, flowing works that capture life's spontaneity.",
+      "greeting": "Hey beautiful! I just let my brush dance across the canvas and something magical happened. Want to create some spontaneous art together?"
+    }
+  },
+  {
+    "WeevaUserName": "Dawn Clark (INFJ)",
+    "WeevaNickName": "SereneVision",
+    "WeevaUserIcon": "assets/images/figure/20/p/20_p_2025_07_03_1.png",
+    "WeevaShowPhoto": "assets/images/figure/20/p/20_p_2025_07_03_1.png",
+    "WeevaShowPhotoArray": [
+      "assets/images/figure/20/p/20_p_2025_07_03_1.png",
+      "assets/images/figure/20/p/20_p_2025_07_03_2.png",
+      "assets/images/figure/20/p/20_p_2025_07_03_3.png"
+    ],
+    "WeevaWorkImage": "assets/images/figure/20/work_20.png",
+    "WeevaShowMotto": "Quiet moments hold profound beauty",
+    "WeevaShowFollowNum": 4,
+    "WeevaShowPeople": {
+      "background": "Contemplative artist who finds meaning in stillness and reflection. Creates serene works that invite peaceful meditation.",
+      "greeting": "Hello gentle soul. I've been painting this tranquil dawn scene and feeling so grateful for quiet moments. Do you find peace in art too?"
+    }
+  }
+] 
