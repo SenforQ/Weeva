@@ -96,13 +96,15 @@ class _HomePageState extends State<HomePage>
   @override
   Widget build(BuildContext context) {
     super.build(context); // 必须调用super.build
-    final mediaQuery = MediaQuery.of(context);
-    final screenHeight = mediaQuery.size.height;
-    final bottomPadding = mediaQuery.padding.bottom;
-    final double tabBarHeight = 49;
     final double playerHeight = 50;
-    final double top =
-        screenHeight - bottomPadding - tabBarHeight - playerHeight;
+
+    // 调试信息：打印底部安全边距
+    final mediaQuery = MediaQuery.of(context);
+    print('=== 调试信息 ===');
+    print('screenHeight: ${mediaQuery.size.height}');
+    print('bottomPadding: ${mediaQuery.padding.bottom}');
+    print('playerHeight: $playerHeight');
+    print('================');
 
     // 检查是否需要刷新数据
     if (_needsRefresh) {
@@ -127,9 +129,15 @@ class _HomePageState extends State<HomePage>
           Positioned(
             left: 0,
             right: 0,
-            top: top,
-            height: playerHeight,
-            child: const MusicPlayerBar(),
+            bottom: 0,
+            child: SafeArea(
+              top: false,
+              bottom: true,
+              child: Container(
+                height: playerHeight,
+                child: const MusicPlayerBar(),
+              ),
+            ),
           ),
         ],
       ),
