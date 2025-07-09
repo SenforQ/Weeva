@@ -6,7 +6,9 @@ import '../services/zhipu_ai_service.dart';
 
 /// AI页面 - 显示AI功能和工具
 class AiPage extends StatefulWidget {
-  const AiPage({super.key});
+  final bool isSecondaryPage; // 是否为二级页面
+
+  const AiPage({super.key, this.isSecondaryPage = false});
 
   @override
   State<AiPage> createState() => _AiPageState();
@@ -330,170 +332,205 @@ class _AiPageState extends State<AiPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.grey[50],
-      body: Column(
+      body: Stack(
         children: [
-          // 顶部背景图片 - y:0位置，左右边距为0，高度自适应
-          Container(
-            width: double.infinity,
-            child: Image.asset(
-              'assets/images/icons/bg_ai_answer_20250708.png',
-              fit: BoxFit.fitWidth,
-              errorBuilder: (context, error, stackTrace) {
-                // 如果图片加载失败，显示占位容器
-                return Container(
-                  width: double.infinity,
-                  height: 200,
-                  decoration: BoxDecoration(
-                    gradient: LinearGradient(
-                      begin: Alignment.topLeft,
-                      end: Alignment.bottomRight,
-                      colors: [
-                        Colors.purple.withOpacity(0.6),
-                        Colors.pink.withOpacity(0.4),
-                      ],
-                    ),
-                  ),
-                  child: const Center(
-                    child: Column(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Icon(Icons.palette, size: 50, color: Colors.white),
-                        SizedBox(height: 8),
-                        Text(
-                          'Hello, I\'m Banban',
-                          style: TextStyle(
-                            fontSize: 24,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.white,
-                          ),
-                        ),
-                        Text(
-                          'To answer your painting questions',
-                          style: TextStyle(fontSize: 16, color: Colors.white),
-                        ),
-                      ],
-                    ),
-                  ),
-                );
-              },
-            ),
-          ),
-          // 聊天内容区域
-          Expanded(
-            child:
-                _messages.isEmpty
-                    ? _buildQuickQuestions()
-                    : ListView.builder(
-                      controller: _scrollController,
-                      itemCount: _messages.length,
-                      itemBuilder: (context, index) {
-                        return _buildMessage(_messages[index]);
-                      },
-                    ),
-          ),
-          // 输入框区域
-          Container(
-            height: 44 + 32, // 44高度 + 上下padding
-            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
-            decoration: BoxDecoration(
-              color: Colors.white.withOpacity(0.9),
-              border: Border(
-                top: BorderSide(color: Colors.grey.withOpacity(0.3)),
-              ),
-            ),
-            child: Row(
-              children: [
-                Expanded(
-                  child: Container(
-                    height: 44,
-                    child: TextField(
-                      controller: _messageController,
-                      decoration: InputDecoration(
-                        hintText: 'Hi, what kind of girl...',
-                        hintStyle: TextStyle(
-                          color: Colors.grey.withOpacity(0.7),
-                        ),
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(22),
-                          borderSide: BorderSide.none,
-                        ),
-                        filled: true,
-                        fillColor: Colors.grey.withOpacity(0.1),
-                        contentPadding: const EdgeInsets.symmetric(
-                          horizontal: 16,
-                          vertical: 0,
+          Column(
+            children: [
+              // 顶部背景图片 - y:0位置，左右边距为0，高度自适应
+              Container(
+                width: double.infinity,
+                child: Image.asset(
+                  'assets/images/icons/bg_ai_answer_20250708.png',
+                  fit: BoxFit.fitWidth,
+                  errorBuilder: (context, error, stackTrace) {
+                    // 如果图片加载失败，显示占位容器
+                    return Container(
+                      width: double.infinity,
+                      height: 200,
+                      decoration: BoxDecoration(
+                        gradient: LinearGradient(
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                          colors: [
+                            Colors.purple.withOpacity(0.6),
+                            Colors.pink.withOpacity(0.4),
+                          ],
                         ),
                       ),
-                      style: const TextStyle(color: Colors.black87),
-                      maxLines: 1,
-                      textInputAction: TextInputAction.send,
-                      onSubmitted: _sendMessage,
-                    ),
-                  ),
-                ),
-                const SizedBox(width: 8),
-                // 发送照片按钮
-                Container(
-                  width: 44,
-                  height: 44,
-                  decoration: BoxDecoration(
-                    color: Colors.grey.withOpacity(_isSending ? 0.1 : 0.2),
-                    shape: BoxShape.circle,
-                  ),
-                  child: IconButton(
-                    onPressed: _isSending ? null : _sendPhoto,
-                    icon: Icon(
-                      Icons.photo_camera,
-                      color:
-                          _isSending
-                              ? Colors.grey.withOpacity(0.5)
-                              : Colors.grey,
-                      size: 20,
-                    ),
-                    padding: EdgeInsets.zero,
-                  ),
-                ),
-                const SizedBox(width: 8),
-                // 发送消息按钮
-                Container(
-                  width: 44,
-                  height: 44,
-                  decoration: BoxDecoration(
-                    gradient: const LinearGradient(
-                      colors: [Colors.purple, Colors.pink],
-                      begin: Alignment.topLeft,
-                      end: Alignment.bottomRight,
-                    ),
-                    shape: BoxShape.circle,
-                  ),
-                  child: IconButton(
-                    onPressed:
-                        _isSending
-                            ? null
-                            : () => _sendMessage(_messageController.text),
-                    icon:
-                        _isSending
-                            ? const SizedBox(
-                              width: 20,
-                              height: 20,
-                              child: CircularProgressIndicator(
-                                strokeWidth: 2,
-                                valueColor: AlwaysStoppedAnimation<Color>(
-                                  Colors.white,
-                                ),
+                      child: const Center(
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Icon(Icons.palette, size: 50, color: Colors.white),
+                            SizedBox(height: 8),
+                            Text(
+                              'Hello, I\'m Banban',
+                              style: TextStyle(
+                                fontSize: 24,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.white,
                               ),
-                            )
-                            : const Icon(
-                              Icons.send,
-                              color: Colors.white,
-                              size: 20,
                             ),
-                    padding: EdgeInsets.zero,
+                            Text(
+                              'To answer your painting questions',
+                              style: TextStyle(fontSize: 16, color: Colors.white),
+                            ),
+                          ],
+                        ),
+                      ),
+                    );
+                  },
+                ),
+              ),
+              // 聊天内容区域
+              Expanded(
+                child:
+                    _messages.isEmpty
+                        ? _buildQuickQuestions()
+                        : ListView.builder(
+                          controller: _scrollController,
+                          itemCount: _messages.length,
+                          itemBuilder: (context, index) {
+                            return _buildMessage(_messages[index]);
+                          },
+                        ),
+              ),
+              // 输入框区域
+              Container(
+                height: 44 + 32, // 44高度 + 上下padding
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(0.9),
+                  border: Border(
+                    top: BorderSide(color: Colors.grey.withOpacity(0.3)),
                   ),
                 ),
-              ],
-            ),
+                child: Row(
+                  children: [
+                    Expanded(
+                      child: Container(
+                        height: 44,
+                        child: TextField(
+                          controller: _messageController,
+                          decoration: InputDecoration(
+                            hintText: 'Hi, what kind of girl...',
+                            hintStyle: TextStyle(
+                              color: Colors.grey.withOpacity(0.7),
+                            ),
+                            border: OutlineInputBorder(
+                              borderRadius: BorderRadius.circular(22),
+                              borderSide: BorderSide.none,
+                            ),
+                            filled: true,
+                            fillColor: Colors.grey.withOpacity(0.1),
+                            contentPadding: const EdgeInsets.symmetric(
+                              horizontal: 16,
+                              vertical: 0,
+                            ),
+                          ),
+                          style: const TextStyle(color: Colors.black87),
+                          maxLines: 1,
+                          textInputAction: TextInputAction.send,
+                          onSubmitted: _sendMessage,
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    // 发送照片按钮
+                    Container(
+                      width: 44,
+                      height: 44,
+                      decoration: BoxDecoration(
+                        color: Colors.grey.withOpacity(_isSending ? 0.1 : 0.2),
+                        shape: BoxShape.circle,
+                      ),
+                      child: IconButton(
+                        onPressed: _isSending ? null : _sendPhoto,
+                        icon: Icon(
+                          Icons.photo_camera,
+                          color:
+                              _isSending
+                                  ? Colors.grey.withOpacity(0.5)
+                                  : Colors.grey,
+                          size: 20,
+                        ),
+                        padding: EdgeInsets.zero,
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    // 发送消息按钮
+                    Container(
+                      width: 44,
+                      height: 44,
+                      decoration: BoxDecoration(
+                        gradient: const LinearGradient(
+                          colors: [Colors.purple, Colors.pink],
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                        ),
+                        shape: BoxShape.circle,
+                      ),
+                      child: IconButton(
+                        onPressed:
+                            _isSending
+                                ? null
+                                : () => _sendMessage(_messageController.text),
+                        icon:
+                            _isSending
+                                ? const SizedBox(
+                                  width: 20,
+                                  height: 20,
+                                  child: CircularProgressIndicator(
+                                    strokeWidth: 2,
+                                    valueColor: AlwaysStoppedAnimation<Color>(
+                                      Colors.white,
+                                    ),
+                                  ),
+                                )
+                                : const Icon(
+                                  Icons.send,
+                                  color: Colors.white,
+                                  size: 20,
+                                ),
+                        padding: EdgeInsets.zero,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
           ),
+          // 返回按钮 - 仅在二级页面时显示
+          if (widget.isSecondaryPage)
+            Positioned(
+              top: 60, // 状态栏高度 + 一些间距
+              left: 16,
+              child: Container(
+                width: 33,
+                height: 33,
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  shape: BoxShape.circle,
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.1),
+                      blurRadius: 4,
+                      offset: const Offset(0, 2),
+                    ),
+                  ],
+                ),
+                              child: GestureDetector(
+                onTap: () => Navigator.of(context).pop(),
+                child: Center(
+                  child: Icon(
+                    Icons.arrow_back_ios,
+                    color: Colors.black,
+                    size: 26,
+                  ),
+                ),
+              ),
+              ),
+            ),
         ],
       ),
     );

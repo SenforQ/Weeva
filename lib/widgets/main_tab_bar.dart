@@ -5,10 +5,11 @@ import '../pages/home_page.dart';
 import '../pages/avatar_page.dart';
 import '../pages/chats_page.dart';
 import '../pages/ai_page.dart';
+import '../pages/painting_page.dart';
 import '../pages/me_page.dart';
 
 /// Weeva App 主 TabBar 框架
-/// 包含5个标签页：首页、头像、聊天、AI、我的
+/// 包含5个标签页：首页、头像、聊天、油画、我的
 class MainTabBar extends StatefulWidget {
   const MainTabBar({super.key});
 
@@ -47,8 +48,8 @@ class _MainTabBarState extends State<MainTabBar> with TickerProviderStateMixin {
       selectedIcon: AppAssets.tabChatsNor,
     ),
     TabBarItemConfig(
-      normalIcon: AppAssets.tabAiPre,
-      selectedIcon: AppAssets.tabAiNor,
+      normalIcon: AppAssets.tabPaintingPre,
+      selectedIcon: AppAssets.tabPaintingNor,
     ),
     TabBarItemConfig(
       normalIcon: AppAssets.tabMePre,
@@ -70,7 +71,7 @@ class _MainTabBarState extends State<MainTabBar> with TickerProviderStateMixin {
       HomePage(key: _pageKeys[0]),
       AvatarPage(key: _pageKeys[1]),
       ChatsPage(key: _pageKeys[2]),
-      AiPage(key: _pageKeys[3]),
+      PaintingPage(key: _pageKeys[3]),
       MePage(key: _pageKeys[4]),
     ];
 

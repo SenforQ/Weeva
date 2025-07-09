@@ -134,8 +134,8 @@ class _HomePageState extends State<HomePage>
               top: false,
               bottom: true,
               child: Container(
-                height: playerHeight,
-                child: const MusicPlayerBar(),
+            height: playerHeight,
+            child: const MusicPlayerBar(),
               ),
             ),
           ),

@@ -5,6 +5,7 @@ import 'edit_profile_page.dart';
 import 'terms_page.dart';
 import 'privacy_page.dart';
 import 'about_page.dart';
+import 'ai_page.dart';
 
 /// 我的页面 - 显示个人信息和设置
 class MePage extends StatefulWidget {
@@ -143,6 +144,16 @@ class _MePageState extends State<MePage> {
                       'Edit Profile',
                       'assets/images/icons/img_me_edit_20250703.png',
                       _navigateToEditProfile,
+                    ),
+                    _buildMenuItem(
+                      'AI artist',
+                      'assets/images/icons/img_me_service_20250709.png',
+                      () => Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => const AiPage(isSecondaryPage: true),
+                        ),
+                      ),
                     ),
                     _buildMenuItem(
                       'Terms of Service',

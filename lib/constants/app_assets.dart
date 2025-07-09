@@ -18,7 +18,7 @@ class AppAssets {
       '${iconsPath}btn_tab_avatar_pre_20250703.png';
   static const String tabChatsPre =
       '${iconsPath}btn_tab_chats_pre_20250703.png';
-  static const String tabAiPre = '${iconsPath}btn_tab_ai_pre_20250703.png';
+  static const String tabPaintingPre = '${iconsPath}btn_tab_ai_pre_20250703.png';
   static const String tabMePre = '${iconsPath}btn_tab_me_pre_20250703.png';
 
   // TabBar 图标 - 高亮状态 (nor)
@@ -27,7 +27,7 @@ class AppAssets {
       '${iconsPath}btn_tab_avatar_nor_20250703.png';
   static const String tabChatsNor =
       '${iconsPath}btn_tab_chats_nor_20250703.png';
-  static const String tabAiNor = '${iconsPath}btn_tab_ai_nor_20250703.png';
+  static const String tabPaintingNor = '${iconsPath}btn_tab_ai_nor_20250703.png';
   static const String tabMeNor = '${iconsPath}btn_tab_me_nor_20250703.png';
 
   // 功能图标
