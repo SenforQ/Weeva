@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 import '../services/user_service.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class EditProfilePage extends StatefulWidget {
   const EditProfilePage({super.key});
@@ -93,6 +94,34 @@ class _EditProfilePageState extends State<EditProfilePage> {
   }
 
   Future<void> _save() async {
+    // 检查是否为VIP
+    final prefs = await SharedPreferences.getInstance();
+    final vipExpire = prefs.getString('vip_expire_time');
+    bool isVip = false;
+    if (vipExpire != null && vipExpire.isNotEmpty) {
+      final expireDate = DateTime.tryParse(vipExpire);
+      if (expireDate != null && expireDate.isAfter(DateTime.now())) {
+        isVip = true;
+      }
+    }
+    if (!isVip) {
+      if (mounted) {
+        showDialog(
+          context: context,
+          builder: (context) => AlertDialog(
+            title: const Text('VIP Required'),
+            content: const Text('You are not a VIP. Please subscribe to VIP to unlock all features.'),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.of(context).pop(),
+                child: const Text('OK'),
+              ),
+            ],
+          ),
+        );
+      }
+      return;
+    }
     // 统一保存所有用户信息
     await UserProfileService.setAvatar(avatar);
     await UserProfileService.setUserName(_nameController.text.trim());

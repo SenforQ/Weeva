@@ -3,6 +3,51 @@ import 'package:image_picker/image_picker.dart';
 import 'dart:io';
 import '../constants/app_theme.dart';
 import '../services/zhipu_ai_service.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+const String kGoldBalanceKey = 'gold_coins_balance';
+
+Future<int> getGoldBalance() async {
+  final prefs = await SharedPreferences.getInstance();
+  return prefs.getInt(kGoldBalanceKey) ?? 0;
+}
+
+Future<void> setGoldBalance(int value) async {
+  final prefs = await SharedPreferences.getInstance();
+  await prefs.setInt(kGoldBalanceKey, value);
+}
+
+Future<void> showCenterToast(BuildContext context, String message, {int milliseconds = 1800}) async {
+  showGeneralDialog(
+    context: context,
+    barrierDismissible: false,
+    barrierLabel: '',
+    transitionDuration: const Duration(milliseconds: 150),
+    pageBuilder: (context, anim1, anim2) {
+      return Center(
+        child: Container(
+          padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 18),
+          decoration: BoxDecoration(
+            color: Colors.black.withOpacity(0.85),
+            borderRadius: BorderRadius.circular(16),
+          ),
+          child: Text(
+            message,
+            style: const TextStyle(color: Colors.white, fontSize: 16),
+            textAlign: TextAlign.center,
+          ),
+        ),
+      );
+    },
+    transitionBuilder: (context, anim1, anim2, child) {
+      return FadeTransition(opacity: anim1, child: child);
+    },
+  );
+  await Future.delayed(Duration(milliseconds: milliseconds));
+  if (Navigator.of(context, rootNavigator: true).canPop()) {
+    Navigator.of(context, rootNavigator: true).pop();
+  }
+}
 
 /// AI页面 - 显示AI功能和工具
 class AiPage extends StatefulWidget {
@@ -49,6 +94,13 @@ class _AiPageState extends State<AiPage> {
   Future<void> _sendMessage(String messageText) async {
     if (messageText.trim().isEmpty || _isSending) return;
 
+    int balance = await getGoldBalance();
+    if (balance < 4) {
+      showCenterToast(context, 'Insufficient coins, please recharge.');
+      return;
+    }
+    await setGoldBalance(balance - 4);
+
     setState(() {
       _isSending = true;
     });
@@ -73,18 +125,14 @@ class _AiPageState extends State<AiPage> {
       characterName: 'Banban',
       characterBackground:
           'A professional painting and oil painting expert assistant who specializes in helping users with art techniques, color theory, composition, and artistic development.',
-      chatHistory:
-          _messages
-              .where((msg) => !msg['isUser'])
-              .take(5)
-              .map(
-                (msg) => {
-                  'role': msg['isUser'] ? 'user' : 'assistant',
-                  'content': msg['content'],
-                },
-              )
-              .toList()
-              .cast<Map<String, String>>(),
+      chatHistory: _messages
+          .where((msg) => !msg['isUser'])
+          .take(5)
+          .map((msg) => {
+            'role': (msg['isUser'] ?? false) ? 'user' : 'assistant',
+            'content': (msg['content'] ?? '').toString(),
+          })
+          .toList(),
     );
 
     if (aiResponse != null) {
@@ -107,6 +155,12 @@ class _AiPageState extends State<AiPage> {
   }
 
   Future<void> _sendPhoto() async {
+    int balance = await getGoldBalance();
+    if (balance < 8) {
+      showCenterToast(context, 'Insufficient coins, please recharge.');
+      return;
+    }
+    await setGoldBalance(balance - 8);
     try {
       final ImagePicker picker = ImagePicker();
       final XFile? image = await picker.pickImage(
@@ -335,167 +389,167 @@ class _AiPageState extends State<AiPage> {
       body: Stack(
         children: [
           Column(
-            children: [
-              // 顶部背景图片 - y:0位置，左右边距为0，高度自适应
-              Container(
-                width: double.infinity,
-                child: Image.asset(
-                  'assets/images/icons/bg_ai_answer_20250708.png',
-                  fit: BoxFit.fitWidth,
-                  errorBuilder: (context, error, stackTrace) {
-                    // 如果图片加载失败，显示占位容器
-                    return Container(
-                      width: double.infinity,
-                      height: 200,
-                      decoration: BoxDecoration(
-                        gradient: LinearGradient(
-                          begin: Alignment.topLeft,
-                          end: Alignment.bottomRight,
-                          colors: [
-                            Colors.purple.withOpacity(0.6),
-                            Colors.pink.withOpacity(0.4),
-                          ],
+        children: [
+          // 顶部背景图片 - y:0位置，左右边距为0，高度自适应
+          Container(
+            width: double.infinity,
+            child: Image.asset(
+              'assets/images/icons/bg_ai_answer_20250708.png',
+              fit: BoxFit.fitWidth,
+              errorBuilder: (context, error, stackTrace) {
+                // 如果图片加载失败，显示占位容器
+                return Container(
+                  width: double.infinity,
+                  height: 200,
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: [
+                        Colors.purple.withOpacity(0.6),
+                        Colors.pink.withOpacity(0.4),
+                      ],
+                    ),
+                  ),
+                  child: const Center(
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Icon(Icons.palette, size: 50, color: Colors.white),
+                        SizedBox(height: 8),
+                        Text(
+                          'Hello, I\'m Banban',
+                          style: TextStyle(
+                            fontSize: 24,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.white,
+                          ),
+                        ),
+                        Text(
+                          'To answer your painting questions',
+                          style: TextStyle(fontSize: 16, color: Colors.white),
+                        ),
+                      ],
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+          // 聊天内容区域
+          Expanded(
+            child:
+                _messages.isEmpty
+                    ? _buildQuickQuestions()
+                    : ListView.builder(
+                      controller: _scrollController,
+                      itemCount: _messages.length,
+                      itemBuilder: (context, index) {
+                        return _buildMessage(_messages[index]);
+                      },
+                    ),
+          ),
+          // 输入框区域
+          Container(
+            height: 44 + 32, // 44高度 + 上下padding
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
+            decoration: BoxDecoration(
+              color: Colors.white.withOpacity(0.9),
+              border: Border(
+                top: BorderSide(color: Colors.grey.withOpacity(0.3)),
+              ),
+            ),
+            child: Row(
+              children: [
+                Expanded(
+                  child: Container(
+                    height: 44,
+                    child: TextField(
+                      controller: _messageController,
+                      decoration: InputDecoration(
+                        hintText: 'Hi, what kind of girl...',
+                        hintStyle: TextStyle(
+                          color: Colors.grey.withOpacity(0.7),
+                        ),
+                        border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(22),
+                          borderSide: BorderSide.none,
+                        ),
+                        filled: true,
+                        fillColor: Colors.grey.withOpacity(0.1),
+                        contentPadding: const EdgeInsets.symmetric(
+                          horizontal: 16,
+                          vertical: 0,
                         ),
                       ),
-                      child: const Center(
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.center,
-                          children: [
-                            Icon(Icons.palette, size: 50, color: Colors.white),
-                            SizedBox(height: 8),
-                            Text(
-                              'Hello, I\'m Banban',
-                              style: TextStyle(
-                                fontSize: 24,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.white,
-                              ),
-                            ),
-                            Text(
-                              'To answer your painting questions',
-                              style: TextStyle(fontSize: 16, color: Colors.white),
-                            ),
-                          ],
-                        ),
-                      ),
-                    );
-                  },
-                ),
-              ),
-              // 聊天内容区域
-              Expanded(
-                child:
-                    _messages.isEmpty
-                        ? _buildQuickQuestions()
-                        : ListView.builder(
-                          controller: _scrollController,
-                          itemCount: _messages.length,
-                          itemBuilder: (context, index) {
-                            return _buildMessage(_messages[index]);
-                          },
-                        ),
-              ),
-              // 输入框区域
-              Container(
-                height: 44 + 32, // 44高度 + 上下padding
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
-                decoration: BoxDecoration(
-                  color: Colors.white.withOpacity(0.9),
-                  border: Border(
-                    top: BorderSide(color: Colors.grey.withOpacity(0.3)),
+                      style: const TextStyle(color: Colors.black87),
+                      maxLines: 1,
+                      textInputAction: TextInputAction.send,
+                      onSubmitted: _sendMessage,
+                    ),
                   ),
                 ),
-                child: Row(
-                  children: [
-                    Expanded(
-                      child: Container(
-                        height: 44,
-                        child: TextField(
-                          controller: _messageController,
-                          decoration: InputDecoration(
-                            hintText: 'Hi, what kind of girl...',
-                            hintStyle: TextStyle(
-                              color: Colors.grey.withOpacity(0.7),
-                            ),
-                            border: OutlineInputBorder(
-                              borderRadius: BorderRadius.circular(22),
-                              borderSide: BorderSide.none,
-                            ),
-                            filled: true,
-                            fillColor: Colors.grey.withOpacity(0.1),
-                            contentPadding: const EdgeInsets.symmetric(
-                              horizontal: 16,
-                              vertical: 0,
-                            ),
-                          ),
-                          style: const TextStyle(color: Colors.black87),
-                          maxLines: 1,
-                          textInputAction: TextInputAction.send,
-                          onSubmitted: _sendMessage,
-                        ),
-                      ),
+                const SizedBox(width: 8),
+                // 发送照片按钮
+                Container(
+                  width: 44,
+                  height: 44,
+                  decoration: BoxDecoration(
+                    color: Colors.grey.withOpacity(_isSending ? 0.1 : 0.2),
+                    shape: BoxShape.circle,
+                  ),
+                  child: IconButton(
+                    onPressed: _isSending ? null : _sendPhoto,
+                    icon: Icon(
+                      Icons.photo_camera,
+                      color:
+                          _isSending
+                              ? Colors.grey.withOpacity(0.5)
+                              : Colors.grey,
+                      size: 20,
                     ),
-                    const SizedBox(width: 8),
-                    // 发送照片按钮
-                    Container(
-                      width: 44,
-                      height: 44,
-                      decoration: BoxDecoration(
-                        color: Colors.grey.withOpacity(_isSending ? 0.1 : 0.2),
-                        shape: BoxShape.circle,
-                      ),
-                      child: IconButton(
-                        onPressed: _isSending ? null : _sendPhoto,
-                        icon: Icon(
-                          Icons.photo_camera,
-                          color:
-                              _isSending
-                                  ? Colors.grey.withOpacity(0.5)
-                                  : Colors.grey,
-                          size: 20,
-                        ),
-                        padding: EdgeInsets.zero,
-                      ),
+                    padding: EdgeInsets.zero,
+                  ),
+                ),
+                const SizedBox(width: 8),
+                // 发送消息按钮
+                Container(
+                  width: 44,
+                  height: 44,
+                  decoration: BoxDecoration(
+                    gradient: const LinearGradient(
+                      colors: [Colors.purple, Colors.pink],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
                     ),
-                    const SizedBox(width: 8),
-                    // 发送消息按钮
-                    Container(
-                      width: 44,
-                      height: 44,
-                      decoration: BoxDecoration(
-                        gradient: const LinearGradient(
-                          colors: [Colors.purple, Colors.pink],
-                          begin: Alignment.topLeft,
-                          end: Alignment.bottomRight,
-                        ),
-                        shape: BoxShape.circle,
-                      ),
-                      child: IconButton(
-                        onPressed:
-                            _isSending
-                                ? null
-                                : () => _sendMessage(_messageController.text),
-                        icon:
-                            _isSending
-                                ? const SizedBox(
-                                  width: 20,
-                                  height: 20,
-                                  child: CircularProgressIndicator(
-                                    strokeWidth: 2,
-                                    valueColor: AlwaysStoppedAnimation<Color>(
-                                      Colors.white,
-                                    ),
-                                  ),
-                                )
-                                : const Icon(
-                                  Icons.send,
-                                  color: Colors.white,
-                                  size: 20,
+                    shape: BoxShape.circle,
+                  ),
+                  child: IconButton(
+                    onPressed:
+                        _isSending
+                            ? null
+                            : () => _sendMessage(_messageController.text),
+                    icon:
+                        _isSending
+                            ? const SizedBox(
+                              width: 20,
+                              height: 20,
+                              child: CircularProgressIndicator(
+                                strokeWidth: 2,
+                                valueColor: AlwaysStoppedAnimation<Color>(
+                                  Colors.white,
                                 ),
-                        padding: EdgeInsets.zero,
-                      ),
-                    ),
-                  ],
+                              ),
+                            )
+                            : const Icon(
+                              Icons.send,
+                              color: Colors.white,
+                              size: 20,
+                            ),
+                    padding: EdgeInsets.zero,
+                  ),
+                ),
+              ],
                 ),
               ),
             ],
@@ -529,8 +583,8 @@ class _AiPageState extends State<AiPage> {
                   ),
                 ),
               ),
-              ),
             ),
+          ),
         ],
       ),
     );

@@ -6,6 +6,8 @@ import 'terms_page.dart';
 import 'privacy_page.dart';
 import 'about_page.dart';
 import 'ai_page.dart';
+import 'wallet_page.dart'; // Added import for WalletPage
+import 'vip_page.dart'; // Added import for VipPage
 
 /// 我的页面 - 显示个人信息和设置
 class MePage extends StatefulWidget {
@@ -138,8 +140,40 @@ class _MePageState extends State<MePage> {
                         color: Color(0xFF666666),
                       ),
                     ),
-                    const SizedBox(height: 40),
+                    // VIP图片
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 0),
+                      child: GestureDetector(
+                        onTap: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => const VipPage()),
+                          );
+                        },
+                        child: ClipRRect(
+                          borderRadius: BorderRadius.circular(16),
+                          child: Image.asset(
+                            'assets/images/icons/img_me_vip_20250710.png',
+                            width: double.infinity,
+                            fit: BoxFit.cover,
+                          ),
+                        ),
+                      ),
+                    ),
+                    const SizedBox(height: 24),
                     // 功能列表
+                    _buildMenuItem(
+                      'Wallet',
+                      'assets/images/icons/icon_me_wallet_20250710.png',
+                      () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const WalletPage(),
+                          ),
+                        );
+                      },
+                    ),
                     _buildMenuItem(
                       'Edit Profile',
                       'assets/images/icons/img_me_edit_20250703.png',
