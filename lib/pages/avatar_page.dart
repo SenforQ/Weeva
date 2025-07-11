@@ -385,9 +385,21 @@ class _AvatarPageState extends State<AvatarPage> {
                               Row(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-                                  CircleAvatar(
-                                    radius: 24,
-                                    backgroundImage: AssetImage(f.userIcon),
+                                  ClipOval(
+                                    child: Image.asset(
+                                      f.userIcon,
+                                      width: 48,
+                                      height: 48,
+                                      fit: BoxFit.cover,
+                                      errorBuilder: (context, error, stackTrace) {
+                                        return Image.asset(
+                                          'assets/images/icons/applogo_20250707.png',
+                                          width: 48,
+                                          height: 48,
+                                          fit: BoxFit.cover,
+                                        );
+                                      },
+                                    ),
                                   ),
                                   const SizedBox(width: 12),
                                   Expanded(

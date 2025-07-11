@@ -49,30 +49,59 @@ class _VipPageState extends State<VipPage> {
   }
 
   Future<void> _initIAP() async {
-    final available = await _inAppPurchase.isAvailable();
-    setState(() { _isAvailable = available; });
-    if (!available) return;
-    final response = await _inAppPurchase.queryProductDetails({weekProductId, monthProductId});
-    setState(() {
-      _products = {for (var p in response.productDetails) p.id: p};
-    });
-    _inAppPurchase.purchaseStream.listen(_onPurchaseUpdate);
+    try {
+      final available = await _inAppPurchase.isAvailable();
+      if (!mounted) return;
+      setState(() { _isAvailable = available; });
+      if (!available) {
+        if (mounted) {
+          _showCenterToast('In-App Purchase not available');
+        }
+        return;
+      }
+      
+      final response = await _inAppPurchase.queryProductDetails({weekProductId, monthProductId});
+      print('VIP products query response: ${response.error?.message ?? 'Success'}');
+      print('Available VIP products: ${response.productDetails.map((p) => p.id).toList()}');
+      
+      if (mounted) {
+        setState(() {
+          _products = {for (var p in response.productDetails) p.id: p};
+        });
+      }
+      
+      _inAppPurchase.purchaseStream.listen(_onPurchaseUpdate);
+    } catch (e) {
+      print('VIP IAP init error: $e');
+      if (mounted) {
+        _showCenterToast('Failed to initialize VIP purchases');
+      }
+    }
   }
 
   void _onPurchaseUpdate(List<PurchaseDetails> purchases) async {
     for (final purchase in purchases) {
+      print('VIP purchase status: ${purchase.status}');
+      print('VIP purchase product ID: ${purchase.productID}');
+      
       if (purchase.status == PurchaseStatus.purchased || purchase.status == PurchaseStatus.restored) {
         await _inAppPurchase.completePurchase(purchase);
         await _updateVipExpire(purchase.productID);
-        setState(() { _isLoading = false; });
-        _loadUserData();
-        _showCenterToast('VIP activated successfully!');
+        if (mounted) {
+          setState(() { _isLoading = false; });
+          _loadUserData();
+          _showCenterToast('VIP activated successfully!');
+        }
       } else if (purchase.status == PurchaseStatus.error) {
-        setState(() { _isLoading = false; });
-        _showCenterToast('Purchase failed: ${purchase.error?.message ?? ''}');
+        if (mounted) {
+          setState(() { _isLoading = false; });
+          _showCenterToast('Purchase failed: ${purchase.error?.message ?? ''}');
+        }
       } else if (purchase.status == PurchaseStatus.canceled) {
-        setState(() { _isLoading = false; });
-        _showCenterToast('Purchase canceled.');
+        if (mounted) {
+          setState(() { _isLoading = false; });
+          _showCenterToast('Purchase canceled.');
+        }
       }
     }
   }
@@ -82,37 +111,74 @@ class _VipPageState extends State<VipPage> {
       _showCenterToast('Store is not available');
       return;
     }
+    
     setState(() { _isLoading = true; });
-    final productId = _selectedIndex == 0 ? weekProductId : monthProductId;
-    final product = _products[productId];
-    if (product == null) {
-      setState(() { _isLoading = false; });
-      _showCenterToast('Product not found');
-      return;
+    
+    try {
+      final productId = _selectedIndex == 0 ? weekProductId : monthProductId;
+      print('Attempting to purchase VIP product: $productId');
+      
+      final product = _products[productId];
+      if (product == null) {
+        print('VIP product not found: $productId');
+        print('Available products: ${_products.keys.toList()}');
+        setState(() { _isLoading = false; });
+        _showCenterToast('Product not found. Please try again later.');
+        return;
+      }
+      
+      print('Found VIP product: ${product.id}, price: ${product.price}');
+      final purchaseParam = PurchaseParam(productDetails: product);
+      await _inAppPurchase.buyNonConsumable(purchaseParam: purchaseParam);
+      print('VIP purchase request sent successfully');
+    } catch (e) {
+      print('VIP purchase error: $e');
+      if (mounted) {
+        setState(() { _isLoading = false; });
+        _showCenterToast('Purchase failed: ${e.toString()}');
+      }
     }
-    final purchaseParam = PurchaseParam(productDetails: product);
-    await _inAppPurchase.buyNonConsumable(purchaseParam: purchaseParam);
   }
 
   Future<void> _updateVipExpire(String productId) async {
+    print('Updating VIP expire for product: $productId');
+    
     final prefs = await SharedPreferences.getInstance();
     final now = DateTime.now();
     String? oldExpire = prefs.getString(vipExpireKey);
     DateTime base = now;
+    
     if (oldExpire != null && oldExpire.isNotEmpty) {
       final parsed = DateTime.tryParse(oldExpire);
-      if (parsed != null && parsed.isAfter(now)) base = parsed;
+      if (parsed != null && parsed.isAfter(now)) {
+        base = parsed;
+        print('Extending existing VIP from: $oldExpire');
+      }
     }
+    
     DateTime newExpire;
     if (productId == weekProductId) {
       newExpire = base.add(const Duration(days: 7));
-    } else {
+      print('Adding 7 days VIP');
+    } else if (productId == monthProductId) {
       newExpire = DateTime(base.year, base.month + 1, base.day);
+      print('Adding 30 days VIP');
+    } else {
+      // 如果产品ID不匹配，默认添加7天
+      newExpire = base.add(const Duration(days: 7));
+      print('Unknown product ID, defaulting to 7 days VIP');
     }
+    
     final expireStr = DateFormat('yyyy-MM-dd').format(newExpire);
     await prefs.setString(vipExpireKey, expireStr);
-    setState(() { vipExpireTime = expireStr; });
+    print('VIP expire updated to: $expireStr');
+    
+    if (mounted) {
+      setState(() { vipExpireTime = expireStr; });
+    }
   }
+
+
 
   void _showCenterToast(String message) {
     showDialog(

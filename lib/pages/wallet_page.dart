@@ -203,41 +203,33 @@ class _WalletPageState extends State<WalletPage> {
     for (final purchase in purchases) {
       if (purchase.status == PurchaseStatus.purchased || purchase.status == PurchaseStatus.restored) {
         await _inAppPurchase.completePurchase(purchase);
-        final product = _products[purchase.productID];
-        if (product != null) {
-          int coins = _getCoinsForProduct(purchase.productID);
+        
+        // 直接使用当前选中的产品金币数量
+        if (_selectedIndex < kGoldProducts.length) {
+          final selectedProduct = kGoldProducts[_selectedIndex];
+          int coins = selectedProduct.coins;
+          
           await _updateBalance(coins);
-          showCenterToast(context, 'Successfully purchased $coins coins!');
+          if (mounted) {
+            showCenterToast(context, 'Successfully purchased $coins coins!');
+          }
         }
       } else if (purchase.status == PurchaseStatus.error) {
-        showCenterToast(context, 'Purchase failed: ${purchase.error?.message ?? ''}');
+        if (mounted) {
+          showCenterToast(context, 'Purchase failed: ${purchase.error?.message ?? ''}');
+        }
       } else if (purchase.status == PurchaseStatus.canceled) {
-        showCenterToast(context, 'Purchase canceled.');
+        if (mounted) {
+          showCenterToast(context, 'Purchase canceled.');
+        }
       }
-      setState(() {
-        _isLoading = false;
-      });
+      
+      if (mounted) {
+        setState(() {
+          _isLoading = false;
+        });
+      }
     }
-  }
-
-  int _getCoinsForProduct(String productId) {
-    // 首先尝试通过 productId 查找
-    final goldProduct = kGoldProducts.firstWhere(
-      (p) => p.productId == productId,
-      orElse: () => GoldProduct(productId: '', coins: 0, priceText: ''),
-    );
-    
-    // 如果找到了对应的产品，返回其金币数
-    if (goldProduct.coins > 0) {
-      return goldProduct.coins;
-    }
-    
-    // 如果没有找到对应的产品，基于当前选中的索引返回金币数
-    if (_selectedIndex < kGoldProducts.length) {
-      return kGoldProducts[_selectedIndex].coins;
-    }
-    
-    return 0;
   }
 
   Future<void> _loadBalance() async {
@@ -276,7 +268,6 @@ class _WalletPageState extends State<WalletPage> {
       final product = _products[goldProduct.productId];
       
       // 如果没有找到对应的产品，使用第一个可用的产品进行购买
-      // 但金币数量基于选中的产品
       ProductDetails? productToUse = product;
       if (productToUse == null && _products.isNotEmpty) {
         productToUse = _products.values.first;
@@ -297,6 +288,8 @@ class _WalletPageState extends State<WalletPage> {
       });
     }
   }
+
+
 
   @override
   Widget build(BuildContext context) {
