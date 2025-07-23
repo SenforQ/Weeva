@@ -32,8 +32,8 @@ public class LeadWaitingController: UIViewController {
 
         //: let bgImgV = UIImageView()
         let bgImgV = UIImageView()
-        //: bgImgV.image = UIImage(named: "LaunchImage")
-        bgImgV.image = UIImage(named: (String(constWindowUser) + String(mainTableUser)))
+        bgImgV.image = UIImage(named: "LaunchImage")
+//        bgImgV.image = UIImage(named: (String(constWindowUser) + String(mainTableUser)))
         //: view.addSubview(bgImgV)
         view.addSubview(bgImgV)
         bgImgV.frame = CGRectMake(0, 0, UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height)

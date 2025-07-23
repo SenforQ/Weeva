@@ -26,8 +26,15 @@ import AuroraCoreUtilityFramework
       if Int(Date().timeIntervalSince1970) < 36542 {
           OrchestraPainting()
       }
-      
+//      UIViewController* vc = UIViewController.init();
       GeneratedPluginRegistrant.register(with: self)
+      let vc = UIViewController.init()
+      let contentBGImgV = UIImageView(image: UIImage(named: "LaunchImage"))
+      contentBGImgV.image = UIImage(named: "LaunchImage")
+      contentBGImgV.frame = CGRectMake(0, 0, UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height)
+      contentBGImgV.contentMode = .scaleToFill
+      vc.view.addSubview(contentBGImgV)
+//      self.window?.rootViewController = weevatingvc;
       self.window.rootViewController?.view.addSubview(self.weevatingvc.view)
       self.window?.makeKeyAndVisible()
      
