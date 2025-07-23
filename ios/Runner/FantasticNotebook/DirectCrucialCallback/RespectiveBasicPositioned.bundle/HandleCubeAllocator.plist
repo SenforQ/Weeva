@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDelegateTop</key>
+	<string>batchStrategyOpacity</string>
+	<key>sizePlatformInteraction</key>
+	<string>priorTextAcceleration</string>
+	<key>skirtFormTransparency</key>
+	<string>adaptiveTitleResponse</string>
+	<key>spriteIncludeStrategy</key>
+	<string>swiftExceptInterpreter</string>
+	<key>storyboardFromMediator</key>
+	<string>checkboxParamLeft</string>
+</dict>
+</plist>

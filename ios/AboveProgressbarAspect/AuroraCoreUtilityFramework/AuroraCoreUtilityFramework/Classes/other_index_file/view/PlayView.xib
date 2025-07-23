@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PlayView">
+            <connections>
+                <outlet property="videoNameImageView" destination="li4-IT-v2J" id="3zr-4y-SAl"/>
+                <outlet property="tagButton" destination="TW5-dU-z41" id="GRh-ac-X6Q"/>
+                <outlet property="beanImageView" destination="Cje-yu-TNL" id="nwO-Fs-9fy"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="cNl-24-8lk" autoresizesSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="290.6" height="164.6"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="TopLeft" horizontalHuggingPriority="204" verticalHuggingPriority="311" horizontalCompressionResistancePriority="342" verticalCompressionResistancePriority="183" image="1242-2208" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="Cje-yu-TNL">
+                    <rect key="frame" x="6" y="-6" width="163.8" height="123.6"/>
+                </imageView>
+                <button contentMode="topRight" horizontalHuggingPriority="916" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="leading" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TW5-dU-z41">
+                    <rect key="frame" x="3" y="229" width="163.8" height="52.5"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="push text number current" image="1242-2208">
+                        <color key="titleColor" red="0.22161036054271606" green="1" blue="0.0242353985771174" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="image view model tab" image="1242-2688">
+                        <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="center" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="1242-2208" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="li4-IT-v2J" autoresizesSubviews="NO">
+                    <rect key="frame" x="5" y="125" width="163.8" height="88.9"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="QQW-hy-xM6"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Cje-yu-TNL" firstAttribute="leading" secondItem="QQW-hy-xM6" secondAttribute="leading" id="W9e-V4-zGe"/>
+                <constraint firstItem="li4-IT-v2J" firstAttribute="leading" secondItem="cNl-24-8lk" secondAttribute="leading" constant="7" id="XWM-h0-oMW"/>
+                <constraint firstAttribute="trailing" secondItem="li4-IT-v2J" secondAttribute="trailing" constant="5" id="6hW-EG-g23"/>
+                <constraint firstItem="QQW-hy-xM6" firstAttribute="trailing" secondItem="Cje-yu-TNL" secondAttribute="trailing" constant="3" id="IUl-w8-TjT"/>
+                <constraint firstItem="TW5-dU-z41" firstAttribute="leading" secondItem="QQW-hy-xM6" secondAttribute="leading" constant="4" id="ZXF-y7-g7I"/>
+                <constraint firstItem="QQW-hy-xM6" firstAttribute="bottom" secondItem="li4-IT-v2J" secondAttribute="bottom" constant="1" id="fCn-AA-vTi"/>
+                <constraint firstItem="Cje-yu-TNL" firstAttribute="top" secondItem="TW5-dU-z41" secondAttribute="bottom" constant="3" id="NCz-CX-jJe"/>
+                <constraint firstItem="TW5-dU-z41" firstAttribute="top" secondItem="cNl-24-8lk" secondAttribute="top" constant="7" id="8F9-zs-vXk"/>
+                <constraint firstItem="QQW-hy-xM6" firstAttribute="trailing" secondItem="TW5-dU-z41" secondAttribute="trailing" constant="7" id="9Yd-u6-jGM"/>
+                <constraint firstItem="li4-IT-v2J" firstAttribute="top" secondItem="Cje-yu-TNL" secondAttribute="bottom" constant="6" id="IsG-oN-SMZ"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-45.582567901078357" y="-125.76977825627893"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="124.2" height="112.2"/>
+        <image name="1242-2688" width="58.7" height="58.0"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.88521523050999575" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

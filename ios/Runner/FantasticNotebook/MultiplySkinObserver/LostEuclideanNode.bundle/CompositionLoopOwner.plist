@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTouchSkewx</key>
+	<string>capsuleAboutKind</string>
+	<key>alertWithMediator</key>
+	<string>immediateControllerIndex</string>
+	<key>constRequestMargin</key>
+	<string>firstSwiftSize</string>
+	<key>desktopProjectOrientation</key>
+	<string>spineWithoutStrategy</string>
+	<key>lostCycleSkewy</key>
+	<string>constraintFacadePadding</string>
+</dict>
+</plist>

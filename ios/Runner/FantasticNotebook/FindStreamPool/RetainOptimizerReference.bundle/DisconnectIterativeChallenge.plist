@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPrototypeVisible</key>
+	<string>channelMethodDistance</string>
+	<key>discardedHeapMode</key>
+	<string>requiredStoryboardOrigin</string>
+	<key>firstSliderValidation</key>
+	<string>staticDelegateShade</string>
+	<key>lazyShaderRight</key>
+	<string>promiseInterpreterBound</string>
+	<key>localConstraintState</key>
+	<string>transformerShapeSkewy</string>
+	<key>loopFormMomentum</key>
+	<string>normAgainstForm</string>
+	<key>scrollableSubscriptionColor</key>
+	<string>queryLevelPosition</string>
+</dict>
+</plist>

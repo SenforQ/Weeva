@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSignTop</key>
+	<string>borderFunctionHue</string>
+	<key>elasticCubitForce</key>
+	<string>graphicScopeVisible</string>
+	<key>gemFacadeValidation</key>
+	<string>adaptiveAsyncCoord</string>
+	<key>grainDuringWork</key>
+	<string>gridviewAsNumber</string>
+	<key>iconLayerFeedback</key>
+	<string>grayscalePlatformCenter</string>
+	<key>metadataMediatorRate</key>
+	<string>popupBesideContext</string>
+	<key>metadataSinceFramework</key>
+	<string>promiseMementoBehavior</string>
+	<key>persistentPreviewInterval</key>
+	<string>baselineLikeCycle</string>
+	<key>topicStructureRight</key>
+	<string>requestActivityAppearance</string>
+</dict>
+</plist>

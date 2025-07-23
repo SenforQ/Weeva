@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIncludeLayer</key>
+	<string>batchAsContext</string>
+	<key>brushAndValue</key>
+	<string>resilientSpriteOffset</string>
+	<key>durationWithoutTier</key>
+	<string>sustainableBinaryMode</string>
+	<key>futureCycleLeft</key>
+	<string>allocatorAtContext</string>
+	<key>inheritedModelCoord</key>
+	<string>monsterContainAction</string>
+	<key>protectedCubitName</key>
+	<string>layoutViaPrototype</string>
+	<key>radiusByEnvironment</key>
+	<string>flexibleApertureTheme</string>
+	<key>requestNearVar</key>
+	<string>clipperFromStage</string>
+	<key>sliderTaskHead</key>
+	<string>seamlessParticleShape</string>
+</dict>
+</plist>

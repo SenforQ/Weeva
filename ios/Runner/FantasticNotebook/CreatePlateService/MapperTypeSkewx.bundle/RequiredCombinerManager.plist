@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellLevelDensity</key>
+	<string>labelPlatformShade</string>
+	<key>progressbarFunctionBottom</key>
+	<string>radioStateResponse</string>
+	<key>requestByBuffer</key>
+	<string>assetBridgeSpacing</string>
+	<key>secondStackResponse</key>
+	<string>featureVisitorStatus</string>
+</dict>
+</plist>

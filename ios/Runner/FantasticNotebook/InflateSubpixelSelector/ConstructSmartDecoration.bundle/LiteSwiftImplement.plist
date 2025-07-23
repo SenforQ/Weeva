@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRectMomentum</key>
+	<string>storeInStage</string>
+	<key>activeMusicSaturation</key>
+	<string>scrollBufferBehavior</string>
+	<key>challengeProcessFlags</key>
+	<string>menuSystemPosition</string>
+	<key>equipmentAsOperation</key>
+	<string>positionVariableKind</string>
+	<key>reducerAroundComposite</key>
+	<string>buttonModeRotation</string>
+	<key>reductionProcessState</key>
+	<string>smartResultLocation</string>
+	<key>textAboutMode</key>
+	<string>alignmentChainDensity</string>
+	<key>textParameterState</key>
+	<string>techniqueFlyweightTension</string>
+</dict>
+</plist>

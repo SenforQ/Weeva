@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitContextDelay</key>
+	<string>sinkVarVisibility</string>
+	<key>capsuleFacadeSpacing</key>
+	<string>topicIncludeFacade</string>
+	<key>globalGraphAlignment</key>
+	<string>asynchronousRouteForce</string>
+	<key>modulusDespiteEnvironment</key>
+	<string>similarSceneCount</string>
+	<key>numericalHeapCount</key>
+	<string>reusableGetxAlignment</string>
+</dict>
+</plist>

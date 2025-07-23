@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedBufferOrientation</key>
+	<string>functionalViewEdge</string>
+	<key>gateDuringStyle</key>
+	<string>animatedcontainerDecoratorBottom</string>
+	<key>mobileTierVisibility</key>
+	<string>textfieldUntilBuffer</string>
+	<key>overlayMementoSpacing</key>
+	<string>rectThroughStyle</string>
+	<key>routePhaseTransparency</key>
+	<string>cubitVariableAppearance</string>
+	<key>specifierModePadding</key>
+	<string>resourceChainBottom</string>
+	<key>uniformGramOpacity</key>
+	<string>transitionBesideFunction</string>
+</dict>
+</plist>

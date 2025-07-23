@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferLevelDelay</key>
+	<string>gramInFacade</string>
+	<key>buttonTempleVelocity</key>
+	<string>dependencyPerCycle</string>
+	<key>channelExceptStage</key>
+	<string>responseMementoHue</string>
+	<key>configurationChainDistance</key>
+	<string>commandProxyColor</string>
+	<key>geometricCurveDelay</key>
+	<string>futureValueVisibility</string>
+	<key>gridAgainstJob</key>
+	<string>interpolationByEnvironment</string>
+	<key>navigationAmongFlyweight</key>
+	<string>nibFunctionDuration</string>
+</dict>
+</plist>

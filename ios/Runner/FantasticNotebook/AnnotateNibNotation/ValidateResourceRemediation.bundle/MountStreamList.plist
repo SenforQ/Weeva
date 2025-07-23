@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferWithoutType</key>
+	<string>animationInterpreterBrightness</string>
+	<key>crudeTabviewState</key>
+	<string>observerBeyondActivity</string>
+	<key>subscriptionNumberShape</key>
+	<string>storeDecoratorDistance</string>
+</dict>
+</plist>

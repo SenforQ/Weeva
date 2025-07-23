@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedExtensionPressure</key>
+	<string>custompaintVariableShade</string>
+	<key>materialExceptObserver</key>
+	<string>pageviewFormBehavior</string>
+	<key>mobilePlatformStyle</key>
+	<string>extensionAlongFlyweight</string>
+	<key>queueAndForm</key>
+	<string>promiseNearState</string>
+	<key>significantResultState</key>
+	<string>vectorActionInset</string>
+	<key>switchAndDecorator</key>
+	<string>mutableTechniqueRotation</string>
+	<key>timerProxyOpacity</key>
+	<string>bitrateInsideStyle</string>
+</dict>
+</plist>

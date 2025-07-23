@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableHandlerPressure</key>
+	<string>subpixelViaSystem</string>
+	<key>navigatorAlongStyle</key>
+	<string>persistentMapFeedback</string>
+	<key>nodeForAdapter</key>
+	<string>textFrameworkLocation</string>
+	<key>primaryEquipmentValidation</key>
+	<string>awaitParamInterval</string>
+	<key>remainderAgainstAction</key>
+	<string>keyEqualizationSkewx</string>
+</dict>
+</plist>

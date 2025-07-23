@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialTransitionInteraction</key>
+	<string>immediateChartDelay</string>
+	<key>modelLikeState</key>
+	<string>crudeTransitionTag</string>
+	<key>rowSystemVisible</key>
+	<string>lastMenuDepth</string>
+	<key>usecaseTaskSpacing</key>
+	<string>sessionProxySkewy</string>
+</dict>
+</plist>

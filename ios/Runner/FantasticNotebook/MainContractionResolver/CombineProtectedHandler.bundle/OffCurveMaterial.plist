@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInCommand</key>
+	<string>scaffoldMethodSkewy</string>
+	<key>cubitForPattern</key>
+	<string>activityCompositeTop</string>
+	<key>frameActivityOpacity</key>
+	<string>cupertinoChannelRight</string>
+	<key>multiplicationOutsideValue</key>
+	<string>persistentGrayscaleSpacing</string>
+	<key>progressbarForJob</key>
+	<string>criticalErrorShade</string>
+</dict>
+</plist>

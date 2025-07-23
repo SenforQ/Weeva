@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLogarithmFlags</key>
+	<string>layoutPerActivity</string>
+	<key>fixedPaddingMode</key>
+	<string>cubitActionOrigin</string>
+	<key>hardLocalizationTransparency</key>
+	<string>cacheSystemIndex</string>
+	<key>layoutTempleDelay</key>
+	<string>difficultTransitionType</string>
+	<key>movementAtPhase</key>
+	<string>ephemeralResultValidation</string>
+	<key>positionedFrameworkFormat</key>
+	<string>comprehensiveAlertRate</string>
+	<key>relationalOperationBottom</key>
+	<string>cosineNumberSpacing</string>
+	<key>resolverThroughPlatform</key>
+	<string>retainedSkinTag</string>
+	<key>rowProxyVelocity</key>
+	<string>referenceEnvironmentPressure</string>
+</dict>
+</plist>

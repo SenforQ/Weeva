@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRemainderFrequency</key>
+	<string>tweenEnvironmentInteraction</string>
+	<key>graphAdapterVisibility</key>
+	<string>controllerNumberPadding</string>
+	<key>graphSingletonType</key>
+	<string>labelBeyondOperation</string>
+	<key>nibParamVisibility</key>
+	<string>groupVariableTop</string>
+	<key>previewOfOperation</key>
+	<string>touchAmongSystem</string>
+	<key>semanticNotificationKind</key>
+	<string>factoryAndMemento</string>
+	<key>topicLayerAlignment</key>
+	<string>roleTaskBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintExceptStage</key>
+	<string>gramObserverBound</string>
+	<key>mobileBeyondPattern</key>
+	<string>apertureDecoratorOrigin</string>
+	<key>previewTaskKind</key>
+	<string>easyGrainBehavior</string>
+	<key>tweenWorkInteraction</key>
+	<string>scrollableGrainVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTweenBehavior</key>
+	<string>serviceCompositeBehavior</string>
+	<key>anchorAwayStructure</key>
+	<string>cardThroughTemple</string>
+	<key>displayableBuilderValidation</key>
+	<string>mediaWithMediator</string>
+	<key>marginWorkLocation</key>
+	<string>menuAsMode</string>
+	<key>parallelLayerOrientation</key>
+	<string>interfaceAtFlyweight</string>
+	<key>promiseStageResponse</key>
+	<string>factoryPlatformBorder</string>
+	<key>responsiveMissionAlignment</key>
+	<string>secondLossPressure</string>
+	<key>routeStageOffset</key>
+	<string>handlerLikeValue</string>
+	<key>widgetWithBridge</key>
+	<string>checkboxPhaseBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLossMargin</key>
+	<string>injectionActivityRate</string>
+	<key>cubeThroughLevel</key>
+	<string>coordinatorAdapterTheme</string>
+	<key>errorShapeTransparency</key>
+	<string>offsetLayerResponse</string>
+	<key>inactiveIconVisibility</key>
+	<string>vectorForLayer</string>
+	<key>observerVarShade</key>
+	<string>scrollableTaskCount</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCardBrightness</key>
+	<string>widgetMediatorIndex</string>
+	<key>custompaintSystemTransparency</key>
+	<string>graphDuringComposite</string>
+	<key>lazyKernelLocation</key>
+	<string>lazySpriteDistance</string>
+	<key>localizationStageOrigin</key>
+	<string>uniformResourceAppearance</string>
+	<key>pivotalTickerTint</key>
+	<string>subscriptionTaskHue</string>
+	<key>taskOutsideLevel</key>
+	<string>futureFormDepth</string>
+	<key>transformerVariableVisibility</key>
+	<string>crucialRouteInteraction</string>
+	<key>webLoopSpacing</key>
+	<string>missedErrorKind</string>
+</dict>
+</plist>

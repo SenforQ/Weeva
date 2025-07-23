@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStrategyDuration</key>
+	<string>columnFunctionFeedback</string>
+	<key>draggableConvolutionInteraction</key>
+	<string>localAnimationVisibility</string>
+	<key>ephemeralBoxAppearance</key>
+	<string>nodeChainLeft</string>
+	<key>factoryOrInterpreter</key>
+	<string>marginOutsideAdapter</string>
+	<key>tappableCubitBound</key>
+	<string>iconAboutComposite</string>
+	<key>tickerFormTheme</key>
+	<string>observerTypeDirection</string>
+	<key>utilTempleSaturation</key>
+	<string>protectedExpandedCenter</string>
+	<key>vectorAsFramework</key>
+	<string>radiusVariableInset</string>
+</dict>
+</plist>

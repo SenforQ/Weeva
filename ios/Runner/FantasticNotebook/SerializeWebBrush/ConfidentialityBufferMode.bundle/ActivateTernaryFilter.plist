@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNavigatorContrast</key>
+	<string>profileAsPattern</string>
+	<key>delegateBridgeCoord</key>
+	<string>subsequentSpriteSpeed</string>
+	<key>globalDescriptionDuration</key>
+	<string>timerPhaseAppearance</string>
+	<key>instructionTaskState</key>
+	<string>flexStageInterval</string>
+	<key>movementFormColor</key>
+	<string>gemNearContext</string>
+	<key>pinchableMovementCoord</key>
+	<string>gramObserverKind</string>
+	<key>significantBoxshadowOrientation</key>
+	<string>textMediatorOrientation</string>
+	<key>sliderJobValidation</key>
+	<string>storagePhaseBorder</string>
+	<key>tabviewNearKind</key>
+	<string>checklistContainCommand</string>
+	<key>zoneActivityVelocity</key>
+	<string>storageNumberType</string>
+</dict>
+</plist>

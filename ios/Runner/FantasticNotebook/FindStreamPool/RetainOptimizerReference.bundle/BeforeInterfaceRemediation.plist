@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAtAction</key>
+	<string>spritePerParameter</string>
+	<key>blocFunctionTop</key>
+	<string>standaloneStreamBottom</string>
+	<key>graphicCompositeOrigin</key>
+	<string>labelVersusStage</string>
+	<key>optimizerOperationPressure</key>
+	<string>borderPerKind</string>
+	<key>robustRectOpacity</key>
+	<string>interactorNumberName</string>
+	<key>subsequentCommandRate</key>
+	<string>ternaryObserverAcceleration</string>
+	<key>tangentContainKind</key>
+	<string>projectAsComposite</string>
+</dict>
+</plist>

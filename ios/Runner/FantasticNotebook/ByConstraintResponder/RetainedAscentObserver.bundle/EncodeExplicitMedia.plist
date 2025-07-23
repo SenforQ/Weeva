@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPrototypeDelay</key>
+	<string>arithmeticDecorationValidation</string>
+	<key>aspectBesidePattern</key>
+	<string>blocAsProcess</string>
+	<key>nextResultFeedback</key>
+	<string>constraintBesideMode</string>
+</dict>
+</plist>

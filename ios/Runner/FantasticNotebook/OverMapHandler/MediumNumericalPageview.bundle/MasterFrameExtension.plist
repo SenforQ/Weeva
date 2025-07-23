@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandVisitorDensity</key>
+	<string>denseParticleOffset</string>
+	<key>modelAndLayer</key>
+	<string>permanentTextureHead</string>
+	<key>popupModeValidation</key>
+	<string>factoryIncludeDecorator</string>
+	<key>positionObserverMargin</key>
+	<string>errorPatternAlignment</string>
+</dict>
+</plist>

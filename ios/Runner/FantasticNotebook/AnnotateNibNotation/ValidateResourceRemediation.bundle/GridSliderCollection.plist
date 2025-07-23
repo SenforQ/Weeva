@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterBorder</key>
+	<string>presenterFormHead</string>
+	<key>layoutInVariable</key>
+	<string>subpixelAlongVariable</string>
+	<key>operationObserverKind</key>
+	<string>adaptiveDurationSpeed</string>
+	<key>promiseExceptMediator</key>
+	<string>kernelAdapterRotation</string>
+	<key>reactiveHeapLocation</key>
+	<string>groupStructureTension</string>
+	<key>uniqueCycleBehavior</key>
+	<string>compositionalUtilBrightness</string>
+</dict>
+</plist>

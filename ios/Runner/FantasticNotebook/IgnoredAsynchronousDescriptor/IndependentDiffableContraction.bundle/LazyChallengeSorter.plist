@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFromParam</key>
+	<string>utilOrParameter</string>
+	<key>compositionAwayComposite</key>
+	<string>streamChainSaturation</string>
+	<key>discardedErrorDensity</key>
+	<string>futureOrValue</string>
+	<key>futureFromNumber</key>
+	<string>bufferAroundBridge</string>
+	<key>granularPositionContrast</key>
+	<string>alignmentViaFacade</string>
+	<key>injectionKindMargin</key>
+	<string>entityLevelVisibility</string>
+	<key>numericalIntensityContrast</key>
+	<string>delicateDescriptorIndex</string>
+	<key>painterAwayVar</key>
+	<string>sizedboxValueTop</string>
+	<key>spotValueKind</key>
+	<string>scrollableAxisShade</string>
+</dict>
+</plist>

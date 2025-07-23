@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCycleVisible</key>
+	<string>cubitStageHead</string>
+	<key>instructionObserverLocation</key>
+	<string>oldObserverInterval</string>
+	<key>logarithmPerTier</key>
+	<string>gridChainTheme</string>
+	<key>normalModelAcceleration</key>
+	<string>localLogHue</string>
+	<key>subpixelVarPadding</key>
+	<string>routerScopeMomentum</string>
+	<key>touchProcessSize</key>
+	<string>requiredDecorationHue</string>
+</dict>
+</plist>

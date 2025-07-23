@@ -1,0 +1,18 @@
+#import "CrucialEventExtension.h"
+#import "RestartIndependentStateful.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface SynchronousAxisDelegate : NSObject
+
+
+- (void) disposeLogarithmDuringAnimator;
+
+- (void) hadStatelessWidgetBuffer;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

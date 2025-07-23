@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaWork</key>
+	<string>segmentBufferSpacing</string>
+	<key>cubePerState</key>
+	<string>localizationNearShape</string>
+	<key>cupertinoBorderRate</key>
+	<string>oldPreviewDelay</string>
+	<key>cupertinoStyleTension</key>
+	<string>tickerFacadeInteraction</string>
+	<key>topicOutsideSingleton</key>
+	<string>mediaqueryThanLayer</string>
+	<key>usedSingletonVisible</key>
+	<string>textFrameworkBrightness</string>
+</dict>
+</plist>

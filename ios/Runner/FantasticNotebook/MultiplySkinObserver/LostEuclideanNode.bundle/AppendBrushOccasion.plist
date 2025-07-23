@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStructureCenter</key>
+	<string>cellFromBridge</string>
+	<key>exceptionWithoutInterpreter</key>
+	<string>flexibleNotifierTransparency</string>
+	<key>grainEnvironmentColor</key>
+	<string>managerAsMode</string>
+	<key>labelUntilCommand</key>
+	<string>retainedSizedboxAlignment</string>
+	<key>missionStrategyStyle</key>
+	<string>uniqueCubitRate</string>
+	<key>playbackExceptLayer</key>
+	<string>toolPatternOrigin</string>
+	<key>priorityAmongDecorator</key>
+	<string>numericalCubitDirection</string>
+	<key>timerStateShape</key>
+	<string>columnDecoratorCenter</string>
+	<key>vectorEnvironmentName</key>
+	<string>sortedManagerMode</string>
+</dict>
+</plist>

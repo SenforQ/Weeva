@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossLevelInset</key>
+	<string>nativeWidgetFeedback</string>
+	<key>stepValueInterval</key>
+	<string>interactorActivityBrightness</string>
+	<key>storePrototypeRight</key>
+	<string>modelAsProxy</string>
+	<key>utilPerBuffer</key>
+	<string>progressbarPerTier</string>
+</dict>
+</plist>

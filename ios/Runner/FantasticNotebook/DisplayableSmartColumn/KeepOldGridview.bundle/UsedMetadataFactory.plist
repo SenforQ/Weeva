@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInterpreterVisibility</key>
+	<string>synchronousQueueVisibility</string>
+	<key>curveWithTask</key>
+	<string>graphActivityCoord</string>
+	<key>firstArithmeticContrast</key>
+	<string>gestureAndChain</string>
+	<key>normalOffsetState</key>
+	<string>accordionInterfaceInteraction</string>
+	<key>subscriptionStrategyTension</key>
+	<string>radioLayerRate</string>
+</dict>
+</plist>

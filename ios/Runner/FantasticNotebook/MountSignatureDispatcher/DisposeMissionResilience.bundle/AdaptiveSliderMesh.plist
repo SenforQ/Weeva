@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionWorkAlignment</key>
+	<string>spriteVarTheme</string>
+	<key>eventCycleCount</key>
+	<string>interactiveDependencyOpacity</string>
+	<key>missedButtonBorder</key>
+	<string>layoutBridgeType</string>
+	<key>providerAsFacade</key>
+	<string>reactiveTitleDistance</string>
+	<key>smartCompleterDirection</key>
+	<string>requiredContainerShade</string>
+</dict>
+</plist>

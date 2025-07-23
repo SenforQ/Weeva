@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionValueBehavior</key>
+	<string>contractionOutsideVariable</string>
+	<key>concreteBorderPressure</key>
+	<string>listenerAlongChain</string>
+	<key>effectInWork</key>
+	<string>secondButtonTheme</string>
+	<key>explicitBehaviorInteraction</key>
+	<string>effectThanMethod</string>
+	<key>interfaceOrVar</key>
+	<string>queryAsObserver</string>
+	<key>publicChecklistSkewy</key>
+	<string>standaloneInterfaceSkewy</string>
+</dict>
+</plist>

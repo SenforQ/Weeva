@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStepValidation</key>
+	<string>composableNibRight</string>
+	<key>convolutionNearCommand</key>
+	<string>profileFormAppearance</string>
+	<key>usedPopupAppearance</key>
+	<string>curveShapeHead</string>
+</dict>
+</plist>

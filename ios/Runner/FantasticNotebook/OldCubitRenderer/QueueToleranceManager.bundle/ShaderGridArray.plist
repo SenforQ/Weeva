@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionExceptContext</key>
+	<string>scrollableCurveBehavior</string>
+	<key>enabledDescriptionFlags</key>
+	<string>providerObserverShade</string>
+	<key>groupPerPhase</key>
+	<string>baselineParameterForce</string>
+	<key>managerIncludeMemento</key>
+	<string>anchorDespiteSystem</string>
+	<key>mediumHistogramSpeed</key>
+	<string>originalErrorOrigin</string>
+	<key>providerAmongLayer</key>
+	<string>presenterPhaseDelay</string>
+	<key>sharedPreviewPressure</key>
+	<string>localizationThanFacade</string>
+	<key>swiftPhaseContrast</key>
+	<string>singleToolSize</string>
+	<key>tickerContainCycle</key>
+	<string>comprehensiveSwiftScale</string>
+</dict>
+</plist>

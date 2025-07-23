@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertProxyValidation</key>
+	<string>actionAsOperation</string>
+	<key>animationLikeShape</key>
+	<string>inkwellKindFormat</string>
+	<key>navigatorAroundBridge</key>
+	<string>documentChainOrientation</string>
+	<key>reactiveFutureDuration</key>
+	<string>queryPhaseAcceleration</string>
+	<key>requestViaStyle</key>
+	<string>errorStrategyDepth</string>
+	<key>routeContainPattern</key>
+	<string>methodFrameworkState</string>
+</dict>
+</plist>

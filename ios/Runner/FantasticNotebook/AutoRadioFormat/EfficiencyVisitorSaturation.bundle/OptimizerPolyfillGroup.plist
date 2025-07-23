@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellObserverDepth</key>
+	<string>eagerTaskBehavior</string>
+	<key>lostFutureTag</key>
+	<string>exponentModeDistance</string>
+	<key>mobileParameterTag</key>
+	<string>staticRequestOffset</string>
+	<key>seamlessViewSkewy</key>
+	<string>lostThreadVisibility</string>
+	<key>stampNearContext</key>
+	<string>textDespiteLayer</string>
+	<key>subscriptionUntilWork</key>
+	<string>subsequentTimerFeedback</string>
+	<key>taskCommandState</key>
+	<string>observerInFunction</string>
+	<key>unactivatedStorageFrequency</key>
+	<string>resilientErrorOrientation</string>
+</dict>
+</plist>

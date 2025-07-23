@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popupStageResponse</key>
+	<string>graphNearSingleton</string>
+	<key>presenterNearBuffer</key>
+	<string>synchronousUsecaseSpacing</string>
+	<key>resourceParamDistance</key>
+	<string>decorationInsideFacade</string>
+	<key>skinStyleOrientation</key>
+	<string>marginNearStyle</string>
+	<key>typicalContainerDuration</key>
+	<string>resilientStreamBound</string>
+	<key>workflowWithoutMemento</key>
+	<string>grayscaleOutsideProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCompositeFrequency</key>
+	<string>errorExceptCycle</string>
+	<key>greatPlaybackRotation</key>
+	<string>containerIncludeFramework</string>
+	<key>loopVariableStyle</key>
+	<string>constExceptionTag</string>
+	<key>notifierActivityMode</key>
+	<string>directThemeAlignment</string>
+	<key>storyboardPatternPressure</key>
+	<string>appbarViaEnvironment</string>
+</dict>
+</plist>

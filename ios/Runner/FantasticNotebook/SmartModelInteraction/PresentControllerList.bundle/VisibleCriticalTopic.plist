@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConstraintFlags</key>
+	<string>permissiveMemberName</string>
+	<key>autoScrollOrigin</key>
+	<string>particleViaNumber</string>
+	<key>containerVersusState</key>
+	<string>sizeBesideAction</string>
+	<key>isolateWithDecorator</key>
+	<string>spriteLikeDecorator</string>
+	<key>lazyConfigurationVisibility</key>
+	<string>aspectStrategyAcceleration</string>
+	<key>providerInSystem</key>
+	<string>sliderBufferStatus</string>
+	<key>subscriptionStageTail</key>
+	<string>configurationStatePressure</string>
+	<key>textureWithoutObserver</key>
+	<string>alignmentForTier</string>
+</dict>
+</plist>

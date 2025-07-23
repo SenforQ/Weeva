@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideSystem</key>
+	<string>permissiveCubePosition</string>
+	<key>dynamicMenuRotation</key>
+	<string>commandSingletonShape</string>
+	<key>graphAdapterMargin</key>
+	<string>requestLayerSpacing</string>
+	<key>mediocreVectorAlignment</key>
+	<string>subscriptionSingletonScale</string>
+	<key>metadataTypeShape</key>
+	<string>exceptionViaLevel</string>
+	<key>progressbarDecoratorFormat</key>
+	<string>robustConstraintFeedback</string>
+	<key>responseAtVariable</key>
+	<string>dialogsThroughMethod</string>
+</dict>
+</plist>

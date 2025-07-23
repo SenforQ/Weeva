@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logBeyondActivity</key>
+	<string>overlayAndSingleton</string>
+	<key>numericalResourceOffset</key>
+	<string>radiusVariableTheme</string>
+	<key>pinchableHandlerAlignment</key>
+	<string>widgetFlyweightMode</string>
+	<key>publicAccessoryBehavior</key>
+	<string>awaitValueFormat</string>
+	<key>remainderForProxy</key>
+	<string>descriptionLayerShape</string>
+	<key>textCommandType</key>
+	<string>retainedStreamTop</string>
+	<key>viewJobFeedback</key>
+	<string>layerModeBottom</string>
+</dict>
+</plist>

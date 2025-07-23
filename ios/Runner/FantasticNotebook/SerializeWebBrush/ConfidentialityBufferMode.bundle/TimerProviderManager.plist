@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveWorkflowFeedback</key>
+	<string>modelValueSaturation</string>
+	<key>binaryAsActivity</key>
+	<string>specifyProfilePadding</string>
+	<key>disabledWidgetShape</key>
+	<string>subsequentModalEdge</string>
+	<key>draggableChartBehavior</key>
+	<string>queueDespiteDecorator</string>
+	<key>requiredAnimatedcontainerFrequency</key>
+	<string>fixedBorderTint</string>
+	<key>scaleWithoutVar</key>
+	<string>stackViaComposite</string>
+	<key>usecaseAndValue</key>
+	<string>vectorWorkDelay</string>
+</dict>
+</plist>

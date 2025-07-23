@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBesideTier</key>
+	<string>primaryChartDelay</string>
+	<key>boxOfShape</key>
+	<string>transitionIncludePhase</string>
+	<key>chartThroughForm</key>
+	<string>semanticFeatureOrigin</string>
+	<key>flexJobVisibility</key>
+	<string>handlerStyleBrightness</string>
+	<key>listviewWithLayer</key>
+	<string>viewProxyShade</string>
+	<key>providerAsState</key>
+	<string>permissiveChapterValidation</string>
+	<key>singleFlexPosition</key>
+	<string>mediocreSliderMargin</string>
+	<key>tappableUtilDelay</key>
+	<string>tappableButtonOffset</string>
+</dict>
+</plist>

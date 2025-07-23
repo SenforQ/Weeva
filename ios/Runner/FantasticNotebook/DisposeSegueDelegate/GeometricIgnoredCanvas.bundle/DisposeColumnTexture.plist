@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsFrameworkBorder</key>
+	<string>alertTaskBorder</string>
+	<key>enabledLogarithmOpacity</key>
+	<string>smallSpotOffset</string>
+	<key>heroContainActivity</key>
+	<string>mobileSingletonMargin</string>
+	<key>largeIsolateDepth</key>
+	<string>localPreviewTransparency</string>
+	<key>significantQueryAcceleration</key>
+	<string>deferredEventSkewy</string>
+	<key>specifyResponseStatus</key>
+	<string>positionBeyondAction</string>
+</dict>
+</plist>

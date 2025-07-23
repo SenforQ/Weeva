@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitByDecorator</key>
+	<string>interactorAtParameter</string>
+	<key>awaitForMode</key>
+	<string>geometricInterpolationDelay</string>
+	<key>bufferMethodPadding</key>
+	<string>factoryAgainstTier</string>
+	<key>progressbarOutsideBuffer</key>
+	<string>lossOperationOffset</string>
+	<key>usedIsolateContrast</key>
+	<string>currentFactoryDistance</string>
+</dict>
+</plist>

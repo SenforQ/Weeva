@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityOperationShade</key>
+	<string>reactiveScreenSaturation</string>
+	<key>backwardTimerShade</key>
+	<string>hyperbolicTransitionIndex</string>
+	<key>graphTypeIndex</key>
+	<string>rowShapeTail</string>
+	<key>labelBeyondObserver</key>
+	<string>permissiveHeroLeft</string>
+	<key>listenerCommandAcceleration</key>
+	<string>storyboardSinceMemento</string>
+	<key>methodAroundOperation</key>
+	<string>promiseChainDelay</string>
+	<key>newestResourceTension</key>
+	<string>associatedTimerDelay</string>
+	<key>similarExtensionScale</key>
+	<string>monsterVersusShape</string>
+	<key>workflowVisitorType</key>
+	<string>disabledConsumerTail</string>
+</dict>
+</plist>

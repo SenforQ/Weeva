@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleIconFrequency</key>
+	<string>widgetAsValue</string>
+	<key>fragmentOutsideWork</key>
+	<string>specifySampleTheme</string>
+	<key>hyperbolicCommandDelay</key>
+	<string>binaryFormOrigin</string>
+	<key>largeListenerDistance</key>
+	<string>themeAwayPlatform</string>
+	<key>resultNumberMode</key>
+	<string>controllerAdapterBrightness</string>
+	<key>stepAgainstPlatform</key>
+	<string>roleFacadeName</string>
+</dict>
+</plist>

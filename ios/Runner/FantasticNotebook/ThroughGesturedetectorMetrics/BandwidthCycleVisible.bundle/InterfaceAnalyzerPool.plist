@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionStageBound</key>
+	<string>threadContextShade</string>
+	<key>dependencyAdapterEdge</key>
+	<string>cacheIncludeOperation</string>
+	<key>finalFeatureName</key>
+	<string>firstAspectAcceleration</string>
+	<key>grayscaleIncludeCycle</key>
+	<string>topicModeBorder</string>
+	<key>multiMediaOrigin</key>
+	<string>displayableNotifierBorder</string>
+	<key>nodeFromMediator</key>
+	<string>viewParamName</string>
+	<key>plateAgainstBridge</key>
+	<string>temporaryLayerSkewx</string>
+	<key>robustCommandDirection</key>
+	<string>tableInterpreterStatus</string>
+</dict>
+</plist>

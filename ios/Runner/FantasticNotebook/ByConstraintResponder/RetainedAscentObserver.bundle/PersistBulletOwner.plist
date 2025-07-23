@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMediatorTheme</key>
+	<string>smartExceptionLeft</string>
+	<key>cubitObserverDirection</key>
+	<string>routeVersusAdapter</string>
+	<key>inkwellFacadeKind</key>
+	<string>nodeWithoutVisitor</string>
+	<key>mobileStorageTransparency</key>
+	<string>mainInteractorMargin</string>
+	<key>resourceNumberSpacing</key>
+	<string>themeOfChain</string>
+	<key>usecaseBridgeName</key>
+	<string>publicQueueAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDecoratorInteraction</key>
+	<string>previewFlyweightVisible</string>
+	<key>functionalBufferBehavior</key>
+	<string>equalizationAsKind</string>
+	<key>interpolationInsideMode</key>
+	<string>futureStageBorder</string>
+	<key>modulusValueInset</key>
+	<string>contractionLayerTheme</string>
+	<key>resolverBesideProxy</key>
+	<string>tweenModeFeedback</string>
+	<key>scaleModeInset</key>
+	<string>roleTempleDistance</string>
+	<key>scrollableSizeRight</key>
+	<string>concurrentLoopLocation</string>
+	<key>stepByLayer</key>
+	<string>lossDespiteVar</string>
+	<key>tableInComposite</key>
+	<string>viewAwayStage</string>
+</dict>
+</plist>

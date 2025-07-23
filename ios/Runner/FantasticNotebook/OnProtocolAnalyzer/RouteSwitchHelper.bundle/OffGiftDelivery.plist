@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteLossBorder</key>
+	<string>coordinatorAsScope</string>
+	<key>robustTitleVelocity</key>
+	<string>disparateTitleMode</string>
+	<key>scaleValueSkewx</key>
+	<string>gradientWithoutDecorator</string>
+	<key>smartServiceTint</key>
+	<string>roleAlongMode</string>
+</dict>
+</plist>

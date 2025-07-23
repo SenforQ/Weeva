@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientFormLocation</key>
+	<string>mapValueBottom</string>
+	<key>intermediateSignValidation</key>
+	<string>elasticCanvasEdge</string>
+	<key>mainGrainInset</key>
+	<string>projectionStrategyBottom</string>
+	<key>sophisticatedSignatureSpeed</key>
+	<string>tappableWidgetOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveColumnEdge</key>
+	<string>rectAlongTier</string>
+	<key>logarithmAndAction</key>
+	<string>animatedActionIndex</string>
+	<key>movementTaskType</key>
+	<string>resourceChainHead</string>
+	<key>rowFrameworkVisibility</key>
+	<string>scrollableGrainOrientation</string>
+	<key>singleDescriptorOpacity</key>
+	<string>scrollActivitySpacing</string>
+	<key>streamBridgeCoord</key>
+	<string>buttonAdapterPadding</string>
+	<key>subscriptionDecoratorInteraction</key>
+	<string>activeHeapTag</string>
+	<key>timerVersusVisitor</key>
+	<string>coordinatorAsType</string>
+</dict>
+</plist>

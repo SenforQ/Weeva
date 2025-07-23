@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPetMode</key>
+	<string>projectStateTransparency</string>
+	<key>constraintAmongCommand</key>
+	<string>capsuleValueHue</string>
+	<key>localizationProxyPosition</key>
+	<string>lastNibSkewy</string>
+	<key>permissiveGestureTint</key>
+	<string>titleLayerVelocity</string>
+	<key>rapidModelPosition</key>
+	<string>mutableDecorationInteraction</string>
+	<key>spriteFormShape</key>
+	<string>awaitTypeSkewy</string>
+	<key>toolLayerVisibility</key>
+	<string>criticalOptimizerAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAspectDelay</key>
+	<string>presenterPlatformOpacity</string>
+	<key>menuInsideFlyweight</key>
+	<string>finalBlocBottom</string>
+	<key>resourcePatternDepth</key>
+	<string>menuShapeState</string>
+	<key>segmentNearParam</key>
+	<string>fragmentAlongMemento</string>
+</dict>
+</plist>

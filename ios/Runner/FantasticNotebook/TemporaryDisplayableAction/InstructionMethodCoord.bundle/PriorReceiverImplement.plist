@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicErrorTop</key>
+	<string>topicOutsideStyle</string>
+	<key>musicStageDirection</key>
+	<string>visibleCoordinatorPosition</string>
+	<key>observerLayerSkewx</key>
+	<string>asynchronousTickerShape</string>
+	<key>stateDuringEnvironment</key>
+	<string>remainderViaFunction</string>
+</dict>
+</plist>

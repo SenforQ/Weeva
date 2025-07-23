@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByMode</key>
+	<string>custompaintVarMargin</string>
+	<key>baseParamTop</key>
+	<string>menuOrFlyweight</string>
+	<key>disparateLocalizationStyle</key>
+	<string>invisibleCollectionRight</string>
+	<key>factoryAndShape</key>
+	<string>pinchableContractionTheme</string>
+	<key>featureAtShape</key>
+	<string>captionVersusValue</string>
+	<key>gesturedetectorAwayLayer</key>
+	<string>reducerByPhase</string>
+	<key>movementAwayMethod</key>
+	<string>grainPatternTail</string>
+	<key>optimizerStateForce</key>
+	<string>toolWithoutContext</string>
+	<key>taskSincePattern</key>
+	<string>smallBitrateOrigin</string>
+</dict>
+</plist>

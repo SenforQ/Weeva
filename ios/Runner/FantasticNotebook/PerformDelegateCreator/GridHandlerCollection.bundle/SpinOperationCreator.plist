@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderTypeDensity</key>
+	<string>smallRectVelocity</string>
+	<key>flexibleSpineBottom</key>
+	<string>characterUntilBridge</string>
+	<key>particleLikeTier</key>
+	<string>scrollableBatchSize</string>
+	<key>precisionSystemContrast</key>
+	<string>priorScreenTag</string>
+	<key>statefulStackFormat</key>
+	<string>animatedCubitFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConfigurationDuration</key>
+	<string>gesturedetectorOfAdapter</string>
+	<key>marginActivityBrightness</key>
+	<string>logWorkEdge</string>
+	<key>parallelStoryboardFlags</key>
+	<string>prevQueueForce</string>
+	<key>pinchableTextForce</key>
+	<string>aspectratioPrototypeLocation</string>
+	<key>reusablePreviewDirection</key>
+	<string>nodeObserverSize</string>
+</dict>
+</plist>

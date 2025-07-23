@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAtDecorator</key>
+	<string>retainedCardTag</string>
+	<key>capacitiesInsideAction</key>
+	<string>localConstraintTag</string>
+	<key>futureWithBuffer</key>
+	<string>groupChainBottom</string>
+	<key>singletonWithKind</key>
+	<string>commandBufferOpacity</string>
+	<key>unactivatedCellTag</key>
+	<string>resizableProjectionFormat</string>
+	<key>unaryStateOrientation</key>
+	<string>synchronousMobxPressure</string>
+</dict>
+</plist>

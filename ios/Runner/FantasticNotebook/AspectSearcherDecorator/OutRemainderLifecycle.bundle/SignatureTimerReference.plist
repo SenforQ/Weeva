@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletParameterDensity</key>
+	<string>radiusAlongNumber</string>
+	<key>canvasAwayLevel</key>
+	<string>fragmentVisitorOpacity</string>
+	<key>globalNavigatorCenter</key>
+	<string>flexibleLayerContrast</string>
+	<key>interactiveSkinRight</key>
+	<string>gridFacadeRotation</string>
+	<key>timerVisitorVisibility</key>
+	<string>mutableCaptionContrast</string>
+</dict>
+</plist>

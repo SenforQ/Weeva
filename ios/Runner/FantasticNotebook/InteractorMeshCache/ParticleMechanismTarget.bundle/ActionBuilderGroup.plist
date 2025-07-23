@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeDecorationPressure</key>
+	<string>seamlessSineAcceleration</string>
+	<key>fixedButtonDensity</key>
+	<string>visibleSizeTag</string>
+	<key>movementThroughPlatform</key>
+	<string>isolateBufferCenter</string>
+	<key>permanentAnimationSpacing</key>
+	<string>multiSingletonEdge</string>
+	<key>primaryCharacterShade</key>
+	<string>chartPhaseTail</string>
+	<key>rowFlyweightFeedback</key>
+	<string>dependencyThanForm</string>
+	<key>tableIncludeScope</key>
+	<string>segmentVarPosition</string>
+</dict>
+</plist>

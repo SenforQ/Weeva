@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>primaryStateBehavior</key>
+	<string>interactorKindIndex</string>
+	<key>reactiveTransitionLeft</key>
+	<string>mapTypeFrequency</string>
+	<key>substantialPositionedDelay</key>
+	<string>textfieldInShape</string>
+	<key>threadLikeShape</key>
+	<string>referenceNearNumber</string>
+</dict>
+</plist>

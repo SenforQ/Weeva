@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFutureInset</key>
+	<string>navigationFromAction</string>
+	<key>checkboxTaskRotation</key>
+	<string>accessoryIncludeMemento</string>
+	<key>collectionOrVariable</key>
+	<string>containerBridgeRight</string>
+	<key>customCubitStyle</key>
+	<string>aspectBeyondStage</string>
+	<key>inactiveActionRate</key>
+	<string>smallUsageCoord</string>
+	<key>mainToolPosition</key>
+	<string>rowAboutValue</string>
+	<key>modulusCycleDelay</key>
+	<string>materialViewTheme</string>
+	<key>navigatorAroundFlyweight</key>
+	<string>binaryViaLevel</string>
+	<key>substantialContainerInterval</key>
+	<string>resilientParticlePressure</string>
+</dict>
+</plist>

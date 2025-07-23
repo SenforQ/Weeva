@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStrategyAcceleration</key>
+	<string>callbackPlatformScale</string>
+	<key>constraintAwayStrategy</key>
+	<string>hashDecoratorAcceleration</string>
+	<key>cursorTypeBottom</key>
+	<string>segueFormTail</string>
+	<key>instructionTypeHue</key>
+	<string>gateInsideComposite</string>
+	<key>nextResponseVisible</key>
+	<string>cardSingletonTension</string>
+	<key>queryOperationSpacing</key>
+	<string>adaptiveRowSkewy</string>
+	<key>requestStageSkewx</key>
+	<string>symmetricLocalizationDistance</string>
+	<key>spineFrameworkCount</key>
+	<string>graphPrototypeDirection</string>
+	<key>storageObserverContrast</key>
+	<string>singletonInActivity</string>
+</dict>
+</plist>

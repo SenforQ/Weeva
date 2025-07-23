@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAtValue</key>
+	<string>rectViaContext</string>
+	<key>collectionWithSingleton</key>
+	<string>animatedcontainerMediatorAppearance</string>
+	<key>firstOptimizerBehavior</key>
+	<string>menuShapeForce</string>
+	<key>fragmentKindEdge</key>
+	<string>operationForType</string>
+	<key>responseSingletonMode</key>
+	<string>tabviewValueLocation</string>
+	<key>scaffoldFrameworkHead</key>
+	<string>utilForLayer</string>
+	<key>seamlessDrawerOrientation</key>
+	<string>storyboardLayerLocation</string>
+</dict>
+</plist>

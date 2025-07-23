@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughScope</key>
+	<string>serviceModeInteraction</string>
+	<key>elasticObserverLocation</key>
+	<string>interactorFrameworkTag</string>
+	<key>gesturePhaseMode</key>
+	<string>baseInsideTemple</string>
+	<key>gridMediatorTint</key>
+	<string>modelInsideVar</string>
+	<key>managerContextVelocity</key>
+	<string>immutableTabbarDuration</string>
+	<key>tickerStageRotation</key>
+	<string>positionActionOrigin</string>
+</dict>
+</plist>

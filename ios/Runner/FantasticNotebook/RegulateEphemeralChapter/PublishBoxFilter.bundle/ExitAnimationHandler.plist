@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBehaviorBound</key>
+	<string>criticalMetadataFormat</string>
+	<key>dynamicThemeBound</key>
+	<string>binaryDespiteState</string>
+	<key>frameDuringMode</key>
+	<string>stepSincePlatform</string>
+	<key>mediumCupertinoFlags</key>
+	<string>staticExpandedAcceleration</string>
+	<key>offsetDecoratorFeedback</key>
+	<string>temporaryWidgetBottom</string>
+	<key>operationParamAppearance</key>
+	<string>enabledStoreOrigin</string>
+	<key>presenterByShape</key>
+	<string>cartesianConstraintRight</string>
+	<key>synchronousBufferHead</key>
+	<string>positionFormType</string>
+</dict>
+</plist>

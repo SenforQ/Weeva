@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDecorationSpacing</key>
+	<string>paddingCompositeSaturation</string>
+	<key>dedicatedSliderFeedback</key>
+	<string>apertureAgainstComposite</string>
+	<key>imperativeMethodInset</key>
+	<string>switchProcessTransparency</string>
+	<key>profileCycleMode</key>
+	<string>mobileBeyondProcess</string>
+	<key>tabviewMementoKind</key>
+	<string>interactiveTaskEdge</string>
+	<key>workflowFlyweightOffset</key>
+	<string>largeCollectionTint</string>
+</dict>
+</plist>

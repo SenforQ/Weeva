@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerLevelTint</key>
+	<string>localizationLevelColor</string>
+	<key>enabledNotificationStyle</key>
+	<string>mediocreInkwellLeft</string>
+	<key>errorInNumber</key>
+	<string>actionAgainstStage</string>
+	<key>immediateSineVelocity</key>
+	<string>textFacadeState</string>
+	<key>isolateBridgeKind</key>
+	<string>documentThanOperation</string>
+	<key>radiusDuringShape</key>
+	<string>delicateRemainderTransparency</string>
+</dict>
+</plist>

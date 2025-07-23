@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnModeBottom</key>
+	<string>layoutTaskTint</string>
+	<key>exceptionParamTransparency</key>
+	<string>utilLevelMode</string>
+	<key>intermediateCheckboxFormat</key>
+	<string>resilientSegmentDirection</string>
+	<key>paddingThanFlyweight</key>
+	<string>sequentialMethodDirection</string>
+	<key>persistentSignValidation</key>
+	<string>resolverInsideMediator</string>
+	<key>robustAlertDirection</key>
+	<string>subsequentColumnSize</string>
+	<key>symbolModeIndex</key>
+	<string>resourceSinceSystem</string>
+</dict>
+</plist>

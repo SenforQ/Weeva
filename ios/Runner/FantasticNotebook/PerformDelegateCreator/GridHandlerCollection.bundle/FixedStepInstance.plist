@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintPlatformOrigin</key>
+	<string>protectedCompositionInteraction</string>
+	<key>rowAroundLayer</key>
+	<string>loopVarOrientation</string>
+	<key>scrollInPlatform</key>
+	<string>canvasKindSkewy</string>
+	<key>toolModeSpeed</key>
+	<string>requiredGridCount</string>
+</dict>
+</plist>

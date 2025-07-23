@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAroundProcess</key>
+	<string>symmetricUsageBehavior</string>
+	<key>curvePrototypeBehavior</key>
+	<string>toolDespitePhase</string>
+	<key>fusedSubscriptionInteraction</key>
+	<string>flexibleServiceBehavior</string>
+	<key>grainStateRate</key>
+	<string>mobileStorageFeedback</string>
+	<key>imageBeyondPlatform</key>
+	<string>usecaseMediatorTheme</string>
+	<key>optionVariableValidation</key>
+	<string>fragmentCycleLeft</string>
+	<key>scaffoldVersusValue</key>
+	<string>particleOperationDistance</string>
+	<key>swiftVersusProxy</key>
+	<string>timerLikeStyle</string>
+</dict>
+</plist>

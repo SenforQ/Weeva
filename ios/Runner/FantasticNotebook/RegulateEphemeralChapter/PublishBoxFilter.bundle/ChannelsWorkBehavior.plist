@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationContextDuration</key>
+	<string>cardJobVisibility</string>
+	<key>finalTopicInteraction</key>
+	<string>resourceOrObserver</string>
+	<key>gridviewAgainstTier</key>
+	<string>localizationPerPattern</string>
+	<key>iterativeHandlerDuration</key>
+	<string>durationStructureDepth</string>
+	<key>localEventShade</key>
+	<string>sensorAtDecorator</string>
+	<key>seamlessOperationEdge</key>
+	<string>brushOperationValidation</string>
+	<key>webSinkFeedback</key>
+	<string>logarithmContainFlyweight</string>
+</dict>
+</plist>

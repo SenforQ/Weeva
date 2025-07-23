@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBeyondEnvironment</key>
+	<string>constHandlerDistance</string>
+	<key>activatedRichtextLeft</key>
+	<string>interpolationUntilStage</string>
+	<key>compositionProxyAppearance</key>
+	<string>euclideanCheckboxResponse</string>
+	<key>descriptionSingletonCount</key>
+	<string>interfaceOperationStatus</string>
+	<key>interactorTaskPressure</key>
+	<string>queueSincePhase</string>
+	<key>layoutProcessPosition</key>
+	<string>immutableScreenRight</string>
+	<key>sustainableCompleterScale</key>
+	<string>convolutionFromValue</string>
+</dict>
+</plist>

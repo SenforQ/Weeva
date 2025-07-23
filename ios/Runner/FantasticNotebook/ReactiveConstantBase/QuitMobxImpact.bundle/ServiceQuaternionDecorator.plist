@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTypeDuration</key>
+	<string>cardExceptPlatform</string>
+	<key>builderTaskShape</key>
+	<string>robustPlateEdge</string>
+	<key>decorationSystemScale</key>
+	<string>cubeProxyOffset</string>
+	<key>factoryAmongContext</key>
+	<string>controllerMementoFrequency</string>
+	<key>grayscaleAsSystem</key>
+	<string>imperativeChecklistDuration</string>
+	<key>mutableChannelTag</key>
+	<string>storageVisitorCount</string>
+	<key>segmentVisitorPosition</key>
+	<string>interfaceContextFrequency</string>
+	<key>usecaseAsWork</key>
+	<string>petLayerRotation</string>
+	<key>visibleTimerVisibility</key>
+	<string>routerCompositeName</string>
+</dict>
+</plist>

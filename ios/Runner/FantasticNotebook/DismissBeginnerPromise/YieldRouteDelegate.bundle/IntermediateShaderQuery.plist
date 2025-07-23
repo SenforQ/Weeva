@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerDuringFacade</key>
+	<string>activityFromStyle</string>
+	<key>paddingAdapterPosition</key>
+	<string>fusedPresenterContrast</string>
+	<key>standaloneFragmentPosition</key>
+	<string>accordionBuilderHue</string>
+	<key>statefulConfigurationBrightness</key>
+	<string>concurrentDependencyBottom</string>
+	<key>statelessOperationDelay</key>
+	<string>sortedInterfaceDepth</string>
+	<key>stepBufferBound</key>
+	<string>eagerGateOffset</string>
+	<key>storageContainPattern</key>
+	<string>curveEnvironmentDuration</string>
+	<key>tappableCompletionIndex</key>
+	<string>activityFunctionDirection</string>
+</dict>
+</plist>

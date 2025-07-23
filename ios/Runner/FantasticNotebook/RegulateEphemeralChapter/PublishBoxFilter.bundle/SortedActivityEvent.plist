@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMethodPadding</key>
+	<string>groupContainPattern</string>
+	<key>beginnerUtilSkewx</key>
+	<string>queryBufferTheme</string>
+	<key>builderNumberAlignment</key>
+	<string>sizedboxStyleHue</string>
+	<key>imperativeSwiftMargin</key>
+	<string>anchorInsideShape</string>
+	<key>materialOfComposite</key>
+	<string>optimizerForParameter</string>
+	<key>modalAsVariable</key>
+	<string>concurrentPositionPressure</string>
+	<key>navigationJobMode</key>
+	<string>priorityCompositeTransparency</string>
+	<key>providerAboutDecorator</key>
+	<string>visibleQueryAcceleration</string>
+</dict>
+</plist>

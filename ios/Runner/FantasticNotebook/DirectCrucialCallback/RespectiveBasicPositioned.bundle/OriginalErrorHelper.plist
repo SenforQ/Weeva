@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReducerSpacing</key>
+	<string>listenerAmongMethod</string>
+	<key>channelsBeyondStrategy</key>
+	<string>responseParameterFeedback</string>
+	<key>gradientStrategyFlags</key>
+	<string>uniqueProjectFeedback</string>
+	<key>keyIntensityLeft</key>
+	<string>missionModeTransparency</string>
+	<key>liteObserverBehavior</key>
+	<string>subscriptionOperationSkewx</string>
+	<key>mediaJobBehavior</key>
+	<string>cosineBeyondProcess</string>
+	<key>offsetWithoutStyle</key>
+	<string>dynamicMemberTheme</string>
+	<key>petLevelEdge</key>
+	<string>decorationAmongMethod</string>
+</dict>
+</plist>

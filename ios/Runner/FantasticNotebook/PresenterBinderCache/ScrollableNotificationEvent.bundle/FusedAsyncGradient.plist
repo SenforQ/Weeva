@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAlongActivity</key>
+	<string>associatedGroupPadding</string>
+	<key>handlerBesideSystem</key>
+	<string>columnShapeVelocity</string>
+	<key>memberStagePosition</key>
+	<string>criticalStateCoord</string>
+	<key>requestOperationVisibility</key>
+	<string>immediateBufferScale</string>
+	<key>screenAwayStyle</key>
+	<string>permissiveChannelsSkewy</string>
+	<key>statelessStyleSkewx</key>
+	<string>graphAgainstEnvironment</string>
+	<key>unaryThroughPrototype</key>
+	<string>modalPatternDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseThroughAdapter</key>
+	<string>seamlessMapContrast</string>
+	<key>directPlateOrientation</key>
+	<string>declarativeRectDensity</string>
+	<key>interactiveLayerSkewx</key>
+	<string>columnForComposite</string>
+	<key>localizationBufferKind</key>
+	<string>aspectratioAsContext</string>
+	<key>logarithmFromStructure</key>
+	<string>statefulRowName</string>
+	<key>normTierOffset</key>
+	<string>symmetricProjectCount</string>
+	<key>protectedModalSkewy</key>
+	<string>independentAlphaInset</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterFunctionBrightness</key>
+	<string>eventOrLevel</string>
+	<key>lastMissionVisibility</key>
+	<string>characterFacadeScale</string>
+	<key>notifierInFlyweight</key>
+	<string>tangentFrameworkCoord</string>
+	<key>otherProgressbarAlignment</key>
+	<string>handlerWithoutLevel</string>
+	<key>storeFlyweightDepth</key>
+	<string>groupVisitorBottom</string>
+</dict>
+</plist>

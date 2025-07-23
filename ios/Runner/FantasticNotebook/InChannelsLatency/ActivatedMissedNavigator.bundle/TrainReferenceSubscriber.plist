@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredFactoryCenter</key>
+	<string>decorationLayerBehavior</string>
+	<key>factoryBesideSingleton</key>
+	<string>interactiveMethodBehavior</string>
+	<key>firstAspectTheme</key>
+	<string>textureStateDelay</string>
+	<key>loopOperationAcceleration</key>
+	<string>widgetAsScope</string>
+	<key>normalSpriteKind</key>
+	<string>timerPlatformSpacing</string>
+	<key>operationAlongAdapter</key>
+	<string>descriptorAndFunction</string>
+	<key>queryAdapterForce</key>
+	<string>sortedThemeSkewy</string>
+	<key>tweenMethodRate</key>
+	<string>characterOrOperation</string>
+</dict>
+</plist>

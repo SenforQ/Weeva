@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioJobTransparency</key>
+	<string>flexibleAppbarValidation</string>
+	<key>extensionThroughTask</key>
+	<string>beginnerMediaqueryPosition</string>
+	<key>isolateViaVar</key>
+	<string>animatedCacheFlags</string>
+	<key>nextRouteLeft</key>
+	<string>isolateCompositeDistance</string>
+	<key>rectSystemPressure</key>
+	<string>menuAtTask</string>
+	<key>transitionForSingleton</key>
+	<string>routerFacadeColor</string>
+	<key>viewOrVariable</key>
+	<string>sessionAmongPlatform</string>
+</dict>
+</plist>

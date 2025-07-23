@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCurveStyle</key>
+	<string>isolateUntilNumber</string>
+	<key>composableShaderEdge</key>
+	<string>pinchableTouchFeedback</string>
+	<key>dependencyWithoutActivity</key>
+	<string>immutablePaddingDepth</string>
+	<key>entropyInLayer</key>
+	<string>numericalEquipmentOffset</string>
+	<key>graphOperationSpacing</key>
+	<string>modelOutsideBridge</string>
+	<key>localizationSinceVariable</key>
+	<string>painterInsideFunction</string>
+	<key>subscriptionAndBuffer</key>
+	<string>cachePlatformType</string>
+</dict>
+</plist>

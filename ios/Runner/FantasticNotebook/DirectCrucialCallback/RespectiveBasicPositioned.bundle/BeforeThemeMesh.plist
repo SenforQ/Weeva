@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTypeOffset</key>
+	<string>localizationFromStrategy</string>
+	<key>missionCycleKind</key>
+	<string>segmentIncludeState</string>
+	<key>mutableCubitBorder</key>
+	<string>subscriptionCompositeSpeed</string>
+	<key>numericalAccessoryBrightness</key>
+	<string>builderPhaseDuration</string>
+	<key>publicConstraintType</key>
+	<string>queryDuringType</string>
+	<key>semanticStampBound</key>
+	<string>otherNavigatorCoord</string>
+	<key>tickerOfChain</key>
+	<string>retainedDialogsOpacity</string>
+</dict>
+</plist>

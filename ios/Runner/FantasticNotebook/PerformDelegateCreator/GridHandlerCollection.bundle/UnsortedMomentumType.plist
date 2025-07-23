@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateFormVisibility</key>
+	<string>streamForJob</string>
+	<key>localizationFacadePressure</key>
+	<string>ephemeralResponseTransparency</string>
+	<key>pinchableQueryInterval</key>
+	<string>primaryAlertRate</string>
+	<key>seamlessTimerState</key>
+	<string>customizedSizeTag</string>
+	<key>smallFrameAppearance</key>
+	<string>accessoryFlyweightBorder</string>
+	<key>tensorCellInterval</key>
+	<string>semanticSegmentVisible</string>
+</dict>
+</plist>

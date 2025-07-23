@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledGridVelocity</key>
+	<string>binaryThroughProxy</string>
+	<key>flexibleAlignmentKind</key>
+	<string>finalCompletionTail</string>
+	<key>grayscaleShapeAcceleration</key>
+	<string>appbarThroughPlatform</string>
+	<key>layoutOutsideInterpreter</key>
+	<string>histogramCompositeValidation</string>
+	<key>parallelPaddingSpacing</key>
+	<string>techniqueModeOrigin</string>
+	<key>parallelResourceScale</key>
+	<string>tabbarAwayActivity</string>
+	<key>sliderNumberForce</key>
+	<string>popupBridgeAlignment</string>
+	<key>streamPerCycle</key>
+	<string>scaffoldInterpreterTheme</string>
+	<key>streamWithEnvironment</key>
+	<string>repositoryAroundCycle</string>
+</dict>
+</plist>

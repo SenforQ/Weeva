@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedRowInset</key>
+	<string>sharedQueueStyle</string>
+	<key>geometricSampleAlignment</key>
+	<string>responseActionCenter</string>
+	<key>gridStyleHue</key>
+	<string>completerLikeSingleton</string>
+	<key>interpolationProcessOrientation</key>
+	<string>similarErrorTag</string>
+	<key>mobileInterpolationName</key>
+	<string>missionStructureOpacity</string>
+	<key>queueCycleScale</key>
+	<string>touchOfOperation</string>
+	<key>retainedToolTheme</key>
+	<string>persistentProviderMomentum</string>
+	<key>serviceNearMethod</key>
+	<string>dedicatedResourceColor</string>
+</dict>
+</plist>

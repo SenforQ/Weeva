@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineScopeEdge</key>
+	<string>firstAxisSize</string>
+	<key>drawerWithSingleton</key>
+	<string>materialBeyondOperation</string>
+	<key>exceptionByPattern</key>
+	<string>requestPrototypeSize</string>
+	<key>explicitTweenKind</key>
+	<string>utilBridgeInset</string>
+	<key>localizationThroughEnvironment</key>
+	<string>routerParameterTop</string>
+	<key>multiRouterPosition</key>
+	<string>greatEffectEdge</string>
+	<key>nextTaskVelocity</key>
+	<string>isolateCompositeSaturation</string>
+	<key>priorServiceOrigin</key>
+	<string>routeIncludePrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMethodFlags</key>
+	<string>custompaintFromShape</string>
+	<key>denseBaselineInset</key>
+	<string>dialogsWithoutFramework</string>
+	<key>effectDuringScope</key>
+	<string>elasticSkirtHue</string>
+	<key>mainCurveVisibility</key>
+	<string>borderParamSize</string>
+	<key>pageviewFacadeDistance</key>
+	<string>histogramSystemLeft</string>
+	<key>presenterFacadeHead</key>
+	<string>reducerSingletonState</string>
+	<key>touchEnvironmentInterval</key>
+	<string>serviceProxyBound</string>
+</dict>
+</plist>

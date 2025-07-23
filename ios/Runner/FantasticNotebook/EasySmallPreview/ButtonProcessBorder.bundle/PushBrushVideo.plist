@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMissionValidation</key>
+	<string>keyViewShade</string>
+	<key>diffableResponseHue</key>
+	<string>viewProcessColor</string>
+	<key>graphicOrPrototype</key>
+	<string>keyBorderBrightness</string>
+	<key>modelOperationTheme</key>
+	<string>reusableGrainPressure</string>
+	<key>modelPerNumber</key>
+	<string>entityFormType</string>
+	<key>sensorIncludeProcess</key>
+	<string>easySpriteResponse</string>
+	<key>sophisticatedUsecasePressure</key>
+	<string>symbolThroughBridge</string>
+	<key>textureWithEnvironment</key>
+	<string>cycleVisitorInterval</string>
+</dict>
+</plist>

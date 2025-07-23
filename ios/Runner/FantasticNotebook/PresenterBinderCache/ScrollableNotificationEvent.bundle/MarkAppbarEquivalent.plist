@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOperationStyle</key>
+	<string>heapContainVariable</string>
+	<key>bulletLikeShape</key>
+	<string>segueAgainstPlatform</string>
+	<key>delegatePhaseTag</key>
+	<string>routeAroundMemento</string>
+	<key>descriptorAwayState</key>
+	<string>serviceWithShape</string>
+	<key>draggableAllocatorMargin</key>
+	<string>apertureAtForm</string>
+	<key>routeMementoState</key>
+	<string>subsequentLayoutOpacity</string>
+</dict>
+</plist>

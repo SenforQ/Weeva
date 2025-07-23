@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSinkTransparency</key>
+	<string>blocOperationAcceleration</string>
+	<key>diffableSizedboxLeft</key>
+	<string>globalCapsuleTag</string>
+	<key>indicatorAsStyle</key>
+	<string>observerVarSaturation</string>
+	<key>responsePatternTheme</key>
+	<string>concurrentCurvePosition</string>
+	<key>singletonWithoutFunction</key>
+	<string>vectorAndShape</string>
+	<key>stampOperationSpeed</key>
+	<string>variantProcessVisible</string>
+	<key>tweenViaFramework</key>
+	<string>sortedFrameLocation</string>
+</dict>
+</plist>

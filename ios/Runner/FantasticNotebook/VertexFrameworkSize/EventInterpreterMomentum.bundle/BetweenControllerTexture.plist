@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryLevelInteraction</key>
+	<string>durationValueResponse</string>
+	<key>asyncPositionedOrientation</key>
+	<string>skirtVariableInterval</string>
+	<key>descriptionWorkPadding</key>
+	<string>nativeFrameTension</string>
+	<key>ignoredPrecisionTheme</key>
+	<string>matrixTempleRotation</string>
+	<key>loopShapeLeft</key>
+	<string>navigatorLikeDecorator</string>
+	<key>managerStrategyScale</key>
+	<string>mediaOfPlatform</string>
+	<key>referenceAboutVariable</key>
+	<string>callbackViaVar</string>
+	<key>statelessNumberSpacing</key>
+	<string>euclideanBaseBorder</string>
+</dict>
+</plist>

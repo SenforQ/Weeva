@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSubscriptionInteraction</key>
+	<string>lastCompositionShape</string>
+	<key>appbarNumberLocation</key>
+	<string>smallContractionSkewx</string>
+	<key>missedDialogsLocation</key>
+	<string>missionAroundStage</string>
+	<key>robustGestureDelay</key>
+	<string>taskSystemTransparency</string>
+</dict>
+</plist>

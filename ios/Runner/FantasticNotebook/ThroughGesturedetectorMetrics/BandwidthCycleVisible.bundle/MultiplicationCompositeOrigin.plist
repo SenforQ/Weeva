@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRequestRotation</key>
+	<string>persistentRequestVelocity</string>
+	<key>cupertinoFlyweightDistance</key>
+	<string>hierarchicalGetxFrequency</string>
+	<key>delicateProgressbarDirection</key>
+	<string>inactiveObserverAlignment</string>
+	<key>desktopResourceTint</key>
+	<string>storyboardAndSystem</string>
+	<key>gradientLikeLevel</key>
+	<string>semanticsThroughFunction</string>
+	<key>inactiveBatchDepth</key>
+	<string>streamTierFormat</string>
+	<key>interfaceFrameworkSpeed</key>
+	<string>decorationAdapterFlags</string>
+	<key>normalStackPosition</key>
+	<string>streamAsSingleton</string>
+	<key>reducerThroughBridge</key>
+	<string>numericalChapterBorder</string>
+</dict>
+</plist>

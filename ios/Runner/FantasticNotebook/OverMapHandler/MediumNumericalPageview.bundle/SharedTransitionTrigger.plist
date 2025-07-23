@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleHue</key>
+	<string>clipperDuringActivity</string>
+	<key>characterWithoutShape</key>
+	<string>standaloneHashDuration</string>
+	<key>declarativeTextOrientation</key>
+	<string>usedProgressbarPosition</string>
+	<key>finalCurveState</key>
+	<string>vectorAlongMediator</string>
+	<key>mobxMethodDirection</key>
+	<string>retainedCellState</string>
+	<key>newestStreamMode</key>
+	<string>delicateNotificationBorder</string>
+	<key>notifierThroughChain</key>
+	<string>numericalUtilRate</string>
+	<key>observerMediatorShape</key>
+	<string>constraintAwayContext</string>
+	<key>sceneAmongForm</key>
+	<string>commandPrototypeOpacity</string>
+</dict>
+</plist>

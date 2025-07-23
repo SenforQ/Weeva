@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistStageDirection</key>
+	<string>compositionalLayoutResponse</string>
+	<key>rowInsideChain</key>
+	<string>aspectratioNearComposite</string>
+	<key>touchStateFlags</key>
+	<string>uniquePreviewCoord</string>
+	<key>transitionBufferRight</key>
+	<string>tickerCompositeSpeed</string>
+</dict>
+</plist>

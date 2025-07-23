@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerLevelForce</key>
+	<string>gateWithFacade</string>
+	<key>grayscaleShapeFormat</key>
+	<string>mutableAnimatedcontainerTag</string>
+	<key>heapViaVar</key>
+	<string>specifierInsideFunction</string>
+	<key>interactorDecoratorFormat</key>
+	<string>reducerKindIndex</string>
+	<key>repositoryNearSingleton</key>
+	<string>explicitTextureTransparency</string>
+	<key>specifierTypeDuration</key>
+	<string>firstCupertinoFormat</string>
+</dict>
+</plist>

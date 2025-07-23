@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheIncludePhase</key>
+	<string>statefulModelFormat</string>
+	<key>checkboxModePosition</key>
+	<string>independentDescriptionDensity</string>
+	<key>consultativeCollectionVisibility</key>
+	<string>imperativeEffectSize</string>
+	<key>layoutVarLocation</key>
+	<string>primaryLayoutVisible</string>
+	<key>pivotalEffectScale</key>
+	<string>singletonNearOperation</string>
+	<key>zoneFromPattern</key>
+	<string>mobxWorkHead</string>
+</dict>
+</plist>

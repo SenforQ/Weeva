@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAlongContext</key>
+	<string>sortedMusicTint</string>
+	<key>compositionalPlateOrigin</key>
+	<string>buttonWithoutMemento</string>
+	<key>eventViaAction</key>
+	<string>fixedRequestVisibility</string>
+	<key>layerIncludePhase</key>
+	<string>requiredAlphaOrientation</string>
+	<key>skinAdapterFeedback</key>
+	<string>prismaticWidgetTint</string>
+	<key>timerPerPlatform</key>
+	<string>vectorAwayMethod</string>
+</dict>
+</plist>

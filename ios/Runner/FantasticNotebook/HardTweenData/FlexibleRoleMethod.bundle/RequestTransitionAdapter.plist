@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAndContext</key>
+	<string>cycleDecoratorAcceleration</string>
+	<key>descriptionWithoutMediator</key>
+	<string>checklistThroughProxy</string>
+	<key>singletonPatternBottom</key>
+	<string>ignoredTimerDepth</string>
+	<key>storeForPrototype</key>
+	<string>symbolLikeVar</string>
+	<key>zonePhaseFeedback</key>
+	<string>responseExceptType</string>
+</dict>
+</plist>

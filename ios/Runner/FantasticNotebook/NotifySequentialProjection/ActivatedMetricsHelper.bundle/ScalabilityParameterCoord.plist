@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBrushValidation</key>
+	<string>interactorThanFacade</string>
+	<key>concurrentErrorOrientation</key>
+	<string>blocFlyweightFeedback</string>
+	<key>flexProcessEdge</key>
+	<string>plateDuringValue</string>
+	<key>managerValueVisible</key>
+	<string>coordinatorCycleInset</string>
+	<key>mediaqueryTaskIndex</key>
+	<string>stateFacadeName</string>
+</dict>
+</plist>

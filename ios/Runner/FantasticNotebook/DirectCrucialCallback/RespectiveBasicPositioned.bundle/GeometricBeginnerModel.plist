@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProcessEdge</key>
+	<string>easyStateRotation</string>
+	<key>normalAppbarTension</key>
+	<string>seamlessCallbackVisible</string>
+	<key>protectedViewCenter</key>
+	<string>accessibleSingletonAlignment</string>
+	<key>requestPatternColor</key>
+	<string>textModeTag</string>
+	<key>spriteWorkShape</key>
+	<string>notificationAroundMode</string>
+	<key>unsortedEffectBrightness</key>
+	<string>interactorStyleResponse</string>
+</dict>
+</plist>

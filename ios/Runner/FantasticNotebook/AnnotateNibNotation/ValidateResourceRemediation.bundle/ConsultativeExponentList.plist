@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSemanticsInteraction</key>
+	<string>compositionalTransitionMode</string>
+	<key>asyncObserverContrast</key>
+	<string>modelOrCycle</string>
+	<key>asynchronousDependencyPosition</key>
+	<string>rectActivityCenter</string>
+	<key>criticalAlertDelay</key>
+	<string>switchChainDuration</string>
+	<key>labelAlongSystem</key>
+	<string>durationTierAlignment</string>
+	<key>mobilePriorityScale</key>
+	<string>invisibleDecorationIndex</string>
+	<key>respectiveCapsuleInset</key>
+	<string>batchDespiteFacade</string>
+	<key>transitionActivityState</key>
+	<string>sineSincePrototype</string>
+	<key>widgetWithoutStructure</key>
+	<string>graphAroundStyle</string>
+</dict>
+</plist>

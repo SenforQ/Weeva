@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBuilderShade</key>
+	<string>managerProcessFrequency</string>
+	<key>layoutVersusFramework</key>
+	<string>hierarchicalInteractorTop</string>
+	<key>menuMethodRate</key>
+	<string>canvasStateInset</string>
+	<key>notifierParameterCoord</key>
+	<string>scaffoldAtPhase</string>
+	<key>optimizerStrategyOpacity</key>
+	<string>progressbarAroundScope</string>
+</dict>
+</plist>

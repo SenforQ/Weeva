@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderActivityTag</key>
+	<string>taskVariableType</string>
+	<key>builderScopeBorder</key>
+	<string>boxshadowFlyweightOffset</string>
+	<key>discardedSemanticsRotation</key>
+	<string>cubeByPlatform</string>
+	<key>drawerAndFlyweight</key>
+	<string>cellDuringWork</string>
+	<key>easyStackMode</key>
+	<string>resilientCheckboxPosition</string>
+	<key>factorySingletonCount</key>
+	<string>backwardPositionBehavior</string>
+	<key>histogramChainVisibility</key>
+	<string>curveOperationType</string>
+	<key>originalZoneValidation</key>
+	<string>dependencyStructureOpacity</string>
+	<key>swiftMementoFrequency</key>
+	<string>characterCommandVelocity</string>
+	<key>typicalOptionTop</key>
+	<string>textDecoratorMode</string>
+</dict>
+</plist>

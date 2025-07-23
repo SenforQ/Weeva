@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStateScale</key>
+	<string>cursorSystemDistance</string>
+	<key>inactiveHeroName</key>
+	<string>builderWithoutSystem</string>
+	<key>specifyCallbackVelocity</key>
+	<string>localizationContextHead</string>
+	<key>textContainParam</key>
+	<string>gridTempleLocation</string>
+</dict>
+</plist>

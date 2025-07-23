@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationWithAction</key>
+	<string>viewAsDecorator</string>
+	<key>logarithmBesideLayer</key>
+	<string>temporaryCubitOrigin</string>
+	<key>momentumDecoratorCount</key>
+	<string>keyLayoutContrast</string>
+	<key>numericalLogSpacing</key>
+	<string>sharedTransformerShape</string>
+	<key>scaffoldPatternAcceleration</key>
+	<string>baseShapeTheme</string>
+	<key>sensorProcessDirection</key>
+	<string>symbolVisitorCenter</string>
+</dict>
+</plist>

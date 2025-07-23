@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerAgainstBridge</key>
+	<string>featureContainFunction</string>
+	<key>parallelFrameSpeed</key>
+	<string>missionLikeMode</string>
+	<key>permanentScaffoldSize</key>
+	<string>transformerParamMode</string>
+	<key>responsiveSubscriptionCenter</key>
+	<string>multiplicationCompositeRotation</string>
+	<key>spotParameterState</key>
+	<string>zoneIncludeKind</string>
+	<key>utilAdapterMargin</key>
+	<string>statelessInjectionSaturation</string>
+</dict>
+</plist>

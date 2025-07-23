@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInteractorAcceleration</key>
+	<string>singleMissionPadding</string>
+	<key>flexibleResourceSkewy</key>
+	<string>interactiveCupertinoOpacity</string>
+	<key>fusedGroupSpacing</key>
+	<string>tabviewContainStrategy</string>
+	<key>notificationThroughForm</key>
+	<string>bitrateVersusPlatform</string>
+	<key>painterVisitorSpacing</key>
+	<string>desktopDropdownbuttonMode</string>
+	<key>radioFromComposite</key>
+	<string>previewByActivity</string>
+	<key>resourceAroundMode</key>
+	<string>discardedMethodStatus</string>
+	<key>serviceParameterForce</key>
+	<string>agileMediaName</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFrameworkVisibility</key>
+	<string>navigationSingletonSize</string>
+	<key>containerAgainstCycle</key>
+	<string>sortedAnimatedcontainerInterval</string>
+	<key>largeSwitchTag</key>
+	<string>advancedScaleTint</string>
+	<key>routePhasePressure</key>
+	<string>queryContainParam</string>
+	<key>sceneChainSize</key>
+	<string>nativeStatelessDuration</string>
+	<key>uniformSymbolRotation</key>
+	<string>radiusVersusObserver</string>
+	<key>usedPreviewFlags</key>
+	<string>concreteHashHead</string>
+	<key>visibleAwaitVisible</key>
+	<string>containerThroughParam</string>
+</dict>
+</plist>

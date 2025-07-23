@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeModelDepth</key>
+	<string>resizableLabelStyle</string>
+	<key>intensityCompositeFlags</key>
+	<string>statelessBridgeFlags</string>
+	<key>positionedUntilObserver</key>
+	<string>controllerInsideContext</string>
+	<key>sequentialTextLeft</key>
+	<string>nativeParticlePadding</string>
+</dict>
+</plist>

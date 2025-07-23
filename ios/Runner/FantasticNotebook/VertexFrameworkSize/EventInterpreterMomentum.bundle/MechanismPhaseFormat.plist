@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintViaEnvironment</key>
+	<string>sliderVarSize</string>
+	<key>easyFutureType</key>
+	<string>chartSingletonInteraction</string>
+	<key>themeThanStrategy</key>
+	<string>disabledRiverpodAppearance</string>
+</dict>
+</plist>

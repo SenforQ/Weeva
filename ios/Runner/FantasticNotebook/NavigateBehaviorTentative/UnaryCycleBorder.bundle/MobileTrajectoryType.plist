@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOutsideInterpreter</key>
+	<string>spriteDecoratorPressure</string>
+	<key>discardedProtocolHue</key>
+	<string>usedChannelValidation</string>
+	<key>firstRichtextContrast</key>
+	<string>missedLabelDistance</string>
+	<key>gemChainMode</key>
+	<string>layerBeyondVar</string>
+	<key>heapUntilStrategy</key>
+	<string>allocatorVariableDelay</string>
+	<key>ignoredOffsetScale</key>
+	<string>sequentialProfileFormat</string>
+	<key>interactorFacadeShade</key>
+	<string>textfieldTierValidation</string>
+	<key>menuBesideTask</key>
+	<string>completerShapeTag</string>
+	<key>responseOutsideLevel</key>
+	<string>statefulProcessVisibility</string>
+</dict>
+</plist>

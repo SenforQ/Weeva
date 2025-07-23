@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWidgetAlignment</key>
+	<string>otherCurveTail</string>
+	<key>entropyContainOperation</key>
+	<string>notificationNumberStatus</string>
+	<key>iconStyleCoord</key>
+	<string>queryFlyweightSkewx</string>
+	<key>webSlashDirection</key>
+	<string>unsortedEffectContrast</string>
+</dict>
+</plist>

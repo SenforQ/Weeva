@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardGateStyle</key>
+	<string>labelStylePressure</string>
+	<key>interpolationFacadeVelocity</key>
+	<string>zoneAsTier</string>
+	<key>screenOperationKind</key>
+	<string>hyperbolicClipperTransparency</string>
+	<key>singletonSinceJob</key>
+	<string>lostAnimationKind</string>
+	<key>sophisticatedAnimationDelay</key>
+	<string>significantNavigationDirection</string>
+	<key>streamIncludeKind</key>
+	<string>batchAboutForm</string>
+</dict>
+</plist>

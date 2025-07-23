@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorParamAlignment</key>
+	<string>injectionAdapterInterval</string>
+	<key>equalizationParamScale</key>
+	<string>convolutionLayerInset</string>
+	<key>extensionStyleOffset</key>
+	<string>notifierContainType</string>
+	<key>particleBeyondStage</key>
+	<string>explicitIntensityPosition</string>
+</dict>
+</plist>

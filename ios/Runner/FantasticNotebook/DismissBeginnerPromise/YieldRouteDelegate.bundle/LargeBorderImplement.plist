@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProgressbarHue</key>
+	<string>actionWithParameter</string>
+	<key>aspectratioParameterOpacity</key>
+	<string>delicateSubpixelAppearance</string>
+	<key>exceptionScopePosition</key>
+	<string>pivotalCheckboxAppearance</string>
+	<key>respectiveModalVisibility</key>
+	<string>taskPrototypeName</string>
+	<key>ternaryActionName</key>
+	<string>smallTopicPadding</string>
+</dict>
+</plist>

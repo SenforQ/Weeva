@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAgainstParameter</key>
+	<string>rapidTransitionTag</string>
+	<key>delegateViaType</key>
+	<string>opaquePreviewDepth</string>
+	<key>seamlessAlertInteraction</key>
+	<string>publicWidgetInset</string>
+	<key>skirtDespiteForm</key>
+	<string>boxshadowWithoutOperation</string>
+	<key>sortedLocalizationTheme</key>
+	<string>delegateStrategyBound</string>
+	<key>tappableSliderDistance</key>
+	<string>interpolationCommandAlignment</string>
+	<key>temporaryTangentContrast</key>
+	<string>spotAndVar</string>
+</dict>
+</plist>

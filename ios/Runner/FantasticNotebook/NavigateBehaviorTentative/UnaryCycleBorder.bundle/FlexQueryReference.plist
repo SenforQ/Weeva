@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoDelegateFeedback</key>
+	<string>navigatorThroughBuffer</string>
+	<key>granularBoxshadowSize</key>
+	<string>specifyConfigurationInterval</string>
+	<key>navigatorAsForm</key>
+	<string>bulletSystemAppearance</string>
+	<key>popupVisitorDensity</key>
+	<string>pinchableLabelOffset</string>
+	<key>routerSingletonRotation</key>
+	<string>shaderFromPattern</string>
+	<key>sceneValueCoord</key>
+	<string>pinchableSliderFlags</string>
+	<key>standaloneScaffoldTint</key>
+	<string>coordinatorShapeRate</string>
+	<key>touchOutsidePhase</key>
+	<string>layoutAtChain</string>
+	<key>uniformPlaybackBottom</key>
+	<string>mainPresenterSkewx</string>
+	<key>variantObserverKind</key>
+	<string>eventInFunction</string>
+</dict>
+</plist>

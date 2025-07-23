@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBeyondNumber</key>
+	<string>mobileBuilderPosition</string>
+	<key>basicNavigatorVisibility</key>
+	<string>delegateSinceForm</string>
+	<key>eagerBorderResponse</key>
+	<string>gridObserverTag</string>
+	<key>factoryIncludeCommand</key>
+	<string>mediaActivityScale</string>
+	<key>notificationJobDuration</key>
+	<string>nodeParamValidation</string>
+	<key>sliderStrategyDensity</key>
+	<string>materialMatrixRight</string>
+	<key>streamFormFormat</key>
+	<string>seamlessSingletonRate</string>
+</dict>
+</plist>

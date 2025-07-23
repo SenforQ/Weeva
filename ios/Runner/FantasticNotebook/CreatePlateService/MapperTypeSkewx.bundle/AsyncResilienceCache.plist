@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorKindStyle</key>
+	<string>viewOutsideSingleton</string>
+	<key>commonResultHue</key>
+	<string>explicitMarginEdge</string>
+	<key>compositionalGridHue</key>
+	<string>backwardConvolutionVisible</string>
+	<key>factoryAndSystem</key>
+	<string>draggableStateOffset</string>
+	<key>inactiveQueryCount</key>
+	<string>repositoryPrototypeScale</string>
+	<key>isolateActionShade</key>
+	<string>transitionScopeAcceleration</string>
+	<key>largeThreadTop</key>
+	<string>promiseCompositeTransparency</string>
+	<key>methodAlongPrototype</key>
+	<string>checklistFormInset</string>
+	<key>positionLikeLayer</key>
+	<string>tickerLikeSystem</string>
+	<key>screenSinceParameter</key>
+	<string>scrollInsideActivity</string>
+</dict>
+</plist>

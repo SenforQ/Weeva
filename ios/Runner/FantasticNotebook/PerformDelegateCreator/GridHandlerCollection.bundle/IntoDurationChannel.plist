@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVarShape</key>
+	<string>progressbarExceptLayer</string>
+	<key>crucialMobileBorder</key>
+	<string>significantQueueMargin</string>
+	<key>ephemeralActivityRate</key>
+	<string>priorSwiftValidation</string>
+	<key>requiredTransitionMode</key>
+	<string>compositionalConstraintRate</string>
+	<key>seamlessResourceBehavior</key>
+	<string>crudeMenuOpacity</string>
+	<key>singletonNumberDistance</key>
+	<string>iconStructureDirection</string>
+</dict>
+</plist>

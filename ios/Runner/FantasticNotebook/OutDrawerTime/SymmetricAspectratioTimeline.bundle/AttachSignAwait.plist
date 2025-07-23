@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyByState</key>
+	<string>transformerStageMargin</string>
+	<key>movementByTask</key>
+	<string>stackOfParam</string>
+	<key>primaryBaselineBrightness</key>
+	<string>stackCycleVisibility</string>
+	<key>protectedEntityAppearance</key>
+	<string>gradientPhaseStyle</string>
+	<key>rapidSinkBound</key>
+	<string>relationalParticleDirection</string>
+</dict>
+</plist>

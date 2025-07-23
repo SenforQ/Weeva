@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTaskFrequency</key>
+	<string>taskObserverState</string>
+	<key>groupActionDirection</key>
+	<string>logarithmContainState</string>
+	<key>hierarchicalTabbarSkewx</key>
+	<string>overlayAndParameter</string>
+	<key>iconByFramework</key>
+	<string>materialTypePosition</string>
+	<key>independentViewTint</key>
+	<string>lazyFactoryBrightness</string>
+	<key>mediocreOptimizerBottom</key>
+	<string>positionedInDecorator</string>
+	<key>navigatorOperationCoord</key>
+	<string>completerFunctionFeedback</string>
+	<key>popupOfStructure</key>
+	<string>interactorOfValue</string>
+	<key>reusableMetadataAppearance</key>
+	<string>compositionProxyHue</string>
+	<key>subpixelVariableHue</key>
+	<string>persistentCoordinatorTag</string>
+</dict>
+</plist>

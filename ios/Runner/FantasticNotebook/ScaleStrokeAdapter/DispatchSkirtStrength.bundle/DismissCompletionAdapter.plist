@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleAmongVariable</key>
+	<string>newestSegueLocation</string>
+	<key>playbackByVariable</key>
+	<string>segueAndStructure</string>
+	<key>profileAwayCycle</key>
+	<string>widgetByVariable</string>
+	<key>protocolStructureOrientation</key>
+	<string>assetOutsideLayer</string>
+	<key>resolverByInterpreter</key>
+	<string>concurrentCaptionOffset</string>
+</dict>
+</plist>

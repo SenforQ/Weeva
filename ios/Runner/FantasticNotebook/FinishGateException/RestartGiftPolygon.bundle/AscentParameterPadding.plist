@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTabviewVisible</key>
+	<string>consumerAboutParam</string>
+	<key>cupertinoChannelCount</key>
+	<string>activeTouchPadding</string>
+	<key>dynamicTextfieldDistance</key>
+	<string>mapFlyweightDelay</string>
+	<key>firstManagerState</key>
+	<string>geometricChapterDistance</string>
+	<key>oldModelDensity</key>
+	<string>ternaryFromBuffer</string>
+	<key>providerBridgeFrequency</key>
+	<string>commonInterfaceLeft</string>
+	<key>significantAlignmentRotation</key>
+	<string>gridviewOfFlyweight</string>
+	<key>sortedCacheEdge</key>
+	<string>radioMediatorState</string>
+</dict>
+</plist>

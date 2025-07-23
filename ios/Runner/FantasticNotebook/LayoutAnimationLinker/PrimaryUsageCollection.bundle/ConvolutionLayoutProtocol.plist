@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAdapterInteraction</key>
+	<string>sceneAmongKind</string>
+	<key>disabledCheckboxRight</key>
+	<string>ephemeralTransitionColor</string>
+	<key>dynamicSegmentInteraction</key>
+	<string>spotAwayPhase</string>
+	<key>grayscaleStateLocation</key>
+	<string>statefulTransformerScale</string>
+	<key>metadataAtLevel</key>
+	<string>missedCapsuleName</string>
+	<key>priorityAsVisitor</key>
+	<string>blocDespiteShape</string>
+	<key>semanticParticleDensity</key>
+	<string>dialogsProcessTension</string>
+	<key>sliderOrJob</key>
+	<string>promiseAtStructure</string>
+	<key>topicAdapterStyle</key>
+	<string>animationObserverSaturation</string>
+</dict>
+</plist>

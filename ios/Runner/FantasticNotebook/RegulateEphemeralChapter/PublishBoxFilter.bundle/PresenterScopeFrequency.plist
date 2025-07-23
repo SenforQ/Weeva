@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOptimizerMode</key>
+	<string>radiusAboutCycle</string>
+	<key>arithmeticFramePressure</key>
+	<string>brushWithoutBridge</string>
+	<key>histogramActionBorder</key>
+	<string>bufferBridgeStyle</string>
+	<key>interactiveChecklistCenter</key>
+	<string>viewWithoutObserver</string>
+	<key>layoutProcessDuration</key>
+	<string>storeAsTemple</string>
+	<key>managerIncludeFramework</key>
+	<string>petAndMode</string>
+	<key>presenterPerPlatform</key>
+	<string>collectionSinceStage</string>
+	<key>seamlessServiceHue</key>
+	<string>labelWithLayer</string>
+	<key>symbolActivityLocation</key>
+	<string>screenSingletonAppearance</string>
+</dict>
+</plist>

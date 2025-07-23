@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerDuringDecorator</key>
+	<string>resourceBesideWork</string>
+	<key>cubitInsideVariable</key>
+	<string>parallelSpineMargin</string>
+	<key>exceptionFlyweightType</key>
+	<string>criticalDescriptorOpacity</string>
+	<key>invisibleResolverRight</key>
+	<string>textureBufferVelocity</string>
+	<key>reusableProviderDuration</key>
+	<string>primaryLabelSize</string>
+	<key>spriteStrategyColor</key>
+	<string>futureDespiteBuffer</string>
+</dict>
+</plist>

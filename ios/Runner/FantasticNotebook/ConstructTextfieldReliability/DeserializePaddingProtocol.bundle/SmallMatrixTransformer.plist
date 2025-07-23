@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionFacadeInset</key>
+	<string>factoryOutsideShape</string>
+	<key>providerSinceProcess</key>
+	<string>playbackViaLayer</string>
+	<key>textUntilValue</key>
+	<string>spineVarContrast</string>
+	<key>uniqueNibBound</key>
+	<string>animationObserverColor</string>
+	<key>unsortedLogFlags</key>
+	<string>allocatorMethodKind</string>
+</dict>
+</plist>

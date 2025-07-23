@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxOutsideFlyweight</key>
+	<string>menuLevelResponse</string>
+	<key>groupSystemTheme</key>
+	<string>gemOutsideAction</string>
+	<key>interfaceStyleCoord</key>
+	<string>gradientVariableFlags</string>
+	<key>loopUntilValue</key>
+	<string>groupScopeAlignment</string>
+	<key>sharedAnimationTheme</key>
+	<string>displayableProgressbarFeedback</string>
+</dict>
+</plist>

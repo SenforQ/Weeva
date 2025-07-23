@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFeatureKind</key>
+	<string>viewShapeColor</string>
+	<key>immutableTimerTransparency</key>
+	<string>smallLayerBrightness</string>
+	<key>imperativeDecorationVisibility</key>
+	<string>temporaryCommandIndex</string>
+	<key>momentumAgainstMemento</key>
+	<string>associatedCursorValidation</string>
+	<key>movementAlongTier</key>
+	<string>rowTempleVisibility</string>
+	<key>resilientBinaryBrightness</key>
+	<string>mobileAroundOperation</string>
+</dict>
+</plist>

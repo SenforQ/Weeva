@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectNearFunction</key>
+	<string>dynamicViewHead</string>
+	<key>assetFormRate</key>
+	<string>lazyAwaitStatus</string>
+	<key>captionTaskStatus</key>
+	<string>tableDecoratorInterval</string>
+	<key>originalSpriteShade</key>
+	<string>statefulSwitchPadding</string>
+	<key>priorInjectionOrientation</key>
+	<string>progressbarOperationTransparency</string>
+	<key>profileVarMode</key>
+	<string>chapterFlyweightFeedback</string>
+	<key>sizedboxEnvironmentDirection</key>
+	<string>tablePatternTail</string>
+	<key>titleAboutComposite</key>
+	<string>tickerForParam</string>
+</dict>
+</plist>

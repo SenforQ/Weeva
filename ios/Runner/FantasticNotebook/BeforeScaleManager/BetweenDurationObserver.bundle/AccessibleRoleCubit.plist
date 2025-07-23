@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOrFlyweight</key>
+	<string>bufferPlatformHue</string>
+	<key>consultativeMasterRotation</key>
+	<string>singletonValueSkewx</string>
+	<key>interfaceMethodKind</key>
+	<string>storeBufferEdge</string>
+	<key>scrollValueContrast</key>
+	<string>previewInMethod</string>
+	<key>tangentAndBridge</key>
+	<string>materialAtVar</string>
+</dict>
+</plist>

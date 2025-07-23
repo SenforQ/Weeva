@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProcessTransparency</key>
+	<string>gradientEnvironmentFeedback</string>
+	<key>chartStrategyCenter</key>
+	<string>convolutionWithScope</string>
+	<key>currentAlignmentOrientation</key>
+	<string>graphAsPlatform</string>
+	<key>currentAssetSpacing</key>
+	<string>rowContainScope</string>
+	<key>elasticSingletonOffset</key>
+	<string>descriptionVisitorOffset</string>
+	<key>menuIncludeDecorator</key>
+	<string>variantBeyondChain</string>
+	<key>mobileParamOffset</key>
+	<string>customNavigationTag</string>
+	<key>uniformResourceVisible</key>
+	<string>cursorTempleInterval</string>
+</dict>
+</plist>

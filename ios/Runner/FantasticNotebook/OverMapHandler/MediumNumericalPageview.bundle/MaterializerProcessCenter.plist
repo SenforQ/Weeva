@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constInterfaceCount</key>
+	<string>statefulAtFlyweight</string>
+	<key>effectBesideMethod</key>
+	<string>interactorFlyweightCoord</string>
+	<key>grainAmongStrategy</key>
+	<string>storeAroundProcess</string>
+	<key>observerAgainstShape</key>
+	<string>constraintBesideWork</string>
+	<key>persistentPrecisionInset</key>
+	<string>prismaticRouteShade</string>
+	<key>providerNearInterpreter</key>
+	<string>interactorThroughStage</string>
+	<key>responseTierForce</key>
+	<string>navigatorExceptMethod</string>
+	<key>topicBesideObserver</key>
+	<string>rapidHashSkewx</string>
+</dict>
+</plist>

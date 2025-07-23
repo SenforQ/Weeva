@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeScaffoldSkewy</key>
+	<string>blocWithoutParameter</string>
+	<key>grainTypeFormat</key>
+	<string>functionalInterfaceFormat</string>
+	<key>listviewPerSystem</key>
+	<string>kernelBufferValidation</string>
+	<key>mobxExceptAdapter</key>
+	<string>displayableCardBorder</string>
+	<key>modelOrFlyweight</key>
+	<string>advancedLocalizationForce</string>
+	<key>navigationInterpreterTheme</key>
+	<string>inactiveCycleInteraction</string>
+	<key>newestInkwellName</key>
+	<string>cubitContainLevel</string>
+	<key>requiredMusicTension</key>
+	<string>anchorFacadeTint</string>
+	<key>sortedMenuDuration</key>
+	<string>inheritedResolverBound</string>
+</dict>
+</plist>

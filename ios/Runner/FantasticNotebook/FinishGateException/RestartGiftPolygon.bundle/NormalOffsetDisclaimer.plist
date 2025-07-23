@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarParameterBehavior</key>
+	<string>durationContainObserver</string>
+	<key>boxshadowFrameworkMargin</key>
+	<string>declarativeMonsterEdge</string>
+	<key>delegateThroughDecorator</key>
+	<string>imperativeProjectVelocity</string>
+	<key>fragmentBeyondTask</key>
+	<string>scaffoldVarVelocity</string>
+	<key>graphStageDuration</key>
+	<string>autoCollectionLocation</string>
+	<key>relationalPaddingAppearance</key>
+	<string>currentDurationCenter</string>
+	<key>singleExceptionSpacing</key>
+	<string>presenterSystemAcceleration</string>
+	<key>subpixelIncludeSystem</key>
+	<string>pivotalSingletonTint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoZoneIndex</key>
+	<string>cubitDuringContext</string>
+	<key>commandForAdapter</key>
+	<string>durationAlongParam</string>
+	<key>cubeExceptProcess</key>
+	<string>toolWorkMode</string>
+	<key>lastStepFeedback</key>
+	<string>positionAmongStage</string>
+	<key>resolverInsideType</key>
+	<string>sliderFacadeOrigin</string>
+	<key>themeCycleAppearance</key>
+	<string>projectTempleInset</string>
+</dict>
+</plist>

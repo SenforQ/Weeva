@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandVariablePressure</key>
+	<string>gestureBufferVelocity</string>
+	<key>gridAwayTier</key>
+	<string>permissivePrioritySize</string>
+	<key>resultWithBuffer</key>
+	<string>localDocumentStatus</string>
+</dict>
+</plist>

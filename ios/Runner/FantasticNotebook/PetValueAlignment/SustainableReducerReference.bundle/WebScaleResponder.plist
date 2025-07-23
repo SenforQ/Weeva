@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMementoBottom</key>
+	<string>batchContainMediator</string>
+	<key>animatedSceneBrightness</key>
+	<string>flexOutsideBuffer</string>
+	<key>commonEffectAcceleration</key>
+	<string>sequentialViewDirection</string>
+	<key>deferredBlocBrightness</key>
+	<string>activatedSensorValidation</string>
+	<key>denseDimensionCount</key>
+	<string>immediateAsyncLocation</string>
+	<key>groupExceptStructure</key>
+	<string>durationAgainstStrategy</string>
+	<key>interactorTaskTag</key>
+	<string>queryFrameworkLocation</string>
+	<key>primaryFactoryContrast</key>
+	<string>typicalGraphInteraction</string>
+	<key>stepContainKind</key>
+	<string>viewPlatformKind</string>
+</dict>
+</plist>

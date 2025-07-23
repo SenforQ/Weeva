@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedPositionTransparency</key>
+	<string>basicRoleAlignment</string>
+	<key>explicitEffectAlignment</key>
+	<string>semanticTweenDirection</string>
+	<key>parallelOperationIndex</key>
+	<string>descriptionVariableBottom</string>
+	<key>statelessOperationRate</key>
+	<string>constraintPlatformDensity</string>
+	<key>tabviewScopeOffset</key>
+	<string>routeBesideLayer</string>
+	<key>transitionUntilDecorator</key>
+	<string>interpolationNumberSkewy</string>
+</dict>
+</plist>

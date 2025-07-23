@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityStateSaturation</key>
+	<string>monsterThanMode</string>
+	<key>positionAndTier</key>
+	<string>storageKindBottom</string>
+	<key>projectModeInteraction</key>
+	<string>cellContextTop</string>
+	<key>respectiveChartStyle</key>
+	<string>missionSystemShade</string>
+	<key>sceneLevelTheme</key>
+	<string>smallMovementDuration</string>
+	<key>textObserverBorder</key>
+	<string>sampleVariableCenter</string>
+	<key>visibleUsecaseTension</key>
+	<string>finalFactoryMargin</string>
+	<key>zoneChainBottom</key>
+	<string>timerNearOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAndCommand</key>
+	<string>routerWithStructure</string>
+	<key>localizationSingletonDelay</key>
+	<string>screenSystemName</string>
+	<key>managerStageCoord</key>
+	<string>handlerCompositeTheme</string>
+	<key>memberSystemBrightness</key>
+	<string>navigationAsActivity</string>
+	<key>modulusDuringBridge</key>
+	<string>newestFutureValidation</string>
+	<key>positionedPatternAppearance</key>
+	<string>entityStructureTop</string>
+	<key>queueLayerAppearance</key>
+	<string>compositionalImageScale</string>
+	<key>statelessProgressbarTag</key>
+	<string>resilientPlaybackBound</string>
+</dict>
+</plist>

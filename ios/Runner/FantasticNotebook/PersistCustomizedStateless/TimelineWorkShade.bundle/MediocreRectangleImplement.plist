@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTouchSpeed</key>
+	<string>loopOrFacade</string>
+	<key>concurrentCompletionTint</key>
+	<string>asynchronousChecklistSkewy</string>
+	<key>consumerCycleDuration</key>
+	<string>positionByCycle</string>
+	<key>controllerNumberType</key>
+	<string>commandTaskDuration</string>
+	<key>gramBridgeState</key>
+	<string>concreteCurveOpacity</string>
+	<key>immutableFlexSaturation</key>
+	<string>oldScreenFormat</string>
+	<key>missedCompleterIndex</key>
+	<string>streamDuringScope</string>
+	<key>responseStrategyTail</key>
+	<string>optionByVisitor</string>
+	<key>serviceBeyondScope</key>
+	<string>multiplicationBridgeAcceleration</string>
+</dict>
+</plist>

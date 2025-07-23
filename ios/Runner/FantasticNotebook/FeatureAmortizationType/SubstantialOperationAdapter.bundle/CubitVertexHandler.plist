@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedObserverInteraction</key>
+	<string>inheritedSpineState</string>
+	<key>giftFunctionBorder</key>
+	<string>navigationLevelSpeed</string>
+	<key>giftLikeMode</key>
+	<string>compositionBySystem</string>
+	<key>grainCommandContrast</key>
+	<string>cacheActionTag</string>
+	<key>largeResolverStyle</key>
+	<string>queueFormFlags</string>
+	<key>numericalContainerOpacity</key>
+	<string>intuitiveGrainPressure</string>
+	<key>repositoryVariableSize</key>
+	<string>loopFromMethod</string>
+	<key>sliderAdapterHue</key>
+	<string>controllerChainDuration</string>
+</dict>
+</plist>

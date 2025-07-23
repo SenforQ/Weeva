@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPatternDelay</key>
+	<string>localSingletonTop</string>
+	<key>certificateJobRotation</key>
+	<string>channelViaBuffer</string>
+	<key>positionPerMethod</key>
+	<string>exceptionInScope</string>
+	<key>scrollableChartDirection</key>
+	<string>taskAmongMode</string>
+</dict>
+</plist>

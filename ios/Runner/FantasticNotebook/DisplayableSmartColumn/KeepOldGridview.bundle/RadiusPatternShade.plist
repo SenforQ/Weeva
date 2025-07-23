@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityParameterMargin</key>
+	<string>lastControllerPosition</string>
+	<key>aspectratioTaskSpeed</key>
+	<string>keyCoordinatorLeft</string>
+	<key>enabledBufferVisible</key>
+	<string>textNearMethod</string>
+	<key>functionalPopupRotation</key>
+	<string>bufferVisitorContrast</string>
+	<key>notifierBridgeCoord</key>
+	<string>channelsDespiteObserver</string>
+	<key>persistentAsyncRotation</key>
+	<string>imperativeCallbackLocation</string>
+</dict>
+</plist>

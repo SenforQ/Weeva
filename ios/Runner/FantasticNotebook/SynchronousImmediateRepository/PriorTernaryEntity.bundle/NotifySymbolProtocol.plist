@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFlyweightStyle</key>
+	<string>usecaseLevelEdge</string>
+	<key>alignmentOrParameter</key>
+	<string>masterAndWork</string>
+	<key>eventUntilVisitor</key>
+	<string>immutableStepRotation</string>
+	<key>inheritedResourceStyle</key>
+	<string>allocatorProcessRate</string>
+	<key>positionedWithoutValue</key>
+	<string>viewPrototypeDirection</string>
+	<key>queueInProcess</key>
+	<string>dynamicAllocatorRight</string>
+</dict>
+</plist>

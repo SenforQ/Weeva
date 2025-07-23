@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncModelPosition</key>
+	<string>layoutOutsideFramework</string>
+	<key>asynchronousGestureCount</key>
+	<string>reducerAdapterDelay</string>
+	<key>canvasWithoutContext</key>
+	<string>progressbarByPattern</string>
+	<key>masterShapeTag</key>
+	<string>stepScopeScale</string>
+	<key>nativeMomentumRate</key>
+	<string>flexibleStreamFeedback</string>
+	<key>pointIncludeMediator</key>
+	<string>awaitTempleColor</string>
+	<key>priorResponseContrast</key>
+	<string>animatedTextureType</string>
+	<key>stepShapeScale</key>
+	<string>associatedGraphicShape</string>
+</dict>
+</plist>

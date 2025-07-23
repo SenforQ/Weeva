@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSingletonBound</key>
+	<string>criticalWidgetAlignment</string>
+	<key>presenterDespiteStage</key>
+	<string>canvasDespiteCycle</string>
+	<key>sineModeFeedback</key>
+	<string>handlerContainVar</string>
+	<key>textureThroughShape</key>
+	<string>interactivePlateDuration</string>
+</dict>
+</plist>

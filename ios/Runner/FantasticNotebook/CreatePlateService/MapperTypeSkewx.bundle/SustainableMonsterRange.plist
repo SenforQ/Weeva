@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCyclePressure</key>
+	<string>controllerActionInteraction</string>
+	<key>drawerParamStyle</key>
+	<string>crucialGroupSkewy</string>
+	<key>gridFacadeTint</key>
+	<string>displayableAspectRotation</string>
+	<key>modulusFromMediator</key>
+	<string>mediaCommandSpeed</string>
+	<key>multiRepositoryPadding</key>
+	<string>scaleProxyFeedback</string>
+	<key>nativeProfileVisibility</key>
+	<string>drawerShapeRight</string>
+	<key>presenterAsVar</key>
+	<string>completerExceptParameter</string>
+	<key>resourceOrMediator</key>
+	<string>alignmentValueLocation</string>
+	<key>storeInsideValue</key>
+	<string>activityFunctionCoord</string>
+	<key>streamVersusMode</key>
+	<string>standaloneMonsterRotation</string>
+</dict>
+</plist>

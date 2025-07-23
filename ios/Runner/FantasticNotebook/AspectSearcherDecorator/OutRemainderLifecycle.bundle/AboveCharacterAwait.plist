@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVersusBuffer</key>
+	<string>hashVersusComposite</string>
+	<key>capsuleCycleIndex</key>
+	<string>hierarchicalGateColor</string>
+	<key>completerByStrategy</key>
+	<string>commandModeTheme</string>
+	<key>menuJobDuration</key>
+	<string>explicitListenerStyle</string>
+	<key>respectiveNavigatorMode</key>
+	<string>statelessNormStatus</string>
+	<key>tappableMethodType</key>
+	<string>containerStrategyResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledResourceSaturation</key>
+	<string>viewFormSpeed</string>
+	<key>durationFormMode</key>
+	<string>awaitContainTask</string>
+	<key>frameActionVelocity</key>
+	<string>missedStackSpacing</string>
+	<key>materialInsideFacade</key>
+	<string>declarativeTabbarTail</string>
+	<key>resizableCubitIndex</key>
+	<string>errorLevelFeedback</string>
+	<key>responseLikeLayer</key>
+	<string>appbarOfPrototype</string>
+	<key>tableMethodAcceleration</key>
+	<string>scrollNumberEdge</string>
+	<key>transitionAboutMediator</key>
+	<string>nodeInterpreterBound</string>
+	<key>vectorEnvironmentScale</key>
+	<string>decorationVariableFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChannelsRate</key>
+	<string>persistentOffsetPosition</string>
+	<key>cubitOrCommand</key>
+	<string>assetInsideShape</string>
+	<key>hardFactoryBorder</key>
+	<string>methodScopeTransparency</string>
+	<key>interfaceTierShade</key>
+	<string>firstHandlerFrequency</string>
+	<key>statePerState</key>
+	<string>animationWithMethod</string>
+	<key>swiftOutsideAdapter</key>
+	<string>cubitProcessDuration</string>
+	<key>vectorAroundPattern</key>
+	<string>sliderInterpreterShade</string>
+</dict>
+</plist>

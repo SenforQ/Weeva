@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNotificationCoord</key>
+	<string>channelTypeBrightness</string>
+	<key>channelsModeDelay</key>
+	<string>particlePhaseHue</string>
+	<key>durationOfCycle</key>
+	<string>binaryCycleInset</string>
+	<key>eagerAppbarStyle</key>
+	<string>hierarchicalLocalizationShape</string>
+	<key>musicDecoratorOrigin</key>
+	<string>methodVersusMediator</string>
+	<key>seamlessParticleResponse</key>
+	<string>repositoryNumberKind</string>
+	<key>sizeDuringAdapter</key>
+	<string>denseScaleMargin</string>
+	<key>storeTypeStatus</key>
+	<string>collectionPerFunction</string>
+	<key>unactivatedAssetForce</key>
+	<string>blocContextTransparency</string>
+</dict>
+</plist>

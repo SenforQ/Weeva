@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDependencyFormat</key>
+	<string>navigatorPerOperation</string>
+	<key>operationAdapterFeedback</key>
+	<string>offsetFormCoord</string>
+	<key>sliderSinceSingleton</key>
+	<string>symmetricStreamLocation</string>
+	<key>tangentCycleBorder</key>
+	<string>layoutTempleSaturation</string>
+	<key>temporaryGridviewRotation</key>
+	<string>permissiveSymbolRotation</string>
+	<key>widgetIncludeWork</key>
+	<string>sinkIncludeBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeFactoryBrightness</key>
+	<string>capsuleFunctionVelocity</string>
+	<key>cupertinoApertureInset</key>
+	<string>radioStyleVelocity</string>
+	<key>entityWorkOffset</key>
+	<string>unsortedSliderSkewy</string>
+	<key>persistentScrollCoord</key>
+	<string>delegateChainMargin</string>
+	<key>responseOperationName</key>
+	<string>persistentWorkflowPosition</string>
+	<key>storeAboutLevel</key>
+	<string>segmentAgainstBridge</string>
+	<key>usecaseStateInteraction</key>
+	<string>imperativeOperationBorder</string>
+</dict>
+</plist>

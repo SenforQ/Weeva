@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStrategyPosition</key>
+	<string>enabledWidgetInset</string>
+	<key>currentRemainderFlags</key>
+	<string>factoryAtTemple</string>
+	<key>discardedAllocatorRotation</key>
+	<string>progressbarExceptMethod</string>
+	<key>discardedPointMargin</key>
+	<string>overlayFromActivity</string>
+	<key>granularOperationDuration</key>
+	<string>errorFrameworkCoord</string>
+	<key>handlerJobStyle</key>
+	<string>textActivityAppearance</string>
+	<key>navigatorBeyondPhase</key>
+	<string>viewVersusEnvironment</string>
+	<key>textfieldProxyKind</key>
+	<string>animatedResolverVisible</string>
+</dict>
+</plist>

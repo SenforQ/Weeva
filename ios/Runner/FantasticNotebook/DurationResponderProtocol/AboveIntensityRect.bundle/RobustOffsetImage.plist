@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSpriteSkewx</key>
+	<string>uniformUtilSkewy</string>
+	<key>activitySinceMediator</key>
+	<string>largeTextfieldFeedback</string>
+	<key>asynchronousRiverpodCount</key>
+	<string>taskBridgeDensity</string>
+	<key>explicitFutureRate</key>
+	<string>taskAroundState</string>
+	<key>gridAndParameter</key>
+	<string>requiredWorkflowInset</string>
+	<key>notificationObserverFormat</key>
+	<string>permissiveFragmentBorder</string>
+	<key>playbackModeInteraction</key>
+	<string>asyncStageScale</string>
+	<key>rapidReducerTransparency</key>
+	<string>directlySessionContrast</string>
+	<key>transitionMementoSpeed</key>
+	<string>inactiveEntropyOrientation</string>
+</dict>
+</plist>

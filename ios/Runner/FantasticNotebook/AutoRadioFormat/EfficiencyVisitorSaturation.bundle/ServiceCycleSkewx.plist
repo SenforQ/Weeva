@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOperationType</key>
+	<string>crudeTweenStatus</string>
+	<key>concurrentAnimationValidation</key>
+	<string>zoneAlongShape</string>
+	<key>constraintStrategyBorder</key>
+	<string>visibleMobxRotation</string>
+	<key>customCallbackBrightness</key>
+	<string>greatTabbarCenter</string>
+	<key>displayableGestureMargin</key>
+	<string>monsterBridgeInset</string>
+	<key>effectModeSize</key>
+	<string>nibChainAcceleration</string>
+	<key>effectOfAction</key>
+	<string>chartOutsideJob</string>
+	<key>hardSliderName</key>
+	<string>localizationAtMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerWithoutPrototype</key>
+	<string>responsiveSpriteBehavior</string>
+	<key>capacitiesCommandSaturation</key>
+	<string>documentLayerInteraction</string>
+	<key>mediaqueryFacadeTint</key>
+	<string>unactivatedBuilderBehavior</string>
+	<key>parallelUnaryRate</key>
+	<string>blocContextScale</string>
+	<key>scaffoldLayerAlignment</key>
+	<string>reducerMediatorAlignment</string>
+</dict>
+</plist>

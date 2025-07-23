@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystShapeDelay</key>
+	<string>independentCommandOrientation</string>
+	<key>curveCycleInteraction</key>
+	<string>monsterProcessSkewx</string>
+	<key>greatOverlayInterval</key>
+	<string>textureCycleHue</string>
+	<key>nativeFlexDuration</key>
+	<string>routerOutsideMethod</string>
+	<key>popupVersusActivity</key>
+	<string>cupertinoNodeDepth</string>
+	<key>statefulCycleContrast</key>
+	<string>diffableAssetShape</string>
+	<key>storeCompositeKind</key>
+	<string>touchTaskStyle</string>
+</dict>
+</plist>

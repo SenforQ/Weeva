@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFormTint</key>
+	<string>customTextureMargin</string>
+	<key>baselineOrLayer</key>
+	<string>skinByWork</string>
+	<key>builderOrMode</key>
+	<string>ignoredAssetSpacing</string>
+	<key>synchronousResourcePressure</key>
+	<string>storageLayerAppearance</string>
+</dict>
+</plist>

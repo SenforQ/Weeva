@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAsyncDirection</key>
+	<string>brushThanObserver</string>
+	<key>cupertinoProxyCount</key>
+	<string>switchTaskCount</string>
+	<key>decorationPhaseOpacity</key>
+	<string>tabviewBridgeTransparency</string>
+	<key>indicatorAtKind</key>
+	<string>normalBoxshadowMode</string>
+	<key>painterPlatformValidation</key>
+	<string>mobxOrPrototype</string>
+	<key>particleFlyweightHue</key>
+	<string>chartExceptMode</string>
+	<key>seamlessInstructionVisible</key>
+	<string>resilientMovementState</string>
+	<key>unsortedAllocatorRight</key>
+	<string>precisionFlyweightOrientation</string>
+	<key>widgetSystemOffset</key>
+	<string>mediocreCatalystSize</string>
+</dict>
+</plist>

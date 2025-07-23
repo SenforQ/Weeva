@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeWidgetFlags</key>
+	<string>alphaSingletonSkewx</string>
+	<key>disabledTweenAlignment</key>
+	<string>cupertinoSingletonBehavior</string>
+	<key>graphicUntilObserver</key>
+	<string>slashTierRate</string>
+	<key>sceneFrameworkVelocity</key>
+	<string>curveContextInteraction</string>
+	<key>spineStateForce</key>
+	<string>responseIncludeMode</string>
+</dict>
+</plist>

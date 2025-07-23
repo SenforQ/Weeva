@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferVarAcceleration</key>
+	<string>greatRequestRight</string>
+	<key>columnFlyweightOffset</key>
+	<string>tabviewCycleRight</string>
+	<key>exceptionDecoratorShade</key>
+	<string>adaptiveGraphAppearance</string>
+	<key>imperativeOperationCount</key>
+	<string>zoneWorkScale</string>
+	<key>lostButtonBound</key>
+	<string>responsiveMethodSkewy</string>
+	<key>lostStreamInteraction</key>
+	<string>builderCommandDepth</string>
+	<key>sceneFacadeFrequency</key>
+	<string>delegateViaContext</string>
+	<key>uniformHandlerDistance</key>
+	<string>resilientGroupEdge</string>
+</dict>
+</plist>

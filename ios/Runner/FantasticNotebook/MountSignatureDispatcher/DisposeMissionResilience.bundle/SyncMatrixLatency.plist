@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAsKind</key>
+	<string>framePerScope</string>
+	<key>consumerFormInterval</key>
+	<string>transformerCycleCount</string>
+	<key>delegateDuringFramework</key>
+	<string>layoutBeyondMode</string>
+	<key>descriptorUntilKind</key>
+	<string>discardedGridDensity</string>
+	<key>durationOutsideFunction</key>
+	<string>controllerLevelForce</string>
+	<key>sizedboxMethodShape</key>
+	<string>transformerNearState</string>
+	<key>zoneVariableShape</key>
+	<string>granularEffectOrigin</string>
+</dict>
+</plist>

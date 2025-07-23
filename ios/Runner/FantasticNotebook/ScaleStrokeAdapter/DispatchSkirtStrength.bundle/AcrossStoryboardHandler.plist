@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationChainHue</key>
+	<string>documentAboutPattern</string>
+	<key>labelWithState</key>
+	<string>appbarPerState</string>
+	<key>navigatorPatternTheme</key>
+	<string>menuDespiteInterpreter</string>
+	<key>publicTransitionLocation</key>
+	<string>containerActionPressure</string>
+	<key>transitionActivityResponse</key>
+	<string>dimensionBeyondCommand</string>
+</dict>
+</plist>

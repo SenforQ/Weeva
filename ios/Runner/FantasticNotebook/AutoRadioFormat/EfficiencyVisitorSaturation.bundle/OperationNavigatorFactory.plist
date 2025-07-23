@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideComposite</key>
+	<string>pinchableGramInteraction</string>
+	<key>bulletNumberShape</key>
+	<string>missionAtNumber</string>
+	<key>constEquipmentPressure</key>
+	<string>toolBridgeTint</string>
+	<key>diversifiedMonsterCount</key>
+	<string>tweenLevelHue</string>
+	<key>gestureDecoratorFormat</key>
+	<string>progressbarBesideSystem</string>
+	<key>localizationAndPlatform</key>
+	<string>radiusValueDensity</string>
+	<key>sizeAlongActivity</key>
+	<string>directIntensityAppearance</string>
+	<key>subtleFrameTransparency</key>
+	<string>hashLikeParameter</string>
+</dict>
+</plist>

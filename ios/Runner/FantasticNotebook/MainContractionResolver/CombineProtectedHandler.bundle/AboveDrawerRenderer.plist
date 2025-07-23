@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStorageKind</key>
+	<string>segmentThanScope</string>
+	<key>buttonActionHead</key>
+	<string>streamAgainstChain</string>
+	<key>diffableRadiusBorder</key>
+	<string>basicLayoutTint</string>
+	<key>finalLabelOffset</key>
+	<string>gateCycleBottom</string>
+	<key>iterativeRequestShape</key>
+	<string>sequentialObserverLeft</string>
+	<key>providerStageHue</key>
+	<string>progressbarPlatformSize</string>
+	<key>respectiveAssetOpacity</key>
+	<string>tabviewFlyweightAcceleration</string>
+	<key>transitionUntilEnvironment</key>
+	<string>prismaticTransitionAcceleration</string>
+</dict>
+</plist>

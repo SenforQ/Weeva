@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterInsideObserver</key>
+	<string>streamAtTier</string>
+	<key>decorationContainFacade</key>
+	<string>listenerSingletonOpacity</string>
+	<key>eagerHistogramRate</key>
+	<string>navigatorForBuffer</string>
+	<key>explicitPresenterFrequency</key>
+	<string>coordinatorWithContext</string>
+	<key>missedStreamTransparency</key>
+	<string>consultativeModelOpacity</string>
+	<key>staticAspectDistance</key>
+	<string>serviceNumberDirection</string>
+</dict>
+</plist>

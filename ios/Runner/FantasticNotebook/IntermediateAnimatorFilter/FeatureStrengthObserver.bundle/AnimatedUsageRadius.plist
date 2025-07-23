@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSingletonValidation</key>
+	<string>boxshadowFormInset</string>
+	<key>interactiveCharacterVisible</key>
+	<string>stampLikeStructure</string>
+	<key>loopPhaseFormat</key>
+	<string>draggableTabbarCoord</string>
+	<key>metadataBeyondFlyweight</key>
+	<string>callbackPhaseMode</string>
+	<key>methodCycleAppearance</key>
+	<string>observerAwayType</string>
+	<key>sampleAmongParam</key>
+	<string>mediocreTickerBrightness</string>
+	<key>scrollWithOperation</key>
+	<string>durationStyleTension</string>
+	<key>viewLevelHue</key>
+	<string>grayscaleLayerTheme</string>
+</dict>
+</plist>

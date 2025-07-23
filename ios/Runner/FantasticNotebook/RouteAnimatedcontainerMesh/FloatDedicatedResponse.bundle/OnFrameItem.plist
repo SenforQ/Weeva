@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationTypeVisibility</key>
+	<string>asyncTypeDuration</string>
+	<key>factoryNearMode</key>
+	<string>managerLevelColor</string>
+	<key>gestureAtAction</key>
+	<string>containerStructureDepth</string>
+	<key>kernelLikeScope</key>
+	<string>resizableWidgetDistance</string>
+	<key>navigatorBridgeBehavior</key>
+	<string>storyboardPerAdapter</string>
+	<key>pivotalCommandBehavior</key>
+	<string>firstEntropyRotation</string>
+	<key>stateKindStatus</key>
+	<string>gridMethodLocation</string>
+	<key>tabviewContainPattern</key>
+	<string>compositionalGrayscaleCoord</string>
+	<key>transitionSingletonVelocity</key>
+	<string>accordionNormOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPatternDelay</key>
+	<string>nodeFlyweightValidation</string>
+	<key>effectBeyondState</key>
+	<string>constraintAlongPattern</string>
+	<key>loopDuringWork</key>
+	<string>comprehensiveInstructionRotation</string>
+	<key>opaqueInkwellRate</key>
+	<string>semanticsOperationSkewy</string>
+	<key>requestSingletonPadding</key>
+	<string>routeWithoutFacade</string>
+	<key>semanticsAroundCommand</key>
+	<string>sizedboxPerValue</string>
+	<key>specifyMethodTension</key>
+	<string>projectionDuringPattern</string>
+	<key>statelessContextSkewy</key>
+	<string>channelOutsideSystem</string>
+	<key>tweenAmongPhase</key>
+	<string>coordinatorAsSystem</string>
+</dict>
+</plist>

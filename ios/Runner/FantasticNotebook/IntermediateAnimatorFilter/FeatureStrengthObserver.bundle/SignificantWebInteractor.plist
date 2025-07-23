@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIsolateAlignment</key>
+	<string>asyncBufferOpacity</string>
+	<key>challengeInAction</key>
+	<string>requiredProfileOrigin</string>
+	<key>cursorSystemOpacity</key>
+	<string>cursorModeAppearance</string>
+	<key>injectionAmongStrategy</key>
+	<string>controllerVariableState</string>
+	<key>presenterParamTransparency</key>
+	<string>resolverAwayContext</string>
+	<key>rowPhaseTag</key>
+	<string>containerVarMargin</string>
+	<key>sliderAndKind</key>
+	<string>delegateCompositeSize</string>
+	<key>sliderCommandSpeed</key>
+	<string>interpolationWorkTail</string>
+	<key>smallLocalizationLocation</key>
+	<string>finalMemberCenter</string>
+	<key>textureAlongLevel</key>
+	<string>originalCupertinoFrequency</string>
+</dict>
+</plist>

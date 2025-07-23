@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentOperationTag</key>
+	<string>providerIncludeAdapter</string>
+	<key>localizationNearOperation</key>
+	<string>taskByEnvironment</string>
+	<key>painterLayerBorder</key>
+	<string>diffableHandlerHead</string>
+	<key>popupPhasePosition</key>
+	<string>textMementoCoord</string>
+	<key>requestAboutBridge</key>
+	<string>hashBufferValidation</string>
+	<key>resizableLoopDensity</key>
+	<string>captionNearTask</string>
+	<key>tickerViaMediator</key>
+	<string>titleUntilAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedPopupPadding</key>
+	<string>sceneMediatorInset</string>
+	<key>interactorNearStyle</key>
+	<string>invisibleConfigurationCenter</string>
+	<key>permanentChannelDelay</key>
+	<string>backwardCapsuleBehavior</string>
+	<key>permanentEquipmentKind</key>
+	<string>storageInsideProxy</string>
+	<key>queryWorkScale</key>
+	<string>screenMediatorDepth</string>
+	<key>semanticContainerAcceleration</key>
+	<string>scrollableSliderPressure</string>
+</dict>
+</plist>

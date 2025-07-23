@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasKindSkewx</key>
+	<string>persistentNavigatorName</string>
+	<key>capsuleFlyweightForce</key>
+	<string>publicTweenShape</string>
+	<key>collectionChainLeft</key>
+	<string>activatedPrecisionFeedback</string>
+	<key>decorationThanCycle</key>
+	<string>activatedTickerSpeed</string>
+	<key>durationDecoratorFeedback</key>
+	<string>robustMetadataVisibility</string>
+	<key>granularMovementVisibility</key>
+	<string>declarativeLabelFlags</string>
+	<key>graphScopeFlags</key>
+	<string>requestSingletonContrast</string>
+	<key>navigationLevelFeedback</key>
+	<string>finalBoxHead</string>
+</dict>
+</plist>

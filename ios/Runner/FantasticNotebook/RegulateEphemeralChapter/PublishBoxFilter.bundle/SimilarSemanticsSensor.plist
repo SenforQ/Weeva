@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralRouteOrientation</key>
+	<string>assetStateBound</string>
+	<key>interactorViaStrategy</key>
+	<string>dependencyOrEnvironment</string>
+	<key>interfaceDuringEnvironment</key>
+	<string>explicitTransitionInset</string>
+	<key>navigationVariableRight</key>
+	<string>mapMementoCenter</string>
+	<key>projectAlongVar</key>
+	<string>normalHeroSpeed</string>
+	<key>routeWorkTail</key>
+	<string>labelAmongCommand</string>
+	<key>semanticConstraintSkewy</key>
+	<string>grainOrVariable</string>
+	<key>significantThreadTheme</key>
+	<string>desktopCubitHead</string>
+</dict>
+</plist>

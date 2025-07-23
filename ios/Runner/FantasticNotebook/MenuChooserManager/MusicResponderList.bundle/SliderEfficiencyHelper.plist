@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterStrategySpacing</key>
+	<string>providerStructureCoord</string>
+	<key>controllerNumberDensity</key>
+	<string>stackOutsideLevel</string>
+	<key>cycleFromVisitor</key>
+	<string>mainBrushFrequency</string>
+	<key>localScrollBorder</key>
+	<string>compositionAsActivity</string>
+	<key>sliderAwayValue</key>
+	<string>spineParamBrightness</string>
+</dict>
+</plist>

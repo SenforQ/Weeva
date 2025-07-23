@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerDuringComposite</key>
+	<string>delegateLevelDirection</string>
+	<key>localFactoryContrast</key>
+	<string>effectOperationDelay</string>
+	<key>mobxLevelStatus</key>
+	<string>pivotalGridviewColor</string>
+	<key>storageAtVisitor</key>
+	<string>gridPatternInterval</string>
+	<key>uniqueColumnSpeed</key>
+	<string>radiusThroughStructure</string>
+</dict>
+</plist>

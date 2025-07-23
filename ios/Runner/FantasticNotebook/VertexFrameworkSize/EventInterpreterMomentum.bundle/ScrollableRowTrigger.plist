@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTempleVisible</key>
+	<string>pointBesideComposite</string>
+	<key>buttonTaskSpeed</key>
+	<string>cartesianDecorationContrast</string>
+	<key>cartesianProjectCenter</key>
+	<string>draggableToolName</string>
+	<key>gestureBesideStyle</key>
+	<string>viewContextInset</string>
+	<key>nodeBridgeMomentum</key>
+	<string>effectVariableSpeed</string>
+	<key>permissiveGestureInteraction</key>
+	<string>capsuleProxyResponse</string>
+	<key>pivotalMusicSize</key>
+	<string>deferredGateSpacing</string>
+	<key>primaryReducerBrightness</key>
+	<string>singletonJobFrequency</string>
+	<key>requiredTaskTension</key>
+	<string>robustGrainLocation</string>
+	<key>tableBesideNumber</key>
+	<string>statelessTabviewFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNodeMargin</key>
+	<string>intermediateGroupBrightness</string>
+	<key>channelCompositeBehavior</key>
+	<string>controllerLikeChain</string>
+	<key>futureVariableMomentum</key>
+	<string>grainVisitorPadding</string>
+	<key>normVisitorInset</key>
+	<string>viewAgainstParameter</string>
+	<key>pinchableFactoryShape</key>
+	<string>textfieldVersusActivity</string>
+</dict>
+</plist>

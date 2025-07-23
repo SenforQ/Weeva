@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicViewFormat</key>
+	<string>euclideanRiverpodSkewx</string>
+	<key>grayscaleFrameworkOffset</key>
+	<string>columnAdapterValidation</string>
+	<key>ignoredNibContrast</key>
+	<string>singleDecorationSkewy</string>
+	<key>positionedIncludePlatform</key>
+	<string>checklistOfAdapter</string>
+	<key>resourceProcessCount</key>
+	<string>widgetAgainstScope</string>
+	<key>responseDuringForm</key>
+	<string>batchParameterBottom</string>
+	<key>rowAlongBuffer</key>
+	<string>techniqueDespiteInterpreter</string>
+	<key>rowPhaseCenter</key>
+	<string>textureAwayNumber</string>
+	<key>viewFromBuffer</key>
+	<string>delegateWithValue</string>
+</dict>
+</plist>

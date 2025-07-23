@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisFrameworkSaturation</key>
+	<string>pageviewBufferHue</string>
+	<key>checklistTaskColor</key>
+	<string>streamAtKind</string>
+	<key>directSingletonBorder</key>
+	<string>semanticsDuringProcess</string>
+	<key>fragmentTaskName</key>
+	<string>widgetIncludeForm</string>
+	<key>logCompositeDelay</key>
+	<string>resizableUsecaseRate</string>
+	<key>requestVersusBridge</key>
+	<string>logSingletonCount</string>
+</dict>
+</plist>

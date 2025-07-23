@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringAction</key>
+	<string>equipmentWithoutJob</string>
+	<key>currentContractionBottom</key>
+	<string>providerWorkDelay</string>
+	<key>gridWithLayer</key>
+	<string>custompaintContextPadding</string>
+	<key>mapCycleDepth</key>
+	<string>factoryJobStatus</string>
+	<key>tensorChapterOffset</key>
+	<string>animatedcontainerMementoOrigin</string>
+</dict>
+</plist>

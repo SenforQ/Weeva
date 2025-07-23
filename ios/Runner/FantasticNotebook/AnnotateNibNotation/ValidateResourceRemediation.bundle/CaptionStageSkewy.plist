@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSinceDecorator</key>
+	<string>progressbarContextForce</string>
+	<key>checkboxOrShape</key>
+	<string>decorationViaType</string>
+	<key>coordinatorAgainstInterpreter</key>
+	<string>frameLikeMediator</string>
+	<key>crudeAssetName</key>
+	<string>functionalColumnRotation</string>
+	<key>mediumCupertinoSpacing</key>
+	<string>marginOfPattern</string>
+	<key>missedBlocRight</key>
+	<string>mediocreResourcePosition</string>
+	<key>mobxStructureOffset</key>
+	<string>prevIsolateContrast</string>
+	<key>painterVersusSystem</key>
+	<string>borderTierTop</string>
+	<key>presenterLevelSize</key>
+	<string>interactiveTransitionSize</string>
+	<key>widgetNumberStyle</key>
+	<string>textDuringTier</string>
+</dict>
+</plist>

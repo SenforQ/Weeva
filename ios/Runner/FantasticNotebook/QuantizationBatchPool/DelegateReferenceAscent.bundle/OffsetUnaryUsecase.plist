@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOutsideForm</key>
+	<string>requestStageSaturation</string>
+	<key>cubitInAdapter</key>
+	<string>tickerStateOffset</string>
+	<key>imageSingletonTop</key>
+	<string>requestFacadeTop</string>
+	<key>nextReducerDistance</key>
+	<string>expandedOutsideStage</string>
+	<key>paddingInsideScope</key>
+	<string>awaitOperationAlignment</string>
+	<key>rowBeyondBridge</key>
+	<string>methodOutsidePlatform</string>
+	<key>singleStreamSize</key>
+	<string>custompaintVersusJob</string>
+</dict>
+</plist>

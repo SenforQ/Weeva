@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedReductionFrequency</key>
+	<string>matrixBesideTask</string>
+	<key>listviewAwayFlyweight</key>
+	<string>desktopGraphicHue</string>
+	<key>modelThroughParam</key>
+	<string>declarativeHeapValidation</string>
+	<key>remainderObserverTransparency</key>
+	<string>tweenAwayCycle</string>
+	<key>uniformLayoutHue</key>
+	<string>apertureOutsideMediator</string>
+</dict>
+</plist>

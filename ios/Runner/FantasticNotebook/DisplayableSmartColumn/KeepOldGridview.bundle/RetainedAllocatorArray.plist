@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionIndicatorRight</key>
+	<string>mainCollectionInterval</string>
+	<key>animationPerStage</key>
+	<string>fusedTextTint</string>
+	<key>checklistOperationVisibility</key>
+	<string>configurationProcessSize</string>
+	<key>controllerOfLayer</key>
+	<string>immutableGrayscaleBound</string>
+	<key>convolutionContainLevel</key>
+	<string>observerAndBridge</string>
+	<key>getxAroundEnvironment</key>
+	<string>asynchronousContainerFrequency</string>
+	<key>metadataAsInterpreter</key>
+	<string>interactorStageTag</string>
+	<key>musicPatternPadding</key>
+	<string>activatedInjectionValidation</string>
+	<key>originalTransitionFrequency</key>
+	<string>dependencyWithoutPlatform</string>
+	<key>permanentKernelKind</key>
+	<string>compositionValueTag</string>
+</dict>
+</plist>

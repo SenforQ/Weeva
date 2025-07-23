@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderSingletonDirection</key>
+	<string>gateAroundStage</string>
+	<key>commonLayoutDensity</key>
+	<string>eagerFrameScale</string>
+	<key>concreteTouchPadding</key>
+	<string>isolateKindVisible</string>
+	<key>descriptionStrategyFormat</key>
+	<string>dependencyBeyondOperation</string>
+	<key>intermediateGramState</key>
+	<string>streamIncludeValue</string>
+	<key>particleModeMargin</key>
+	<string>disparateActionIndex</string>
+	<key>projectIncludeCycle</key>
+	<string>dependencyStyleValidation</string>
+	<key>robustCubeContrast</key>
+	<string>modulusCycleInterval</string>
+	<key>temporaryStateAlignment</key>
+	<string>subscriptionAdapterTag</string>
+</dict>
+</plist>

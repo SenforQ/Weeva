@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEqualizationCount</key>
+	<string>criticalBlocTint</string>
+	<key>actionInterpreterName</key>
+	<string>mediumMovementTop</string>
+	<key>disabledDelegateBrightness</key>
+	<string>semanticGramSkewx</string>
+	<key>fixedBaseSize</key>
+	<string>inkwellFrameworkBorder</string>
+	<key>keyDependencyFlags</key>
+	<string>oldEntityVisibility</string>
+	<key>listenerBufferLeft</key>
+	<string>musicMethodTension</string>
+	<key>optimizerProxyBorder</key>
+	<string>transitionAdapterContrast</string>
+	<key>resolverAlongEnvironment</key>
+	<string>blocAlongLayer</string>
+	<key>stackShapeDirection</key>
+	<string>cartesianIntegerPressure</string>
+</dict>
+</plist>

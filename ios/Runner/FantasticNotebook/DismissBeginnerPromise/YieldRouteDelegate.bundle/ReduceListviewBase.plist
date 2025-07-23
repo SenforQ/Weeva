@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMapTag</key>
+	<string>integerOrStage</string>
+	<key>appbarAndBuffer</key>
+	<string>constMenuSkewy</string>
+	<key>boxAsTemple</key>
+	<string>gridAndVisitor</string>
+	<key>compositionDuringCycle</key>
+	<string>completerFacadeAlignment</string>
+	<key>missedProgressbarFlags</key>
+	<string>crucialNodeLocation</string>
+	<key>variantSingletonHue</key>
+	<string>serviceDespiteWork</string>
+</dict>
+</plist>

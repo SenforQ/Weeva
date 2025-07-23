@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAgainstForm</key>
+	<string>shaderParamCount</string>
+	<key>awaitForPattern</key>
+	<string>inheritedLoopMode</string>
+	<key>baseOperationBehavior</key>
+	<string>zoneFacadeSkewy</string>
+	<key>basicMovementVisible</key>
+	<string>documentJobCoord</string>
+	<key>missedLabelVisible</key>
+	<string>fixedGraphPadding</string>
+	<key>optimizerVersusVariable</key>
+	<string>subtleSkinInset</string>
+	<key>persistentSizedboxTheme</key>
+	<string>graphicFacadeValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterSinceParameter</key>
+	<string>tickerPerBuffer</string>
+	<key>consumerKindFeedback</key>
+	<string>binaryByOperation</string>
+	<key>isolateBeyondCommand</key>
+	<string>inactiveScrollVisibility</string>
+	<key>nativeInterfaceBehavior</key>
+	<string>standaloneResponseBorder</string>
+	<key>nibExceptParam</key>
+	<string>logarithmBySingleton</string>
+	<key>profileThanTier</key>
+	<string>directlyTextInteraction</string>
+	<key>publicPetSaturation</key>
+	<string>delegateParameterOffset</string>
+</dict>
+</plist>

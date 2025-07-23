@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSingletonPressure</key>
+	<string>statefulSessionHue</string>
+	<key>loopForChain</key>
+	<string>exceptionLevelDuration</string>
+	<key>resultBufferCenter</key>
+	<string>alertCycleRotation</string>
+	<key>utilThroughFramework</key>
+	<string>publicOffsetDensity</string>
+	<key>webIndicatorOffset</key>
+	<string>mediaqueryInsidePhase</string>
+</dict>
+</plist>

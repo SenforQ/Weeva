@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetForMediator</key>
+	<string>ignoredProgressbarOrientation</string>
+	<key>chartAlongDecorator</key>
+	<string>alertSingletonShade</string>
+	<key>crucialClipperShape</key>
+	<string>immediateSignContrast</string>
+	<key>dependencyMethodAlignment</key>
+	<string>fusedCycleEdge</string>
+	<key>ephemeralFactoryBorder</key>
+	<string>alertOrBuffer</string>
+	<key>masterForPattern</key>
+	<string>documentContextTint</string>
+	<key>mutableZoneLeft</key>
+	<string>secondConfigurationDelay</string>
+	<key>nodeObserverMomentum</key>
+	<string>directlyRectSize</string>
+</dict>
+</plist>

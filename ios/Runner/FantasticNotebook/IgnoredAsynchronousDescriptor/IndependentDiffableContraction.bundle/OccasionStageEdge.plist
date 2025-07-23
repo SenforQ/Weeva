@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisProcessForce</key>
+	<string>channelsSinceFunction</string>
+	<key>capacitiesBeyondPhase</key>
+	<string>lazyNodeFeedback</string>
+	<key>compositionalStatelessCenter</key>
+	<string>shaderInJob</string>
+	<key>discardedScaffoldResponse</key>
+	<string>liteContainerPadding</string>
+	<key>entityExceptActivity</key>
+	<string>curveThroughOperation</string>
+	<key>isolateParamMargin</key>
+	<string>cellDuringOperation</string>
+	<key>projectionStageBorder</key>
+	<string>widgetTierTransparency</string>
+	<key>rapidTextfieldDelay</key>
+	<string>transitionWithoutStage</string>
+	<key>segueScopeLeft</key>
+	<string>resolverAboutBridge</string>
+</dict>
+</plist>

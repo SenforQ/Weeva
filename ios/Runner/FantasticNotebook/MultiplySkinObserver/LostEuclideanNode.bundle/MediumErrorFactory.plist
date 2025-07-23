@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateMementoDirection</key>
+	<string>dependencyPerPrototype</string>
+	<key>directlyStepValidation</key>
+	<string>methodObserverVisible</string>
+	<key>handlerStrategyAlignment</key>
+	<string>gramAdapterBorder</string>
+	<key>layoutUntilInterpreter</key>
+	<string>permanentLoopOrientation</string>
+	<key>prevTabbarInteraction</key>
+	<string>futureNumberDuration</string>
+</dict>
+</plist>

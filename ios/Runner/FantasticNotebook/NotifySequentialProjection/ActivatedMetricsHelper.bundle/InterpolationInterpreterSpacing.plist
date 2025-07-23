@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAtTemple</key>
+	<string>iterativeConfigurationCount</string>
+	<key>checkboxPerStyle</key>
+	<string>visibleStepFrequency</string>
+	<key>checkboxSingletonTag</key>
+	<string>asyncBeyondFacade</string>
+	<key>commandPerLayer</key>
+	<string>specifyBoxAcceleration</string>
+	<key>nodePrototypeOrientation</key>
+	<string>scaleForEnvironment</string>
+	<key>opaqueNavigatorDensity</key>
+	<string>protocolOutsideOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisSinceJob</key>
+	<string>fixedThreadBrightness</string>
+	<key>controllerParamFlags</key>
+	<string>customReductionVisible</string>
+	<key>dropdownbuttonJobMode</key>
+	<string>otherSliderVisibility</string>
+	<key>expandedNearAdapter</key>
+	<string>themeParamTop</string>
+	<key>flexibleAllocatorCoord</key>
+	<string>queryCommandCount</string>
+	<key>nodeExceptTemple</key>
+	<string>zoneModeInset</string>
+	<key>scrollableExceptionMomentum</key>
+	<string>factoryCommandOpacity</string>
+	<key>singletonNumberPadding</key>
+	<string>statefulPresenterInteraction</string>
+	<key>transitionSystemOrigin</key>
+	<string>responsiveStoryboardDistance</string>
+</dict>
+</plist>

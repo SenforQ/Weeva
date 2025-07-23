@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterCompositeContrast</key>
+	<string>memberAndProcess</string>
+	<key>flexibleLayerContrast</key>
+	<string>cellSinceLevel</string>
+	<key>resolverJobStatus</key>
+	<string>relationalStateDuration</string>
+	<key>spotLevelTheme</key>
+	<string>accessibleEntropyDistance</string>
+</dict>
+</plist>

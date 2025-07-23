@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMemberBound</key>
+	<string>effectAtLayer</string>
+	<key>cupertinoProxyBehavior</key>
+	<string>allocatorAgainstActivity</string>
+	<key>directlyViewSize</key>
+	<string>menuLayerStatus</string>
+	<key>iterativeSliderInteraction</key>
+	<string>popupAgainstNumber</string>
+	<key>mobxLikeOperation</key>
+	<string>animationByVariable</string>
+	<key>nextMediaCount</key>
+	<string>dimensionBridgeTop</string>
+	<key>sineValueSpeed</key>
+	<string>pageviewFromParam</string>
+	<key>symbolFacadeBrightness</key>
+	<string>queryFunctionShape</string>
+	<key>threadParamPressure</key>
+	<string>fusedNavigatorOrientation</string>
+</dict>
+</plist>

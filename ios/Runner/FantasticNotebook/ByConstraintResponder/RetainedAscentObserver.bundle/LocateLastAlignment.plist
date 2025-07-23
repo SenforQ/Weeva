@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoManagerColor</key>
+	<string>retainedSpotTint</string>
+	<key>backwardGradientColor</key>
+	<string>progressbarAgainstBuffer</string>
+	<key>composableRepositoryFormat</key>
+	<string>finalSpriteRotation</string>
+	<key>sampleBeyondCycle</key>
+	<string>constraintShapeStatus</string>
+	<key>smartCurveHead</key>
+	<string>sliderVisitorTransparency</string>
+	<key>statelessTaskVisible</key>
+	<string>missedResolverScale</string>
+</dict>
+</plist>

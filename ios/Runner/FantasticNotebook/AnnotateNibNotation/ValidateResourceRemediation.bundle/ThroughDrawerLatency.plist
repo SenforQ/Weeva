@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterByType</key>
+	<string>curveAgainstLayer</string>
+	<key>disabledRouteStyle</key>
+	<string>groupAlongState</string>
+	<key>featureStrategyContrast</key>
+	<string>exceptionStyleAppearance</string>
+	<key>hardMapTheme</key>
+	<string>exceptionWithoutCommand</string>
+	<key>layerStrategyHead</key>
+	<string>sliderUntilFacade</string>
+	<key>materialWithoutStructure</key>
+	<string>mobileTweenMargin</string>
+	<key>metadataThroughPhase</key>
+	<string>presenterAlongSingleton</string>
+	<key>nextTransitionPosition</key>
+	<string>streamStructureVisible</string>
+	<key>statefulChapterTop</key>
+	<string>displayableFrameDuration</string>
+</dict>
+</plist>

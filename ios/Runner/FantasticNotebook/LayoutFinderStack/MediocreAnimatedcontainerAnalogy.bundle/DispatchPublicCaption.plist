@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAlongVar</key>
+	<string>diversifiedLocalizationPadding</string>
+	<key>finalAllocatorMode</key>
+	<string>cycleForForm</string>
+	<key>sizeAndProxy</key>
+	<string>decorationBufferName</string>
+</dict>
+</plist>

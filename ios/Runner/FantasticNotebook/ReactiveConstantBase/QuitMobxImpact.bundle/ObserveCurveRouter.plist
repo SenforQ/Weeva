@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopGateValidation</key>
+	<string>segmentByObserver</string>
+	<key>greatPreviewScale</key>
+	<string>entityOrState</string>
+</dict>
+</plist>

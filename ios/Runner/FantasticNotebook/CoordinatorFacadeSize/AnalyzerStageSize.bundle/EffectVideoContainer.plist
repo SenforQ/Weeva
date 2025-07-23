@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitPrototypePadding</key>
+	<string>drawerActionEdge</string>
+	<key>cupertinoIncludeBuffer</key>
+	<string>durationAwayState</string>
+	<key>customHeroFlags</key>
+	<string>controllerByTier</string>
+	<key>delegateExceptStyle</key>
+	<string>dedicatedSignatureTag</string>
+	<key>greatSwiftInset</key>
+	<string>sliderByPrototype</string>
+	<key>hardButtonCenter</key>
+	<string>observerCommandTail</string>
+	<key>navigationAwayState</key>
+	<string>symmetricEntityAppearance</string>
+	<key>statefulChannelRate</key>
+	<string>graphAsTask</string>
+</dict>
+</plist>

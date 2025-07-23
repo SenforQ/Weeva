@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseStageTail</key>
+	<string>draggableGrayscaleOrientation</string>
+	<key>composableLayoutFrequency</key>
+	<string>richtextStrategyTheme</string>
+	<key>delegateNearState</key>
+	<string>rectProcessDelay</string>
+	<key>menuOutsideBuffer</key>
+	<string>mobileExceptionMode</string>
+	<key>sliderAmongStyle</key>
+	<string>statefulStateCoord</string>
+	<key>storeDecoratorPressure</key>
+	<string>nextFutureVisible</string>
+	<key>zonePerBridge</key>
+	<string>featureAroundTier</string>
+</dict>
+</plist>

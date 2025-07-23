@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTernarySpeed</key>
+	<string>requestTypeName</string>
+	<key>firstInteractorStyle</key>
+	<string>autoCaptionVisible</string>
+	<key>functionalShaderAlignment</key>
+	<string>grayscaleFrameworkFeedback</string>
+	<key>immediateArithmeticTint</key>
+	<string>scrollableBufferInset</string>
+	<key>positionExceptBridge</key>
+	<string>layoutBufferHead</string>
+	<key>prismaticSubpixelRate</key>
+	<string>callbackContextTransparency</string>
+	<key>resizableOffsetInteraction</key>
+	<string>responseDuringOperation</string>
+	<key>streamCommandBrightness</key>
+	<string>sustainableAsyncOrientation</string>
+	<key>tangentAgainstSystem</key>
+	<string>errorValueRate</string>
+</dict>
+</plist>

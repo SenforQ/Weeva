@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioCommandAppearance</key>
+	<string>multiFeatureRate</string>
+	<key>configurationTempleTint</key>
+	<string>associatedCubeMargin</string>
+	<key>desktopCellInteraction</key>
+	<string>boxThroughMediator</string>
+	<key>featureActionPosition</key>
+	<string>variantAgainstEnvironment</string>
+	<key>overlayMementoTint</key>
+	<string>chartOfStyle</string>
+	<key>routerBridgeFeedback</key>
+	<string>cycleVersusSystem</string>
+	<key>transformerNumberCoord</key>
+	<string>brushAwayParam</string>
+	<key>unactivatedSemanticsTop</key>
+	<string>commonLayoutFlags</string>
+	<key>variantValueStatus</key>
+	<string>layoutProcessValidation</string>
+</dict>
+</plist>

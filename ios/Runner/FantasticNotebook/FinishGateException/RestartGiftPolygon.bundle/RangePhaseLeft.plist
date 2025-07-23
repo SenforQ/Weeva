@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorAgainstFramework</key>
+	<string>chapterLikeFacade</string>
+	<key>layoutStrategyCount</key>
+	<string>sinkFunctionMargin</string>
+	<key>repositoryAsFramework</key>
+	<string>resilientErrorShade</string>
+	<key>resilientSinkAlignment</key>
+	<string>tabbarWorkFormat</string>
+</dict>
+</plist>

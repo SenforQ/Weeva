@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerDuringStage</key>
+	<string>hashViaInterpreter</string>
+	<key>injectionBesideAction</key>
+	<string>animationOfWork</string>
+	<key>intermediateTransitionSaturation</key>
+	<string>precisionViaObserver</string>
+	<key>multiplicationParamAppearance</key>
+	<string>imperativeEffectTheme</string>
+	<key>radioViaScope</key>
+	<string>fusedExtensionScale</string>
+	<key>sinkForMethod</key>
+	<string>navigatorPerChain</string>
+	<key>typicalSliderTheme</key>
+	<string>keyPositionedForce</string>
+</dict>
+</plist>

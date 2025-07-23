@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFactoryCenter</key>
+	<string>sessionAtParameter</string>
+	<key>handlerContainComposite</key>
+	<string>taskTempleScale</string>
+	<key>largeSubpixelSkewy</key>
+	<string>fusedSampleDensity</string>
+	<key>nativeResponseStatus</key>
+	<string>samplePhaseOffset</string>
+	<key>smallFeatureOffset</key>
+	<string>firstListviewDensity</string>
+	<key>textureDespiteMethod</key>
+	<string>menuFunctionFrequency</string>
+	<key>tickerAdapterOrigin</key>
+	<string>tabbarBeyondVisitor</string>
+	<key>widgetWithoutType</key>
+	<string>cursorLikeFlyweight</string>
+</dict>
+</plist>

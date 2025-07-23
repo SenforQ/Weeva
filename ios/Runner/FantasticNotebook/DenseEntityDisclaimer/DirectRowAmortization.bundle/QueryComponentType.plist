@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerVersusProxy</key>
+	<string>sortedPlaybackResponse</string>
+	<key>dynamicProviderName</key>
+	<string>behaviorStyleDepth</string>
+	<key>lastFutureShape</key>
+	<string>discardedOptionStyle</string>
+	<key>metadataAdapterBehavior</key>
+	<string>displayableIntegerAcceleration</string>
+	<key>responsiveThreadFormat</key>
+	<string>repositoryDecoratorTop</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGramInteraction</key>
+	<string>textOrMemento</string>
+	<key>ephemeralStateSkewy</key>
+	<string>positionBufferSkewx</string>
+	<key>handlerExceptStyle</key>
+	<string>columnBeyondMethod</string>
+	<key>hyperbolicTitleBound</key>
+	<string>captionFromInterpreter</string>
+	<key>pointLevelCount</key>
+	<string>synchronousCompleterShade</string>
+	<key>providerVisitorCenter</key>
+	<string>layoutProcessSpeed</string>
+	<key>publicCoordinatorFrequency</key>
+	<string>controllerVisitorScale</string>
+	<key>reusableObserverPadding</key>
+	<string>streamDecoratorPressure</string>
+	<key>routeLevelOrientation</key>
+	<string>builderWithProcess</string>
+</dict>
+</plist>

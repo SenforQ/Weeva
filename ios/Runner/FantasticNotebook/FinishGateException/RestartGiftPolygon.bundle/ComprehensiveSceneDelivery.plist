@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThanShape</key>
+	<string>secondChannelsStyle</string>
+	<key>columnCycleIndex</key>
+	<string>normalSegmentDistance</string>
+	<key>composableSingletonMargin</key>
+	<string>labelScopeCount</string>
+	<key>effectProxyKind</key>
+	<string>cellPerBuffer</string>
+	<key>injectionOrParameter</key>
+	<string>reusableRadiusVisibility</string>
+	<key>mediaqueryBeyondParameter</key>
+	<string>navigatorStageRotation</string>
+	<key>tweenVarShape</key>
+	<string>directDurationSaturation</string>
+	<key>viewNearTier</key>
+	<string>disabledHashInset</string>
+</dict>
+</plist>

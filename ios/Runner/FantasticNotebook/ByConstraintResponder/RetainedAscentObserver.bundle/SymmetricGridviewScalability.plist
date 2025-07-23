@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTierState</key>
+	<string>checkboxInsideAdapter</string>
+	<key>currentChapterBehavior</key>
+	<string>constraintMethodTag</string>
+	<key>curveInsideValue</key>
+	<string>equipmentActionOrientation</string>
+	<key>normalParticleSkewy</key>
+	<string>basicSignFrequency</string>
+	<key>stepBeyondLevel</key>
+	<string>exponentMementoOrientation</string>
+	<key>tappableFragmentForce</key>
+	<string>requiredExpandedColor</string>
+</dict>
+</plist>

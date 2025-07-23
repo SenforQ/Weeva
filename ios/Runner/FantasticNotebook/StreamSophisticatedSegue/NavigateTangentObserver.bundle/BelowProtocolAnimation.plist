@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstSkirtSpeed</key>
+	<string>groupBesideAction</string>
+	<key>fixedViewColor</key>
+	<string>appbarAtContext</string>
+	<key>fusedChannelsInset</key>
+	<string>tappableCurveMargin</string>
+	<key>managerAsCommand</key>
+	<string>projectionOrFlyweight</string>
+	<key>requestObserverBrightness</key>
+	<string>dynamicTweenForce</string>
+	<key>sizeOutsideBridge</key>
+	<string>cellProcessCount</string>
+</dict>
+</plist>

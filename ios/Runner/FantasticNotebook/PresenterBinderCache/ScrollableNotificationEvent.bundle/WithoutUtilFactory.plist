@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineIncludeVariable</key>
+	<string>actionBeyondTask</string>
+	<key>concreteMissionBound</key>
+	<string>unsortedAlertFormat</string>
+	<key>controllerInsideProcess</key>
+	<string>mobileAsyncIndex</string>
+	<key>coordinatorVarValidation</key>
+	<string>indicatorTaskTail</string>
+	<key>dynamicSpotEdge</key>
+	<string>directBatchSaturation</string>
+	<key>fixedActionTail</key>
+	<string>customExceptionMargin</string>
+	<key>managerBufferMomentum</key>
+	<string>resourceByMode</string>
+	<key>subscriptionTaskEdge</key>
+	<string>animationFrameworkShape</string>
+	<key>tabviewForVariable</key>
+	<string>durationBeyondVariable</string>
+</dict>
+</plist>

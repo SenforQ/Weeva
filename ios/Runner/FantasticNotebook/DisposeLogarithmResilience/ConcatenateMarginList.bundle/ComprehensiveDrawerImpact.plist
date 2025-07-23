@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorIncludeFacade</key>
+	<string>uniqueGesturedetectorTransparency</string>
+	<key>currentFeatureState</key>
+	<string>musicTierBorder</string>
+	<key>curveFacadeBottom</key>
+	<string>synchronousFragmentState</string>
+	<key>factoryVariableFeedback</key>
+	<string>loopVarVisibility</string>
+	<key>inactiveStatefulName</key>
+	<string>semanticNavigationName</string>
+	<key>labelStrategyMode</key>
+	<string>flexThanChain</string>
+	<key>lastGrayscaleEdge</key>
+	<string>tickerStrategyForce</string>
+	<key>roleTypeMargin</key>
+	<string>equalizationFunctionRate</string>
+	<key>sharedAllocatorFrequency</key>
+	<string>batchExceptParam</string>
+</dict>
+</plist>

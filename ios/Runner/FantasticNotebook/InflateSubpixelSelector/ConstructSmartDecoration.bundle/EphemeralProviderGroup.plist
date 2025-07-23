@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSpecifierTheme</key>
+	<string>offsetByCycle</string>
+	<key>consumerFrameworkTag</key>
+	<string>monsterBeyondDecorator</string>
+	<key>deferredMediaqueryHue</key>
+	<string>reactiveChecklistScale</string>
+	<key>fixedSizeBottom</key>
+	<string>mediaqueryStyleMode</string>
+	<key>largeBaselineDepth</key>
+	<string>rowFormShade</string>
+	<key>liteLayoutCoord</key>
+	<string>viewThanPattern</string>
+	<key>switchFunctionRotation</key>
+	<string>greatNodeCount</string>
+</dict>
+</plist>

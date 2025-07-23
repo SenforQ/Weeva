@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExtensionOrigin</key>
+	<string>paddingDuringStyle</string>
+	<key>publicAwaitCoord</key>
+	<string>originalProgressbarCoord</string>
+	<key>queueChainIndex</key>
+	<string>indicatorModePadding</string>
+	<key>richtextJobType</key>
+	<string>animatedPresenterBorder</string>
+	<key>riverpodOperationTheme</key>
+	<string>tappableChartMode</string>
+</dict>
+</plist>

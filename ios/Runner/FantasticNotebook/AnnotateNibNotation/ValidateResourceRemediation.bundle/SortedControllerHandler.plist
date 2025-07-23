@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerFactoryTransparency</key>
+	<string>hierarchicalMaterialTheme</string>
+	<key>frameIncludeStructure</key>
+	<string>resilientConvolutionOpacity</string>
+	<key>injectionAgainstShape</key>
+	<string>multiplicationAgainstEnvironment</string>
+	<key>labelProxyRotation</key>
+	<string>resilientZoneFormat</string>
+	<key>sortedBoxshadowCenter</key>
+	<string>dependencyInterpreterCoord</string>
+	<key>staticCardOrigin</key>
+	<string>delegatePhaseIndex</string>
+	<key>synchronousGraphTop</key>
+	<string>sceneDecoratorShade</string>
+</dict>
+</plist>

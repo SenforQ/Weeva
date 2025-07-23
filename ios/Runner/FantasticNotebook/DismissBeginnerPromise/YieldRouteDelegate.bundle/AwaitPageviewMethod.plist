@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDuringStructure</key>
+	<string>asyncAndKind</string>
+	<key>brushJobSpacing</key>
+	<string>sharedChecklistAlignment</string>
+	<key>builderIncludeVar</key>
+	<string>dedicatedStreamBorder</string>
+	<key>cupertinoStructureRotation</key>
+	<string>completerTierMargin</string>
+	<key>desktopMobxStyle</key>
+	<string>descriptionWithoutType</string>
+	<key>elasticProjectionFeedback</key>
+	<string>bitrateInKind</string>
+	<key>immediateChartOrigin</key>
+	<string>uniformOffsetInteraction</string>
+	<key>pinchableCallbackMomentum</key>
+	<string>presenterFormTop</string>
+</dict>
+</plist>

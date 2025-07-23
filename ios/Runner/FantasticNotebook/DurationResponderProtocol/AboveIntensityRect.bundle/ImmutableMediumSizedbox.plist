@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVarAppearance</key>
+	<string>containerChainTag</string>
+	<key>flexChainTop</key>
+	<string>statefulRepositoryVelocity</string>
+	<key>layoutMediatorRate</key>
+	<string>queueMediatorDensity</string>
+	<key>playbackAdapterIndex</key>
+	<string>mobileCycleOrigin</string>
+	<key>progressbarPlatformFrequency</key>
+	<string>overlayCompositeType</string>
+	<key>seamlessChapterCount</key>
+	<string>labelPlatformBrightness</string>
+	<key>sharedNavigatorDuration</key>
+	<string>shaderAmongAction</string>
+	<key>statefulForPhase</key>
+	<string>permissiveWidgetRight</string>
+</dict>
+</plist>

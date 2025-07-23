@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPerParameter</key>
+	<string>streamFlyweightSkewx</string>
+	<key>finalBlocVisibility</key>
+	<string>intensityOutsideFunction</string>
+</dict>
+</plist>

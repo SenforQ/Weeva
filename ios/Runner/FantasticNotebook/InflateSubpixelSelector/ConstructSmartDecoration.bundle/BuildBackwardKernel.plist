@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAroundMemento</key>
+	<string>contractionAroundVisitor</string>
+	<key>invisibleAnimationVelocity</key>
+	<string>nativeCommandBrightness</string>
+	<key>progressbarTempleRight</key>
+	<string>persistentCompletionPosition</string>
+	<key>skirtDespitePattern</key>
+	<string>taskAndType</string>
+	<key>subtleStampVelocity</key>
+	<string>activeDescriptionName</string>
+</dict>
+</plist>

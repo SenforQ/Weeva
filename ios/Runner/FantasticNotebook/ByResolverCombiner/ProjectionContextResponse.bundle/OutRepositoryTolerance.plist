@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWithDecorator</key>
+	<string>menuOfContext</string>
+	<key>autoBehaviorKind</key>
+	<string>segmentPlatformKind</string>
+	<key>expandedAsFacade</key>
+	<string>coordinatorBridgeTransparency</string>
+	<key>greatBitrateTint</key>
+	<string>fragmentDecoratorShade</string>
+	<key>reducerMethodInset</key>
+	<string>gramNearStrategy</string>
+	<key>similarPresenterDepth</key>
+	<string>asyncMementoLeft</string>
+	<key>specifierDecoratorBottom</key>
+	<string>gesturedetectorMediatorTransparency</string>
+	<key>threadVariableValidation</key>
+	<string>tensorCapsuleShape</string>
+</dict>
+</plist>

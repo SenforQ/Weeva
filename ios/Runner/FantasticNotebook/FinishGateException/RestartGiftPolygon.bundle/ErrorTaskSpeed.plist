@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPrototypeLeft</key>
+	<string>inkwellLikeStrategy</string>
+	<key>coordinatorExceptMode</key>
+	<string>requestAmongProxy</string>
+	<key>customizedSingletonDistance</key>
+	<string>challengeFacadeScale</string>
+	<key>inkwellPrototypeShape</key>
+	<string>declarativeFactoryBound</string>
+	<key>riverpodOperationTop</key>
+	<string>temporaryDecorationDuration</string>
+</dict>
+</plist>

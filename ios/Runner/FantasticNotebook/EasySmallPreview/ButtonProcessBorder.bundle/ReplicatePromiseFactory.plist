@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSpotDensity</key>
+	<string>themeAgainstMethod</string>
+	<key>coordinatorBufferTransparency</key>
+	<string>discardedMusicAppearance</string>
+	<key>custompaintStrategyMode</key>
+	<string>notificationInObserver</string>
+	<key>dependencyModeSize</key>
+	<string>sequentialLayoutAcceleration</string>
+	<key>oldCurveName</key>
+	<string>flexVersusVar</string>
+	<key>storeBridgeBorder</key>
+	<string>tappableRouteBehavior</string>
+</dict>
+</plist>

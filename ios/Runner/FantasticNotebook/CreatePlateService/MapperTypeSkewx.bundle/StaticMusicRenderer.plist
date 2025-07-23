@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveGroupForce</key>
+	<string>interfaceAndActivity</string>
+	<key>decorationStrategyVisible</key>
+	<string>checklistCommandVisible</string>
+	<key>segueInterpreterColor</key>
+	<string>rolePatternTint</string>
+	<key>semanticLayoutKind</key>
+	<string>brushAwayContext</string>
+	<key>singletonLayerValidation</key>
+	<string>prismaticRowDistance</string>
+	<key>vectorMementoState</key>
+	<string>entityAndJob</string>
+	<key>zoneBesideProxy</key>
+	<string>scrollAboutValue</string>
+</dict>
+</plist>

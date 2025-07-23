@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStateOffset</key>
+	<string>requiredDimensionIndex</string>
+	<key>consultativeGrayscaleSpeed</key>
+	<string>localizationInterpreterIndex</string>
+	<key>containerInterpreterTheme</key>
+	<string>statelessDimensionOpacity</string>
+	<key>lazyTableSkewx</key>
+	<string>giftBridgeMode</string>
+	<key>logNearNumber</key>
+	<string>textPatternTag</string>
+	<key>storageInterpreterShade</key>
+	<string>protocolPerInterpreter</string>
+	<key>titleByPlatform</key>
+	<string>aspectratioMethodCoord</string>
+	<key>uniqueExponentMode</key>
+	<string>descriptionTaskMode</string>
+</dict>
+</plist>

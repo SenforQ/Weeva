@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationMementoVisibility</key>
+	<string>giftAboutMethod</string>
+	<key>factoryWithMediator</key>
+	<string>decorationInStage</string>
+	<key>isolateAsObserver</key>
+	<string>notificationThroughKind</string>
+	<key>localCardLeft</key>
+	<string>getxThroughStrategy</string>
+	<key>localFactoryInteraction</key>
+	<string>riverpodPerLayer</string>
+	<key>mobxTierShade</key>
+	<string>drawerOfNumber</string>
+	<key>streamBufferVisibility</key>
+	<string>heapFromVisitor</string>
+</dict>
+</plist>

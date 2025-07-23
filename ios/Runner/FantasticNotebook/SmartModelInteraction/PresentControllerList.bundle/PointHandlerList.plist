@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerState</key>
+	<string>interactorShapeAppearance</string>
+	<key>desktopColumnFormat</key>
+	<string>priorityThroughFramework</string>
+	<key>draggableLayoutFrequency</key>
+	<string>visibleLayerOrigin</string>
+	<key>mediumDialogsRight</key>
+	<string>subpixelIncludeComposite</string>
+	<key>stateContextValidation</key>
+	<string>methodBufferInset</string>
+	<key>topicDuringStyle</key>
+	<string>ignoredSpineIndex</string>
+</dict>
+</plist>

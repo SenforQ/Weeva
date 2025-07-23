@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTempleMargin</key>
+	<string>nextTransitionFeedback</string>
+	<key>completerForScope</key>
+	<string>inactiveTweenAppearance</string>
+	<key>nativeQueueAppearance</key>
+	<string>previewPlatformFormat</string>
+	<key>stateLevelSkewx</key>
+	<string>vectorUntilMethod</string>
+	<key>statefulStyleDensity</key>
+	<string>storeUntilTier</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVersusStage</key>
+	<string>listviewViaProcess</string>
+	<key>alignmentWithoutCycle</key>
+	<string>gesturedetectorAdapterFlags</string>
+	<key>constraintProxyOrientation</key>
+	<string>exceptionCycleVisibility</string>
+	<key>dropdownbuttonIncludeChain</key>
+	<string>priorSegmentKind</string>
+	<key>hierarchicalBatchVelocity</key>
+	<string>eventByKind</string>
+	<key>mediocreGridForce</key>
+	<string>coordinatorJobResponse</string>
+	<key>riverpodBridgeOpacity</key>
+	<string>controllerWorkHue</string>
+</dict>
+</plist>

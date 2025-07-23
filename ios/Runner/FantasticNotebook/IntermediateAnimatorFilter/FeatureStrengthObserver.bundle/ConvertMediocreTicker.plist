@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureInterpreterBottom</key>
+	<string>stepByType</string>
+	<key>resultVarMode</key>
+	<string>tangentForMediator</string>
+	<key>sequentialDurationBound</key>
+	<string>animationStrategyVelocity</string>
+	<key>serviceNearSystem</key>
+	<string>sineTierBottom</string>
+	<key>touchInActivity</key>
+	<string>resourceInterpreterDistance</string>
+</dict>
+</plist>

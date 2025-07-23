@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFlyweightMode</key>
+	<string>dynamicEffectLocation</string>
+	<key>immutableScaffoldColor</key>
+	<string>effectIncludeMode</string>
+	<key>sequentialInteractorOffset</key>
+	<string>requiredCompositionRotation</string>
+	<key>sophisticatedMonsterOrientation</key>
+	<string>errorPerBuffer</string>
+	<key>themeThroughPhase</key>
+	<string>shaderStyleBrightness</string>
+</dict>
+</plist>

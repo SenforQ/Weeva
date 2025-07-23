@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVariableForce</key>
+	<string>customizedGesturedetectorVelocity</string>
+	<key>autoImageOrientation</key>
+	<string>controllerAdapterPosition</string>
+	<key>axisDuringSystem</key>
+	<string>optimizerJobValidation</string>
+	<key>equalizationTempleDensity</key>
+	<string>providerScopeBorder</string>
+	<key>graphicStateMargin</key>
+	<string>usecaseWithoutScope</string>
+	<key>offsetVariableShape</key>
+	<string>liteHandlerBound</string>
+	<key>paddingCompositeInteraction</key>
+	<string>curveInVisitor</string>
+	<key>priorityPatternState</key>
+	<string>cartesianSlashBound</string>
+	<key>singleStreamBehavior</key>
+	<string>mobilePlateOrientation</string>
+</dict>
+</plist>

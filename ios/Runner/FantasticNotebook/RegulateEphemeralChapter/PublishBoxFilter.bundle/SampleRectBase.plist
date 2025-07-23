@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleJobAlignment</key>
+	<string>webRequestName</string>
+	<key>delegateScopeLocation</key>
+	<string>directQueryState</string>
+	<key>exponentFacadeValidation</key>
+	<string>globalAlphaCoord</string>
+	<key>loopAroundFlyweight</key>
+	<string>liteTransformerDistance</string>
+	<key>matrixDuringMediator</key>
+	<string>delegateAsPattern</string>
+	<key>oldExponentVelocity</key>
+	<string>storyboardCompositeDuration</string>
+	<key>painterOperationShape</key>
+	<string>scenePrototypeDensity</string>
+	<key>playbackFrameworkHue</key>
+	<string>roleWithoutProxy</string>
+	<key>storeFormBorder</key>
+	<string>movementOfContext</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFormBound</key>
+	<string>discardedLayoutResponse</string>
+	<key>configurationKindStyle</key>
+	<string>titleIncludePattern</string>
+	<key>scaffoldNumberTail</key>
+	<string>layoutContextTheme</string>
+</dict>
+</plist>

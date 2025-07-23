@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWidgetOrigin</key>
+	<string>methodPerFramework</string>
+	<key>constManagerStatus</key>
+	<string>decorationAdapterDepth</string>
+	<key>persistentTickerSaturation</key>
+	<string>sliderSingletonColor</string>
+	<key>sortedTaskOrigin</key>
+	<string>tabbarDuringInterpreter</string>
+</dict>
+</plist>

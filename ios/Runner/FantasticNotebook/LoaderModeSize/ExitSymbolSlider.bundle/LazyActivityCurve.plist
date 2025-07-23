@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionHashFormat</key>
+	<string>lazyPresenterFormat</string>
+	<key>bulletNumberBound</key>
+	<string>intensityPatternAlignment</string>
+	<key>containerPerBuffer</key>
+	<string>inkwellPatternInset</string>
+	<key>hierarchicalExponentTransparency</key>
+	<string>viewUntilActivity</string>
+	<key>methodOfFlyweight</key>
+	<string>entitySystemScale</string>
+	<key>opaqueTitleVisibility</key>
+	<string>presenterAlongLevel</string>
+	<key>protocolOperationEdge</key>
+	<string>unaryScopeSpeed</string>
+	<key>publicSlashInset</key>
+	<string>chapterAndStyle</string>
+	<key>reducerSystemTension</key>
+	<string>convolutionDespiteStrategy</string>
+</dict>
+</plist>

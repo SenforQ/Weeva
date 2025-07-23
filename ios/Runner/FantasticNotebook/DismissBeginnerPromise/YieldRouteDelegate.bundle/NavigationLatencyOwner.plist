@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricReducerVisible</key>
+	<string>chartParameterIndex</string>
+	<key>largeLogSkewx</key>
+	<string>chartCycleDistance</string>
+	<key>loopKindColor</key>
+	<string>sliderStateContrast</string>
+	<key>mobxMementoType</key>
+	<string>descriptorAndMemento</string>
+	<key>requiredTextureBound</key>
+	<string>cubitInsideStyle</string>
+	<key>sortedSampleAcceleration</key>
+	<string>iconViaInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForParameter</key>
+	<string>mobileSinceTier</string>
+	<key>cardBeyondType</key>
+	<string>statelessFunctionVisible</string>
+	<key>customizedAnimationRotation</key>
+	<string>painterInsideFlyweight</string>
+	<key>gestureOperationBottom</key>
+	<string>builderOperationDepth</string>
+	<key>modelSinceStyle</key>
+	<string>requiredRequestBrightness</string>
+	<key>tabbarBesideKind</key>
+	<string>completerPatternRight</string>
+</dict>
+</plist>

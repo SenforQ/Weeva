@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveSemanticsFlags</key>
+	<string>displayableRepositoryOrientation</string>
+	<key>managerViaLevel</key>
+	<string>durationActionTag</string>
+	<key>streamOutsideVisitor</key>
+	<string>prevRowVisible</string>
+</dict>
+</plist>

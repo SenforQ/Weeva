@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitMementoShade</key>
+	<string>singleRepositoryCount</string>
+	<key>borderInsideParameter</key>
+	<string>gridviewVersusProxy</string>
+	<key>collectionLikeFlyweight</key>
+	<string>listviewByKind</string>
+	<key>immutableAppbarDensity</key>
+	<string>interactorAndDecorator</string>
+	<key>intuitiveResponseShade</key>
+	<string>masterParameterForce</string>
+	<key>largeCubitAppearance</key>
+	<string>handlerInMode</string>
+	<key>serviceAmongJob</key>
+	<string>specifyGrainSpacing</string>
+	<key>streamCompositeEdge</key>
+	<string>statefulWithoutAction</string>
+	<key>tableAmongVariable</key>
+	<string>synchronousCommandInset</string>
+</dict>
+</plist>

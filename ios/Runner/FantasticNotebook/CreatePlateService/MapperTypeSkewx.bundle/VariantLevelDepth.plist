@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridIncludeDecorator</key>
+	<string>eagerAxisVisibility</string>
+	<key>inactiveErrorKind</key>
+	<string>deferredGrayscaleRate</string>
+	<key>masterStageCoord</key>
+	<string>previewPlatformAlignment</string>
+	<key>playbackAwaySystem</key>
+	<string>animatedGridviewOrientation</string>
+	<key>resizableFutureDuration</key>
+	<string>utilActionPressure</string>
+	<key>segueInParam</key>
+	<string>pivotalMobxPosition</string>
+	<key>specifierBufferVisibility</key>
+	<string>aspectDecoratorAlignment</string>
+	<key>taskDespiteFramework</key>
+	<string>getxVersusFacade</string>
+	<key>uniformDurationFormat</key>
+	<string>layoutParamName</string>
+</dict>
+</plist>

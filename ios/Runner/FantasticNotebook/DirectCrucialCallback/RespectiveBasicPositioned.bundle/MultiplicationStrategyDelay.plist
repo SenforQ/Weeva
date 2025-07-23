@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedActionFeedback</key>
+	<string>spriteBridgeScale</string>
+	<key>asynchronousTickerMomentum</key>
+	<string>enabledChallengeDelay</string>
+	<key>materialChannelsOrigin</key>
+	<string>primaryTangentOrientation</string>
+	<key>sceneActionOrientation</key>
+	<string>resourceThroughBuffer</string>
+	<key>sequentialUnarySkewy</key>
+	<string>giftPerMode</string>
+	<key>viewValueRight</key>
+	<string>subscriptionAtLevel</string>
+</dict>
+</plist>

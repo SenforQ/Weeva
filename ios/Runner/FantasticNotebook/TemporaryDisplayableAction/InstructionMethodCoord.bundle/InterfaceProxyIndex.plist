@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePositionBottom</key>
+	<string>tappableResourceDepth</string>
+	<key>controllerForPlatform</key>
+	<string>menuParameterPadding</string>
+	<key>materialRectHead</key>
+	<string>streamVersusLevel</string>
+</dict>
+</plist>

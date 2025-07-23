@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerNumberValidation</key>
+	<string>vectorAmongBridge</string>
+	<key>globalStreamSpeed</key>
+	<string>channelsAsAction</string>
+	<key>grayscaleScopeTint</key>
+	<string>dimensionFormSpeed</string>
+	<key>statelessCursorMargin</key>
+	<string>seamlessAlphaBound</string>
+</dict>
+</plist>

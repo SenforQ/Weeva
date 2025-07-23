@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsVarBrightness</key>
+	<string>chartOrSingleton</string>
+	<key>comprehensiveUsecaseContrast</key>
+	<string>radiusOfPhase</string>
+	<key>constraintOutsideLayer</key>
+	<string>deferredSpriteFlags</string>
+	<key>positionedAtShape</key>
+	<string>handlerCommandTop</string>
+	<key>presenterAroundChain</key>
+	<string>curveIncludePattern</string>
+	<key>sharedSliderDistance</key>
+	<string>diffableIconName</string>
+	<key>staticStreamCount</key>
+	<string>collectionThroughOperation</string>
+</dict>
+</plist>

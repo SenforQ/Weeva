@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioExceptStyle</key>
+	<string>fragmentAsInterpreter</string>
+	<key>awaitNumberResponse</key>
+	<string>sliderBesideChain</string>
+	<key>buttonAsVar</key>
+	<string>curveMediatorInteraction</string>
+	<key>capsuleInterpreterInset</key>
+	<string>mainArithmeticPadding</string>
+	<key>cycleVisitorOffset</key>
+	<string>gradientUntilBuffer</string>
+	<key>diversifiedGateRotation</key>
+	<string>borderAroundCycle</string>
+	<key>heapWorkState</key>
+	<string>priorCheckboxAcceleration</string>
+	<key>managerOrStrategy</key>
+	<string>mobxAgainstStyle</string>
+	<key>radioDespiteActivity</key>
+	<string>usedRectDelay</string>
+</dict>
+</plist>

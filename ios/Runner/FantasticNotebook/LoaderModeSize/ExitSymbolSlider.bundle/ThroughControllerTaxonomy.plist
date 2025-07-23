@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAlongEnvironment</key>
+	<string>touchAsCommand</string>
+	<key>blocByProcess</key>
+	<string>taskPerInterpreter</string>
+	<key>columnAsMediator</key>
+	<string>skinVisitorTransparency</string>
+	<key>coordinatorScopeFlags</key>
+	<string>delicateHeapTransparency</string>
+	<key>immediateStreamFeedback</key>
+	<string>pinchableGridName</string>
+	<key>relationalServiceKind</key>
+	<string>swiftViaJob</string>
+	<key>subtleDurationInset</key>
+	<string>offsetFunctionCount</string>
+	<key>threadStageBehavior</key>
+	<string>sophisticatedMasterLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitBlocDelay</key>
+	<string>popupFunctionLocation</string>
+	<key>functionalDependencyStyle</key>
+	<string>heroLayerTop</string>
+	<key>routerOperationEdge</key>
+	<string>axisThroughPattern</string>
+	<key>screenAwayMode</key>
+	<string>reducerBeyondDecorator</string>
+	<key>stepByObserver</key>
+	<string>inkwellSingletonDelay</string>
+	<key>transformerStrategyForce</key>
+	<string>sliderInterpreterPosition</string>
+	<key>unsortedTransitionForce</key>
+	<string>sequentialMultiplicationFlags</string>
+</dict>
+</plist>

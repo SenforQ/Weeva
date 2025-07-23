@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferCompositeEdge</key>
+	<string>columnTypeTop</string>
+	<key>buttonPatternOrigin</key>
+	<string>durationFromActivity</string>
+	<key>callbackTypeAppearance</key>
+	<string>utilParamShade</string>
+	<key>delegateAroundStyle</key>
+	<string>gridPerPlatform</string>
+	<key>globalNavigatorBound</key>
+	<string>assetAgainstProxy</string>
+	<key>grayscaleTaskTop</key>
+	<string>slashPrototypeVisibility</string>
+	<key>optionAndFacade</key>
+	<string>publicSizedboxBorder</string>
+	<key>singletonLikeMethod</key>
+	<string>resilientViewCount</string>
+</dict>
+</plist>

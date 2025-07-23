@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCommandVisibility</key>
+	<string>segueAgainstComposite</string>
+	<key>cubePrototypeState</key>
+	<string>graphicFlyweightForce</string>
+	<key>effectAndStrategy</key>
+	<string>activeRoleStatus</string>
+	<key>heapValueLeft</key>
+	<string>viewContainStyle</string>
+	<key>immutableModelKind</key>
+	<string>immediateNotifierStatus</string>
+	<key>protectedPageviewBottom</key>
+	<string>eagerFragmentSkewy</string>
+	<key>stampBridgeRate</key>
+	<string>inkwellAsPhase</string>
+</dict>
+</plist>

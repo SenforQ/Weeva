@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerHeroBehavior</key>
+	<string>radiusActivityOrigin</string>
+	<key>binaryFlyweightShade</key>
+	<string>routeAroundParam</string>
+	<key>checkboxInScope</key>
+	<string>denseLabelShade</string>
+	<key>frameBufferBottom</key>
+	<string>channelsSystemEdge</string>
+	<key>inheritedObserverStatus</key>
+	<string>tableVariableSpacing</string>
+	<key>labelJobAcceleration</key>
+	<string>exceptionStyleInset</string>
+	<key>mobileAlignmentAcceleration</key>
+	<string>basicShaderAcceleration</string>
+	<key>mobileFacadeState</key>
+	<string>listviewProcessRotation</string>
+	<key>secondBlocLeft</key>
+	<string>relationalIconValidation</string>
+	<key>singletonViaPattern</key>
+	<string>observerAsContext</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerSinceActivity</key>
+	<string>playbackVariableBorder</string>
+	<key>concreteServiceOpacity</key>
+	<string>popupForCommand</string>
+	<key>directlyPainterTint</key>
+	<string>richtextJobColor</string>
+	<key>disabledMediaState</key>
+	<string>offsetVersusValue</string>
+	<key>exceptionAdapterTheme</key>
+	<string>sceneAndStructure</string>
+	<key>grayscaleFlyweightIndex</key>
+	<string>routeVersusCycle</string>
+	<key>mobileAdapterFeedback</key>
+	<string>reusableControllerIndex</string>
+	<key>tappableThemeShade</key>
+	<string>tickerShapeCoord</string>
+	<key>uniformResolverScale</key>
+	<string>builderFacadeOpacity</string>
+</dict>
+</plist>

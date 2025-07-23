@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAnimatedcontainerSpacing</key>
+	<string>containerBesideShape</string>
+	<key>entityAdapterForce</key>
+	<string>liteNavigatorTint</string>
+	<key>groupJobDelay</key>
+	<string>functionalIntegerMode</string>
+	<key>sessionStructureTransparency</key>
+	<string>resilientIntensitySize</string>
+</dict>
+</plist>

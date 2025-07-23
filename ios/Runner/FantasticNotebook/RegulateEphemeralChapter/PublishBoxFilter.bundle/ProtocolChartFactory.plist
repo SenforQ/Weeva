@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSpineTheme</key>
+	<string>inheritedContainerBorder</string>
+	<key>animationFromStructure</key>
+	<string>cardMediatorColor</string>
+	<key>documentForPhase</key>
+	<string>reactiveGrainIndex</string>
+	<key>logarithmWithObserver</key>
+	<string>respectiveLabelTint</string>
+	<key>marginFromCommand</key>
+	<string>ephemeralAlertTension</string>
+	<key>matrixValueIndex</key>
+	<string>rectWorkTint</string>
+	<key>tabviewByTask</key>
+	<string>inheritedApertureBehavior</string>
+</dict>
+</plist>

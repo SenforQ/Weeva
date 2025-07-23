@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideWork</key>
+	<string>dynamicStreamContrast</string>
+	<key>capsuleOperationInteraction</key>
+	<string>interactorCycleSkewy</string>
+	<key>eventAboutBridge</key>
+	<string>permissiveGraphicFeedback</string>
+	<key>protocolLikeStyle</key>
+	<string>normalBufferBottom</string>
+	<key>subpixelViaProcess</key>
+	<string>collectionByVariable</string>
+</dict>
+</plist>

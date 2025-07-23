@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTaskFrequency</key>
+	<string>sliderWithoutPattern</string>
+	<key>advancedPromiseSpacing</key>
+	<string>dedicatedGraphOpacity</string>
+	<key>associatedViewMode</key>
+	<string>modalStrategySaturation</string>
+	<key>injectionStyleSpeed</key>
+	<string>threadMediatorOrientation</string>
+	<key>resizableChannelInterval</key>
+	<string>tickerLikeProcess</string>
+	<key>scaffoldProxyFormat</key>
+	<string>widgetAwayStyle</string>
+	<key>statefulPopupDirection</key>
+	<string>tickerSingletonBehavior</string>
+	<key>transformerVariableState</key>
+	<string>tensorResultInterval</string>
+</dict>
+</plist>

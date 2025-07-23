@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOrFunction</key>
+	<string>nodeVersusFlyweight</string>
+	<key>coordinatorInParam</key>
+	<string>enabledInjectionTransparency</string>
+	<key>rowAlongFunction</key>
+	<string>binarySingletonIndex</string>
+	<key>touchDuringStage</key>
+	<string>promiseShapePadding</string>
+</dict>
+</plist>

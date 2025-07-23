@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPresenterHue</key>
+	<string>discardedDialogsSaturation</string>
+	<key>crudeSizeBorder</key>
+	<string>mutableFutureScale</string>
+	<key>delegateTierSpeed</key>
+	<string>responsiveLogFormat</string>
+	<key>fixedSpotSpeed</key>
+	<string>semanticExtensionSize</string>
+	<key>functionalChapterStyle</key>
+	<string>oldWidgetSkewx</string>
+	<key>graphFrameworkSpacing</key>
+	<string>eagerRouteCount</string>
+	<key>loopByStage</key>
+	<string>agileDescriptionType</string>
+	<key>mediumHandlerSpacing</key>
+	<string>stateVersusStructure</string>
+	<key>normalMetadataTension</key>
+	<string>localInterfaceOrientation</string>
+</dict>
+</plist>

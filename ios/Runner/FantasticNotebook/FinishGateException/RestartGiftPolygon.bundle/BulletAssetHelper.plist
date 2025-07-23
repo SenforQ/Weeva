@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBridgeRate</key>
+	<string>displayableReducerMargin</string>
+	<key>draggableGestureVelocity</key>
+	<string>routerByAction</string>
+	<key>dropdownbuttonSingletonOffset</key>
+	<string>backwardCheckboxAlignment</string>
+	<key>granularThemeVisible</key>
+	<string>ephemeralBaseCount</string>
+	<key>histogramAlongAction</key>
+	<string>webRepositoryTheme</string>
+	<key>precisionAwayPrototype</key>
+	<string>resizableGrainOpacity</string>
+	<key>sizedboxJobFrequency</key>
+	<string>interfaceBesideBuffer</string>
+	<key>sliderFrameworkTop</key>
+	<string>indicatorActionShade</string>
+	<key>temporaryCharacterAppearance</key>
+	<string>rectPlatformSaturation</string>
+	<key>tensorVariantEdge</key>
+	<string>baselineActionVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCallbackTint</key>
+	<string>boxshadowAboutParam</string>
+	<key>repositoryAmongParam</key>
+	<string>borderStyleContrast</string>
+	<key>spineInProxy</key>
+	<string>displayableHashIndex</string>
+	<key>tabbarCycleRight</key>
+	<string>actionProxyForce</string>
+	<key>tappableResultPosition</key>
+	<string>plateLayerDirection</string>
+	<key>webUnaryShade</key>
+	<string>tabbarLevelCenter</string>
+</dict>
+</plist>

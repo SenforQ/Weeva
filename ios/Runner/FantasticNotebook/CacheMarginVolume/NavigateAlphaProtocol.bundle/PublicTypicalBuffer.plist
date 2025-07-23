@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxStageState</key>
+	<string>entityModePosition</string>
+	<key>materialGemCount</key>
+	<string>tappableImageState</string>
+	<key>queueTierMode</key>
+	<string>advancedGemResponse</string>
+	<key>rowNearSingleton</key>
+	<string>topicExceptVariable</string>
+</dict>
+</plist>

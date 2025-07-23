@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalBaseScale</key>
+	<string>lazyResponseAcceleration</string>
+	<key>publicAppbarState</key>
+	<string>dropdownbuttonDuringWork</string>
+	<key>symmetricLabelCoord</key>
+	<string>unsortedResolverDuration</string>
+</dict>
+</plist>

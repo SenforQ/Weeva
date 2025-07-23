@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiLayerVelocity</key>
+	<string>tappableManagerSaturation</string>
+	<key>notifierStrategyIndex</key>
+	<string>flexibleNormRate</string>
+	<key>prevTaskBorder</key>
+	<string>marginAlongMediator</string>
+	<key>queueBridgePosition</key>
+	<string>textureScopeStatus</string>
+	<key>singletonBesideSingleton</key>
+	<string>spriteContainState</string>
+</dict>
+</plist>

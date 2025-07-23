@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferNumberSpacing</key>
+	<string>tabviewAtInterpreter</string>
+	<key>completerObserverAcceleration</key>
+	<string>webResourceLeft</string>
+	<key>frameThroughMode</key>
+	<string>batchValueScale</string>
+	<key>independentAllocatorStyle</key>
+	<string>respectiveChallengeSize</string>
+	<key>nibWorkBound</key>
+	<string>listenerBesideChain</string>
+	<key>nodeFrameworkSkewx</key>
+	<string>completionThanCommand</string>
+	<key>progressbarWorkLocation</key>
+	<string>asynchronousDialogsDistance</string>
+	<key>secondButtonHead</key>
+	<string>iconFacadeFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAboutProcess</key>
+	<string>euclideanNavigationVisible</string>
+	<key>cacheLevelDuration</key>
+	<string>gridviewTierTop</string>
+	<key>instructionStructureBottom</key>
+	<string>animatedcontainerWithStyle</string>
+	<key>mobileLayerBehavior</key>
+	<string>descriptionBeyondLayer</string>
+	<key>notifierDuringJob</key>
+	<string>deferredPreviewPadding</string>
+	<key>transitionVersusStyle</key>
+	<string>webExtensionStyle</string>
+</dict>
+</plist>

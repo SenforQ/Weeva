@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTypeForce</key>
+	<string>pivotalObserverState</string>
+	<key>constraintBesideBridge</key>
+	<string>observerUntilFacade</string>
+	<key>curveUntilMethod</key>
+	<string>firstCatalystBrightness</string>
+	<key>dependencySingletonCoord</key>
+	<string>gateStateInteraction</string>
+	<key>descriptorAlongSingleton</key>
+	<string>standalonePreviewShape</string>
+	<key>inheritedMediaqueryOffset</key>
+	<string>inactiveProtocolLocation</string>
+	<key>inheritedOffsetResponse</key>
+	<string>methodMethodCenter</string>
+	<key>permanentMemberTag</key>
+	<string>tickerDespiteFacade</string>
+	<key>rowParamKind</key>
+	<string>alignmentStrategyPadding</string>
+	<key>tappableInkwellInteraction</key>
+	<string>slashStrategyShade</string>
+</dict>
+</plist>

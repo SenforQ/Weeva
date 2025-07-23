@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisContextFlags</key>
+	<string>errorParamDensity</string>
+	<key>finalInteractorTheme</key>
+	<string>ignoredNotificationInterval</string>
+	<key>futureAlongNumber</key>
+	<string>mediaqueryAndBridge</string>
+	<key>grainPerPattern</key>
+	<string>gridOrFlyweight</string>
+	<key>resizableMenuShade</key>
+	<string>resourceVariableSpacing</string>
+	<key>tabbarEnvironmentVisibility</key>
+	<string>flexibleButtonSize</string>
+</dict>
+</plist>

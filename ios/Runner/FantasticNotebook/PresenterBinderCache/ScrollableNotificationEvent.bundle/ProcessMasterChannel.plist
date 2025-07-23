@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxCycleStyle</key>
+	<string>descriptionActivityInteraction</string>
+	<key>eventLikeLayer</key>
+	<string>monsterBridgeTheme</string>
+	<key>queryAgainstState</key>
+	<string>grayscaleViaMediator</string>
+	<key>radiusWithPlatform</key>
+	<string>asyncSingletonMargin</string>
+	<key>repositoryAdapterVisible</key>
+	<string>tangentNumberKind</string>
+	<key>stampPhaseOffset</key>
+	<string>previewForFramework</string>
+</dict>
+</plist>

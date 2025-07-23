@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAgainstLayer</key>
+	<string>desktopLabelLocation</string>
+	<key>gramAgainstPattern</key>
+	<string>ternaryAboutAdapter</string>
+	<key>materialTextPressure</key>
+	<string>mobileFactoryTheme</string>
+	<key>responsiveStoryboardBrightness</key>
+	<string>taskObserverDistance</string>
+	<key>sizeProxyMargin</key>
+	<string>indicatorCommandInteraction</string>
+	<key>specifyTernaryCoord</key>
+	<string>lossParamOrientation</string>
+</dict>
+</plist>

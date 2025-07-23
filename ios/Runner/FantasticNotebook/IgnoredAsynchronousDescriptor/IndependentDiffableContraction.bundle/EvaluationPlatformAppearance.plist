@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryContainFlyweight</key>
+	<string>priorStatePosition</string>
+	<key>litePopupStatus</key>
+	<string>transitionViaShape</string>
+	<key>resourceFlyweightOrientation</key>
+	<string>previewParamInset</string>
+	<key>routeWorkCoord</key>
+	<string>hyperbolicExceptionScale</string>
+	<key>sessionSincePhase</key>
+	<string>disparateRouterVisibility</string>
+</dict>
+</plist>

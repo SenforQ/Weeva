@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsNumberStyle</key>
+	<string>menuAroundForm</string>
+	<key>cubitOfStyle</key>
+	<string>materialSemanticsTail</string>
+	<key>interfaceViaComposite</key>
+	<string>lazyLossTension</string>
+	<key>nativeLayerIndex</key>
+	<string>factoryJobAcceleration</string>
+	<key>requiredLocalizationVelocity</key>
+	<string>elasticParticleFlags</string>
+	<key>spriteStateFrequency</key>
+	<string>customizedSpriteFlags</string>
+</dict>
+</plist>

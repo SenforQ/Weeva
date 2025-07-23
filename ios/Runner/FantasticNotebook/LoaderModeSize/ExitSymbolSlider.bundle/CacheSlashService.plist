@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintThroughObserver</key>
+	<string>pointAndComposite</string>
+	<key>injectionPatternBottom</key>
+	<string>localCatalystOpacity</string>
+	<key>interactorOrSystem</key>
+	<string>storyboardAwaySystem</string>
+	<key>modelStrategyRotation</key>
+	<string>pivotalCommandRight</string>
+	<key>opaqueSampleInset</key>
+	<string>firstAnimationDirection</string>
+	<key>rapidBaselineSaturation</key>
+	<string>resourceEnvironmentBorder</string>
+	<key>stepSingletonFlags</key>
+	<string>modelAsTemple</string>
+	<key>transformerForBuffer</key>
+	<string>interfaceForLayer</string>
+</dict>
+</plist>

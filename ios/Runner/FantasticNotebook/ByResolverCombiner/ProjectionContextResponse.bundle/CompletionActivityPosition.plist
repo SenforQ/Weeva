@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAxisInset</key>
+	<string>usageTierLocation</string>
+	<key>draggableNavigatorPadding</key>
+	<string>tickerProxySpacing</string>
+	<key>nodeJobResponse</key>
+	<string>popupScopeSaturation</string>
+	<key>permissiveHeapVisibility</key>
+	<string>utilActivityDepth</string>
+	<key>sinkAdapterFrequency</key>
+	<string>backwardSizeForce</string>
+	<key>sinkObserverLocation</key>
+	<string>cachePatternDepth</string>
+	<key>typicalSizeTail</key>
+	<string>histogramProxyColor</string>
+</dict>
+</plist>

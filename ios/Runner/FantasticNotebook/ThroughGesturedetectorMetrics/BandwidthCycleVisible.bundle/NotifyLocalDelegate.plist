@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterAroundAction</key>
+	<string>ignoredMatrixOrigin</string>
+	<key>curveStructureTint</key>
+	<string>currentGemCount</string>
+	<key>ignoredTitleVisibility</key>
+	<string>symmetricNavigationPadding</string>
+	<key>lazyStackDepth</key>
+	<string>singletonProxyCount</string>
+	<key>protocolProcessInset</key>
+	<string>durationKindVisible</string>
+	<key>singletonBeyondParam</key>
+	<string>sceneAroundParam</string>
+	<key>statelessWithOperation</key>
+	<string>sineWorkPressure</string>
+</dict>
+</plist>

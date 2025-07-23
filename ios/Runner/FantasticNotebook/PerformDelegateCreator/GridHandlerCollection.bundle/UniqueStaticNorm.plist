@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityPerAdapter</key>
+	<string>playbackAdapterDensity</string>
+	<key>fixedSingletonSkewy</key>
+	<string>multiGraphicBrightness</string>
+	<key>hashAsVariable</key>
+	<string>requiredLocalizationAlignment</string>
+	<key>hierarchicalCoordinatorDirection</key>
+	<string>difficultCupertinoTension</string>
+	<key>interactiveGroupDistance</key>
+	<string>durationValueBottom</string>
+	<key>lastCursorKind</key>
+	<string>mainNavigatorType</string>
+	<key>normalStateTint</key>
+	<string>robustSpotFeedback</string>
+	<key>scrollablePlateInteraction</key>
+	<string>metadataProcessTop</string>
+	<key>storageDecoratorTheme</key>
+	<string>localizationForProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVersusDecorator</key>
+	<string>navigatorStrategyAppearance</string>
+	<key>deferredNavigatorBehavior</key>
+	<string>desktopRadiusBorder</string>
+	<key>navigatorPatternAppearance</key>
+	<string>presenterWithDecorator</string>
+	<key>reactiveIntegerSaturation</key>
+	<string>overlayStylePressure</string>
+	<key>serviceThanComposite</key>
+	<string>euclideanButtonRate</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableOptionDensity</key>
+	<string>materialGrainSpacing</string>
+	<key>injectionTaskPosition</key>
+	<string>specifierAgainstParam</string>
+	<key>parallelProgressbarTheme</key>
+	<string>desktopButtonHead</string>
+	<key>permissiveLabelTop</key>
+	<string>gridThanShape</string>
+	<key>sceneStructureVisible</key>
+	<string>tickerPrototypeBottom</string>
+</dict>
+</plist>

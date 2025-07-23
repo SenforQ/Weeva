@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsInterpreterTag</key>
+	<string>numericalGridviewBrightness</string>
+	<key>easyBlocInterval</key>
+	<string>entropyDuringObserver</string>
+	<key>effectLayerRate</key>
+	<string>adaptiveBinaryShape</string>
+	<key>firstAlignmentOffset</key>
+	<string>discardedTabviewEdge</string>
+	<key>lastSliderBottom</key>
+	<string>standaloneCosineShape</string>
+	<key>progressbarSinceStyle</key>
+	<string>subpixelActivityBrightness</string>
+	<key>sliderNearVisitor</key>
+	<string>originalListenerAcceleration</string>
+</dict>
+</plist>

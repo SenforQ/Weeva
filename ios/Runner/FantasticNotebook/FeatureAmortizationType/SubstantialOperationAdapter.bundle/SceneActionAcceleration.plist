@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyOutsidePattern</key>
+	<string>flexibleScaleOpacity</string>
+	<key>exceptionVarOpacity</key>
+	<string>sizedboxBesideComposite</string>
+	<key>flexiblePopupRight</key>
+	<string>animatedButtonStatus</string>
+	<key>playbackBeyondStage</key>
+	<string>alignmentWithoutTask</string>
+	<key>sineSinceCycle</key>
+	<string>dedicatedAllocatorFeedback</string>
+	<key>stepStageDepth</key>
+	<string>lastExtensionMomentum</string>
+</dict>
+</plist>

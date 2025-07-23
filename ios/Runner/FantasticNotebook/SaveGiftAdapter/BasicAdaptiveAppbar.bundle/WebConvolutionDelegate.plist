@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFutureTheme</key>
+	<string>dependencyThroughFlyweight</string>
+	<key>curveFacadeDirection</key>
+	<string>keyRequestMargin</string>
+	<key>gesturedetectorLikeOperation</key>
+	<string>gateInsideVisitor</string>
+	<key>immediateGestureIndex</key>
+	<string>enabledNavigatorAcceleration</string>
+	<key>integerCommandMode</key>
+	<string>notifierVariableKind</string>
+	<key>interactiveTextureFeedback</key>
+	<string>specifySymbolTop</string>
+	<key>semanticMapCoord</key>
+	<string>heroInterpreterInset</string>
+	<key>sequentialMobxAppearance</key>
+	<string>advancedRouteFormat</string>
+	<key>spineWithoutVar</key>
+	<string>assetAndVariable</string>
+	<key>sustainableSineBorder</key>
+	<string>widgetBesideMethod</string>
+</dict>
+</plist>

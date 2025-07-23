@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredResponsePressure</key>
+	<string>radiusUntilParameter</string>
+	<key>iconThroughParam</key>
+	<string>chartShapeStyle</string>
+	<key>materialMapBound</key>
+	<string>advancedBufferTension</string>
+	<key>missedScreenType</key>
+	<string>futureFunctionTransparency</string>
+	<key>offsetVarHue</key>
+	<string>queryPerCycle</string>
+	<key>playbackThroughLayer</key>
+	<string>rowWorkPosition</string>
+	<key>prevDecorationHue</key>
+	<string>transformerAboutParam</string>
+	<key>screenVariableDirection</key>
+	<string>resilientProfileStyle</string>
+	<key>threadVisitorDelay</key>
+	<string>entityLayerShade</string>
+</dict>
+</plist>

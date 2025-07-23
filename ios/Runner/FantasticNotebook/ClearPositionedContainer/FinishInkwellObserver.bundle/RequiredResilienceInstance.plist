@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActivityInterval</key>
+	<string>transitionFromFacade</string>
+	<key>cacheBufferScale</key>
+	<string>navigatorActivityTheme</string>
+	<key>contractionExceptPrototype</key>
+	<string>backwardOperationEdge</string>
+	<key>drawerInsideActivity</key>
+	<string>ephemeralInjectionHead</string>
+	<key>expandedSingletonIndex</key>
+	<string>dependencyOfInterpreter</string>
+	<key>handlerStateOpacity</key>
+	<string>keyCurveBorder</string>
+	<key>nextSignDistance</key>
+	<string>liteMediaquerySaturation</string>
+	<key>radiusFlyweightTransparency</key>
+	<string>menuCompositeType</string>
+	<key>scrollNearInterpreter</key>
+	<string>mainMapFeedback</string>
+	<key>tabbarJobStyle</key>
+	<string>discardedMusicHead</string>
+</dict>
+</plist>

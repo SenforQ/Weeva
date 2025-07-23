@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorCompositeVisible</key>
+	<string>grainBeyondMemento</string>
+	<key>descriptorVersusStage</key>
+	<string>textOutsideAdapter</string>
+	<key>ignoredRowDensity</key>
+	<string>mediaChainOpacity</string>
+	<key>metadataContextInteraction</key>
+	<string>controllerAlongStyle</string>
+	<key>permissiveQueueOrientation</key>
+	<string>shaderAdapterPressure</string>
+	<key>priorGraphBottom</key>
+	<string>actionOfParam</string>
+	<key>singletonInVariable</key>
+	<string>routeVersusLevel</string>
+</dict>
+</plist>

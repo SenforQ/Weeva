@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectDecoratorValidation</key>
+	<string>curveContextCount</string>
+	<key>awaitBesideKind</key>
+	<string>timerVariableOrigin</string>
+	<key>cycleInterpreterBehavior</key>
+	<string>injectionBridgeBehavior</string>
+	<key>enabledAnimationRate</key>
+	<string>dimensionFormMode</string>
+	<key>grainFunctionMode</key>
+	<string>effectThroughWork</string>
+	<key>liteCapsuleAppearance</key>
+	<string>unsortedContainerPosition</string>
+	<key>localAnimationLocation</key>
+	<string>segmentThroughBridge</string>
+	<key>secondModelCenter</key>
+	<string>statefulConstraintSpacing</string>
+	<key>tabviewAwayDecorator</key>
+	<string>difficultGrayscaleDirection</string>
+	<key>tickerVariablePadding</key>
+	<string>intensityAboutStage</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationIncludeContext</key>
+	<string>reusableRepositoryResponse</string>
+	<key>dependencyObserverOrigin</key>
+	<string>giftFlyweightBorder</string>
+	<key>drawerOperationStyle</key>
+	<string>behaviorAmongVisitor</string>
+	<key>eventThanAdapter</key>
+	<string>firstAnimationBottom</string>
+	<key>greatRiverpodShade</key>
+	<string>completionKindScale</string>
+</dict>
+</plist>

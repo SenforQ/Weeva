@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerParameterShape</key>
+	<string>mobileButtonStyle</string>
+	<key>radiusCyclePressure</key>
+	<string>routeAmongForm</string>
+	<key>temporaryCompletionInteraction</key>
+	<string>deferredStatelessResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBeyondFlyweight</key>
+	<string>remainderNearBridge</string>
+	<key>cubeWithShape</key>
+	<string>asyncAsJob</string>
+	<key>eagerGroupCount</key>
+	<string>globalReducerKind</string>
+	<key>ignoredSizedboxShade</key>
+	<string>usageVersusSystem</string>
+	<key>sliderAlongSystem</key>
+	<string>pointSystemTension</string>
+	<key>streamNumberInset</key>
+	<string>previewForParam</string>
+	<key>tensorScaffoldForce</key>
+	<string>popupStateBehavior</string>
+	<key>viewPerMode</key>
+	<string>signAgainstCycle</string>
+</dict>
+</plist>

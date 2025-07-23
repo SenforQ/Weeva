@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationFacadeInteraction</key>
+	<string>sceneStyleBorder</string>
+	<key>isolateChainTransparency</key>
+	<string>subpixelAndMemento</string>
+	<key>multiplicationLayerDelay</key>
+	<string>resourceInActivity</string>
+	<key>storeAlongComposite</key>
+	<string>finalUsageHead</string>
+</dict>
+</plist>

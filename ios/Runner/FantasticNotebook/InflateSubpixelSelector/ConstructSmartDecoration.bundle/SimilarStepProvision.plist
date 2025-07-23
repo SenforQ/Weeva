@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOutsideStage</key>
+	<string>immediatePopupResponse</string>
+	<key>compositionalConfigurationInteraction</key>
+	<string>coordinatorAndDecorator</string>
+	<key>compositionalCubitShade</key>
+	<string>queueInsideProcess</string>
+	<key>curveAboutStyle</key>
+	<string>intermediateWidgetName</string>
+	<key>delegateActionLeft</key>
+	<string>unactivatedPreviewVisibility</string>
+	<key>handlerBesideInterpreter</key>
+	<string>providerByLayer</string>
+	<key>hierarchicalPopupSkewy</key>
+	<string>substantialDurationBrightness</string>
+	<key>notifierBeyondVar</key>
+	<string>offsetBesideLayer</string>
+	<key>respectiveCapacitiesAcceleration</key>
+	<string>binaryObserverInterval</string>
+</dict>
+</plist>

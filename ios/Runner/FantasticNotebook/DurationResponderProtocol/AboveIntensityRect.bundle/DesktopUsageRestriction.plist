@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCubitOrigin</key>
+	<string>sinkBufferVisibility</string>
+	<key>baselineCommandOffset</key>
+	<string>accessibleGroupBottom</string>
+	<key>descriptionVisitorFormat</key>
+	<string>expandedActivityDistance</string>
+	<key>enabledFrameFlags</key>
+	<string>agileOverlayType</string>
+	<key>enabledTransitionTag</key>
+	<string>resilientSizedboxDensity</string>
+	<key>functionalStatelessDistance</key>
+	<string>consultativeEffectVisible</string>
+	<key>isolateFormStyle</key>
+	<string>transitionAroundBridge</string>
+	<key>skirtJobLeft</key>
+	<string>reactiveMediaqueryVisible</string>
+</dict>
+</plist>

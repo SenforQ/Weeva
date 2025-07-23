@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAboutFramework</key>
+	<string>associatedSymbolBottom</string>
+	<key>channelsScopeOpacity</key>
+	<string>particleAdapterState</string>
+	<key>chartShapeAcceleration</key>
+	<string>allocatorThroughJob</string>
+	<key>constRouteDistance</key>
+	<string>channelInterpreterDirection</string>
+	<key>cubitVersusFlyweight</key>
+	<string>gemAdapterStatus</string>
+	<key>dependencyMediatorAcceleration</key>
+	<string>exponentBufferPressure</string>
+	<key>instructionStrategyRotation</key>
+	<string>binaryAwayOperation</string>
+	<key>metadataAtKind</key>
+	<string>descriptorPlatformShape</string>
+	<key>movementPerMode</key>
+	<string>cardAdapterInterval</string>
+	<key>tabbarOperationKind</key>
+	<string>cupertinoInterfaceSaturation</string>
+</dict>
+</plist>

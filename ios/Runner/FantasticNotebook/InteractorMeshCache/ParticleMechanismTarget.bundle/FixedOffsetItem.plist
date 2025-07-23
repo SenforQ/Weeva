@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionMethodAcceleration</key>
+	<string>currentHandlerMode</string>
+	<key>asyncThroughSingleton</key>
+	<string>controllerModeDuration</string>
+	<key>cursorPrototypeCenter</key>
+	<string>interfaceWithoutCommand</string>
+	<key>independentGradientBottom</key>
+	<string>boxNearBridge</string>
+	<key>nativeUtilCount</key>
+	<string>precisionNearBridge</string>
+	<key>providerShapeType</key>
+	<string>specifyVariantForce</string>
+	<key>skinCommandSkewx</key>
+	<string>responseOrPattern</string>
+</dict>
+</plist>

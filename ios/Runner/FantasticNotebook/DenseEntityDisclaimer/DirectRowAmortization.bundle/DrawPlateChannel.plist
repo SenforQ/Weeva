@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNodeOffset</key>
+	<string>frameOperationStyle</string>
+	<key>buttonPerChain</key>
+	<string>standaloneLogStyle</string>
+	<key>crucialManagerDirection</key>
+	<string>compositionalDurationRotation</string>
+	<key>labelAsFlyweight</key>
+	<string>significantLayoutSkewx</string>
+	<key>spriteDuringTier</key>
+	<string>taskValueDuration</string>
+	<key>tappableModalOrientation</key>
+	<string>nodeMementoStyle</string>
+</dict>
+</plist>

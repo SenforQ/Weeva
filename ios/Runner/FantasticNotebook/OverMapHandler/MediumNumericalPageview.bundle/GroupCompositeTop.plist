@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialScreenTag</key>
+	<string>controllerChainInteraction</string>
+	<key>durationTypeRotation</key>
+	<string>semanticLayoutValidation</string>
+	<key>frameAndVariable</key>
+	<string>rowMediatorContrast</string>
+	<key>nextObserverInteraction</key>
+	<string>axisBufferInteraction</string>
+	<key>observerPlatformTail</key>
+	<string>cursorLevelCount</string>
+	<key>queueInVariable</key>
+	<string>presenterContextRight</string>
+	<key>reusableCatalystForce</key>
+	<string>radiusStrategySize</string>
+	<key>servicePerMode</key>
+	<string>eagerExponentVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaquerySystemResponse</key>
+	<string>queryLayerResponse</string>
+	<key>repositoryCompositeHead</key>
+	<string>segmentExceptEnvironment</string>
+	<key>semanticMobxState</key>
+	<string>queryEnvironmentTag</string>
+	<key>sizeLayerHead</key>
+	<string>customSpriteFeedback</string>
+	<key>statelessReductionSpacing</key>
+	<string>fixedSinkScale</string>
+	<key>techniqueFromObserver</key>
+	<string>touchUntilStyle</string>
+</dict>
+</plist>

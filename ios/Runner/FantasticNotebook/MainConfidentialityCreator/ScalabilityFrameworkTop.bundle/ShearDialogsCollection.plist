@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLikeFunction</key>
+	<string>callbackAsNumber</string>
+	<key>callbackBesideMemento</key>
+	<string>threadVersusCycle</string>
+	<key>easyCompletionTension</key>
+	<string>positionedPatternTheme</string>
+	<key>requiredBorderVisibility</key>
+	<string>chapterProcessPadding</string>
+	<key>swiftNumberPadding</key>
+	<string>sizeContextPressure</string>
+	<key>tappableBaseDirection</key>
+	<string>themeChainSpeed</string>
+</dict>
+</plist>

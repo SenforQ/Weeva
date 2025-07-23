@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCommandAcceleration</key>
+	<string>commonGraphTint</string>
+	<key>eventWorkFlags</key>
+	<string>collectionAsPhase</string>
+	<key>flexibleAnimatedcontainerShape</key>
+	<string>sharedLoopSpacing</string>
+	<key>isolateAgainstMethod</key>
+	<string>sliderBufferVisibility</string>
+	<key>layoutSinceState</key>
+	<string>extensionTierTension</string>
+	<key>reusableEquipmentFormat</key>
+	<string>injectionFromBridge</string>
+	<key>vectorCommandName</key>
+	<string>sceneForSystem</string>
+</dict>
+</plist>

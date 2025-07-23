@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelContextFeedback</key>
+	<string>cosineMediatorSize</string>
+	<key>nibDuringState</key>
+	<string>tabbarParamLocation</string>
+	<key>previewActionEdge</key>
+	<string>specifyRouteFormat</string>
+	<key>subtlePositionTransparency</key>
+	<string>widgetVersusValue</string>
+</dict>
+</plist>

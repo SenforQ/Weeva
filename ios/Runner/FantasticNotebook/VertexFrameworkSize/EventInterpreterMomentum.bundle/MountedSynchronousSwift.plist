@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAwayMethod</key>
+	<string>associatedCharacterFeedback</string>
+	<key>controllerInterpreterDuration</key>
+	<string>sineStageBound</string>
+	<key>dynamicMetadataBound</key>
+	<string>standaloneEquipmentFrequency</string>
+	<key>easyChartOrigin</key>
+	<string>cyclePlatformAppearance</string>
+	<key>queryForActivity</key>
+	<string>respectiveRectName</string>
+	<key>reducerIncludeBridge</key>
+	<string>ephemeralDependencyLocation</string>
+	<key>singleGradientTension</key>
+	<string>independentBufferSpeed</string>
+	<key>taskOrAdapter</key>
+	<string>positionWithVariable</string>
+</dict>
+</plist>

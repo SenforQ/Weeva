@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayoutInset</key>
+	<string>sophisticatedChallengeLocation</string>
+	<key>dependencyLayerShape</key>
+	<string>animatedSensorDepth</string>
+	<key>resilientTabbarScale</key>
+	<string>dynamicAlignmentBorder</string>
+	<key>statefulSpriteBottom</key>
+	<string>captionFormLeft</string>
+	<key>titleAboutPlatform</key>
+	<string>dependencyAtTier</string>
+</dict>
+</plist>

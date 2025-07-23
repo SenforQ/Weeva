@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOutsideAction</key>
+	<string>capsuleDuringForm</string>
+	<key>chapterTierVisibility</key>
+	<string>axisContextVelocity</string>
+	<key>enabledDurationSize</key>
+	<string>smallResponseDistance</string>
+	<key>featureCompositeIndex</key>
+	<string>segmentOrComposite</string>
+	<key>optionAndShape</key>
+	<string>deferredDependencyInterval</string>
+	<key>smartGiftBehavior</key>
+	<string>completerPlatformBehavior</string>
+	<key>sophisticatedTaskCount</key>
+	<string>newestBatchTheme</string>
+	<key>switchPatternTheme</key>
+	<string>logarithmMementoRate</string>
+	<key>widgetProcessDuration</key>
+	<string>serviceFlyweightDelay</string>
+</dict>
+</plist>

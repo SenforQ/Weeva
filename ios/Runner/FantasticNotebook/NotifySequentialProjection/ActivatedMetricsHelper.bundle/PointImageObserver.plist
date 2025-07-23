@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAsForm</key>
+	<string>enabledReducerFrequency</string>
+	<key>collectionVariableDuration</key>
+	<string>containerObserverBrightness</string>
+	<key>inactiveSceneCenter</key>
+	<string>graphicFlyweightBorder</string>
+	<key>instructionWithoutFacade</key>
+	<string>gridModeVisible</string>
+	<key>layoutPrototypeBound</key>
+	<string>protectedAwaitOffset</string>
+	<key>navigatorAgainstLayer</key>
+	<string>priorCardStyle</string>
+	<key>sizedboxParamTransparency</key>
+	<string>resizableTextSpeed</string>
+	<key>sophisticatedGroupPressure</key>
+	<string>assetOfProxy</string>
+	<key>tensorPreviewLeft</key>
+	<string>histogramPlatformBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAsAction</key>
+	<string>missionExceptProcess</string>
+	<key>getxAwayTemple</key>
+	<string>granularSceneVisible</string>
+	<key>keyMissionRight</key>
+	<string>completionOrParameter</string>
+	<key>monsterAsLayer</key>
+	<string>transformerForJob</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActionAppearance</key>
+	<string>activatedRemainderDirection</string>
+	<key>columnExceptParameter</key>
+	<string>autoMenuState</string>
+	<key>decorationBesideState</key>
+	<string>eventBesideDecorator</string>
+	<key>gemCompositeOffset</key>
+	<string>beginnerCommandIndex</string>
+	<key>precisionSingletonFormat</key>
+	<string>substantialMobxOffset</string>
+	<key>protocolOrAction</key>
+	<string>awaitByProcess</string>
+	<key>reducerIncludeLevel</key>
+	<string>cursorLayerSaturation</string>
+</dict>
+</plist>

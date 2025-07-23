@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStyleSpeed</key>
+	<string>synchronousResolverContrast</string>
+	<key>assetObserverAcceleration</key>
+	<string>mutableTabviewKind</string>
+	<key>discardedFutureTag</key>
+	<string>cupertinoForBridge</string>
+	<key>grainExceptMemento</key>
+	<string>resourceSingletonPadding</string>
+	<key>localLayoutInset</key>
+	<string>entitySingletonBorder</string>
+	<key>methodFormOpacity</key>
+	<string>asyncParameterCount</string>
+	<key>permissiveCapsuleSpeed</key>
+	<string>enabledTechniqueLeft</string>
+	<key>usecaseCommandPadding</key>
+	<string>tabviewNearSystem</string>
+</dict>
+</plist>

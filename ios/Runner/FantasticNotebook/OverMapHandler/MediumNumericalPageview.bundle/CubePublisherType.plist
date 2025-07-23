@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFlyweightDelay</key>
+	<string>behaviorContextFeedback</string>
+	<key>graphicVersusVisitor</key>
+	<string>titleSystemSkewx</string>
+	<key>listviewBeyondAction</key>
+	<string>cacheFormFrequency</string>
+	<key>logarithmStyleCenter</key>
+	<string>routerPhaseInterval</string>
+	<key>queueExceptOperation</key>
+	<string>transitionObserverBehavior</string>
+	<key>remainderExceptMemento</key>
+	<string>activityTaskVisible</string>
+	<key>requestSystemFormat</key>
+	<string>descriptorAroundNumber</string>
+	<key>serviceTaskShade</key>
+	<string>gridIncludeTask</string>
+	<key>timerFunctionSize</key>
+	<string>matrixLikeFlyweight</string>
+</dict>
+</plist>

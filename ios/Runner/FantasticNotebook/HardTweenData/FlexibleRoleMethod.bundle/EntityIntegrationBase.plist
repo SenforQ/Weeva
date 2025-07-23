@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableUsecaseLeft</key>
+	<string>responseThanOperation</string>
+	<key>positionedBufferBrightness</key>
+	<string>eventThroughLevel</string>
+	<key>smartAwaitVisibility</key>
+	<string>nodeLayerMode</string>
+	<key>widgetExceptState</key>
+	<string>sliderNumberHead</string>
+</dict>
+</plist>

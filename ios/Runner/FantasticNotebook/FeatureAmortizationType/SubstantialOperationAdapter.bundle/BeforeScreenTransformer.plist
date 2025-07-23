@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPositionAcceleration</key>
+	<string>integerAndPhase</string>
+	<key>buttonTierSkewx</key>
+	<string>materialInterpolationTheme</string>
+	<key>explicitTernaryInteraction</key>
+	<string>commandAgainstCycle</string>
+	<key>flexibleConfigurationInterval</key>
+	<string>mainOffsetContrast</string>
+	<key>gridviewAwayPrototype</key>
+	<string>eventTierSpacing</string>
+	<key>layoutActionTransparency</key>
+	<string>resultStageSize</string>
+	<key>specifyLayerOrientation</key>
+	<string>threadAndType</string>
+</dict>
+</plist>

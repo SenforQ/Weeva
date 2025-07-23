@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertModeOpacity</key>
+	<string>curveNumberVisibility</string>
+	<key>checklistOrParameter</key>
+	<string>persistentProviderOpacity</string>
+	<key>directlyRichtextSize</key>
+	<string>opaqueHashHue</string>
+	<key>globalAssetMargin</key>
+	<string>similarGridviewFormat</string>
+	<key>heroAtStructure</key>
+	<string>prismaticManagerOffset</string>
+	<key>heroStructureHue</key>
+	<string>pivotalCompleterVisible</string>
+	<key>labelAsObserver</key>
+	<string>sharedRadiusBorder</string>
+	<key>mediocreNormBound</key>
+	<string>dynamicTabbarShade</string>
+	<key>multiplicationAwayTask</key>
+	<string>asyncImageStatus</string>
+	<key>textureAmongAction</key>
+	<string>delegateFormForce</string>
+</dict>
+</plist>

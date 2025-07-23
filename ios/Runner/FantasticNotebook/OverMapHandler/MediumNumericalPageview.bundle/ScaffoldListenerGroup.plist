@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureVisitorFrequency</key>
+	<string>independentReductionTransparency</string>
+	<key>blocWithOperation</key>
+	<string>mainAppbarValidation</string>
+	<key>channelFrameworkDuration</key>
+	<string>containerIncludeTask</string>
+	<key>customizedFragmentInterval</key>
+	<string>methodUntilLayer</string>
+	<key>declarativeCardSkewy</key>
+	<string>marginAroundPlatform</string>
+	<key>heroCycleDelay</key>
+	<string>nativeResourceFlags</string>
+	<key>serviceTypeEdge</key>
+	<string>indicatorAndNumber</string>
+	<key>storageIncludeJob</key>
+	<string>storeBeyondOperation</string>
+</dict>
+</plist>

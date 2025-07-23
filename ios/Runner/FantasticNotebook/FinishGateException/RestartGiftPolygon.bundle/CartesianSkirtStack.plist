@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTouchSpeed</key>
+	<string>transitionAmongComposite</string>
+	<key>actionFunctionLeft</key>
+	<string>awaitAtMode</string>
+	<key>bufferDespiteMethod</key>
+	<string>cubitKindResponse</string>
+	<key>canvasAboutMethod</key>
+	<string>dimensionScopeTop</string>
+	<key>dropdownbuttonOrStage</key>
+	<string>requiredOptimizerCount</string>
+	<key>monsterBufferType</key>
+	<string>rapidGrainSaturation</string>
+	<key>variantModeCount</key>
+	<string>cubitCycleSpeed</string>
+</dict>
+</plist>

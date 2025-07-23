@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerViaNumber</key>
+	<string>futureActivityHue</string>
+	<key>grainSinceDecorator</key>
+	<string>sharedStorageTop</string>
+	<key>reusableEntityStatus</key>
+	<string>streamWithDecorator</string>
+	<key>sliderWorkName</key>
+	<string>activityAboutSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMediaqueryVelocity</key>
+	<string>borderStyleBehavior</string>
+	<key>heapUntilJob</key>
+	<string>interfaceProcessAppearance</string>
+	<key>interactiveCacheTheme</key>
+	<string>containerVariableOrigin</string>
+	<key>modalWorkOrigin</key>
+	<string>reducerBridgeBehavior</string>
+	<key>multiAssetSize</key>
+	<string>sharedConstraintBrightness</string>
+	<key>nativeAnchorCount</key>
+	<string>gramDuringBridge</string>
+	<key>offsetProxyTag</key>
+	<string>unactivatedRepositoryDirection</string>
+	<key>referenceDuringProxy</key>
+	<string>labelByCommand</string>
+	<key>tabviewAlongProxy</key>
+	<string>curveOutsideFunction</string>
+</dict>
+</plist>

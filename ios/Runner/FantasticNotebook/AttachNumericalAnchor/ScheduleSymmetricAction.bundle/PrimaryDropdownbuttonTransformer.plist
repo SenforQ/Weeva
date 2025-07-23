@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAgainstKind</key>
+	<string>constraintPatternBottom</string>
+	<key>invisibleResultOffset</key>
+	<string>uniqueDependencyOrigin</string>
+	<key>labelByActivity</key>
+	<string>globalListviewIndex</string>
+	<key>resourceOfSystem</key>
+	<string>chapterContainStrategy</string>
+	<key>scrollFrameworkScale</key>
+	<string>chapterAgainstSingleton</string>
+	<key>storagePhaseSpacing</key>
+	<string>controllerBufferRotation</string>
+	<key>textureAgainstParameter</key>
+	<string>configurationDuringPhase</string>
+	<key>tickerActivityTheme</key>
+	<string>subsequentProjectionCenter</string>
+</dict>
+</plist>

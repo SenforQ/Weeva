@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSliderAcceleration</key>
+	<string>containerFromWork</string>
+	<key>imperativePriorityMode</key>
+	<string>momentumAlongDecorator</string>
+	<key>queueTempleTransparency</key>
+	<string>webResponseFormat</string>
+</dict>
+</plist>

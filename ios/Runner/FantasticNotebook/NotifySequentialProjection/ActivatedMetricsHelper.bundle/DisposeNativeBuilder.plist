@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTweenResponse</key>
+	<string>labelStyleVisibility</string>
+	<key>basicLabelSpeed</key>
+	<string>bufferThroughPhase</string>
+	<key>bitrateThroughJob</key>
+	<string>beginnerAnimatedcontainerFlags</string>
+	<key>checklistDecoratorFormat</key>
+	<string>descriptionPlatformTheme</string>
+	<key>ephemeralBaselineHue</key>
+	<string>cubeParameterDuration</string>
+	<key>scrollableSizedboxOrigin</key>
+	<string>spotDecoratorBrightness</string>
+	<key>ternaryFrameworkDensity</key>
+	<string>canvasAwayStyle</string>
+	<key>transitionActivityVisible</key>
+	<string>brushMediatorResponse</string>
+	<key>transitionViaSingleton</key>
+	<string>sinkStyleOpacity</string>
+</dict>
+</plist>

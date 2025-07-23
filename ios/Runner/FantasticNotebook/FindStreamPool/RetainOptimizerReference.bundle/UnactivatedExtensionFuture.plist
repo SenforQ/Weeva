@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSystemSize</key>
+	<string>lazyTextAcceleration</string>
+	<key>disabledGestureRotation</key>
+	<string>intensityVariableFeedback</string>
+	<key>factoryOutsideBuffer</key>
+	<string>coordinatorFromStructure</string>
+	<key>inactiveFutureTail</key>
+	<string>graphDuringAdapter</string>
+	<key>loopDuringVariable</key>
+	<string>logStylePadding</string>
+	<key>nodeVarAlignment</key>
+	<string>widgetThanShape</string>
+	<key>presenterPlatformEdge</key>
+	<string>geometricDelegateName</string>
+	<key>sinkDespiteWork</key>
+	<string>plateProxyScale</string>
+	<key>statelessResolverSaturation</key>
+	<string>metadataExceptTemple</string>
+	<key>tableViaStyle</key>
+	<string>futureAtObserver</string>
+</dict>
+</plist>

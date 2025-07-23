@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStageSkewy</key>
+	<string>requiredResultResponse</string>
+	<key>localizationProxyVisible</key>
+	<string>utilAmongSystem</string>
+	<key>overlayPerStyle</key>
+	<string>intermediatePreviewSaturation</string>
+	<key>previewWithoutParam</key>
+	<string>commonInkwellSpacing</string>
+	<key>rectUntilKind</key>
+	<string>behaviorCycleCenter</string>
+	<key>responsePhasePosition</key>
+	<string>variantContextSize</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsFromBuffer</key>
+	<string>asyncIconCount</string>
+	<key>chartByShape</key>
+	<string>consumerThroughJob</string>
+	<key>giftCycleSpeed</key>
+	<string>singletonThroughTask</string>
+	<key>handlerSystemValidation</key>
+	<string>resizableMediaqueryDuration</string>
+	<key>queryAmongWork</key>
+	<string>futureAsMemento</string>
+</dict>
+</plist>

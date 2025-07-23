@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyCycleDelay</key>
+	<string>curveShapeCount</string>
+	<key>elasticRemainderShape</key>
+	<string>cellContainCycle</string>
+	<key>imperativeSpineFrequency</key>
+	<string>multiplicationNumberOrientation</string>
+	<key>stampCommandFormat</key>
+	<string>animationAlongParameter</string>
+</dict>
+</plist>

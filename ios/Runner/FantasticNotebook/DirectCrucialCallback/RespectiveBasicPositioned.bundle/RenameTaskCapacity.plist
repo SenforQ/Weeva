@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVisitorBrightness</key>
+	<string>sampleEnvironmentShade</string>
+	<key>columnAtVisitor</key>
+	<string>protectedMetadataVisibility</string>
+	<key>concurrentAnchorFeedback</key>
+	<string>cellFormAppearance</string>
+	<key>controllerAroundShape</key>
+	<string>unsortedCaptionAppearance</string>
+	<key>persistentTaskMargin</key>
+	<string>popupOperationForce</string>
+	<key>primaryCapacitiesFrequency</key>
+	<string>transformerJobDuration</string>
+	<key>prismaticBaselineRate</key>
+	<string>sharedPreviewTension</string>
+	<key>staticProtocolColor</key>
+	<string>requiredModelDelay</string>
+	<key>textfieldThroughOperation</key>
+	<string>adaptiveBehaviorMargin</string>
+</dict>
+</plist>

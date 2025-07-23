@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThanVariable</key>
+	<string>storeParamState</string>
+	<key>gemJobDirection</key>
+	<string>associatedActivityKind</string>
+	<key>integerContainMemento</key>
+	<string>interactiveFutureRate</string>
+	<key>newestGetxCoord</key>
+	<string>menuJobDuration</string>
+	<key>numericalLoopAlignment</key>
+	<string>accessibleCompletionCoord</string>
+	<key>requiredTweenRotation</key>
+	<string>lostTaskInterval</string>
+	<key>secondChannelColor</key>
+	<string>challengeVisitorCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCommandValidation</key>
+	<string>spriteIncludeParameter</string>
+	<key>capacitiesNumberIndex</key>
+	<string>dialogsAtChain</string>
+	<key>pinchableWidgetName</key>
+	<string>navigatorParamSpeed</string>
+	<key>positionVariableInset</key>
+	<string>currentGrayscaleSpacing</string>
+	<key>timerCommandInset</key>
+	<string>transformerAgainstMemento</string>
+</dict>
+</plist>

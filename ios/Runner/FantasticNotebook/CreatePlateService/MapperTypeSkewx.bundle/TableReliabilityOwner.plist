@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPerMode</key>
+	<string>explicitPointShape</string>
+	<key>customMetadataVelocity</key>
+	<string>canvasStructureBorder</string>
+	<key>ignoredCertificateShape</key>
+	<string>intermediateCaptionLocation</string>
+	<key>operationJobKind</key>
+	<string>stateWithPrototype</string>
+	<key>retainedRouterSize</key>
+	<string>radiusEnvironmentInteraction</string>
+	<key>screenStyleDepth</key>
+	<string>menuFrameworkInset</string>
+	<key>sliderViaCycle</key>
+	<string>dependencyStyleTop</string>
+	<key>transitionTypeVisibility</key>
+	<string>memberContainProcess</string>
+</dict>
+</plist>

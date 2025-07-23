@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateVariableContrast</key>
+	<string>basicNodeBrightness</string>
+	<key>buttonPerInterpreter</key>
+	<string>arithmeticStepVelocity</string>
+	<key>controllerOfPlatform</key>
+	<string>streamDespiteAction</string>
+	<key>cubeProcessOpacity</key>
+	<string>compositionalInjectionHue</string>
+	<key>cupertinoVisitorOpacity</key>
+	<string>builderPatternSpacing</string>
+	<key>dependencyForParameter</key>
+	<string>futureExceptEnvironment</string>
+	<key>descriptionAndBridge</key>
+	<string>textureAboutMethod</string>
+	<key>functionalScaffoldShade</key>
+	<string>comprehensiveCertificateOrigin</string>
+	<key>handlerPatternDirection</key>
+	<string>decorationWithMethod</string>
+</dict>
+</plist>

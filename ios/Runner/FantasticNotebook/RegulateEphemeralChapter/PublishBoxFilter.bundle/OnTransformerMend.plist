@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOutsideTier</key>
+	<string>transitionInContext</string>
+	<key>navigatorSingletonShape</key>
+	<string>taskAmongProcess</string>
+	<key>prismaticFeatureValidation</key>
+	<string>stepPlatformSkewx</string>
+	<key>sessionAndTask</key>
+	<string>radiusInKind</string>
+	<key>stepFromStrategy</key>
+	<string>textfieldOrKind</string>
+	<key>storeOutsideFacade</key>
+	<string>localizationPhaseInterval</string>
+</dict>
+</plist>

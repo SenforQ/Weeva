@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPresenterOrientation</key>
+	<string>cacheMementoAppearance</string>
+	<key>enabledIndicatorPosition</key>
+	<string>materialExceptStyle</string>
+	<key>entropyOperationVisible</key>
+	<string>animationValueBound</string>
+	<key>frameFromChain</key>
+	<string>smartGestureBehavior</string>
+</dict>
+</plist>

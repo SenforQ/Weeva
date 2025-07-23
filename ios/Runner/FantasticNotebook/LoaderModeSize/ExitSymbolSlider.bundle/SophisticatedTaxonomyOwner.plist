@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLocalizationEdge</key>
+	<string>criticalPreviewShape</string>
+	<key>allocatorAroundBridge</key>
+	<string>standaloneFrameInteraction</string>
+	<key>documentEnvironmentTint</key>
+	<string>pinchableSensorInset</string>
+	<key>factoryViaObserver</key>
+	<string>agileEventHead</string>
+	<key>similarRouteResponse</key>
+	<string>eagerDependencyFeedback</string>
+	<key>variantDespiteLevel</key>
+	<string>nodeStrategyAppearance</string>
+</dict>
+</plist>

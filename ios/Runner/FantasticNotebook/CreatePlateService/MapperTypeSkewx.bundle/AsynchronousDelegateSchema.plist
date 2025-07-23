@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorAppearance</key>
+	<string>bitrateActivitySpacing</string>
+	<key>animationOfCommand</key>
+	<string>customizedSwitchTint</string>
+	<key>discardedHeapSaturation</key>
+	<string>adaptiveAsyncAppearance</string>
+	<key>euclideanAppbarDuration</key>
+	<string>crucialBufferAcceleration</string>
+	<key>getxPatternState</key>
+	<string>threadTierType</string>
+	<key>grainCycleHead</key>
+	<string>immutableCapsuleValidation</string>
+	<key>mediaShapeBrightness</key>
+	<string>missionPrototypeTransparency</string>
+	<key>reductionJobEdge</key>
+	<string>streamBeyondPhase</string>
+	<key>streamActivityDirection</key>
+	<string>directProtocolTransparency</string>
+	<key>workflowAtAdapter</key>
+	<string>scrollOfMethod</string>
+</dict>
+</plist>

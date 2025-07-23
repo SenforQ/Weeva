@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterPhaseTransparency</key>
+	<string>queueFunctionVisibility</string>
+	<key>cyclePhaseTheme</key>
+	<string>titleContainStrategy</string>
+	<key>mobxModeState</key>
+	<string>curveLevelCoord</string>
+	<key>singletonInsideWork</key>
+	<string>labelFormFormat</string>
+	<key>tabviewProcessForce</key>
+	<string>multiAlphaRight</string>
+</dict>
+</plist>

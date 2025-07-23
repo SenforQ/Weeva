@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexOfMode</key>
+	<string>sequentialLossSkewy</string>
+	<key>materialTransformerEdge</key>
+	<string>eagerCaptionValidation</string>
+	<key>mutableLayerState</key>
+	<string>staticSliderForce</string>
+	<key>singletonOfObserver</key>
+	<string>requestExceptStructure</string>
+	<key>subtleLayerOrientation</key>
+	<string>functionalCharacterDepth</string>
+</dict>
+</plist>

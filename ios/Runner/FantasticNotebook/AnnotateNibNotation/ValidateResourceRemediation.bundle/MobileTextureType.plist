@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationInterpreterFeedback</key>
+	<string>standaloneSubpixelRight</string>
+	<key>remainderMediatorStyle</key>
+	<string>stateMediatorValidation</string>
+	<key>secondQueryValidation</key>
+	<string>baseScopeVelocity</string>
+	<key>skinTempleFormat</key>
+	<string>cartesianTweenBehavior</string>
+	<key>tweenParameterVisibility</key>
+	<string>captionVariableSkewx</string>
+</dict>
+</plist>

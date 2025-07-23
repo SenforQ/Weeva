@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCurveAcceleration</key>
+	<string>sinkAgainstTask</string>
+	<key>displayableCallbackCoord</key>
+	<string>easyRectMargin</string>
+	<key>intuitiveCaptionMode</key>
+	<string>asyncProcessShape</string>
+	<key>isolateTaskDensity</key>
+	<string>cubitParameterBound</string>
+	<key>multiCertificateHue</key>
+	<string>priorRouteDuration</string>
+	<key>resultOrCycle</key>
+	<string>clipperAtContext</string>
+	<key>symmetricMemberBound</key>
+	<string>curveModeInteraction</string>
+	<key>unsortedQueryType</key>
+	<string>ternaryLikeScope</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAtVar</key>
+	<string>singletonNumberShade</string>
+	<key>alignmentOutsideMemento</key>
+	<string>opaqueSpriteMargin</string>
+	<key>dedicatedRadioType</key>
+	<string>nodeModeVisible</string>
+	<key>hashMethodDensity</key>
+	<string>compositionalNodeContrast</string>
+	<key>heapThroughScope</key>
+	<string>compositionMediatorPadding</string>
+	<key>plateForState</key>
+	<string>canvasAmongPlatform</string>
+	<key>unactivatedListenerTag</key>
+	<string>builderAndPrototype</string>
+	<key>visibleNibMomentum</key>
+	<string>subscriptionStrategyTransparency</string>
+</dict>
+</plist>

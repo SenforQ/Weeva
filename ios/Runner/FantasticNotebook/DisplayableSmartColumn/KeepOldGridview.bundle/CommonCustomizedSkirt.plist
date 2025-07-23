@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerPrototypeFormat</key>
+	<string>sortedDependencyAppearance</string>
+	<key>semanticsViaSystem</key>
+	<string>assetAlongMode</string>
+	<key>transformerNumberFlags</key>
+	<string>offsetOrTier</string>
+	<key>visibleTimerForce</key>
+	<string>playbackContainEnvironment</string>
+</dict>
+</plist>

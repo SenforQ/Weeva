@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkRate</key>
+	<string>mediumObserverCount</string>
+	<key>relationalCoordinatorAcceleration</key>
+	<string>projectionAwaySingleton</string>
+	<key>secondLoopVisible</key>
+	<string>widgetStrategyFrequency</string>
+	<key>storyboardInPlatform</key>
+	<string>touchPrototypeResponse</string>
+	<key>transitionOperationDelay</key>
+	<string>taskTaskAcceleration</string>
+</dict>
+</plist>

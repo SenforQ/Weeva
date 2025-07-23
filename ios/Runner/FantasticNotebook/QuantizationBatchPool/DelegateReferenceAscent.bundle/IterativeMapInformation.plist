@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeFeedback</key>
+	<string>modelBufferOrientation</string>
+	<key>sliderActionFrequency</key>
+	<string>gradientStyleShade</string>
+	<key>streamWithoutCycle</key>
+	<string>widgetContainObserver</string>
+	<key>uniqueTextureTransparency</key>
+	<string>vectorNearCommand</string>
+</dict>
+</plist>

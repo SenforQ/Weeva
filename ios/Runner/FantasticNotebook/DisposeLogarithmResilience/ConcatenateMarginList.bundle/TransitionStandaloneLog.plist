@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocScopeDuration</key>
+	<string>containerAlongMediator</string>
+	<key>immediatePositionDelay</key>
+	<string>robustAwaitName</string>
+	<key>localizationWithoutStrategy</key>
+	<string>routerAsState</string>
+	<key>methodActionResponse</key>
+	<string>equipmentThroughComposite</string>
+	<key>sensorInStyle</key>
+	<string>topicVariableIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGridBorder</key>
+	<string>multiStatelessContrast</string>
+	<key>fixedMasterVisibility</key>
+	<string>presenterVariableOrigin</string>
+	<key>statelessTweenSpeed</key>
+	<string>cycleFromState</string>
+	<key>textureFormInterval</key>
+	<string>compositionMementoName</string>
+</dict>
+</plist>

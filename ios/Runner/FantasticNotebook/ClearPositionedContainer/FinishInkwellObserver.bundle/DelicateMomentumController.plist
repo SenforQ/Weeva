@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphObserverBehavior</key>
+	<string>seamlessBitrateSpacing</string>
+	<key>immediateStorageTail</key>
+	<string>decorationPerFramework</string>
+	<key>managerAboutVariable</key>
+	<string>asynchronousFrameBottom</string>
+	<key>particleProxyRate</key>
+	<string>sequentialContainerInteraction</string>
+	<key>profileModeBottom</key>
+	<string>commonCheckboxPadding</string>
+	<key>queryContainType</key>
+	<string>sizedboxByVariable</string>
+	<key>respectiveAnimationSize</key>
+	<string>cupertinoLabelAlignment</string>
+	<key>statelessPerVariable</key>
+	<string>temporaryFutureFormat</string>
+	<key>threadCycleAppearance</key>
+	<string>allocatorMementoName</string>
+	<key>variantWithPattern</key>
+	<string>resolverFromLevel</string>
+</dict>
+</plist>

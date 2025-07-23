@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisTierTransparency</key>
+	<string>repositoryDuringComposite</string>
+	<key>callbackAsTask</key>
+	<string>heapOrState</string>
+	<key>layerPhaseRotation</key>
+	<string>publicExponentTail</string>
+	<key>numericalSceneDepth</key>
+	<string>tableAtValue</string>
+</dict>
+</plist>

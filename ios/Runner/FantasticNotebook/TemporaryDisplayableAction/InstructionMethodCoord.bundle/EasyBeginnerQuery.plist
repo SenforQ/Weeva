@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLayerCoord</key>
+	<string>asynchronousChannelColor</string>
+	<key>firstBuilderInteraction</key>
+	<string>mobileFormOrientation</string>
+	<key>globalHeapDirection</key>
+	<string>standaloneChannelsFormat</string>
+	<key>handlerCycleTail</key>
+	<string>isolateChainTop</string>
+	<key>interactiveNavigationTop</key>
+	<string>blocFormColor</string>
+	<key>persistentGesturedetectorCenter</key>
+	<string>matrixCommandCount</string>
+	<key>seamlessStackFrequency</key>
+	<string>interfaceInsideStrategy</string>
+</dict>
+</plist>

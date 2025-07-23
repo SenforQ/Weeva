@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStatelessHead</key>
+	<string>resultWithoutForm</string>
+	<key>checklistInterpreterSpeed</key>
+	<string>scrollMediatorSpacing</string>
+	<key>dependencyCycleDensity</key>
+	<string>largeLayoutFeedback</string>
+	<key>localizationStageBorder</key>
+	<string>effectLikeFlyweight</string>
+	<key>profileTypeOrigin</key>
+	<string>priorityWithoutShape</string>
+	<key>screenAlongFlyweight</key>
+	<string>resultAdapterMargin</string>
+	<key>scrollableSubpixelVisibility</key>
+	<string>collectionParamPadding</string>
+</dict>
+</plist>

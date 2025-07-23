@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticUtilCoord</key>
+	<string>radioPerActivity</string>
+	<key>arithmeticWithoutMethod</key>
+	<string>taskWithFunction</string>
+	<key>dialogsThroughInterpreter</key>
+	<string>collectionStylePosition</string>
+	<key>graphFunctionHue</key>
+	<string>entityLevelLeft</string>
+	<key>gridviewAboutFramework</key>
+	<string>diffableFlexBrightness</string>
+	<key>nodeLayerInterval</key>
+	<string>checkboxModeFormat</string>
+	<key>opaqueTextVisibility</key>
+	<string>assetAlongDecorator</string>
+	<key>requestProxyCoord</key>
+	<string>gramStageSkewy</string>
+	<key>richtextAboutStrategy</key>
+	<string>resizablePresenterSkewx</string>
+	<key>textfieldWithPlatform</key>
+	<string>entityViaMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVariableShade</key>
+	<string>handlerAmongTask</string>
+	<key>asyncAgainstMediator</key>
+	<string>appbarAmongBridge</string>
+	<key>labelAroundAdapter</key>
+	<string>appbarTaskCenter</string>
+	<key>previewInsideBuffer</key>
+	<string>materialContainerDuration</string>
+	<key>progressbarAndFacade</key>
+	<string>drawerThroughStructure</string>
+	<key>requestAdapterSaturation</key>
+	<string>subsequentGroupOffset</string>
+	<key>resilientTextSkewy</key>
+	<string>materialCommandInterval</string>
+	<key>transformerAroundBuffer</key>
+	<string>slashMethodShade</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFrameworkIndex</key>
+	<string>asyncViaSystem</string>
+	<key>chapterBufferFlags</key>
+	<string>behaviorLayerSkewx</string>
+	<key>factoryUntilCommand</key>
+	<string>tabbarValueCoord</string>
+	<key>fixedFactoryIndex</key>
+	<string>mediocreFrameState</string>
+	<key>interpolationMethodBehavior</key>
+	<string>sharedTextureTheme</string>
+	<key>marginParamKind</key>
+	<string>smallStreamLeft</string>
+	<key>progressbarVarKind</key>
+	<string>previewAdapterType</string>
+	<key>resolverFunctionColor</key>
+	<string>pageviewMethodHue</string>
+	<key>transformerStrategyBrightness</key>
+	<string>constraintSingletonOrientation</string>
+</dict>
+</plist>

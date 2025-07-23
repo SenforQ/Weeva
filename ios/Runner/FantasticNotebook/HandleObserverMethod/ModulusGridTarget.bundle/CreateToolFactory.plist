@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTabbarFrequency</key>
+	<string>interfaceContainActivity</string>
+	<key>compositionalPositionSize</key>
+	<string>positionExceptAdapter</string>
+	<key>cubitPhaseStatus</key>
+	<string>errorMediatorOrientation</string>
+	<key>dimensionCommandState</key>
+	<string>priorityWithTask</string>
+	<key>futureMethodOrientation</key>
+	<string>normMediatorSaturation</string>
+	<key>groupAmongEnvironment</key>
+	<string>functionalMonsterOffset</string>
+	<key>localCompletionVisible</key>
+	<string>sceneIncludeFlyweight</string>
+	<key>localizationWithoutShape</key>
+	<string>relationalMusicVelocity</string>
+	<key>permissiveIconCenter</key>
+	<string>hyperbolicSkirtHue</string>
+	<key>relationalFutureInteraction</key>
+	<string>cubitTaskRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRiverpodAppearance</key>
+	<string>scrollableTangentPadding</string>
+	<key>disparateTextureCount</key>
+	<string>dependencyForFlyweight</string>
+	<key>immutableBinaryType</key>
+	<string>synchronousCommandSpeed</string>
+	<key>marginVersusBuffer</key>
+	<string>criticalPlaybackVisibility</string>
+	<key>observerFlyweightCount</key>
+	<string>autoCheckboxRight</string>
+	<key>permissiveMediaqueryInset</key>
+	<string>sliderVersusAdapter</string>
+	<key>queueAboutSystem</key>
+	<string>multiplicationChainKind</string>
+	<key>radioPrototypeOffset</key>
+	<string>taskContainPlatform</string>
+	<key>standaloneBuilderInset</key>
+	<string>sessionVariableFeedback</string>
+</dict>
+</plist>

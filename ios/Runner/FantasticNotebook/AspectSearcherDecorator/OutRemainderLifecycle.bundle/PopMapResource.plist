@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAgainstMediator</key>
+	<string>asynchronousInterpolationLocation</string>
+	<key>constCompositionRight</key>
+	<string>precisionOutsideLayer</string>
+	<key>imperativeRepositoryResponse</key>
+	<string>euclideanConstraintSpacing</string>
+	<key>iterativeSizeMode</key>
+	<string>grainFunctionOpacity</string>
+	<key>serviceVersusInterpreter</key>
+	<string>listenerBufferPosition</string>
+	<key>textFormDensity</key>
+	<string>statefulActionFlags</string>
+	<key>unsortedLayoutAppearance</key>
+	<string>cubeWithoutSingleton</string>
+</dict>
+</plist>

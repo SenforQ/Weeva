@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCycleState</key>
+	<string>particleStateShade</string>
+	<key>descriptorStyleForce</key>
+	<string>taskOrObserver</string>
+	<key>materialScopeDelay</key>
+	<string>crudeAsyncShape</string>
+	<key>statelessWithTask</key>
+	<string>subtleResolverFlags</string>
+</dict>
+</plist>

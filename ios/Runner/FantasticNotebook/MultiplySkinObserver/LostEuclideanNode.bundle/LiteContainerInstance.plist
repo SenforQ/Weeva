@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityLikeDecorator</key>
+	<string>topicDespiteContext</string>
+	<key>errorShapeBehavior</key>
+	<string>completionBesideMemento</string>
+	<key>hashWithoutStyle</key>
+	<string>desktopSkinBorder</string>
+	<key>normalPlateTransparency</key>
+	<string>injectionPhaseInteraction</string>
+	<key>pivotalPresenterState</key>
+	<string>heapInterpreterForce</string>
+	<key>prismaticStreamType</key>
+	<string>easyThemeSpacing</string>
+	<key>scrollNearSingleton</key>
+	<string>typicalSizeAcceleration</string>
+	<key>smallAllocatorShape</key>
+	<string>immediateCommandOffset</string>
+	<key>textureActionOrientation</key>
+	<string>boxScopeDuration</string>
+</dict>
+</plist>

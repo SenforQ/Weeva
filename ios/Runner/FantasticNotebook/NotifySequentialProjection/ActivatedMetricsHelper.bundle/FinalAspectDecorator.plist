@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionManagerOrientation</key>
+	<string>opaqueTickerRight</string>
+	<key>cacheByLevel</key>
+	<string>dedicatedGraphTop</string>
+	<key>declarativeTextureLocation</key>
+	<string>operationWithoutFramework</string>
+	<key>gridFrameworkTheme</key>
+	<string>rectVariableTransparency</string>
+	<key>handlerStageBound</key>
+	<string>sinkWithoutFlyweight</string>
+	<key>progressbarDespiteShape</key>
+	<string>sizeWithContext</string>
+	<key>queueFromCommand</key>
+	<string>mediocrePreviewFlags</string>
+	<key>storyboardAgainstKind</key>
+	<string>statefulTimerResponse</string>
+</dict>
+</plist>

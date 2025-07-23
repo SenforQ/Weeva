@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTierKind</key>
+	<string>chapterInWork</string>
+	<key>flexibleModelFormat</key>
+	<string>lazyTouchBottom</string>
+	<key>metadataInterpreterKind</key>
+	<string>responsiveSegmentBehavior</string>
+	<key>priorityUntilParameter</key>
+	<string>reactiveTextBorder</string>
+	<key>routeDuringStrategy</key>
+	<string>asynchronousBlocStyle</string>
+	<key>sizedboxMementoPadding</key>
+	<string>dedicatedIntensityDensity</string>
+	<key>smartScaffoldMargin</key>
+	<string>captionTaskDistance</string>
+	<key>spotAmongFramework</key>
+	<string>radiusAmongProxy</string>
+	<key>tabbarPlatformSkewx</key>
+	<string>rowBufferTension</string>
+	<key>unsortedFragmentVisibility</key>
+	<string>notificationPhaseVelocity</string>
+</dict>
+</plist>

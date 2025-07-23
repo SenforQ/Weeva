@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionExceptParameter</key>
+	<string>webScaleCenter</string>
+	<key>crudeProviderOpacity</key>
+	<string>equalizationExceptValue</string>
+	<key>elasticAxisResponse</key>
+	<string>indicatorFrameworkRate</string>
+	<key>spotVersusCycle</key>
+	<string>delegateStyleCount</string>
+	<key>substantialExpandedInset</key>
+	<string>dynamicChannelBorder</string>
+</dict>
+</plist>

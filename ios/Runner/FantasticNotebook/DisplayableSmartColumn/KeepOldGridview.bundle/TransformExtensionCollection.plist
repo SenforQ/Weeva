@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncByMode</key>
+	<string>switchActionRate</string>
+	<key>challengeScopeSkewy</key>
+	<string>screenAboutAction</string>
+	<key>scrollAtMediator</key>
+	<string>spriteContainParameter</string>
+	<key>semanticPromiseBorder</key>
+	<string>crudeCurveStatus</string>
+	<key>stackWithoutBuffer</key>
+	<string>framePrototypeFlags</string>
+	<key>statelessMarginDuration</key>
+	<string>vectorScopeDirection</string>
+	<key>visibleBlocDirection</key>
+	<string>widgetLayerEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPatternEdge</key>
+	<string>layoutWithMemento</string>
+	<key>capsuleOrParameter</key>
+	<string>isolateViaBridge</string>
+	<key>durationAwayShape</key>
+	<string>deferredStampSkewx</string>
+	<key>inheritedControllerResponse</key>
+	<string>handlerWithoutAction</string>
+	<key>rectLayerDistance</key>
+	<string>semanticsForNumber</string>
+	<key>tappableBatchOrientation</key>
+	<string>semanticsDuringNumber</string>
+	<key>widgetOutsideVisitor</key>
+	<string>normProcessFeedback</string>
+</dict>
+</plist>

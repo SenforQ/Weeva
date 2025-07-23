@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSingletonValidation</key>
+	<string>deferredNavigatorInterval</string>
+	<key>currentSizeTheme</key>
+	<string>materialStateTint</string>
+	<key>decorationFunctionSpeed</key>
+	<string>multiSinkLeft</string>
+	<key>draggableProviderOrigin</key>
+	<string>scaffoldAwayBridge</string>
+	<key>flexCommandPosition</key>
+	<string>swiftInterpreterBehavior</string>
+	<key>grainBesideFlyweight</key>
+	<string>granularSizeBound</string>
+	<key>mobxChainPadding</key>
+	<string>animatedSwitchStyle</string>
+	<key>providerAwayState</key>
+	<string>sampleStyleInset</string>
+	<key>sliderAlongFunction</key>
+	<string>eventAboutSingleton</string>
+</dict>
+</plist>

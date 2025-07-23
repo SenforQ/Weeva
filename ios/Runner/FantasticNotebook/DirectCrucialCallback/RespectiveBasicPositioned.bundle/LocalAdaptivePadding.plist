@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardNumberContrast</key>
+	<string>challengeVersusLayer</string>
+	<key>interactivePopupMargin</key>
+	<string>containerVisitorDistance</string>
+	<key>presenterByMode</key>
+	<string>newestCellInterval</string>
+	<key>riverpodObserverOrigin</key>
+	<string>cupertinoWorkShade</string>
+	<key>rowOperationTheme</key>
+	<string>commonPainterTint</string>
+	<key>statelessInstructionTransparency</key>
+	<string>gridviewOutsideProcess</string>
+	<key>usageWithoutMethod</key>
+	<string>mobileMenuSpacing</string>
+</dict>
+</plist>

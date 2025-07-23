@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPresenterDelay</key>
+	<string>inactiveMetadataDelay</string>
+	<key>consultativeEquipmentValidation</key>
+	<string>memberSinceCommand</string>
+	<key>easyTransitionTint</key>
+	<string>presenterCompositeContrast</string>
+	<key>modelWithTemple</key>
+	<string>entropyOutsideMediator</string>
+	<key>visibleTabviewState</key>
+	<string>callbackAgainstFunction</string>
+</dict>
+</plist>

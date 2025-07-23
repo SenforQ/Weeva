@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerThroughKind</key>
+	<string>effectIncludePhase</string>
+	<key>bulletForPlatform</key>
+	<string>ephemeralToolFormat</string>
+	<key>callbackWithLevel</key>
+	<string>disparateErrorBound</string>
+	<key>draggablePageviewHue</key>
+	<string>heapInsideTask</string>
+	<key>navigatorContextSpeed</key>
+	<string>mediumDescriptionBrightness</string>
+	<key>pinchableBaseTransparency</key>
+	<string>backwardSinkSize</string>
+	<key>queryMediatorOrientation</key>
+	<string>ephemeralLocalizationTension</string>
+	<key>queueMediatorBound</key>
+	<string>secondGroupDepth</string>
+	<key>topicParamOpacity</key>
+	<string>switchValueColor</string>
+</dict>
+</plist>

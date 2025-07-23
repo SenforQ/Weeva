@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFunctionIndex</key>
+	<string>channelBeyondFunction</string>
+	<key>capacitiesExceptPhase</key>
+	<string>channelForFacade</string>
+	<key>containerWorkAppearance</key>
+	<string>baseFunctionInterval</string>
+	<key>intensityKindState</key>
+	<string>switchStyleStatus</string>
+	<key>originalSignSize</key>
+	<string>pinchableDelegatePosition</string>
+	<key>requestCyclePadding</key>
+	<string>musicFromObserver</string>
+	<key>sharedReductionColor</key>
+	<string>presenterDespiteChain</string>
+	<key>symbolFacadePadding</key>
+	<string>progressbarFacadeVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCompositeFlags</key>
+	<string>rectExceptTask</string>
+	<key>blocDuringBridge</key>
+	<string>richtextParamDuration</string>
+	<key>boxAmongValue</key>
+	<string>requiredTextfieldMode</string>
+	<key>diffableIndicatorForce</key>
+	<string>seamlessGestureRight</string>
+</dict>
+</plist>

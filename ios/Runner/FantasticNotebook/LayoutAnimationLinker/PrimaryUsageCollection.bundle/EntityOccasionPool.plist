@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAtAdapter</key>
+	<string>convolutionPhaseOffset</string>
+	<key>callbackObserverTint</key>
+	<string>masterBufferTop</string>
+	<key>grayscaleMethodOpacity</key>
+	<string>previewInComposite</string>
+	<key>interpolationTempleHue</key>
+	<string>assetAndTemple</string>
+	<key>prismaticTabbarForce</key>
+	<string>interactiveBufferShade</string>
+	<key>reductionStageDirection</key>
+	<string>euclideanStackName</string>
+	<key>sensorThroughChain</key>
+	<string>reusableRectDirection</string>
+</dict>
+</plist>

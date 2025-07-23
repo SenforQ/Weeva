@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPerFunction</key>
+	<string>permissiveQueryIndex</string>
+	<key>channelsVisitorForce</key>
+	<string>gestureSinceTask</string>
+	<key>dedicatedGrainFeedback</key>
+	<string>widgetShapeOrigin</string>
+	<key>inkwellNearPhase</key>
+	<string>aspectParameterBehavior</string>
+	<key>largeInkwellLocation</key>
+	<string>anchorContextBound</string>
+	<key>listviewAtScope</key>
+	<string>mobxWithInterpreter</string>
+	<key>normAsLayer</key>
+	<string>cachePerVar</string>
+	<key>optimizerVarBottom</key>
+	<string>activeCellFormat</string>
+	<key>permissiveInterpolationTheme</key>
+	<string>semanticsMethodStatus</string>
+	<key>protectedFrameMomentum</key>
+	<string>utilStrategySpacing</string>
+</dict>
+</plist>

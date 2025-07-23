@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTouchEdge</key>
+	<string>threadShapeFeedback</string>
+	<key>frameTierCoord</key>
+	<string>storeDuringPrototype</string>
+	<key>graphWithoutChain</key>
+	<string>futureParamName</string>
+	<key>nodeDecoratorTheme</key>
+	<string>customAnchorFlags</string>
+	<key>projectionByShape</key>
+	<string>radiusFromContext</string>
+	<key>statelessBridgeResponse</key>
+	<string>agileRadiusShade</string>
+	<key>transitionTempleLeft</key>
+	<string>interpolationJobType</string>
+</dict>
+</plist>

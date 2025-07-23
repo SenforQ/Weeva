@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContainMethod</key>
+	<string>histogramContextFormat</string>
+	<key>completerByMediator</key>
+	<string>directlyDrawerVisible</string>
+	<key>declarativeLayerTint</key>
+	<string>dependencyDecoratorBound</string>
+	<key>deferredConvolutionCount</key>
+	<string>presenterFacadeTension</string>
+	<key>effectStageStyle</key>
+	<string>repositoryFromProxy</string>
+	<key>firstViewShape</key>
+	<string>nextDescriptionFormat</string>
+	<key>liteScaffoldTension</key>
+	<string>multiObserverBrightness</string>
+	<key>multiplicationAmongVar</key>
+	<string>mobxPlatformRate</string>
+	<key>slashWithoutNumber</key>
+	<string>gateCommandRight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterUntilOperation</key>
+	<string>backwardKernelCoord</string>
+	<key>effectSystemOrientation</key>
+	<string>responsiveTextVisible</string>
+	<key>hierarchicalCellPosition</key>
+	<string>tickerAmongStructure</string>
+	<key>localCompositionCenter</key>
+	<string>presenterPlatformEdge</string>
+	<key>localFeatureCoord</key>
+	<string>coordinatorAlongVariable</string>
+	<key>pageviewThanLevel</key>
+	<string>appbarTaskBorder</string>
+	<key>previewModeRight</key>
+	<string>tappableTransitionBound</string>
+	<key>titleMethodName</key>
+	<string>threadAwayTask</string>
+</dict>
+</plist>

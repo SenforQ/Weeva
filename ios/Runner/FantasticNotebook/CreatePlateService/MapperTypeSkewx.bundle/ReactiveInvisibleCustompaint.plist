@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPrototypeState</key>
+	<string>tabviewCompositeOrigin</string>
+	<key>hashAboutState</key>
+	<string>coordinatorFunctionDelay</string>
+	<key>mainButtonTheme</key>
+	<string>pinchableFragmentAppearance</string>
+	<key>scrollableGesturedetectorDirection</key>
+	<string>discardedViewTail</string>
+	<key>uniformConstraintFrequency</key>
+	<string>resizableCheckboxTint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFlyweightStatus</key>
+	<string>extensionPlatformOrientation</string>
+	<key>futureBufferFrequency</key>
+	<string>riverpodBesidePrototype</string>
+	<key>menuChainOpacity</key>
+	<string>denseSpriteTint</string>
+	<key>projectionByContext</key>
+	<string>routerInStage</string>
+	<key>statelessAdapterStyle</key>
+	<string>transitionLikeParam</string>
+</dict>
+</plist>

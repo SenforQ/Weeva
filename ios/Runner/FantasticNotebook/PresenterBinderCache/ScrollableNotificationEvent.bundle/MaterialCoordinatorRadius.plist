@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCatalystValidation</key>
+	<string>swiftUntilJob</string>
+	<key>opaqueBatchBound</key>
+	<string>mainDurationDensity</string>
+	<key>popupVisitorDirection</key>
+	<string>elasticDependencyFormat</string>
+	<key>taskSingletonCount</key>
+	<string>bufferWithoutLevel</string>
+</dict>
+</plist>

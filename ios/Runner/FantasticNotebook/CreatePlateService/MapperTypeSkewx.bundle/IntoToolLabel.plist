@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVarEdge</key>
+	<string>coordinatorWithoutVar</string>
+	<key>delegateViaFunction</key>
+	<string>delegateSystemOffset</string>
+	<key>methodOutsidePattern</key>
+	<string>gestureLikeProxy</string>
+	<key>presenterAwayFramework</key>
+	<string>mobileReductionInset</string>
+	<key>smallAccessoryType</key>
+	<string>containerPatternTop</string>
+	<key>spotVisitorBorder</key>
+	<string>deferredAspectCenter</string>
+</dict>
+</plist>

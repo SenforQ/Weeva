@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTableMargin</key>
+	<string>requiredImageTheme</string>
+	<key>behaviorFromSystem</key>
+	<string>responseMediatorCenter</string>
+	<key>certificateAdapterShade</key>
+	<string>activatedGraphContrast</string>
+	<key>firstStoryboardTension</key>
+	<string>notificationMediatorDepth</string>
+	<key>listenerIncludeJob</key>
+	<string>rapidRowVisibility</string>
+	<key>observerAndFramework</key>
+	<string>streamFromForm</string>
+	<key>scrollableNotifierRate</key>
+	<string>usedAxisShape</string>
+	<key>threadFormRate</key>
+	<string>taskProcessShade</string>
+	<key>widgetAgainstWork</key>
+	<string>touchWorkRate</string>
+</dict>
+</plist>

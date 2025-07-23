@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBehaviorName</key>
+	<string>cubitStructureLeft</string>
+	<key>advancedSymbolSize</key>
+	<string>listviewPlatformMargin</string>
+	<key>borderSinceProcess</key>
+	<string>mediaForNumber</string>
+	<key>graphPhaseFeedback</key>
+	<string>toolMediatorEdge</string>
+	<key>labelCycleDelay</key>
+	<string>customGemForce</string>
+	<key>mutableVariantMargin</key>
+	<string>timerAwayPlatform</string>
+	<key>singletonFlyweightFormat</key>
+	<string>modelViaDecorator</string>
+	<key>zoneMethodLeft</key>
+	<string>capsuleMementoDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarThanPattern</key>
+	<string>asyncAdapterShade</string>
+	<key>cursorPerPrototype</key>
+	<string>nextChartShade</string>
+	<key>interpolationByInterpreter</key>
+	<string>interfaceScopeRotation</string>
+	<key>sceneAroundLevel</key>
+	<string>lastDescriptionDelay</string>
+	<key>slashCompositeDuration</key>
+	<string>currentStorageOrigin</string>
+	<key>stackAtObserver</key>
+	<string>keySessionOffset</string>
+	<key>streamAmongVisitor</key>
+	<string>queueMementoVelocity</string>
+	<key>temporaryEntityVisibility</key>
+	<string>storeInterpreterTail</string>
+	<key>vectorAroundContext</key>
+	<string>captionCompositeDensity</string>
+</dict>
+</plist>

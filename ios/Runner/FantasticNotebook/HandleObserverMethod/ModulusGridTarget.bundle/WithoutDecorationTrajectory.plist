@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventProxyCoord</key>
+	<string>customizedModelOffset</string>
+	<key>graphicAtComposite</key>
+	<string>controllerInContext</string>
+	<key>menuMethodMode</key>
+	<string>offsetAgainstEnvironment</string>
+	<key>opaqueManagerFeedback</key>
+	<string>displayableQueueBehavior</string>
+</dict>
+</plist>

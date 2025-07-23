@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAnimationMode</key>
+	<string>eagerTransitionCount</string>
+	<key>offsetTempleTransparency</key>
+	<string>interactiveGramStatus</string>
+	<key>staticUnaryDuration</key>
+	<string>appbarActionShade</string>
+	<key>tabviewAmongComposite</key>
+	<string>sineAmongLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorSystemBorder</key>
+	<string>newestCaptionDistance</string>
+	<key>directPreviewSkewy</key>
+	<string>convolutionExceptDecorator</string>
+	<key>discardedContainerCount</key>
+	<string>multiCubitColor</string>
+	<key>diversifiedBlocValidation</key>
+	<string>titleDuringLevel</string>
+	<key>elasticTextCenter</key>
+	<string>textAlongParameter</string>
+	<key>layoutAwayEnvironment</key>
+	<string>cupertinoOrEnvironment</string>
+	<key>logDecoratorInset</key>
+	<string>extensionVarOpacity</string>
+	<key>modulusByAction</key>
+	<string>mediaAlongFacade</string>
+	<key>presenterVersusValue</key>
+	<string>lostListenerContrast</string>
+	<key>spriteForBridge</key>
+	<string>seamlessFutureValidation</string>
+</dict>
+</plist>

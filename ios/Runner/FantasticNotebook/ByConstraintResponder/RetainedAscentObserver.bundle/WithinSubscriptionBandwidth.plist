@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCommandShade</key>
+	<string>animatedObserverSpeed</string>
+	<key>activeAnimationColor</key>
+	<string>viewParameterVisible</string>
+	<key>asynchronousBoxshadowInterval</key>
+	<string>robustLocalizationOffset</string>
+	<key>euclideanIndicatorDepth</key>
+	<string>activatedResultInteraction</string>
+	<key>mobileIndicatorStatus</key>
+	<string>mainBlocStyle</string>
+	<key>sortedHeapEdge</key>
+	<string>batchPhaseTheme</string>
+	<key>topicLikeFunction</key>
+	<string>euclideanSignTheme</string>
+</dict>
+</plist>

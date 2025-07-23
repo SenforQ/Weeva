@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferInterpreterRight</key>
+	<string>customThemeBehavior</string>
+	<key>cupertinoBufferMode</key>
+	<string>logarithmExceptActivity</string>
+	<key>hardHandlerSize</key>
+	<string>remainderActivityInset</string>
+	<key>interactorTypeDepth</key>
+	<string>keyParticleTag</string>
+	<key>menuAdapterTransparency</key>
+	<string>nodeWithLayer</string>
+	<key>repositoryValueResponse</key>
+	<string>graphAsLevel</string>
+	<key>tabviewOperationOrigin</key>
+	<string>equalizationActionTension</string>
+	<key>textForObserver</key>
+	<string>tweenLayerMargin</string>
+</dict>
+</plist>

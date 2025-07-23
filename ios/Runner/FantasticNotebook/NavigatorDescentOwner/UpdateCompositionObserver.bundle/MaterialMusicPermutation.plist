@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveForStructure</key>
+	<string>signatureWithShape</string>
+	<key>mobileLevelFlags</key>
+	<string>discardedEventTransparency</string>
+	<key>pinchableAnimationFormat</key>
+	<string>providerKindSpeed</string>
+	<key>presenterContextResponse</key>
+	<string>rapidAlignmentSpeed</string>
+	<key>resourceThroughTier</key>
+	<string>resultThroughVariable</string>
+</dict>
+</plist>

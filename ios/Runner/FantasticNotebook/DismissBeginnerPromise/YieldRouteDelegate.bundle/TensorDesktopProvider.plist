@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIconDuration</key>
+	<string>usedHandlerAppearance</string>
+	<key>controllerAndAction</key>
+	<string>criticalNotifierMargin</string>
+	<key>layoutPrototypeSpeed</key>
+	<string>notificationParamInteraction</string>
+	<key>layoutWithSingleton</key>
+	<string>histogramStyleDensity</string>
+	<key>offsetDespiteCommand</key>
+	<string>memberWithType</string>
+	<key>transformerCompositeSaturation</key>
+	<string>mainCubeType</string>
+	<key>transitionFromAdapter</key>
+	<string>singleStoreTheme</string>
+</dict>
+</plist>

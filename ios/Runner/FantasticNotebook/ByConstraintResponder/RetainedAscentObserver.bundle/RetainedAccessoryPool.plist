@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMediatorValidation</key>
+	<string>streamOfTemple</string>
+	<key>appbarStyleInset</key>
+	<string>sequentialSignTag</string>
+	<key>customizedBaseHead</key>
+	<string>topicInsideType</string>
+	<key>imageStyleDuration</key>
+	<string>nativeTernaryBorder</string>
+	<key>queryScopeAlignment</key>
+	<string>imperativeQueryTint</string>
+	<key>spriteAdapterSkewy</key>
+	<string>singletonVisitorStatus</string>
+	<key>visibleRouterTheme</key>
+	<string>gestureAtProcess</string>
+</dict>
+</plist>

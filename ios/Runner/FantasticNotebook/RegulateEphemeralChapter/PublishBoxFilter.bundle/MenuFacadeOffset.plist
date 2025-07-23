@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationShapeMargin</key>
+	<string>uniquePresenterCenter</string>
+	<key>boxMethodStyle</key>
+	<string>asyncTweenCenter</string>
+	<key>customizedHandlerVelocity</key>
+	<string>fusedConvolutionOffset</string>
+	<key>gateOperationMomentum</key>
+	<string>sampleTypeValidation</string>
+	<key>interactiveRadiusForce</key>
+	<string>cursorLevelBehavior</string>
+	<key>playbackTaskSpeed</key>
+	<string>signatureOperationInterval</string>
+	<key>stateFunctionAlignment</key>
+	<string>featureVariableOpacity</string>
+</dict>
+</plist>

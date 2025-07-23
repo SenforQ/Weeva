@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAsyncRate</key>
+	<string>segueAgainstBuffer</string>
+	<key>alphaInProcess</key>
+	<string>commandWithoutPlatform</string>
+	<key>gridCompositeInteraction</key>
+	<string>radiusThroughComposite</string>
+	<key>interfaceContextPosition</key>
+	<string>workflowPhaseDuration</string>
+	<key>mediaqueryActivityDensity</key>
+	<string>permissiveResponseSkewx</string>
+	<key>responsiveLayoutForce</key>
+	<string>animatedPaddingHue</string>
+</dict>
+</plist>

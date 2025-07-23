@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSingletonKind</key>
+	<string>dimensionFromBridge</string>
+	<key>cardAroundStrategy</key>
+	<string>gateContainTier</string>
+	<key>decorationStageFrequency</key>
+	<string>constraintContextHead</string>
+	<key>grainAmongTemple</key>
+	<string>modelTempleDuration</string>
+	<key>presenterLikeFlyweight</key>
+	<string>composableScaleHue</string>
+	<key>stateObserverName</key>
+	<string>masterVersusParam</string>
+	<key>tappableGateEdge</key>
+	<string>interfaceThroughProcess</string>
+</dict>
+</plist>

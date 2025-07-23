@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateLayerValidation</key>
+	<string>statefulStoreFrequency</string>
+	<key>disparatePrecisionHue</key>
+	<string>primaryHandlerHue</string>
+	<key>monsterLevelOrigin</key>
+	<string>lazyResultOpacity</string>
+	<key>numericalSubpixelSkewx</key>
+	<string>immediateAlertDepth</string>
+	<key>parallelOffsetState</key>
+	<string>commandParamInset</string>
+	<key>sharedAsyncDistance</key>
+	<string>tweenContainMediator</string>
+</dict>
+</plist>

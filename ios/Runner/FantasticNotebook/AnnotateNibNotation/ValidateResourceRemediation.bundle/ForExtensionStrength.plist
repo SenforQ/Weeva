@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAsNumber</key>
+	<string>viewParamBrightness</string>
+	<key>factoryTaskSaturation</key>
+	<string>flexTaskForce</string>
+	<key>indicatorTaskContrast</key>
+	<string>groupVersusLevel</string>
+	<key>interactorAwayDecorator</key>
+	<string>lostMenuBehavior</string>
+	<key>responsiveCompositionDirection</key>
+	<string>callbackShapeVisible</string>
+	<key>semanticSinkOrigin</key>
+	<string>granularLabelDirection</string>
+</dict>
+</plist>

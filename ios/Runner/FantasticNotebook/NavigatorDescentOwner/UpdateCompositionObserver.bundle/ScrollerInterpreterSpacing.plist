@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCycleBehavior</key>
+	<string>materialCosineRate</string>
+	<key>appbarInParam</key>
+	<string>resizablePreviewShade</string>
+	<key>awaitWithoutTemple</key>
+	<string>tangentPrototypePadding</string>
+	<key>collectionFormBottom</key>
+	<string>queryVersusValue</string>
+	<key>nativeFactorySize</key>
+	<string>disabledStepHue</string>
+	<key>presenterTypeVisible</key>
+	<string>significantProgressbarResponse</string>
+	<key>sampleLikeKind</key>
+	<string>statelessConfigurationFormat</string>
+</dict>
+</plist>

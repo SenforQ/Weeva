@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOperationIndex</key>
+	<string>grainBufferName</string>
+	<key>consumerForOperation</key>
+	<string>reducerEnvironmentSize</string>
+	<key>metadataStageLeft</key>
+	<string>tickerUntilWork</string>
+	<key>momentumAdapterState</key>
+	<string>modelStructureSkewx</string>
+	<key>queueFlyweightDelay</key>
+	<string>scaffoldEnvironmentBorder</string>
+	<key>resolverVisitorRotation</key>
+	<string>vectorInsideVar</string>
+</dict>
+</plist>

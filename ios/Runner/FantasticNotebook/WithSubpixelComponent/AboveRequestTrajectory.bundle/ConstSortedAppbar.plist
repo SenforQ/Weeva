@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedThreadOrigin</key>
+	<string>reusableRadioCoord</string>
+	<key>permissivePresenterFormat</key>
+	<string>allocatorIncludeParam</string>
+	<key>resultPhaseTint</key>
+	<string>integerProxyHue</string>
+	<key>roleInsideStage</key>
+	<string>completionOrStage</string>
+	<key>sizeProcessLocation</key>
+	<string>largeTaskDepth</string>
+	<key>tangentDuringVisitor</key>
+	<string>boxLikeValue</string>
+</dict>
+</plist>

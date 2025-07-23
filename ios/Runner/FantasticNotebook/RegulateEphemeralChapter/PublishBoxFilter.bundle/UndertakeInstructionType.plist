@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeWithFramework</key>
+	<string>taskStyleVisibility</string>
+	<key>composableDecorationContrast</key>
+	<string>textAlongPlatform</string>
+	<key>precisionModeFeedback</key>
+	<string>synchronousRowTheme</string>
+	<key>requiredBaseTransparency</key>
+	<string>indicatorKindInteraction</string>
+	<key>tensorPetDirection</key>
+	<string>permissiveTransitionVisible</string>
+</dict>
+</plist>

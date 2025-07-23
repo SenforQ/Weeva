@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeScopeSpacing</key>
+	<string>gramAdapterVelocity</string>
+	<key>denseLossSaturation</key>
+	<string>tensorResourceRight</string>
+	<key>flexibleAnimatedcontainerDuration</key>
+	<string>gridviewCycleVisibility</string>
+	<key>mobileInsideMethod</key>
+	<string>requiredSubpixelType</string>
+	<key>plateOutsideBuffer</key>
+	<string>paddingOutsideNumber</string>
+	<key>requestUntilFramework</key>
+	<string>groupModeSkewy</string>
+	<key>streamVariableHue</key>
+	<string>checklistNearPhase</string>
+	<key>sustainableStoryboardSpeed</key>
+	<string>decorationCommandSpeed</string>
+	<key>visibleSegmentVelocity</key>
+	<string>sinkViaFunction</string>
+</dict>
+</plist>

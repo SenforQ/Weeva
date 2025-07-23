@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAtEnvironment</key>
+	<string>mediaPerMemento</string>
+	<key>autoIntensityScale</key>
+	<string>coordinatorActionVelocity</string>
+	<key>blocMethodBottom</key>
+	<string>cupertinoAboutPattern</string>
+	<key>completerScopeSkewx</key>
+	<string>radioAtProxy</string>
+	<key>completionDuringState</key>
+	<string>equipmentCompositeSpacing</string>
+	<key>denseSliderHead</key>
+	<string>gridviewProcessStatus</string>
+	<key>routerInState</key>
+	<string>lastReductionCoord</string>
+	<key>staticListviewShade</key>
+	<string>anchorDespiteMode</string>
+	<key>transitionExceptDecorator</key>
+	<string>viewContextPadding</string>
+</dict>
+</plist>

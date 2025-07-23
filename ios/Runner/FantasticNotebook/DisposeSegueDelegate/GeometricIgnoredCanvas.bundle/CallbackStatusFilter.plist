@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDuringStyle</key>
+	<string>otherBulletSize</string>
+	<key>intermediateEventDistance</key>
+	<string>nextAsyncDepth</string>
+	<key>layerPerKind</key>
+	<string>usedTitleInterval</string>
+	<key>oldMetadataCenter</key>
+	<string>nextSegueDirection</string>
+</dict>
+</plist>

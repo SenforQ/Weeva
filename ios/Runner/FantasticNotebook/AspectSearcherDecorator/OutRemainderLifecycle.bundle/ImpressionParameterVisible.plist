@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationByShape</key>
+	<string>isolateDuringContext</string>
+	<key>delegateValueVelocity</key>
+	<string>observerThroughFunction</string>
+	<key>denseErrorOrientation</key>
+	<string>cartesianConstraintSpacing</string>
+	<key>exceptionActivityRotation</key>
+	<string>painterWithContext</string>
+	<key>invisibleBlocDirection</key>
+	<string>mapEnvironmentMargin</string>
+	<key>methodAsMethod</key>
+	<string>largeReferenceForce</string>
+	<key>observerMementoOpacity</key>
+	<string>primaryBehaviorOrigin</string>
+	<key>oldDialogsEdge</key>
+	<string>callbackBufferTheme</string>
+	<key>standaloneParticleSpeed</key>
+	<string>builderWithProcess</string>
+</dict>
+</plist>

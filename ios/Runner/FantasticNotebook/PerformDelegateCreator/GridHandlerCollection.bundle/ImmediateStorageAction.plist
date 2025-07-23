@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPrototypeAlignment</key>
+	<string>consumerProcessRotation</string>
+	<key>constraintAmongChain</key>
+	<string>durationFromMemento</string>
+	<key>loopDuringStructure</key>
+	<string>dependencyOfEnvironment</string>
+	<key>oldCellFeedback</key>
+	<string>exponentAsStage</string>
+	<key>signEnvironmentSpeed</key>
+	<string>draggableEffectTag</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constInteractorDelay</key>
+	<string>queueStageSkewx</string>
+	<key>consultativeReducerFeedback</key>
+	<string>smartGateStatus</string>
+	<key>delegateUntilOperation</key>
+	<string>mobileSingletonOpacity</string>
+	<key>elasticLocalizationVelocity</key>
+	<string>stepThroughMemento</string>
+	<key>equipmentCycleDuration</key>
+	<string>significantCubitIndex</string>
+	<key>iconParameterMomentum</key>
+	<string>normalEffectInteraction</string>
+	<key>priorityModeOrigin</key>
+	<string>providerLevelSaturation</string>
+	<key>sessionBridgeSkewx</key>
+	<string>consumerEnvironmentVisible</string>
+	<key>tangentPerProxy</key>
+	<string>providerOrVar</string>
+</dict>
+</plist>

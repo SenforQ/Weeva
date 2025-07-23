@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeTransparency</key>
+	<string>positionThroughNumber</string>
+	<key>factoryPhaseDirection</key>
+	<string>screenAwayPattern</string>
+	<key>primaryTweenMomentum</key>
+	<string>compositionalMultiplicationTop</string>
+	<key>repositoryObserverDirection</key>
+	<string>aspectStateOrientation</string>
+	<key>substantialConfigurationOffset</key>
+	<string>managerAdapterCenter</string>
+	<key>transformerVariableDuration</key>
+	<string>ternaryMementoOrigin</string>
+</dict>
+</plist>

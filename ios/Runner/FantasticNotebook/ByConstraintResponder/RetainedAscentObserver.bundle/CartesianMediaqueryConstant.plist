@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerThanJob</key>
+	<string>compositionMementoVisibility</string>
+	<key>permissiveIndicatorVisible</key>
+	<string>allocatorFunctionContrast</string>
+	<key>permissiveStateFeedback</key>
+	<string>offsetUntilLevel</string>
+	<key>resolverWithoutFacade</key>
+	<string>sharedAnimatedcontainerBorder</string>
+	<key>streamEnvironmentFormat</key>
+	<string>statefulTierPosition</string>
+	<key>tabviewAwayTask</key>
+	<string>autoIntensityBehavior</string>
+	<key>widgetPerPlatform</key>
+	<string>backwardAsyncScale</string>
+</dict>
+</plist>

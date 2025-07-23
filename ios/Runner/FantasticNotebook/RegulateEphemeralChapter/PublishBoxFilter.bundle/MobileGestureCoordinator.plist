@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableRiverpodTint</key>
+	<string>compositionalFrameSaturation</string>
+	<key>navigatorStrategyValidation</key>
+	<string>lazyGridSize</string>
+	<key>primaryNavigationShape</key>
+	<string>hashAroundComposite</string>
+	<key>resolverAboutKind</key>
+	<string>symmetricMethodIndex</string>
+	<key>rowFromMethod</key>
+	<string>usageOfVariable</string>
+	<key>unactivatedProtocolVisible</key>
+	<string>layerVarStyle</string>
+	<key>unaryUntilType</key>
+	<string>alertByValue</string>
+	<key>uniformAssetOffset</key>
+	<string>textPatternTint</string>
+</dict>
+</plist>

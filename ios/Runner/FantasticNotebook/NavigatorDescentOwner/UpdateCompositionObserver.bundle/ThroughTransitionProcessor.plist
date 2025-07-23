@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonModeSpacing</key>
+	<string>observerPhaseBound</string>
+	<key>channelModeValidation</key>
+	<string>integerViaBridge</string>
+	<key>cubitCycleBorder</key>
+	<string>crudeAlignmentFeedback</string>
+	<key>descriptorMediatorMomentum</key>
+	<string>loopBufferState</string>
+	<key>hierarchicalStateInterval</key>
+	<string>reusableLoopInset</string>
+	<key>intuitiveResourceVelocity</key>
+	<string>plateFromFacade</string>
+	<key>keyResourceAcceleration</key>
+	<string>retainedToolType</string>
+	<key>robustTernaryRight</key>
+	<string>signatureStyleTail</string>
+	<key>spriteCommandName</key>
+	<string>originalTextInteraction</string>
+	<key>statefulOrStrategy</key>
+	<string>sizeContainBuffer</string>
+</dict>
+</plist>

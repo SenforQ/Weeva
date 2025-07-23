@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCardRotation</key>
+	<string>cubitFrameworkTop</string>
+	<key>dependencyAroundChain</key>
+	<string>agileUsageStatus</string>
+	<key>draggableSwiftHue</key>
+	<string>associatedServiceOpacity</string>
+	<key>eventViaNumber</key>
+	<string>callbackTaskTransparency</string>
+	<key>localizationFrameworkOpacity</key>
+	<string>otherDurationFlags</string>
+	<key>optimizerEnvironmentDelay</key>
+	<string>coordinatorParameterDelay</string>
+	<key>repositoryMethodFlags</key>
+	<string>assetOfMethod</string>
+	<key>retainedMusicSkewx</key>
+	<string>scrollableArithmeticMode</string>
+	<key>unactivatedRadiusMargin</key>
+	<string>movementSinceBuffer</string>
+</dict>
+</plist>

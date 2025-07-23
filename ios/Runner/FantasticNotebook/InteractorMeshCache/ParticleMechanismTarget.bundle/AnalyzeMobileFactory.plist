@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAboutCommand</key>
+	<string>movementJobType</string>
+	<key>equalizationForStage</key>
+	<string>transitionBridgeTail</string>
+	<key>interpolationLayerTail</key>
+	<string>firstConstraintBorder</string>
+	<key>mediaqueryVariableDepth</key>
+	<string>otherBehaviorShade</string>
+	<key>memberContainLevel</key>
+	<string>momentumUntilStyle</string>
+	<key>notifierAboutStage</key>
+	<string>scrollMethodVisibility</string>
+	<key>priorityAroundMode</key>
+	<string>difficultAppbarDepth</string>
+	<key>streamWithActivity</key>
+	<string>plateDecoratorType</string>
+	<key>tappableFeatureDistance</key>
+	<string>synchronousInkwellFormat</string>
+	<key>textfieldAgainstPrototype</key>
+	<string>factoryTaskTension</string>
+</dict>
+</plist>

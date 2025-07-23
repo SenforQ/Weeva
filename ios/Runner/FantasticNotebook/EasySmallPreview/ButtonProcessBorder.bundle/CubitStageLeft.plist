@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureLikeInterpreter</key>
+	<string>imageAgainstTier</string>
+	<key>assetKindPadding</key>
+	<string>isolateStrategyTop</string>
+	<key>expandedValueAlignment</key>
+	<string>featureValueLeft</string>
+	<key>greatContainerPadding</key>
+	<string>playbackOrVar</string>
+	<key>layoutAtAction</key>
+	<string>integerStageTag</string>
+	<key>transformerAndDecorator</key>
+	<string>gridAboutStructure</string>
+</dict>
+</plist>

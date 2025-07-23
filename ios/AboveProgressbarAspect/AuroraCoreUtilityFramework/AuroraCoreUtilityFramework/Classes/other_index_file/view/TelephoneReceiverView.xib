@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TelephoneReceiverView">
+            <connections>
+                <outlet property="reinImageView" destination="jGR-FD-NzW" id="IUB-nZ-CyE"/>
+                <outlet property="titleLabel" destination="UxJ-fp-Nxc" id="OxF-Dt-m5b"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="268-yP-fUm" clipsSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="304.5" height="119.9"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="jGR-FD-NzW" adjustsImageSizeForAccessibilityContentSizeCategory="YES">
+                    <rect key="frame" x="157" y="1" width="135.3" height="99.4"/>
+                </imageView>
+                <label userInteractionEnabled="NO" contentMode="left" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="model style crop track each" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UxJ-fp-Nxc" numberOfLines="9">
+                    <rect key="frame" x="5" y="9" width="128.4" height="99.4"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="9"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="6j6-sE-zbi"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="UxJ-fp-Nxc" firstAttribute="width" relation="greaterThanOrEqual" secondItem="268-yP-fUm" secondAttribute="width" multiplier="0.3" id="4OA-At-ncY" constant="3"/>
+                <constraint firstItem="jGR-FD-NzW" firstAttribute="width" relation="greaterThanOrEqual" secondItem="268-yP-fUm" secondAttribute="width" multiplier="0.4" id="ccI-P1-Rgf"/>
+                <constraint firstItem="UxJ-fp-Nxc" firstAttribute="top" secondItem="268-yP-fUm" secondAttribute="top" constant="7" id="gr2-ax-Rcw"/>
+                <constraint firstAttribute="bottom" secondItem="UxJ-fp-Nxc" secondAttribute="bottom" id="sw6-fy-P2w"/>
+                <constraint firstItem="jGR-FD-NzW" firstAttribute="leading" secondItem="6j6-sE-zbi" secondAttribute="leading" constant="7" id="LUh-uc-r1A"/>
+                <constraint firstItem="jGR-FD-NzW" firstAttribute="top" secondItem="268-yP-fUm" secondAttribute="top" constant="8" id="3nm-sb-UJQ"/>
+                <constraint firstAttribute="bottom" secondItem="jGR-FD-NzW" secondAttribute="bottom" id="oBM-J8-vuq"/>
+                <constraint firstItem="6j6-sE-zbi" firstAttribute="trailing" secondItem="UxJ-fp-Nxc" secondAttribute="trailing" constant="3" id="Tlc-lK-TGt"/>
+                <constraint firstItem="UxJ-fp-Nxc" firstAttribute="leading" secondItem="jGR-FD-NzW" secondAttribute="trailing" constant="6" id="xE8-Zz-S9J"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="36.099522179267982" y="-190.30751137100211"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2688" width="123.3" height="115.3"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

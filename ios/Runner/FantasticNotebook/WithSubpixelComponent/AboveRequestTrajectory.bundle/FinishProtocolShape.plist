@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncChannelBehavior</key>
+	<string>allocatorEnvironmentCount</string>
+	<key>durationEnvironmentTop</key>
+	<string>cacheExceptMode</string>
+	<key>fusedControllerFormat</key>
+	<string>localTransformerDistance</string>
+	<key>intuitiveRowEdge</key>
+	<string>usecaseAtBuffer</string>
+	<key>memberForFramework</key>
+	<string>decorationProcessRate</string>
+	<key>mobileSizeCoord</key>
+	<string>transformerWorkOrientation</string>
+	<key>persistentMasterPosition</key>
+	<string>constCommandPosition</string>
+	<key>sizedboxThanPrototype</key>
+	<string>gestureJobTag</string>
+	<key>tableAtBuffer</key>
+	<string>standaloneCompleterStatus</string>
+</dict>
+</plist>

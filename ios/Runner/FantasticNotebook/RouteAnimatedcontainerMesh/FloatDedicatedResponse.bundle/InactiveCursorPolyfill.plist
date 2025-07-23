@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryUntilChain</key>
+	<string>frameLayerFeedback</string>
+	<key>builderUntilVar</key>
+	<string>stampForProxy</string>
+	<key>semanticLayoutBottom</key>
+	<string>navigatorSingletonScale</string>
+	<key>tweenWorkAlignment</key>
+	<string>constraintStageFeedback</string>
+</dict>
+</plist>

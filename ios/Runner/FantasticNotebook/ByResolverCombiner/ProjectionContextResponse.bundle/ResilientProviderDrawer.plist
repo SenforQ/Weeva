@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateParameterFormat</key>
+	<string>effectActivityAppearance</string>
+	<key>finalBatchMode</key>
+	<string>interfaceWorkTop</string>
+	<key>graphThanChain</key>
+	<string>constraintAdapterBottom</string>
+	<key>menuInterpreterStyle</key>
+	<string>storageProxyEdge</string>
+	<key>navigatorSingletonPressure</key>
+	<string>brushPerWork</string>
+	<key>secondTabviewShade</key>
+	<string>containerBySystem</string>
+	<key>singletonIncludeVar</key>
+	<string>transitionThroughWork</string>
+</dict>
+</plist>

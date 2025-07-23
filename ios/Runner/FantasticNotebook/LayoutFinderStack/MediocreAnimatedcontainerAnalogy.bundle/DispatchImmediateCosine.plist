@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryIncludeFacade</key>
+	<string>commandBesidePhase</string>
+	<key>criticalCycleName</key>
+	<string>zoneVersusTask</string>
+	<key>largeRouterFlags</key>
+	<string>transformerFunctionMargin</string>
+	<key>notificationNearJob</key>
+	<string>checkboxInsideMethod</string>
+	<key>positionMethodResponse</key>
+	<string>explicitNotificationName</string>
+	<key>queueDuringWork</key>
+	<string>handlerAsParameter</string>
+	<key>threadDecoratorScale</key>
+	<string>fixedSampleTension</string>
+	<key>touchMethodVelocity</key>
+	<string>sizedboxOutsidePlatform</string>
+</dict>
+</plist>

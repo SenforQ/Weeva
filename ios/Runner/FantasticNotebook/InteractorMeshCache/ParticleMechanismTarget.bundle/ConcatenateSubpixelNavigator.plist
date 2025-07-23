@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineCompositeMargin</key>
+	<string>radioNearSingleton</string>
+	<key>commonBaselineRate</key>
+	<string>characterAndOperation</string>
+	<key>getxPerPrototype</key>
+	<string>decorationPhaseTheme</string>
+	<key>isolateStateFormat</key>
+	<string>equalizationFromSystem</string>
+	<key>materialTouchSkewy</key>
+	<string>scaffoldExceptStructure</string>
+	<key>matrixTierVisible</key>
+	<string>optimizerAroundDecorator</string>
+	<key>pageviewAndTask</key>
+	<string>gradientMediatorLocation</string>
+	<key>segmentProxyDuration</key>
+	<string>usedChannelInterval</string>
+	<key>streamWorkDensity</key>
+	<string>signatureProcessInterval</string>
+</dict>
+</plist>

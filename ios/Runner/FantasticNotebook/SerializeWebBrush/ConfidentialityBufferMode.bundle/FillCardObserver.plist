@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleTempleVelocity</key>
+	<string>slashLevelSaturation</string>
+	<key>instructionStyleBehavior</key>
+	<string>protectedSensorOffset</string>
+	<key>lostLocalizationHead</key>
+	<string>discardedDecorationCenter</string>
+	<key>nativeApertureDistance</key>
+	<string>beginnerModulusShade</string>
+	<key>resilientReductionVisible</key>
+	<string>bitrateWithoutShape</string>
+	<key>resizableMarginSkewy</key>
+	<string>elasticGroupAppearance</string>
+</dict>
+</plist>

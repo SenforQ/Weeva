@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePresenterType</key>
+	<string>dynamicInterpolationBrightness</string>
+	<key>durationDecoratorHue</key>
+	<string>ternaryScopeRotation</string>
+	<key>interfaceSystemDuration</key>
+	<string>invisibleProtocolDuration</string>
+	<key>materialForScope</key>
+	<string>binaryTypeBound</string>
+	<key>queueMementoInteraction</key>
+	<string>pageviewPlatformDuration</string>
+	<key>rowProcessBound</key>
+	<string>eventFormLocation</string>
+	<key>seamlessBoxTheme</key>
+	<string>intuitiveEffectTheme</string>
+	<key>smallResourceColor</key>
+	<string>blocWithoutInterpreter</string>
+</dict>
+</plist>

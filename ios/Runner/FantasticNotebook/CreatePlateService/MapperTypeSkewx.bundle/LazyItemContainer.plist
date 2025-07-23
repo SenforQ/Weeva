@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSceneType</key>
+	<string>smallContainerTail</string>
+	<key>cellProcessRate</key>
+	<string>skirtOfComposite</string>
+	<key>coordinatorAmongCycle</key>
+	<string>decorationExceptCycle</string>
+	<key>methodTaskBehavior</key>
+	<string>largeAspectSaturation</string>
+	<key>originalWidgetDepth</key>
+	<string>viewObserverVisibility</string>
+	<key>resultInsideMode</key>
+	<string>actionTempleDuration</string>
+	<key>semanticPopupForce</key>
+	<string>sequentialZoneInset</string>
+	<key>taskFormVisible</key>
+	<string>unsortedRouteInteraction</string>
+	<key>unsortedCompositionStatus</key>
+	<string>streamPatternTint</string>
+</dict>
+</plist>

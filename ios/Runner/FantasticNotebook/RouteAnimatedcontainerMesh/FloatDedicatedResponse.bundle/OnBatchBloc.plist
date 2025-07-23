@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondSystem</key>
+	<string>slashThroughShape</string>
+	<key>aspectOrMethod</key>
+	<string>compositionBySingleton</string>
+	<key>comprehensiveRadiusForce</key>
+	<string>segmentBeyondFunction</string>
+	<key>dialogsInCommand</key>
+	<string>interfaceBesidePrototype</string>
+	<key>inheritedEffectEdge</key>
+	<string>constraintOrPattern</string>
+	<key>primaryBlocFeedback</key>
+	<string>grainAdapterInset</string>
+	<key>resourceFunctionSpacing</key>
+	<string>reducerOrType</string>
+	<key>routerDespiteAction</key>
+	<string>statelessContainerFlags</string>
+	<key>textScopeForce</key>
+	<string>tweenDespiteState</string>
+	<key>tweenContainStage</key>
+	<string>particleVersusAction</string>
+</dict>
+</plist>

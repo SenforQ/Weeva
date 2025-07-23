@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOutsideSingleton</key>
+	<string>gridviewOrParam</string>
+	<key>nodeMethodSaturation</key>
+	<string>reducerByFunction</string>
+	<key>subtleDependencyValidation</key>
+	<string>tangentAndLayer</string>
+	<key>unsortedConstraintVisible</key>
+	<string>taskBySingleton</string>
+</dict>
+</plist>

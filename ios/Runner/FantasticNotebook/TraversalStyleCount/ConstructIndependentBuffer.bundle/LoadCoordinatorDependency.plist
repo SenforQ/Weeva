@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMonsterDepth</key>
+	<string>normalAlignmentPressure</string>
+	<key>groupAgainstVariable</key>
+	<string>symbolUntilValue</string>
+	<key>ignoredEquipmentSaturation</key>
+	<string>unsortedAsyncVisibility</string>
+	<key>immediateAllocatorTint</key>
+	<string>canvasTypeStatus</string>
+	<key>interfaceBridgeTop</key>
+	<string>textureAroundContext</string>
+	<key>momentumWithoutOperation</key>
+	<string>extensionInsideParameter</string>
+	<key>permanentCellShade</key>
+	<string>advancedResolverBound</string>
+	<key>rowBufferVisibility</key>
+	<string>chartVersusPlatform</string>
+	<key>zoneSingletonOpacity</key>
+	<string>graphOfTask</string>
+</dict>
+</plist>

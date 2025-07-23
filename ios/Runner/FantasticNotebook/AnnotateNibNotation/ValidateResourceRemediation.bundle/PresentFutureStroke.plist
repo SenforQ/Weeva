@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAroundJob</key>
+	<string>basicDecorationSkewy</string>
+	<key>cycleOutsideBuffer</key>
+	<string>managerOrFacade</string>
+	<key>futurePlatformMode</key>
+	<string>utilStrategyBrightness</string>
+	<key>marginShapeSaturation</key>
+	<string>elasticUnaryTint</string>
+	<key>semanticsNearForm</key>
+	<string>effectFunctionOffset</string>
+	<key>sessionIncludeValue</key>
+	<string>statefulSizeCoord</string>
+</dict>
+</plist>

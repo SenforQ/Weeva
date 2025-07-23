@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionPrototypeFrequency</key>
+	<string>smartFactoryOpacity</string>
+	<key>normalAppbarSpeed</key>
+	<string>functionalBaseOrigin</string>
+	<key>resilientStackVelocity</key>
+	<string>viewChainCoord</string>
+	<key>scaleAsStyle</key>
+	<string>titleValueScale</string>
+	<key>smallNodeTransparency</key>
+	<string>overlayPhaseShape</string>
+</dict>
+</plist>

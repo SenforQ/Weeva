@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCallbackInset</key>
+	<string>easyErrorInset</string>
+	<key>asynchronousAlertFeedback</key>
+	<string>axisTempleSpacing</string>
+	<key>criticalSinkBrightness</key>
+	<string>subpixelExceptAction</string>
+	<key>dropdownbuttonWithoutLayer</key>
+	<string>projectionProcessBound</string>
+	<key>instructionNearSystem</key>
+	<string>transitionFacadeVisible</string>
+	<key>resilientStorageColor</key>
+	<string>statefulGradientVisibility</string>
+	<key>sharedModelResponse</key>
+	<string>activeSampleOpacity</string>
+	<key>statefulMetadataDelay</key>
+	<string>positionedProcessInteraction</string>
+	<key>uniformHeroType</key>
+	<string>statelessAndBridge</string>
+</dict>
+</plist>

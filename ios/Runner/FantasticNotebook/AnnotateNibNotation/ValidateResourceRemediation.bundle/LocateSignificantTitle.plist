@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFrameworkMargin</key>
+	<string>sortedDependencyDistance</string>
+	<key>bitrateUntilChain</key>
+	<string>firstCurveRotation</string>
+	<key>chartTaskForce</key>
+	<string>curveOrBridge</string>
+	<key>easyRouteType</key>
+	<string>permanentApertureDistance</string>
+	<key>ignoredTopicOrientation</key>
+	<string>animationAtPattern</string>
+	<key>playbackMediatorKind</key>
+	<string>resolverMediatorSize</string>
+	<key>scrollableResourceBrightness</key>
+	<string>specifyCellTension</string>
+	<key>topicChainSaturation</key>
+	<string>notifierParamInteraction</string>
+	<key>variantDecoratorPadding</key>
+	<string>logLayerDirection</string>
+</dict>
+</plist>

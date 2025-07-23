@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFlexValidation</key>
+	<string>vectorPerForm</string>
+	<key>crucialColumnOffset</key>
+	<string>popupEnvironmentLeft</string>
+	<key>draggableDrawerDepth</key>
+	<string>statefulResolverDistance</string>
+	<key>functionalCubeBehavior</key>
+	<string>exponentProcessDuration</string>
+	<key>injectionAroundAction</key>
+	<string>controllerAboutScope</string>
+</dict>
+</plist>

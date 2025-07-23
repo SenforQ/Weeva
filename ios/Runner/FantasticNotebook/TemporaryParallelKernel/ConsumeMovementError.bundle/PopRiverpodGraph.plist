@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedExpandedRate</key>
+	<string>canvasIncludeCommand</string>
+	<key>allocatorBufferBottom</key>
+	<string>tableNearFacade</string>
+	<key>allocatorContextSkewy</key>
+	<string>cycleAlongShape</string>
+	<key>featureNearVar</key>
+	<string>tweenVarMode</string>
+	<key>greatSceneBottom</key>
+	<string>cursorChainTension</string>
+	<key>tappableBlocContrast</key>
+	<string>oldRouteState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncThroughForm</key>
+	<string>framePhaseMode</string>
+	<key>controllerActionOrientation</key>
+	<string>cubitAroundStrategy</string>
+	<key>displayableApertureType</key>
+	<string>promiseForInterpreter</string>
+	<key>greatOffsetBehavior</key>
+	<string>respectiveResolverTop</string>
+	<key>persistentStatelessTransparency</key>
+	<string>localizationOrState</string>
+	<key>secondStreamBehavior</key>
+	<string>streamUntilParam</string>
+	<key>streamAgainstTemple</key>
+	<string>constraintLayerDirection</string>
+	<key>transitionScopePadding</key>
+	<string>challengeVariableAppearance</string>
+</dict>
+</plist>

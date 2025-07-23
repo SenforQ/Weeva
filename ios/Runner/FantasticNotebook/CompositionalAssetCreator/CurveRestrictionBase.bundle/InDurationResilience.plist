@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseUntilState</key>
+	<string>cursorLevelBorder</string>
+	<key>directlyViewTag</key>
+	<string>mutableSliderBound</string>
+	<key>independentSubscriptionBehavior</key>
+	<string>navigatorLikeTask</string>
+	<key>nodeAboutStage</key>
+	<string>adaptiveAxisAcceleration</string>
+	<key>profileContextStatus</key>
+	<string>grayscaleCompositeBrightness</string>
+	<key>seamlessOffsetSkewx</key>
+	<string>transitionProxyPosition</string>
+	<key>stampOutsideProcess</key>
+	<string>finalBrushName</string>
+</dict>
+</plist>

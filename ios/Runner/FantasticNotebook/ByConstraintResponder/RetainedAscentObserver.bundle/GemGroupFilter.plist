@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionStageBehavior</key>
+	<string>futureInFlyweight</string>
+	<key>prismaticSubscriptionRate</key>
+	<string>sinkInActivity</string>
+	<key>providerMementoStyle</key>
+	<string>adaptiveCallbackFeedback</string>
+	<key>responseTaskCenter</key>
+	<string>tensorStreamTail</string>
+	<key>roleOrStage</key>
+	<string>draggableProviderVisibility</string>
+	<key>storeEnvironmentResponse</key>
+	<string>requestTempleInteraction</string>
+	<key>subscriptionBesideScope</key>
+	<string>integerViaBuffer</string>
+</dict>
+</plist>

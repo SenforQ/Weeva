@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerOrAction</key>
+	<string>immediatePopupBrightness</string>
+	<key>loopThroughVisitor</key>
+	<string>desktopHashFormat</string>
+	<key>menuCycleRate</key>
+	<string>referenceKindLocation</string>
+	<key>otherLossTint</key>
+	<string>segueFromStrategy</string>
+	<key>providerVisitorTag</key>
+	<string>unsortedPlaybackMode</string>
+	<key>tableMementoName</key>
+	<string>smartDelegateVelocity</string>
+</dict>
+</plist>

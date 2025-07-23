@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleSineContrast</key>
+	<string>completionSystemInterval</string>
+	<key>gridPerVariable</key>
+	<string>basicResolverShape</string>
+	<key>requestSystemEdge</key>
+	<string>memberPerStrategy</string>
+	<key>transformerAmongMode</key>
+	<string>constraintAtCycle</string>
+</dict>
+</plist>

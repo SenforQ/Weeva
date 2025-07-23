@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicStrategyHead</key>
+	<string>mediaPatternKind</string>
+	<key>inkwellAtEnvironment</key>
+	<string>durationOrAction</string>
+	<key>priorityPatternSpacing</key>
+	<string>diffableTabviewPosition</string>
+	<key>signatureStructureDensity</key>
+	<string>displayableSingletonTheme</string>
+	<key>staticFragmentVisibility</key>
+	<string>requestWithoutContext</string>
+	<key>subscriptionActionSize</key>
+	<string>aspectratioNearNumber</string>
+	<key>symbolStateResponse</key>
+	<string>animatedcontainerPerCycle</string>
+</dict>
+</plist>

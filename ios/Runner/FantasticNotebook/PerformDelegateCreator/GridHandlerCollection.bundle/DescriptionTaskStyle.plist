@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitUntilFacade</key>
+	<string>batchProxyName</string>
+	<key>decorationFlyweightBound</key>
+	<string>fixedStateMode</string>
+	<key>displayableTabviewLocation</key>
+	<string>stampVisitorOffset</string>
+	<key>resilientSensorCoord</key>
+	<string>activityObserverLocation</string>
+	<key>sizeMementoIndex</key>
+	<string>slashVariableLeft</string>
+	<key>sliderPlatformInterval</key>
+	<string>intensityFunctionShape</string>
+	<key>sophisticatedNodeHue</key>
+	<string>localizationTypeSkewx</string>
+	<key>synchronousStackType</key>
+	<string>blocSinceBridge</string>
+	<key>widgetAboutInterpreter</key>
+	<string>uniqueDelegateOrigin</string>
+</dict>
+</plist>

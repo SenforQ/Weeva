@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondInterpreter</key>
+	<string>disparateTextSpeed</string>
+	<key>heroFormKind</key>
+	<string>streamDespiteShape</string>
+	<key>indicatorMethodSpacing</key>
+	<string>baselinePlatformKind</string>
+	<key>intermediateStatefulInteraction</key>
+	<string>hardSliderOrientation</string>
+	<key>streamWithFlyweight</key>
+	<string>nodeLevelSpeed</string>
+</dict>
+</plist>

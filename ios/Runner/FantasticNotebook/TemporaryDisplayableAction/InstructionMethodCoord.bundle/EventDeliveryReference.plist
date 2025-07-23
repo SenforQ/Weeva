@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOperationStyle</key>
+	<string>firstSubscriptionRight</string>
+	<key>capacitiesVarInset</key>
+	<string>interactiveDurationValidation</string>
+	<key>challengeForLevel</key>
+	<string>extensionJobOpacity</string>
+	<key>criticalExponentDensity</key>
+	<string>pinchableDurationDirection</string>
+	<key>graphAdapterSpeed</key>
+	<string>inheritedListenerSpacing</string>
+	<key>intensityStyleDistance</key>
+	<string>checklistWithTask</string>
+	<key>kernelPhaseInteraction</key>
+	<string>protectedCollectionVisibility</string>
+	<key>mediaAwayEnvironment</key>
+	<string>greatPresenterFormat</string>
+</dict>
+</plist>

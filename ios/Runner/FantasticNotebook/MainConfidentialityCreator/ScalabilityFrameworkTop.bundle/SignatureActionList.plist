@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPlatformAcceleration</key>
+	<string>equipmentExceptVariable</string>
+	<key>durationLikeActivity</key>
+	<string>playbackViaJob</string>
+	<key>parallelFeatureOrientation</key>
+	<string>modelProxyBottom</string>
+	<key>routeForFramework</key>
+	<string>dedicatedNavigatorPadding</string>
+</dict>
+</plist>

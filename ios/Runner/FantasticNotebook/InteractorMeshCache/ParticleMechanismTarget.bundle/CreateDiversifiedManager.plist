@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilTier</key>
+	<string>subtleSliderInset</string>
+	<key>builderMementoResponse</key>
+	<string>sequentialInterpolationOffset</string>
+	<key>buttonOfTask</key>
+	<string>seamlessContainerTheme</string>
+	<key>cartesianMenuHue</key>
+	<string>intuitiveLocalizationMargin</string>
+	<key>cupertinoPatternPosition</key>
+	<string>sliderWithLevel</string>
+	<key>sinkOrProcess</key>
+	<string>rowBridgeMargin</string>
+	<key>tappableLayerFlags</key>
+	<string>interpolationNearJob</string>
+</dict>
+</plist>

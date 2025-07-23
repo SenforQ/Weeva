@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorViaCycle</key>
+	<string>responseBeyondOperation</string>
+	<key>denseGraphBottom</key>
+	<string>secondScreenIndex</string>
+	<key>interactorForPhase</key>
+	<string>sinkInterpreterHead</string>
+	<key>normalButtonBorder</key>
+	<string>grayscaleProxyShade</string>
+	<key>storageMediatorDelay</key>
+	<string>singletonAgainstFramework</string>
+	<key>streamParamLeft</key>
+	<string>bufferOrLevel</string>
+	<key>tensorRadiusShape</key>
+	<string>arithmeticInsideJob</string>
+	<key>titleLikeBuffer</key>
+	<string>constraintOfInterpreter</string>
+	<key>unactivatedLayerFlags</key>
+	<string>activeMissionOrigin</string>
+</dict>
+</plist>

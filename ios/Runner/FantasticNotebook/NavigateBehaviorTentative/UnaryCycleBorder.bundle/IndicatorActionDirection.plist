@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBufferFormat</key>
+	<string>integerExceptBridge</string>
+	<key>coordinatorFromPattern</key>
+	<string>webReferenceInteraction</string>
+	<key>deferredBulletState</key>
+	<string>exceptionAndDecorator</string>
+	<key>explicitIconOrientation</key>
+	<string>lazyGraphMode</string>
+	<key>flexVariableKind</key>
+	<string>variantOperationFeedback</string>
+	<key>granularStampPressure</key>
+	<string>serviceFlyweightStyle</string>
+	<key>graphBesideActivity</key>
+	<string>repositoryParameterForce</string>
+	<key>gridviewInsideStage</key>
+	<string>injectionChainContrast</string>
+	<key>positionedBesidePlatform</key>
+	<string>metadataSinceTemple</string>
+</dict>
+</plist>

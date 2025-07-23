@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAboutCommand</key>
+	<string>baselineOrTier</string>
+	<key>discardedViewCenter</key>
+	<string>asynchronousGridOffset</string>
+	<key>documentAboutProcess</key>
+	<string>callbackExceptMode</string>
+	<key>eagerHandlerBottom</key>
+	<string>zoneWithoutLevel</string>
+	<key>firstIndicatorTransparency</key>
+	<string>interactorPhaseTop</string>
+	<key>layerNearFunction</key>
+	<string>unsortedRowSpacing</string>
+	<key>modelIncludeChain</key>
+	<string>themeOutsidePattern</string>
+	<key>nibFunctionOrientation</key>
+	<string>methodPlatformSize</string>
+	<key>switchOutsideFlyweight</key>
+	<string>constraintWithoutParameter</string>
+	<key>toolParameterDistance</key>
+	<string>modulusThanFramework</string>
+</dict>
+</plist>

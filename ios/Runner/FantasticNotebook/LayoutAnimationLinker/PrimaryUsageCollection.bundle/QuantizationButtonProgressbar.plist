@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAnimationColor</key>
+	<string>localMovementOrientation</string>
+	<key>contractionFlyweightColor</key>
+	<string>customTransformerTint</string>
+	<key>gateThroughAdapter</key>
+	<string>toolStructureDirection</string>
+	<key>groupExceptFramework</key>
+	<string>sceneOperationOrientation</string>
+	<key>operationFromVisitor</key>
+	<string>dynamicAlertAppearance</string>
+	<key>sampleMethodResponse</key>
+	<string>materialSignatureTop</string>
+</dict>
+</plist>

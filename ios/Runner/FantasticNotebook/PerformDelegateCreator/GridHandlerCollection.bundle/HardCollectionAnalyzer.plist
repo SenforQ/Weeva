@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableRouterShape</key>
+	<string>multiTableShape</string>
+	<key>lastGestureInset</key>
+	<string>momentumPerStrategy</string>
+	<key>mediocreExpandedTail</key>
+	<string>assetLevelOrigin</string>
+	<key>scrollableOptionDuration</key>
+	<string>cubitDuringCommand</string>
+	<key>tickerStateMode</key>
+	<string>roleAgainstChain</string>
+</dict>
+</plist>

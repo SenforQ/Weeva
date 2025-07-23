@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAdapterTag</key>
+	<string>isolateExceptActivity</string>
+	<key>listviewPatternScale</key>
+	<string>asyncAroundScope</string>
+	<key>rapidFactorySpacing</key>
+	<string>fusedRichtextOrientation</string>
+	<key>skinAmongCommand</key>
+	<string>smartRadioPadding</string>
+	<key>tabbarFromVisitor</key>
+	<string>capacitiesFlyweightTail</string>
+	<key>touchLevelTag</key>
+	<string>otherSinkOffset</string>
+</dict>
+</plist>

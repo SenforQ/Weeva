@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderKindAppearance</key>
+	<string>gestureStrategyBorder</string>
+	<key>callbackFlyweightFrequency</key>
+	<string>stackProcessLocation</string>
+	<key>collectionAsOperation</key>
+	<string>signatureIncludeValue</string>
+	<key>euclideanDimensionSpacing</key>
+	<string>hierarchicalHeapSize</string>
+	<key>interactiveCharacterTension</key>
+	<string>mutableDialogsLocation</string>
+	<key>normalNotificationDistance</key>
+	<string>blocAtParam</string>
+	<key>ternaryActionDuration</key>
+	<string>webColumnSkewx</string>
+</dict>
+</plist>

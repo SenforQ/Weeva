@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartDecoratorTension</key>
+	<string>decorationProxyFeedback</string>
+	<key>controllerMethodHue</key>
+	<string>temporaryOffsetRotation</string>
+	<key>easySegmentKind</key>
+	<string>interfaceParamTag</string>
+	<key>largeReducerStatus</key>
+	<string>normalLoopBehavior</string>
+	<key>navigationPhaseSkewy</key>
+	<string>grainNearVariable</string>
+	<key>navigatorPlatformRate</key>
+	<string>featurePerCycle</string>
+	<key>symmetricZoneOffset</key>
+	<string>methodPrototypeVelocity</string>
+</dict>
+</plist>

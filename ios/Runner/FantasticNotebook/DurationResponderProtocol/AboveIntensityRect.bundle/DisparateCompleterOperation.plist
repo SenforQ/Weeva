@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationUntilMediator</key>
+	<string>stateSinceSingleton</string>
+	<key>equipmentSingletonResponse</key>
+	<string>factoryWithAction</string>
+	<key>ignoredBlocShape</key>
+	<string>tabbarByMethod</string>
+	<key>instructionStateVisibility</key>
+	<string>relationalCommandTension</string>
+	<key>mapInMemento</key>
+	<string>coordinatorContainOperation</string>
+	<key>materialTaskResponse</key>
+	<string>scaleNumberSpacing</string>
+	<key>remainderFunctionTag</key>
+	<string>semanticDecorationShade</string>
+	<key>titleUntilPlatform</key>
+	<string>decorationContextBottom</string>
+</dict>
+</plist>

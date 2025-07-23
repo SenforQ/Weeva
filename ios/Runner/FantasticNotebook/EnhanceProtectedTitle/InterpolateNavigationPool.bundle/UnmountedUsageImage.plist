@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConfigurationValidation</key>
+	<string>animationNearStage</string>
+	<key>animationLayerCount</key>
+	<string>navigationAdapterSpacing</string>
+	<key>greatScaleTransparency</key>
+	<string>metadataVersusProcess</string>
+	<key>iconStrategyStyle</key>
+	<string>navigatorWithoutSingleton</string>
+	<key>inheritedStampTheme</key>
+	<string>lossStyleTint</string>
+	<key>listenerJobPressure</key>
+	<string>repositoryObserverInteraction</string>
+	<key>pinchableBoxRight</key>
+	<string>handlerDecoratorSaturation</string>
+	<key>toolParamBehavior</key>
+	<string>fixedAnimationOrigin</string>
+	<key>utilBesideParameter</key>
+	<string>queryInVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerProcessTail</key>
+	<string>overlayPlatformInset</string>
+	<key>layoutObserverRotation</key>
+	<string>standaloneInterfaceAppearance</string>
+	<key>routerShapeBound</key>
+	<string>intensityByLayer</string>
+	<key>specifyExtensionDensity</key>
+	<string>loopAdapterBrightness</string>
+	<key>tappableScrollInteraction</key>
+	<string>specifyMediaStyle</string>
+	<key>transformerAtPlatform</key>
+	<string>firstQueryVisibility</string>
+</dict>
+</plist>

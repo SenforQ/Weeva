@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChartTheme</key>
+	<string>animatedSignFeedback</string>
+	<key>geometricLogarithmState</key>
+	<string>dedicatedSensorRight</string>
+	<key>interpolationByBridge</key>
+	<string>draggableBuilderShade</string>
+	<key>mobxJobMode</key>
+	<string>widgetLayerFeedback</string>
+	<key>mutableRadiusPadding</key>
+	<string>tangentAmongBuffer</string>
+	<key>normalSegmentSpeed</key>
+	<string>animationPerBuffer</string>
+	<key>protectedProtocolAcceleration</key>
+	<string>interfaceMediatorBorder</string>
+	<key>viewMementoSpacing</key>
+	<string>unaryProxyRate</string>
+	<key>zoneTypeDensity</key>
+	<string>notifierOfBuffer</string>
+</dict>
+</plist>

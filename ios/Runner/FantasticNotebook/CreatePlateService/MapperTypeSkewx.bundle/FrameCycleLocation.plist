@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActivityFeedback</key>
+	<string>textFlyweightFormat</string>
+	<key>drawerWithoutCycle</key>
+	<string>missedParticleState</string>
+	<key>gradientOutsideLayer</key>
+	<string>curveEnvironmentBottom</string>
+	<key>hierarchicalNormState</key>
+	<string>standaloneGemMode</string>
+	<key>interpolationSystemVisibility</key>
+	<string>stateParameterAcceleration</string>
+	<key>richtextWorkRotation</key>
+	<string>immutableActivityOpacity</string>
+	<key>rowLevelDensity</key>
+	<string>timerWithBuffer</string>
+	<key>screenOutsideScope</key>
+	<string>apertureAmongNumber</string>
+	<key>specifierWorkCenter</key>
+	<string>granularAssetDistance</string>
+	<key>tableSinceVar</key>
+	<string>spotNumberIndex</string>
+</dict>
+</plist>

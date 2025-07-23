@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerIncludePattern</key>
+	<string>synchronousAlertDelay</string>
+	<key>optionDuringStrategy</key>
+	<string>interfaceWithoutType</string>
+	<key>referenceOrBridge</key>
+	<string>builderLikeSingleton</string>
+	<key>sessionStageBottom</key>
+	<string>topicDuringObserver</string>
+	<key>slashAgainstKind</key>
+	<string>clipperPatternDelay</string>
+	<key>unaryAwayComposite</key>
+	<string>eagerEventOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAndOperation</key>
+	<string>accordionStorePosition</string>
+	<key>inactiveResponseForce</key>
+	<string>variantParamEdge</string>
+	<key>originalStoreInteraction</key>
+	<string>cubitProcessBehavior</string>
+	<key>permanentAspectVisible</key>
+	<string>borderTaskSkewx</string>
+	<key>protocolAlongVar</key>
+	<string>explicitStatefulFeedback</string>
+	<key>resizableResponseAppearance</key>
+	<string>beginnerStreamBottom</string>
+	<key>sensorAlongPhase</key>
+	<string>gridAndPhase</string>
+	<key>statelessActivityScale</key>
+	<string>offsetVersusFunction</string>
+	<key>textFunctionPosition</key>
+	<string>singletonAdapterKind</string>
+</dict>
+</plist>

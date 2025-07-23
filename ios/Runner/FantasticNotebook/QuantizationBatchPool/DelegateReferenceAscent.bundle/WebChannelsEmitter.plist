@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedParticleFeedback</key>
+	<string>publicFrameShade</string>
+	<key>cellSingletonEdge</key>
+	<string>entropyAgainstWork</string>
+	<key>consumerIncludeTier</key>
+	<string>multiStatelessFrequency</string>
+	<key>fixedPainterCount</key>
+	<string>loopVersusMode</string>
+	<key>menuBesideProxy</key>
+	<string>activatedCustompaintFormat</string>
+	<key>numericalStoryboardContrast</key>
+	<string>responsiveEntitySize</string>
+	<key>reductionInterpreterPadding</key>
+	<string>lostActionDuration</string>
+	<key>storyboardEnvironmentAcceleration</key>
+	<string>mapVisitorVisible</string>
+	<key>touchTierBottom</key>
+	<string>temporaryPreviewVelocity</string>
+</dict>
+</plist>

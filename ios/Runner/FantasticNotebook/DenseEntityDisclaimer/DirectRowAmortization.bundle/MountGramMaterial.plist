@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStageSaturation</key>
+	<string>flexAndMediator</string>
+	<key>greatAppbarRight</key>
+	<string>decorationStructureSkewy</string>
+	<key>immediateCardCenter</key>
+	<string>liteObserverPressure</string>
+	<key>mediaAdapterLocation</key>
+	<string>customTaskDelay</string>
+	<key>metadataAdapterType</key>
+	<string>indicatorIncludeMethod</string>
+	<key>metadataAgainstChain</key>
+	<string>greatMonsterDensity</string>
+	<key>missedTransitionCount</key>
+	<string>keyResourceBehavior</string>
+	<key>sophisticatedBlocBound</key>
+	<string>singleParticleOrigin</string>
+</dict>
+</plist>

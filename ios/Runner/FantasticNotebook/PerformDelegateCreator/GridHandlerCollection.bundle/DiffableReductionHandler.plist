@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContextInteraction</key>
+	<string>providerThroughMediator</string>
+	<key>controllerChainTail</key>
+	<string>previewWithState</string>
+	<key>dedicatedChartVisible</key>
+	<string>basicAccessoryBottom</string>
+	<key>disabledResolverSpeed</key>
+	<string>projectPrototypeCount</string>
+	<key>providerViaState</key>
+	<string>constraintLikeInterpreter</string>
+</dict>
+</plist>

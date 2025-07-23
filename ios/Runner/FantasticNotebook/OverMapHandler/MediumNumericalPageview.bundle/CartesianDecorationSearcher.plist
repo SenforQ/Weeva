@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAndFlyweight</key>
+	<string>asyncRequestOpacity</string>
+	<key>crucialRequestName</key>
+	<string>lastRequestPressure</string>
+	<key>currentMovementOrientation</key>
+	<string>granularResolverRotation</string>
+	<key>iconTierMargin</key>
+	<string>typicalObserverForce</string>
+	<key>viewInsideLayer</key>
+	<string>draggableNotificationRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCycleScale</key>
+	<string>textureAlongFlyweight</string>
+	<key>commonGesturedetectorTag</key>
+	<string>screenActionLocation</string>
+	<key>menuIncludeForm</key>
+	<string>factoryParameterInset</string>
+</dict>
+</plist>

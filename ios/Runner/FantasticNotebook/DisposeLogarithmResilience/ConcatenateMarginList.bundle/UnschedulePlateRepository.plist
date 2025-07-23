@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSystemBottom</key>
+	<string>cupertinoModeInset</string>
+	<key>cubitProcessDelay</key>
+	<string>smartTabbarShade</string>
+	<key>disparateInterfaceTheme</key>
+	<string>smartActivityHue</string>
+	<key>intensityBufferContrast</key>
+	<string>variantParamTint</string>
+	<key>modelOfNumber</key>
+	<string>variantDespiteMemento</string>
+	<key>shaderAndObserver</key>
+	<string>logarithmAboutStrategy</string>
+	<key>subscriptionPrototypeAcceleration</key>
+	<string>navigationStrategyVisibility</string>
+</dict>
+</plist>

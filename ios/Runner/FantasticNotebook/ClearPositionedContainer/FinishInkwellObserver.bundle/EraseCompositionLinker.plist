@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBufferDistance</key>
+	<string>rowProxyBrightness</string>
+	<key>allocatorOfContext</key>
+	<string>asyncWorkSpacing</string>
+	<key>blocAroundStrategy</key>
+	<string>subtleMobileFeedback</string>
+	<key>desktopLoopTail</key>
+	<string>inactiveZoneCount</string>
+	<key>geometricDecorationCoord</key>
+	<string>invisibleInkwellHue</string>
+	<key>immutableDependencySpacing</key>
+	<string>standaloneCurveState</string>
+	<key>modulusInPhase</key>
+	<string>temporaryCurveFeedback</string>
+</dict>
+</plist>

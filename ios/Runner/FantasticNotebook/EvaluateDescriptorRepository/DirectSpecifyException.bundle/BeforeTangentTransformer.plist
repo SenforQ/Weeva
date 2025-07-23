@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesNearFramework</key>
+	<string>segueFacadeDelay</string>
+	<key>dependencyForParam</key>
+	<string>coordinatorTierSkewy</string>
+	<key>futureIncludeEnvironment</key>
+	<string>featureTaskDuration</string>
+	<key>prismaticMediaqueryTension</key>
+	<string>commandWorkOffset</string>
+	<key>sampleProcessVelocity</key>
+	<string>asyncChartSaturation</string>
+</dict>
+</plist>

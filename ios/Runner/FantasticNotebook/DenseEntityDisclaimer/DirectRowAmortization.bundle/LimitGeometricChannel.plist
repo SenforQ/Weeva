@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorNumberTheme</key>
+	<string>cursorObserverOrientation</string>
+	<key>binaryShapeFeedback</key>
+	<string>resourceByTask</string>
+	<key>channelStateTheme</key>
+	<string>baselineCompositeFeedback</string>
+	<key>columnStructureTail</key>
+	<string>visibleActivitySize</string>
+	<key>dynamicOverlayLeft</key>
+	<string>sustainableBatchTop</string>
+	<key>logarithmScopeBound</key>
+	<string>parallelMonsterBehavior</string>
+	<key>radiusVisitorForce</key>
+	<string>currentCertificateKind</string>
+	<key>tickerProxyColor</key>
+	<string>segueContextLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUtilDelay</key>
+	<string>canvasInterpreterVisibility</string>
+	<key>checklistInterpreterBehavior</key>
+	<string>heroFormInset</string>
+	<key>durationScopeLocation</key>
+	<string>descriptionDuringProcess</string>
+	<key>easyMomentumSaturation</key>
+	<string>draggableParticleTheme</string>
+	<key>labelLikeValue</key>
+	<string>activityAsTier</string>
+</dict>
+</plist>

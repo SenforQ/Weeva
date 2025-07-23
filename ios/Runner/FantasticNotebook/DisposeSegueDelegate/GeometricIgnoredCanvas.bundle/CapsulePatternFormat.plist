@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileResourceDirection</key>
+	<string>viewVisitorSpeed</string>
+	<key>containerOutsideInterpreter</key>
+	<string>subtleSkirtRight</string>
+	<key>controllerAndDecorator</key>
+	<string>navigatorMementoRotation</string>
+	<key>immediateNavigatorKind</key>
+	<string>frameDecoratorVisibility</string>
+	<key>oldTaskAlignment</key>
+	<string>associatedRouteAlignment</string>
+</dict>
+</plist>

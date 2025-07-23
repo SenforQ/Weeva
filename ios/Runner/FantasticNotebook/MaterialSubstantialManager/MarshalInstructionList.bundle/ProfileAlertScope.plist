@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorIncludeOperation</key>
+	<string>metadataBeyondForm</string>
+	<key>multiRouterTransparency</key>
+	<string>decorationViaPlatform</string>
+	<key>subscriptionInWork</key>
+	<string>usedActivityOffset</string>
+	<key>subscriptionUntilNumber</key>
+	<string>bulletChainSaturation</string>
+</dict>
+</plist>

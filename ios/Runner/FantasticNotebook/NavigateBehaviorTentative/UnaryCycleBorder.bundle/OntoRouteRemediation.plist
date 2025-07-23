@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSwiftStyle</key>
+	<string>finalRowMargin</string>
+	<key>mediaContainProxy</key>
+	<string>cubitContextCoord</string>
+	<key>navigatorActivitySpeed</key>
+	<string>layoutAndCommand</string>
+	<key>overlayPatternTint</key>
+	<string>masterTypePosition</string>
+	<key>resilientPlaybackTransparency</key>
+	<string>keyTaskOpacity</string>
+	<key>resizableFutureType</key>
+	<string>durationMediatorAppearance</string>
+	<key>resolverParameterTension</key>
+	<string>alphaJobTag</string>
+	<key>segmentAndFacade</key>
+	<string>topicNearStage</string>
+</dict>
+</plist>

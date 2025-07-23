@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationIncludeEnvironment</key>
+	<string>reducerAndState</string>
+	<key>exceptionWithoutTask</key>
+	<string>controllerCompositeRate</string>
+	<key>firstCurveEdge</key>
+	<string>callbackMethodTail</string>
+	<key>grayscaleScopeVisible</key>
+	<string>hardSingletonCenter</string>
+	<key>immutableTweenShape</key>
+	<string>resilientIsolateBehavior</string>
+	<key>mutableFeatureDirection</key>
+	<string>exponentViaKind</string>
+	<key>observerChainVelocity</key>
+	<string>hyperbolicNodeInterval</string>
+	<key>scrollPatternOrientation</key>
+	<string>builderInterpreterAlignment</string>
+	<key>usagePhaseInset</key>
+	<string>resilientMapTheme</string>
+	<key>zoneVarDuration</key>
+	<string>relationalDurationMomentum</string>
+</dict>
+</plist>

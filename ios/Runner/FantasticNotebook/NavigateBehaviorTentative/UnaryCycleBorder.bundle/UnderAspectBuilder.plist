@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultCurveScale</key>
+	<string>singletonObserverFeedback</string>
+	<key>fusedRadioHead</key>
+	<string>collectionObserverAcceleration</string>
+	<key>futureVisitorTail</key>
+	<string>asyncInsideState</string>
+	<key>ignoredInteractorRate</key>
+	<string>storePlatformBound</string>
+	<key>inheritedIntensityResponse</key>
+	<string>nativeLoopShade</string>
+	<key>originalMomentumAlignment</key>
+	<string>singletonFacadeRotation</string>
+	<key>semanticExceptionPosition</key>
+	<string>dependencyViaPhase</string>
+	<key>subsequentSingletonCenter</key>
+	<string>opaqueTickerOrigin</string>
+	<key>textureInObserver</key>
+	<string>specifierAsEnvironment</string>
+</dict>
+</plist>

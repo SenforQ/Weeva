@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePopupFrequency</key>
+	<string>popupActionTop</string>
+	<key>extensionWithContext</key>
+	<string>opaqueContainerSkewy</string>
+	<key>listviewPhasePosition</key>
+	<string>brushFrameworkBorder</string>
+	<key>multiplicationDuringMemento</key>
+	<string>dedicatedAsyncTag</string>
+	<key>optimizerThroughShape</key>
+	<string>hashBufferCoord</string>
+	<key>providerTierIndex</key>
+	<string>modelPlatformColor</string>
+	<key>sustainableCallbackFrequency</key>
+	<string>skirtActivityContrast</string>
+</dict>
+</plist>

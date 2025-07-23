@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionObserverContrast</key>
+	<string>cubitActivitySpacing</string>
+	<key>chartDecoratorOffset</key>
+	<string>oldBaseTag</string>
+	<key>injectionParamFeedback</key>
+	<string>elasticCubitSkewx</string>
+	<key>keySegmentStyle</key>
+	<string>signatureJobMode</string>
+	<key>popupBridgeDepth</key>
+	<string>enabledPainterOffset</string>
+	<key>responseParameterResponse</key>
+	<string>instructionTypeAcceleration</string>
+	<key>resultJobBrightness</key>
+	<string>hyperbolicAnchorForce</string>
+	<key>smartChartDirection</key>
+	<string>transitionPatternShape</string>
+</dict>
+</plist>

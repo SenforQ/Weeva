@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTierMode</key>
+	<string>radioInsideLayer</string>
+	<key>customizedSignScale</key>
+	<string>missionSystemPressure</string>
+	<key>diversifiedIconVisibility</key>
+	<string>parallelMissionDistance</string>
+	<key>graphInValue</key>
+	<string>effectScopeBehavior</string>
+	<key>storageScopeTag</key>
+	<string>fusedSubscriptionFlags</string>
+</dict>
+</plist>

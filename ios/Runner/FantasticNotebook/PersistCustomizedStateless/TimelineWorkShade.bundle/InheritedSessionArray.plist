@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterContextCount</key>
+	<string>intuitivePlaybackSpacing</string>
+	<key>columnTaskDirection</key>
+	<string>discardedListenerVisibility</string>
+	<key>coordinatorThanOperation</key>
+	<string>completerModeInterval</string>
+	<key>coordinatorVariableMargin</key>
+	<string>futureTaskHead</string>
+	<key>delegateCycleVisibility</key>
+	<string>popupInEnvironment</string>
+	<key>dependencyProxyType</key>
+	<string>interactivePresenterOpacity</string>
+	<key>inkwellLikeStyle</key>
+	<string>desktopRouteDirection</string>
+	<key>promiseAmongJob</key>
+	<string>themeVarOpacity</string>
+	<key>tensorTextfieldScale</key>
+	<string>gridviewCommandFrequency</string>
+</dict>
+</plist>

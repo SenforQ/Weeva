@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTypeEdge</key>
+	<string>pointPatternTransparency</string>
+	<key>futureVisitorRotation</key>
+	<string>spotAndChain</string>
+	<key>routeAwaySystem</key>
+	<string>accessibleBlocPressure</string>
+	<key>visibleButtonTension</key>
+	<string>zoneAndLevel</string>
+</dict>
+</plist>

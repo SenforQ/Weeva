@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerInsideContext</key>
+	<string>widgetInActivity</string>
+	<key>exceptionThanChain</key>
+	<string>clipperActionResponse</string>
+	<key>hierarchicalCubitVisible</key>
+	<string>frameExceptLevel</string>
+	<key>protocolProcessRotation</key>
+	<string>documentProcessDelay</string>
+	<key>queueContextBottom</key>
+	<string>directScreenScale</string>
+	<key>respectiveQueuePosition</key>
+	<string>dynamicMomentumStyle</string>
+	<key>subsequentNavigatorBottom</key>
+	<string>materialPlatformState</string>
+</dict>
+</plist>

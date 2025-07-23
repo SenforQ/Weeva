@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorCommandSkewx</key>
+	<string>mainViewFrequency</string>
+	<key>entropyMementoInterval</key>
+	<string>handlerPerShape</string>
+	<key>geometricIndicatorResponse</key>
+	<string>globalBinaryContrast</string>
+	<key>interactiveMetadataSize</key>
+	<string>cupertinoInjectionMode</string>
+	<key>navigationAlongPattern</key>
+	<string>commandBesideMemento</string>
+	<key>sliderDespiteStage</key>
+	<string>sceneSystemType</string>
+	<key>tweenTaskLocation</key>
+	<string>robustOverlayState</string>
+	<key>widgetInTier</key>
+	<string>contractionViaChain</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPatternRotation</key>
+	<string>permanentBulletForce</string>
+	<key>managerVariableHead</key>
+	<string>fragmentContextCount</string>
+	<key>missionStructureTheme</key>
+	<string>sessionCompositeVisible</string>
+	<key>modelLikeEnvironment</key>
+	<string>iconActionVisibility</string>
+	<key>requestChainRate</key>
+	<string>unactivatedOffsetName</string>
+</dict>
+</plist>

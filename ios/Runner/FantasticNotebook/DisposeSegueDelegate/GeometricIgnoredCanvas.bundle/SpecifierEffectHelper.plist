@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optimizerOfStrategy</key>
+	<string>cubitViaJob</string>
+	<key>optionShapeEdge</key>
+	<string>kernelEnvironmentMargin</string>
+	<key>persistentLogarithmSkewx</key>
+	<string>basePatternShade</string>
+</dict>
+</plist>

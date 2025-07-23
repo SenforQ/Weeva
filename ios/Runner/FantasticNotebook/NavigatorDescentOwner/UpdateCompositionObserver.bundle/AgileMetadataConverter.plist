@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSizedboxTransparency</key>
+	<string>requestSingletonHue</string>
+	<key>concreteBrushCoord</key>
+	<string>tangentFunctionOrigin</string>
+	<key>cupertinoRouteVisible</key>
+	<string>labelTierVisible</string>
+	<key>gramOrPlatform</key>
+	<string>subtleFrameShape</string>
+	<key>mobxFromVisitor</key>
+	<string>collectionVersusBuffer</string>
+	<key>previewTierType</key>
+	<string>sharedBoxshadowTail</string>
+	<key>shaderScopeEdge</key>
+	<string>resultMethodInterval</string>
+	<key>touchExceptCycle</key>
+	<string>mediaqueryNearPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAgainstBridge</key>
+	<string>chartPerDecorator</string>
+	<key>injectionProxyAcceleration</key>
+	<string>activeResourceKind</string>
+	<key>masterVariableVisibility</key>
+	<string>keyMobileOrigin</string>
+	<key>sharedPopupInterval</key>
+	<string>providerParameterFeedback</string>
+	<key>tabbarBesideStyle</key>
+	<string>isolateFrameworkStatus</string>
+	<key>textfieldThroughFramework</key>
+	<string>firstAsyncLocation</string>
+	<key>typicalBlocOpacity</key>
+	<string>progressbarAmongParam</string>
+</dict>
+</plist>

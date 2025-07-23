@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAtMemento</key>
+	<string>chartProxyShade</string>
+	<key>customSegmentBound</key>
+	<string>scaleByLevel</string>
+	<key>delegatePerBuffer</key>
+	<string>controllerAroundPrototype</string>
+	<key>dependencyProcessType</key>
+	<string>awaitPrototypePosition</string>
+	<key>frameFromSingleton</key>
+	<string>methodKindDepth</string>
+	<key>groupSingletonTop</key>
+	<string>awaitDecoratorSkewx</string>
+	<key>tabviewActivityTint</key>
+	<string>completionFunctionState</string>
+	<key>widgetSystemTension</key>
+	<string>unactivatedTextfieldRotation</string>
+</dict>
+</plist>

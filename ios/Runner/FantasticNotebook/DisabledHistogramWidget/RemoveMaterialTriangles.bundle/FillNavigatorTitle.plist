@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseBrightness</key>
+	<string>animationCompositeTheme</string>
+	<key>cursorOrBridge</key>
+	<string>sessionOrAction</string>
+	<key>injectionInFramework</key>
+	<string>bitrateOutsideWork</string>
+	<key>interpolationProcessSkewy</key>
+	<string>borderViaPattern</string>
+	<key>modelIncludeScope</key>
+	<string>singleSizedboxSpacing</string>
+	<key>modelNearTier</key>
+	<string>invisibleIndicatorPadding</string>
+	<key>seamlessCursorInset</key>
+	<string>requiredApertureBound</string>
+</dict>
+</plist>

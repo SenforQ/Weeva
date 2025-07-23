@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleInsideAction</key>
+	<string>missionAlongValue</string>
+	<key>prismaticMethodName</key>
+	<string>mobileAlongOperation</string>
+	<key>sessionAdapterPadding</key>
+	<string>grainAgainstParam</string>
+	<key>usageAgainstScope</key>
+	<string>widgetDecoratorMargin</string>
+</dict>
+</plist>

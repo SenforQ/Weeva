@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOperationHead</key>
+	<string>otherPageviewTail</string>
+	<key>columnByMode</key>
+	<string>uniqueEffectRight</string>
+	<key>effectAmongStage</key>
+	<string>viewSingletonBottom</string>
+	<key>scaffoldAroundLevel</key>
+	<string>customSlashHead</string>
+	<key>semanticChannelDirection</key>
+	<string>futureNearContext</string>
+</dict>
+</plist>

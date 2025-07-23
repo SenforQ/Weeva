@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTypeForce</key>
+	<string>materialQueueRight</string>
+	<key>bufferPerCycle</key>
+	<string>resourceOrAction</string>
+	<key>easyRepositorySize</key>
+	<string>ignoredMatrixDirection</string>
+	<key>exceptionEnvironmentPadding</key>
+	<string>cupertinoKernelDelay</string>
+	<key>flexAsValue</key>
+	<string>animationAmongInterpreter</string>
+	<key>integerThroughShape</key>
+	<string>graphicModeInterval</string>
+	<key>materialProxyStatus</key>
+	<string>directlyCatalystValidation</string>
+	<key>modelParamInset</key>
+	<string>columnThroughValue</string>
+	<key>unaryNumberOrientation</key>
+	<string>commandOutsideOperation</string>
+</dict>
+</plist>

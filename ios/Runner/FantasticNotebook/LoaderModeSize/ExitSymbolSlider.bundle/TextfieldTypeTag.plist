@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMobileLocation</key>
+	<string>featureContextMargin</string>
+	<key>cupertinoTransitionSpacing</key>
+	<string>behaviorPhaseSkewx</string>
+	<key>directlyPriorityLocation</key>
+	<string>imageBeyondProcess</string>
+	<key>gridviewOutsideVariable</key>
+	<string>granularBuilderColor</string>
+	<key>heapAdapterBound</key>
+	<string>stateCycleShape</string>
+	<key>intensityContainNumber</key>
+	<string>scaffoldAsOperation</string>
+	<key>sceneVersusPattern</key>
+	<string>reactiveBufferLocation</string>
+	<key>signatureCycleTint</key>
+	<string>requestBridgeInset</string>
+	<key>tweenProxyInset</key>
+	<string>advancedNotificationForce</string>
+</dict>
+</plist>

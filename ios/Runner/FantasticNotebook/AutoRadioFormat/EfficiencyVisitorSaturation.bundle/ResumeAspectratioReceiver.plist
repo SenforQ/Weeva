@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableProviderInterval</key>
+	<string>cubitAroundFlyweight</string>
+	<key>geometricAccessoryShape</key>
+	<string>normContextRight</string>
+	<key>layoutStageTransparency</key>
+	<string>associatedResourceEdge</string>
+	<key>respectiveSubpixelBound</key>
+	<string>significantPointValidation</string>
+	<key>scaleStateCenter</key>
+	<string>notifierContainMethod</string>
+	<key>stampStrategyMargin</key>
+	<string>masterContextCoord</string>
+	<key>switchWithoutPlatform</key>
+	<string>menuAboutStyle</string>
+</dict>
+</plist>

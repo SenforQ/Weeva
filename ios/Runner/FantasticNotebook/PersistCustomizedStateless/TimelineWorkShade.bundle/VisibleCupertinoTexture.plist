@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultQueryPadding</key>
+	<string>notificationAdapterScale</string>
+	<key>entityBufferAppearance</key>
+	<string>textBridgeAppearance</string>
+	<key>flexibleGraphicInteraction</key>
+	<string>inheritedSizedboxRotation</string>
+	<key>missionExceptTemple</key>
+	<string>resourceNearParam</string>
+</dict>
+</plist>

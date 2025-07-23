@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelPerFramework</key>
+	<string>sliderAdapterBorder</string>
+	<key>normTierOrientation</key>
+	<string>bulletTypeBottom</string>
+	<key>resilientCubitSkewy</key>
+	<string>assetProxyMomentum</string>
+	<key>responseSystemPosition</key>
+	<string>menuVariableForce</string>
+</dict>
+</plist>

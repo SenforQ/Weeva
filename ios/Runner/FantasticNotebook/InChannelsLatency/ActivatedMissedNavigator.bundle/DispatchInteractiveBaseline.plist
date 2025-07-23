@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutOutsidePhase</key>
+	<string>responsiveDescriptorHead</string>
+	<key>logShapeTransparency</key>
+	<string>reactiveAlignmentTail</string>
+	<key>sceneForActivity</key>
+	<string>criticalAlphaCenter</string>
+	<key>tweenMementoPadding</key>
+	<string>completionSingletonPosition</string>
+</dict>
+</plist>

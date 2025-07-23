@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAwayAction</key>
+	<string>parallelHeapVisible</string>
+	<key>contractionThroughEnvironment</key>
+	<string>petAmongFlyweight</string>
+	<key>framePrototypeSkewy</key>
+	<string>bufferVersusSingleton</string>
+	<key>interfaceBesideStage</key>
+	<string>fragmentDecoratorIndex</string>
+	<key>previewCycleStyle</key>
+	<string>asynchronousSkirtType</string>
+	<key>publicBuilderResponse</key>
+	<string>usageByCycle</string>
+	<key>referenceBesideBridge</key>
+	<string>activityContainMode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerGraphicDelay</key>
+	<string>euclideanCardMargin</string>
+	<key>intermediateDropdownbuttonHead</key>
+	<string>basicButtonAlignment</string>
+	<key>localizationFrameworkTheme</key>
+	<string>frameScopeTag</string>
+	<key>modalPrototypeTheme</key>
+	<string>requiredErrorOpacity</string>
+	<key>permissiveStackCount</key>
+	<string>matrixDespiteFunction</string>
+	<key>sophisticatedAlignmentStyle</key>
+	<string>sceneParameterStatus</string>
+</dict>
+</plist>

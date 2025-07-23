@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisUntilMode</key>
+	<string>navigatorLikeInterpreter</string>
+	<key>cubitProxyFormat</key>
+	<string>titleIncludePattern</string>
+	<key>directArithmeticScale</key>
+	<string>ignoredCurveVelocity</string>
+	<key>effectAgainstCycle</key>
+	<string>channelByBuffer</string>
+	<key>ignoredPrecisionScale</key>
+	<string>stepInsideValue</string>
+	<key>parallelLayoutBorder</key>
+	<string>callbackPatternPadding</string>
+	<key>primaryCapsuleTop</key>
+	<string>exceptionLikeWork</string>
+</dict>
+</plist>

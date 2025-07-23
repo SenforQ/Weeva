@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLevelOpacity</key>
+	<string>iterativeTickerBehavior</string>
+	<key>entityDespiteVisitor</key>
+	<string>builderInsidePrototype</string>
+	<key>futureNearTier</key>
+	<string>curveStrategyTop</string>
+	<key>observerWithSingleton</key>
+	<string>controllerDespiteStage</string>
+	<key>segmentTaskInteraction</key>
+	<string>coordinatorEnvironmentStatus</string>
+	<key>storeWithoutVariable</key>
+	<string>compositionDespiteLayer</string>
+	<key>transitionBeyondAdapter</key>
+	<string>granularConfigurationStyle</string>
+</dict>
+</plist>

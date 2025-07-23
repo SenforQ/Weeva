@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGraphHue</key>
+	<string>adaptiveFrameBehavior</string>
+	<key>eventLayerDuration</key>
+	<string>promiseSystemRate</string>
+	<key>functionalPreviewFeedback</key>
+	<string>missionVariableVelocity</string>
+	<key>protectedDecorationIndex</key>
+	<string>displayableButtonRight</string>
+	<key>storyboardActivityRotation</key>
+	<string>movementActivityBehavior</string>
+	<key>toolExceptState</key>
+	<string>requiredSignatureShade</string>
+	<key>usecaseAtNumber</key>
+	<string>coordinatorProcessInteraction</string>
+	<key>viewAlongFramework</key>
+	<string>chartPlatformCenter</string>
+</dict>
+</plist>

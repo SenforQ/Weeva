@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTypeSaturation</key>
+	<string>skirtActionOpacity</string>
+	<key>constraintObserverSkewy</key>
+	<string>spriteWithoutStage</string>
+	<key>deferredGramOpacity</key>
+	<string>effectIncludeMediator</string>
+	<key>euclideanChannelsHue</key>
+	<string>tickerOrChain</string>
+	<key>fragmentTaskStyle</key>
+	<string>baseStructureTheme</string>
+	<key>granularActionSpeed</key>
+	<string>durationFromKind</string>
+	<key>resizableViewBound</key>
+	<string>animatedIntegerHead</string>
+	<key>roleAsState</key>
+	<string>interpolationForFunction</string>
+	<key>textObserverMargin</key>
+	<string>basicAnimatedcontainerEdge</string>
+</dict>
+</plist>

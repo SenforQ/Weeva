@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSingletonFrequency</key>
+	<string>pageviewForStyle</string>
+	<key>controllerPerVisitor</key>
+	<string>directRemainderState</string>
+	<key>greatCurveOffset</key>
+	<string>stateDecoratorTint</string>
+	<key>heapLikeShape</key>
+	<string>petAsMode</string>
+	<key>invisibleTweenResponse</key>
+	<string>queueMementoTag</string>
+	<key>managerLayerScale</key>
+	<string>mainStoryboardCenter</string>
+	<key>nodeInPattern</key>
+	<string>actionVersusStage</string>
+	<key>scrollableParticleFrequency</key>
+	<string>disparateCardRight</string>
+	<key>storageNearStage</key>
+	<string>subpixelStructureLeft</string>
+</dict>
+</plist>

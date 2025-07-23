@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableMethodDensity</key>
+	<string>mediaStageCount</string>
+	<key>ephemeralTitleState</key>
+	<string>protectedConfigurationInset</string>
+	<key>futureCycleSaturation</key>
+	<string>nativeGraphSize</string>
+	<key>listviewContainDecorator</key>
+	<string>missionObserverBorder</string>
+	<key>movementPhaseSaturation</key>
+	<string>usedMarginIndex</string>
+	<key>navigatorTypeDirection</key>
+	<string>interactorTierVelocity</string>
+	<key>oldMusicFlags</key>
+	<string>segueValueVisible</string>
+	<key>resourceVarVisibility</key>
+	<string>frameAgainstVar</string>
+	<key>scaffoldAsVariable</key>
+	<string>mediocreLossSkewy</string>
+</dict>
+</plist>

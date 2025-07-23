@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStrategyBorder</key>
+	<string>certificateLevelFrequency</string>
+	<key>bufferStageName</key>
+	<string>axisStageOffset</string>
+	<key>completerVarOrientation</key>
+	<string>requiredHashFlags</string>
+	<key>directPriorityTension</key>
+	<string>asyncTickerDensity</string>
+	<key>euclideanPlaybackVelocity</key>
+	<string>containerParameterTop</string>
+	<key>intensityNumberBehavior</key>
+	<string>sinePhaseScale</string>
+	<key>lazyKernelTag</key>
+	<string>mobxFormShape</string>
+	<key>nodeJobBehavior</key>
+	<string>builderViaWork</string>
+	<key>similarHandlerPadding</key>
+	<string>shaderBridgeDensity</string>
+	<key>substantialReferenceBound</key>
+	<string>comprehensiveCoordinatorTension</string>
+</dict>
+</plist>

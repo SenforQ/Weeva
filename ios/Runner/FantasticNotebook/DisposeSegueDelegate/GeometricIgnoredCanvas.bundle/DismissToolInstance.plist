@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineNearProxy</key>
+	<string>binaryAtFramework</string>
+	<key>boxContextFeedback</key>
+	<string>reusableLayoutRate</string>
+	<key>dynamicButtonDelay</key>
+	<string>tickerWithValue</string>
+	<key>elasticParticleCoord</key>
+	<string>alphaAwayInterpreter</string>
+	<key>equipmentVersusVisitor</key>
+	<string>sequentialInjectionValidation</string>
+	<key>reusableSegueIndex</key>
+	<string>sizedboxPlatformRate</string>
+	<key>visibleButtonTension</key>
+	<string>anchorEnvironmentCenter</string>
+</dict>
+</plist>

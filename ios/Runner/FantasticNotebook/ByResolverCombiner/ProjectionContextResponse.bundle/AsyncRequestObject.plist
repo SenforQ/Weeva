@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeGroupDepth</key>
+	<string>sliderStructureAppearance</string>
+	<key>gestureDespiteScope</key>
+	<string>histogramScopeOrigin</string>
+	<key>hashDuringPlatform</key>
+	<string>newestStackAlignment</string>
+	<key>semanticsContainTask</key>
+	<string>checklistVersusProcess</string>
+	<key>statelessPatternTheme</key>
+	<string>flexibleFrameValidation</string>
+</dict>
+</plist>

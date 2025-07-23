@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CollectionFlagView">
+            <connections>
+                <outlet property="bagPointButton" destination="saY-2h-9pB" id="SZs-DK-xWK"/>
+                <outlet property="limitButton" destination="fsD-AQ-OsY" id="LZF-0Z-EyT"/>
+                <outlet property="pathGoingImageView" destination="oIl-cI-YT9" id="Erf-Oi-RPw"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="c7Z-WE-zno">
+            <rect key="frame" x="0.0" y="0.0" width="597.5" height="103.9"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button contentMode="top" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fsD-AQ-OsY">
+                    <rect key="frame" x="137" y="-2" width="219.4" height="74.6"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="gift icon little server color" image="1242-2208">
+                        <color key="titleColor" red="0.00559039638789535" green="1" blue="0.02414690914625511" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="tap cancel" image="1242-2208">
+                        <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="text task mini" image="1242-2208">
+                        <color key="titleColor" red="0.20779701414722236" green="0.90490747356640582" blue="0.21086697732533055" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <imageView clipsSubviews="NO" userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1242-2688" highlightedImage="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="oIl-cI-YT9" hidden="YES" autoresizesSubviews="NO">
+                    <rect key="frame" x="-5" y="1" width="116.5" height="74.6"/>
+                </imageView>
+                <button opaque="NO" contentMode="top" horizontalHuggingPriority="100" verticalHuggingPriority="100" horizontalCompressionResistancePriority="100" verticalCompressionResistancePriority="100" contentHorizontalAlignment="left" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="saY-2h-9pB" clipsSubviews="NO" autoresizesSubviews="NO">
+                    <rect key="frame" x="345" y="-3" width="161.7" height="74.6"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="cell model view frame to" image="1242-2208">
+                        <color key="titleColor" red="0.01896150312027774" green="0.82828451721660765" blue="0.03037024728691656" alpha="0.85712699887504526" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="inner save color color appear empty" image="1242-2688">
+                        <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="from cover" image="1242-2208">
+                        <color key="titleColor" red="0.3062666243868782" green="0.91034219231308117" blue="0.30399305378560837" alpha="0.90013681950022977" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Ch9-rg-eTk"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="saY-2h-9pB" firstAttribute="leading" secondItem="fsD-AQ-OsY" secondAttribute="trailing" constant="5" id="35g-Lo-vDA"/>
+                <constraint firstAttribute="bottom" secondItem="oIl-cI-YT9" secondAttribute="bottom" constant="8" id="YSR-vw-JE7"/>
+                <constraint firstAttribute="bottom" secondItem="fsD-AQ-OsY" secondAttribute="bottom" constant="2" id="KES-2p-kDE"/>
+                <constraint firstItem="fsD-AQ-OsY" firstAttribute="top" secondItem="c7Z-WE-zno" secondAttribute="top" constant="2" id="wkk-ao-h8x"/>
+                <constraint firstItem="Ch9-rg-eTk" firstAttribute="trailing" secondItem="oIl-cI-YT9" secondAttribute="trailing" id="j6n-XH-uxn"/>
+                <constraint firstItem="oIl-cI-YT9" firstAttribute="top" secondItem="c7Z-WE-zno" secondAttribute="top" constant="6" id="OCv-Tk-gc1"/>
+                <constraint firstItem="oIl-cI-YT9" firstAttribute="leading" secondItem="saY-2h-9pB" secondAttribute="trailing" constant="2" id="etO-K7-oZw"/>
+                <constraint firstItem="saY-2h-9pB" firstAttribute="top" secondItem="c7Z-WE-zno" secondAttribute="top" constant="3" id="v06-wC-2Jy"/>
+                <constraint firstAttribute="bottom" secondItem="saY-2h-9pB" secondAttribute="bottom" id="r3X-8y-FMz"/>
+                <constraint firstItem="fsD-AQ-OsY" firstAttribute="leading" secondItem="Ch9-rg-eTk" secondAttribute="leading" constant="2" id="8ix-iy-cPV"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="215.73550530591383" y="-197.82157826434905"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2688" width="112.3" height="122.7"/>
+        <image name="1242-2208" width="64.3" height="53.2"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

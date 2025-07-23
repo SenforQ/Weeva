@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSizedboxPadding</key>
+	<string>mainDialogsDistance</string>
+	<key>controllerFunctionDensity</key>
+	<string>permanentCollectionInset</string>
+	<key>desktopGraphicIndex</key>
+	<string>utilMementoDirection</string>
+	<key>enabledPreviewTheme</key>
+	<string>mediumHandlerHead</string>
+	<key>fusedRemainderContrast</key>
+	<string>grayscaleForType</string>
+	<key>localThemeBound</key>
+	<string>integerAmongValue</string>
+	<key>prismaticTransitionForce</key>
+	<string>parallelCompleterForce</string>
+	<key>resourceDuringTier</key>
+	<string>streamFrameworkTop</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObserverStyle</key>
+	<string>queryStateHue</string>
+	<key>allocatorContainProcess</key>
+	<string>zoneDuringDecorator</string>
+	<key>denseOffsetCenter</key>
+	<string>subtleStorageCoord</string>
+	<key>smallCoordinatorBound</key>
+	<string>tappableManagerForce</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAwayPattern</key>
+	<string>activityOfAction</string>
+	<key>queueTempleDensity</key>
+	<string>disabledFragmentName</string>
+	<key>sharedButtonFrequency</key>
+	<string>semanticsAndScope</string>
+	<key>staticWidgetVisible</key>
+	<string>rowMethodBottom</string>
+	<key>titleStructureValidation</key>
+	<string>listenerDespiteEnvironment</string>
+</dict>
+</plist>

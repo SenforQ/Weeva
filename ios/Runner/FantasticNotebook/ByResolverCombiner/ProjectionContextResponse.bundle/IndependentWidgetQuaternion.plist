@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleAroundVisitor</key>
+	<string>declarativeSpineScale</string>
+	<key>imperativeGridLocation</key>
+	<string>sustainableControllerInset</string>
+	<key>invisibleActionMargin</key>
+	<string>directMovementVelocity</string>
+	<key>lastTickerFlags</key>
+	<string>flexOrPattern</string>
+	<key>layoutInterpreterMomentum</key>
+	<string>iconStateScale</string>
+	<key>subscriptionTempleStyle</key>
+	<string>queryAdapterAppearance</string>
+</dict>
+</plist>

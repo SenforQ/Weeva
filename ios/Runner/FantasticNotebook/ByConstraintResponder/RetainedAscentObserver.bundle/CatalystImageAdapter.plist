@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAllocatorValidation</key>
+	<string>queryAmongParameter</string>
+	<key>batchSinceValue</key>
+	<string>interactiveActionDepth</string>
+	<key>firstMethodStatus</key>
+	<string>loopTierStyle</string>
+	<key>gradientAmongTask</key>
+	<string>listenerThanFlyweight</string>
+	<key>mediaqueryStructureInset</key>
+	<string>disparateColumnFlags</string>
+	<key>modalCompositeType</key>
+	<string>channelAmongActivity</string>
+	<key>scrollableErrorIndex</key>
+	<string>animatedcontainerIncludeScope</string>
+	<key>sliderNumberContrast</key>
+	<string>fusedSpriteRight</string>
+	<key>storeModeType</key>
+	<string>graphVarMomentum</string>
+	<key>widgetJobContrast</key>
+	<string>precisionKindIndex</string>
+</dict>
+</plist>

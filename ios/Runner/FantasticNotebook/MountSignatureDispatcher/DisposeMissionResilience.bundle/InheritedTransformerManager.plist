@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelForPlatform</key>
+	<string>nativeExponentAppearance</string>
+	<key>draggableResourceSaturation</key>
+	<string>loopContextCenter</string>
+	<key>eventBufferInteraction</key>
+	<string>eagerPromiseTint</string>
+	<key>inkwellNearValue</key>
+	<string>exceptionAwayMemento</string>
+	<key>logStateAppearance</key>
+	<string>particleTypePadding</string>
+	<key>loopOfFlyweight</key>
+	<string>retainedAssetDensity</string>
+	<key>materialFrameworkSkewy</key>
+	<string>singletonWithoutForm</string>
+	<key>previewAtWork</key>
+	<string>interpolationVarSkewy</string>
+	<key>requestObserverTag</key>
+	<string>retainedNodeDistance</string>
+</dict>
+</plist>

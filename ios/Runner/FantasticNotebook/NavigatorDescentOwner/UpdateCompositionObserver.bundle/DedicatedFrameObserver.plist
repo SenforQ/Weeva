@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBesideInterpreter</key>
+	<string>effectAdapterPosition</string>
+	<key>curveAndFramework</key>
+	<string>curveWithoutProxy</string>
+	<key>lostCurveMargin</key>
+	<string>advancedChecklistShade</string>
+	<key>nextRectValidation</key>
+	<string>dependencyAsFramework</string>
+	<key>oldListenerStyle</key>
+	<string>interactiveAlphaCount</string>
+	<key>priorityContainVar</key>
+	<string>blocSingletonDirection</string>
+	<key>subsequentResolverInteraction</key>
+	<string>integerLevelIndex</string>
+	<key>symmetricSinkHue</key>
+	<string>durationFunctionInteraction</string>
+	<key>webAlignmentDensity</key>
+	<string>entityInsideMemento</string>
+</dict>
+</plist>

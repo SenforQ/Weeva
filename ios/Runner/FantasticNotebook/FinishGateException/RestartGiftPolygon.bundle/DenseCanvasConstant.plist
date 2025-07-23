@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEffectHue</key>
+	<string>cubitTierInteraction</string>
+	<key>inheritedTimerState</key>
+	<string>semanticSubscriptionStyle</string>
+	<key>mapVariableName</key>
+	<string>sequentialEffectInteraction</string>
+	<key>paddingContextRotation</key>
+	<string>storeViaVar</string>
+	<key>stepActionDensity</key>
+	<string>extensionCyclePosition</string>
+	<key>tabviewNumberDelay</key>
+	<string>interactorContextTension</string>
+</dict>
+</plist>

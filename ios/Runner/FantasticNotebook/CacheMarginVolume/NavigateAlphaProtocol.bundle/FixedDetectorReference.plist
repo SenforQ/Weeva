@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBeyondSystem</key>
+	<string>beginnerTextRotation</string>
+	<key>flexibleButtonIndex</key>
+	<string>channelsContainPlatform</string>
+	<key>injectionWithLayer</key>
+	<string>granularEqualizationDistance</string>
+	<key>multiRowVisible</key>
+	<string>imperativeTableLocation</string>
+	<key>navigationActivityOrientation</key>
+	<string>semanticBuilderAlignment</string>
+	<key>offsetStateFrequency</key>
+	<string>subpixelMementoStatus</string>
+	<key>particleFromStyle</key>
+	<string>themeVersusEnvironment</string>
+	<key>radioTierFrequency</key>
+	<string>loopEnvironmentTint</string>
+	<key>requestActionFrequency</key>
+	<string>sustainableTaskType</string>
+	<key>transitionLayerValidation</key>
+	<string>topicUntilProcess</string>
+</dict>
+</plist>

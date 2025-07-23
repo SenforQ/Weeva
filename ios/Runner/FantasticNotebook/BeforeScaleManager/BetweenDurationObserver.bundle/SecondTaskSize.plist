@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateParameterSaturation</key>
+	<string>loopScopeSkewy</string>
+	<key>euclideanRowValidation</key>
+	<string>routerAtMethod</string>
+	<key>resolverInPattern</key>
+	<string>dynamicHistogramDistance</string>
+	<key>sessionCommandTheme</key>
+	<string>queueMediatorBrightness</string>
+	<key>ternaryBufferMode</key>
+	<string>directButtonPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromStage</key>
+	<string>inactivePaddingVisible</string>
+	<key>containerExceptCommand</key>
+	<string>concurrentTabviewSaturation</string>
+	<key>crucialTopicBound</key>
+	<string>repositoryAtStrategy</string>
+	<key>declarativePreviewSpacing</key>
+	<string>cacheStateVelocity</string>
+	<key>frameAsLevel</key>
+	<string>sinkChainKind</string>
+	<key>navigationPerCycle</key>
+	<string>animationAsVariable</string>
+</dict>
+</plist>

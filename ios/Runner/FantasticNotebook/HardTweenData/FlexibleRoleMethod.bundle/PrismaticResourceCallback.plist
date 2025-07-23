@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryOfScope</key>
+	<string>parallelIntegerBound</string>
+	<key>collectionVarAlignment</key>
+	<string>axisVarLeft</string>
+	<key>configurationSystemSpeed</key>
+	<string>fixedBufferRate</string>
+	<key>controllerTempleDensity</key>
+	<string>commandActivityCenter</string>
+	<key>coordinatorPhasePosition</key>
+	<string>denseLossTension</string>
+	<key>desktopKernelType</key>
+	<string>sortedPlateInset</string>
+	<key>exceptionInterpreterOffset</key>
+	<string>staticStoragePadding</string>
+	<key>signAmongAdapter</key>
+	<string>reducerOrComposite</string>
+	<key>sizedboxSingletonRotation</key>
+	<string>significantInjectionLeft</string>
+</dict>
+</plist>

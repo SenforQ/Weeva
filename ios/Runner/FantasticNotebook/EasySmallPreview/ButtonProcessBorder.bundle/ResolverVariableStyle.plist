@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowIncludeProcess</key>
+	<string>asyncAgainstComposite</string>
+	<key>descriptionLikeStrategy</key>
+	<string>finalControllerBound</string>
+	<key>gridviewMementoCenter</key>
+	<string>localAsyncPressure</string>
+	<key>hashDuringLayer</key>
+	<string>graphPlatformVisibility</string>
+	<key>resizableZoneFormat</key>
+	<string>navigationBridgeLeft</string>
+</dict>
+</plist>

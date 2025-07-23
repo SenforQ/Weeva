@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCallbackBrightness</key>
+	<string>mobileTimerTransparency</string>
+	<key>criticalDescriptorColor</key>
+	<string>layoutAboutTask</string>
+	<key>newestStreamVelocity</key>
+	<string>unaryInBuffer</string>
+	<key>pinchableObserverStyle</key>
+	<string>durationProcessOrientation</string>
+	<key>sharedRoleAppearance</key>
+	<string>pivotalAllocatorPosition</string>
+	<key>statelessForContext</key>
+	<string>similarRemainderTension</string>
+</dict>
+</plist>

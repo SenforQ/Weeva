@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permissiveTabviewDuration</key>
+	<string>indicatorAdapterValidation</string>
+	<key>presenterAwaySystem</key>
+	<string>cursorPatternRate</string>
+	<key>resolverTierKind</key>
+	<string>threadSingletonDepth</string>
+	<key>sharedTweenLocation</key>
+	<string>factoryPerStrategy</string>
+	<key>singleTitleTag</key>
+	<string>binaryShapeEdge</string>
+	<key>taskViaVisitor</key>
+	<string>assetPatternFrequency</string>
+</dict>
+</plist>

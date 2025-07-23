@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCoordinatorInterval</key>
+	<string>storeActivityInteraction</string>
+	<key>delicateSliderCoord</key>
+	<string>tickerMediatorTag</string>
+	<key>iterativeViewTag</key>
+	<string>riverpodInsideOperation</string>
+	<key>localizationKindEdge</key>
+	<string>usecaseDuringPlatform</string>
+	<key>nativeNavigatorState</key>
+	<string>coordinatorUntilFlyweight</string>
+	<key>stateAgainstBuffer</key>
+	<string>labelTaskName</string>
+</dict>
+</plist>

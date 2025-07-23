@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSinkMode</key>
+	<string>alphaOperationOrientation</string>
+	<key>buttonStyleValidation</key>
+	<string>multiControllerAppearance</string>
+	<key>commandPerStage</key>
+	<string>resultAtInterpreter</string>
+	<key>factoryAboutActivity</key>
+	<string>normalListenerContrast</string>
+	<key>heroFrameworkLocation</key>
+	<string>screenIncludeSystem</string>
+	<key>nextBuilderContrast</key>
+	<string>asyncVarFormat</string>
+	<key>originalTouchShade</key>
+	<string>riverpodAndValue</string>
+	<key>skinAtSystem</key>
+	<string>storeOutsideDecorator</string>
+</dict>
+</plist>

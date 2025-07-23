@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCursorFeedback</key>
+	<string>bitrateShapeSaturation</string>
+	<key>gestureDecoratorRotation</key>
+	<string>dimensionPhaseSpacing</string>
+	<key>inkwellWithoutVar</key>
+	<string>heapParameterTheme</string>
+	<key>multiplicationThroughSystem</key>
+	<string>pageviewJobResponse</string>
+	<key>normalInteractorRotation</key>
+	<string>rowTempleDuration</string>
+	<key>positionWorkDuration</key>
+	<string>discardedImageSpeed</string>
+	<key>reusableGradientDistance</key>
+	<string>controllerEnvironmentCenter</string>
+</dict>
+</plist>

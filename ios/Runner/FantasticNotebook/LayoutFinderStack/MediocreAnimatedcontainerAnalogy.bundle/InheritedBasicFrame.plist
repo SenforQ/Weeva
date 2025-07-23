@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFromPlatform</key>
+	<string>bitrateNearMode</string>
+	<key>indicatorByStructure</key>
+	<string>intuitiveLocalizationPosition</string>
+	<key>intensityThroughState</key>
+	<string>textureEnvironmentMode</string>
+	<key>repositoryPrototypeTop</key>
+	<string>constraintParameterTransparency</string>
+	<key>sliderThroughScope</key>
+	<string>durationBeyondValue</string>
+	<key>storageActivityLeft</key>
+	<string>presenterOrNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyLogName</key>
+	<string>eventAlongState</string>
+	<key>layoutSystemAcceleration</key>
+	<string>blocExceptProxy</string>
+	<key>semanticStateTension</key>
+	<string>instructionExceptStructure</string>
+</dict>
+</plist>

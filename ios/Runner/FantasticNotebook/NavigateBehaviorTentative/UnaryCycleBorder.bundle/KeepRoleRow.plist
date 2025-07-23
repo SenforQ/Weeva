@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForWork</key>
+	<string>permanentTextInterval</string>
+	<key>borderWithSystem</key>
+	<string>boxshadowFormHue</string>
+	<key>bufferLikeState</key>
+	<string>containerVisitorBrightness</string>
+	<key>decorationTaskTransparency</key>
+	<string>asyncFromStyle</string>
+	<key>permanentChannelBrightness</key>
+	<string>segueAroundVariable</string>
+	<key>usageFacadeSaturation</key>
+	<string>symmetricDimensionLocation</string>
+</dict>
+</plist>

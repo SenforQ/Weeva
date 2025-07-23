@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNormCoord</key>
+	<string>durationStageSkewy</string>
+	<key>baselinePerTask</key>
+	<string>tangentContextOrientation</string>
+	<key>cardLevelPadding</key>
+	<string>clipperTierSaturation</string>
+	<key>immutableCaptionOpacity</key>
+	<string>marginOutsideComposite</string>
+	<key>integerWithAction</key>
+	<string>containerWithoutOperation</string>
+	<key>interactorVarTransparency</key>
+	<string>isolateBufferShade</string>
+	<key>modulusOutsideProcess</key>
+	<string>boxshadowEnvironmentTop</string>
+	<key>secondVectorInset</key>
+	<string>transformerValueVisible</string>
+	<key>singleFutureShape</key>
+	<string>dropdownbuttonInVisitor</string>
+</dict>
+</plist>

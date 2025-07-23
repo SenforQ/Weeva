@@ -1,0 +1,18 @@
+#import "ToConfigurationDistinction.h"
+#import "AboveMasterTimer.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface ThroughContainerTweak : NSObject
+
+
+- (void) withinGiftTitle;
+
+- (void) tryTensorMaterialAdapter;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

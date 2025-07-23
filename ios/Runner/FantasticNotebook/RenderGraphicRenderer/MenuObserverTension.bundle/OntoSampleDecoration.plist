@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorStageStyle</key>
+	<string>factoryPhaseTag</string>
+	<key>dedicatedWidgetDirection</key>
+	<string>channelsVersusPhase</string>
+	<key>dialogsInMode</key>
+	<string>reusableLoopVisible</string>
+	<key>mediocreTaskLeft</key>
+	<string>hashFlyweightVelocity</string>
+	<key>optionOrTask</key>
+	<string>localPetAlignment</string>
+	<key>paddingBesideObserver</key>
+	<string>concreteListviewShape</string>
+	<key>sizeParameterLeft</key>
+	<string>sceneSingletonScale</string>
+</dict>
+</plist>

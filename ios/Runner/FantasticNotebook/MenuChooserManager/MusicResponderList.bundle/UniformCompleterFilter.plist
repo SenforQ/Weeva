@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicScrollInteraction</key>
+	<string>aspectratioWithMediator</string>
+	<key>fusedWidgetDelay</key>
+	<string>sharedTextfieldIndex</string>
+	<key>navigationNearMemento</key>
+	<string>immutableStampTag</string>
+	<key>richtextBufferLeft</key>
+	<string>interfacePlatformOffset</string>
+	<key>usecaseStateInterval</key>
+	<string>missedTextureIndex</string>
+</dict>
+</plist>

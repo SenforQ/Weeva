@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTickerOpacity</key>
+	<string>interfaceBesideDecorator</string>
+	<key>beginnerSceneVisible</key>
+	<string>prevParticleFormat</string>
+	<key>coordinatorOutsidePattern</key>
+	<string>viewIncludeDecorator</string>
+	<key>crudeObserverLeft</key>
+	<string>viewLikeBuffer</string>
+	<key>discardedTextMode</key>
+	<string>particleContextBound</string>
+</dict>
+</plist>

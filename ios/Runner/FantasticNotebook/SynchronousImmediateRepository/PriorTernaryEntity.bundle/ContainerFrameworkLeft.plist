@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForCommand</key>
+	<string>rapidActionTransparency</string>
+	<key>exceptionActionVisible</key>
+	<string>transitionCompositeVisibility</string>
+	<key>layoutVersusFramework</key>
+	<string>specifyBaselineOpacity</string>
+	<key>mobileJobRight</key>
+	<string>intuitiveRowName</string>
+	<key>oldStampRight</key>
+	<string>checkboxObserverHue</string>
+	<key>rowVarPadding</key>
+	<string>configurationPatternMargin</string>
+	<key>transformerForScope</key>
+	<string>sliderStrategyFlags</string>
+</dict>
+</plist>

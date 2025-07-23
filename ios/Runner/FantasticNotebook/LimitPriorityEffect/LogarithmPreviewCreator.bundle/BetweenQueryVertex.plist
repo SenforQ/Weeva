@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMethodShade</key>
+	<string>iterativeContainerCenter</string>
+	<key>checkboxVersusJob</key>
+	<string>menuDecoratorTint</string>
+	<key>cubitBesideMediator</key>
+	<string>activatedThreadDelay</string>
+	<key>curveParameterDirection</key>
+	<string>singleOptionFlags</string>
+	<key>greatDurationBehavior</key>
+	<string>interactorOrProcess</string>
+	<key>widgetBeyondBridge</key>
+	<string>flexibleSymbolContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPlatformTransparency</key>
+	<string>criticalDelegateBottom</string>
+	<key>compositionalNibState</key>
+	<string>getxDecoratorTint</string>
+	<key>cursorFromStructure</key>
+	<string>durationContainScope</string>
+	<key>diffableMaterialState</key>
+	<string>interpolationOfStructure</string>
+	<key>priorTangentAlignment</key>
+	<string>reducerParameterContrast</string>
+	<key>priorityThroughInterpreter</key>
+	<string>granularModalBound</string>
+	<key>resourceAroundChain</key>
+	<string>coordinatorStructureHue</string>
+	<key>semanticCurveVelocity</key>
+	<string>asyncThroughObserver</string>
+	<key>subtleCurveValidation</key>
+	<string>agileSpineVisible</string>
+</dict>
+</plist>

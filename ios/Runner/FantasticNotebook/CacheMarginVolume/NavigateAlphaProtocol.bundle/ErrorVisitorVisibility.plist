@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPlatformInterval</key>
+	<string>batchIncludeFramework</string>
+	<key>assetTypeFrequency</key>
+	<string>commonTimerDensity</string>
+	<key>displayableNavigationAcceleration</key>
+	<string>tweenTypeDuration</string>
+	<key>injectionStageScale</key>
+	<string>ignoredRepositoryBehavior</string>
+	<key>lossVariableColor</key>
+	<string>missedHashFlags</string>
+	<key>signatureStructureVisibility</key>
+	<string>containerCommandResponse</string>
+</dict>
+</plist>

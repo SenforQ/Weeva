@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAtJob</key>
+	<string>visibleIndicatorMargin</string>
+	<key>ignoredSpineRight</key>
+	<string>stepModeTint</string>
+	<key>optionObserverBrightness</key>
+	<string>globalBulletDepth</string>
+	<key>resourceSystemRight</key>
+	<string>animatedcontainerPatternResponse</string>
+	<key>vectorInContext</key>
+	<string>immutableTextureMode</string>
+</dict>
+</plist>

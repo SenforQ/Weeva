@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePriorityBehavior</key>
+	<string>operationExceptPattern</string>
+	<key>cacheWithoutShape</key>
+	<string>extensionTaskType</string>
+	<key>finalGrainHead</key>
+	<string>semanticPresenterCenter</string>
+	<key>subpixelVariablePressure</key>
+	<string>cubitAroundPlatform</string>
+	<key>tensorButtonFlags</key>
+	<string>sequentialGemMode</string>
+</dict>
+</plist>

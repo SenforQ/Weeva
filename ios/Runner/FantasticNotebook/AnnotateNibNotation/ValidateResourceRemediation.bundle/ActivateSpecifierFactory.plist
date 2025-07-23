@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentKindTheme</key>
+	<string>dependencyActionMode</string>
+	<key>builderStageEdge</key>
+	<string>giftMethodStyle</string>
+	<key>desktopCacheDensity</key>
+	<string>popupVersusFramework</string>
+	<key>globalAllocatorShade</key>
+	<string>textInsideContext</string>
+	<key>seamlessBuilderScale</key>
+	<string>localizationPlatformRate</string>
+	<key>stackFormType</key>
+	<string>requestShapeShade</string>
+</dict>
+</plist>

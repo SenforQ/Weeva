@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderKindFormat</key>
+	<string>assetByParam</string>
+	<key>entropyAtStructure</key>
+	<string>tensorMatrixType</string>
+	<key>geometricDialogsFormat</key>
+	<string>uniformLoopBottom</string>
+	<key>routePhaseMomentum</key>
+	<string>sortedGesturedetectorAcceleration</string>
+	<key>standaloneSingletonTint</key>
+	<string>signScopeHue</string>
+</dict>
+</plist>

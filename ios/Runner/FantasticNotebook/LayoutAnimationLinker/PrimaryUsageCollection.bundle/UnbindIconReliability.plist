@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPrototypeBehavior</key>
+	<string>vectorFacadeScale</string>
+	<key>musicInPlatform</key>
+	<string>activePopupType</string>
+	<key>resourceBeyondProxy</key>
+	<string>localizationInStage</string>
+	<key>sceneIncludeVariable</key>
+	<string>sequentialStorageHead</string>
+	<key>scrollableBehaviorHue</key>
+	<string>commandOrMemento</string>
+	<key>taskAdapterInset</key>
+	<string>radioPlatformFrequency</string>
+	<key>unsortedRepositoryScale</key>
+	<string>grainAlongCommand</string>
+</dict>
+</plist>

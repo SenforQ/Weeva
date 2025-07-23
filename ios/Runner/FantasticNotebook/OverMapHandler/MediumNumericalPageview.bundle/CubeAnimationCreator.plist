@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystLayerForce</key>
+	<string>queueFacadeCount</string>
+	<key>drawerTaskMode</key>
+	<string>integerChainOpacity</string>
+	<key>granularGridviewRotation</key>
+	<string>asynchronousControllerCount</string>
+	<key>intuitiveDurationRate</key>
+	<string>constraintVarStyle</string>
+	<key>standaloneCubeDepth</key>
+	<string>optimizerPrototypeInteraction</string>
+	<key>transformerChainDensity</key>
+	<string>gradientTempleMargin</string>
+	<key>uniqueResolverPressure</key>
+	<string>touchSingletonCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredOffsetSaturation</key>
+	<string>alignmentAgainstWork</string>
+	<key>interpolationBesideAction</key>
+	<string>cycleAgainstPlatform</string>
+	<key>positionActivityCoord</key>
+	<string>sortedTickerBottom</string>
+	<key>sizedboxFacadeRotation</key>
+	<string>parallelNavigatorCount</string>
+</dict>
+</plist>

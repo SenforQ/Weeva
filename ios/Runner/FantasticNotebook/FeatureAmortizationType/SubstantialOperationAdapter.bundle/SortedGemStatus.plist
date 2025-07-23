@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerProxyOrientation</key>
+	<string>protectedControllerState</string>
+	<key>functionalCallbackOrigin</key>
+	<string>futureAsOperation</string>
+	<key>interfaceExceptObserver</key>
+	<string>movementBesideCycle</string>
+	<key>multiplicationMementoLeft</key>
+	<string>newestPreviewRate</string>
+	<key>permissiveSpriteCount</key>
+	<string>frameCommandDelay</string>
+	<key>projectionFlyweightScale</key>
+	<string>synchronousAwaitContrast</string>
+	<key>textfieldJobOrientation</key>
+	<string>significantAssetIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTransformerDirection</key>
+	<string>euclideanArithmeticResponse</string>
+	<key>completerAboutStrategy</key>
+	<string>layoutAtLevel</string>
+	<key>cubitFormVelocity</key>
+	<string>arithmeticVisitorAppearance</string>
+	<key>providerVisitorTail</key>
+	<string>chartJobOrientation</string>
+	<key>reductionSinceLevel</key>
+	<string>dedicatedOffsetInset</string>
+</dict>
+</plist>

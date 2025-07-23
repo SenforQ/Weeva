@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAlongCycle</key>
+	<string>grayscaleTempleRotation</string>
+	<key>dynamicPreviewBottom</key>
+	<string>sizeWithFramework</string>
+	<key>gradientUntilDecorator</key>
+	<string>constCupertinoTop</string>
+	<key>tabviewTaskMomentum</key>
+	<string>subpixelMediatorMode</string>
+</dict>
+</plist>

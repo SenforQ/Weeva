@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBridgeDensity</key>
+	<string>entropyInsideMethod</string>
+	<key>finalResolverTag</key>
+	<string>matrixForParam</string>
+	<key>sampleAlongPrototype</key>
+	<string>priorEquipmentDensity</string>
+	<key>staticErrorCenter</key>
+	<string>smartSegmentFeedback</string>
+	<key>visibleAssetDensity</key>
+	<string>enabledClipperValidation</string>
+</dict>
+</plist>

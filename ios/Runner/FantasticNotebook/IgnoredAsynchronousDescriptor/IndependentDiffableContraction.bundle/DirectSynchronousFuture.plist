@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioForPrototype</key>
+	<string>nextLoopDepth</string>
+	<key>cycleAtInterpreter</key>
+	<string>documentAsNumber</string>
+	<key>missionOrMode</key>
+	<string>checklistJobRate</string>
+	<key>presenterFromFunction</key>
+	<string>iterativeStreamCoord</string>
+	<key>responseBeyondCycle</key>
+	<string>globalConstraintFlags</string>
+	<key>sceneActivityInteraction</key>
+	<string>descriptionParameterPosition</string>
+	<key>sceneTierStyle</key>
+	<string>rectSinceAction</string>
+	<key>variantAndValue</key>
+	<string>elasticRiverpodTension</string>
+</dict>
+</plist>

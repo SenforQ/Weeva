@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCubitPadding</key>
+	<string>radiusNumberRotation</string>
+	<key>indicatorAroundObserver</key>
+	<string>parallelEffectSize</string>
+	<key>listenerJobTransparency</key>
+	<string>interactorAgainstStrategy</string>
+	<key>progressbarNearVisitor</key>
+	<string>basicNotifierInteraction</string>
+	<key>robustMenuBottom</key>
+	<string>hashProxyTag</string>
+	<key>secondPaddingInteraction</key>
+	<string>intuitivePreviewRotation</string>
+	<key>specifyVectorSpacing</key>
+	<string>profileNumberFormat</string>
+</dict>
+</plist>

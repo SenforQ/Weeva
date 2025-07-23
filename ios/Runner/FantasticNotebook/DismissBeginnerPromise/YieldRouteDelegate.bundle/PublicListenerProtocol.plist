@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheChainFeedback</key>
+	<string>seamlessConfigurationBrightness</string>
+	<key>delegateContainCycle</key>
+	<string>autoCoordinatorType</string>
+	<key>descriptorAsPlatform</key>
+	<string>baselineContextRotation</string>
+	<key>euclideanGiftBehavior</key>
+	<string>lazyRadioValidation</string>
+	<key>exceptionFunctionState</key>
+	<string>buttonOutsideStyle</string>
+	<key>permissiveDecorationBrightness</key>
+	<string>delegateWithoutCommand</string>
+	<key>reductionExceptForm</key>
+	<string>containerAwayType</string>
+	<key>sliderAroundCommand</key>
+	<string>effectStyleTop</string>
+</dict>
+</plist>

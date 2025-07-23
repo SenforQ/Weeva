@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVariableIndex</key>
+	<string>symmetricPreviewShade</string>
+	<key>collectionFlyweightAlignment</key>
+	<string>resolverDuringProxy</string>
+	<key>localizationOutsideBuffer</key>
+	<string>coordinatorFormSaturation</string>
+	<key>sinkAdapterOpacity</key>
+	<string>sharedNotifierTint</string>
+</dict>
+</plist>

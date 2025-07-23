@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFunctionMomentum</key>
+	<string>iconFacadeAcceleration</string>
+	<key>chartOutsideBridge</key>
+	<string>fusedMomentumVisible</string>
+	<key>completerSingletonBound</key>
+	<string>singletonIncludeContext</string>
+	<key>crudeDelegateAcceleration</key>
+	<string>textureInActivity</string>
+	<key>entropyAlongSingleton</key>
+	<string>interactiveViewAppearance</string>
+	<key>exceptionCompositeSpacing</key>
+	<string>asyncAtScope</string>
+	<key>painterAndComposite</key>
+	<string>localizationFrameworkShape</string>
+	<key>parallelCharacterPadding</key>
+	<string>menuLikeState</string>
+	<key>progressbarInsideAction</key>
+	<string>buttonStrategySkewx</string>
+</dict>
+</plist>

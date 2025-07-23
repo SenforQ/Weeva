@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardValueBrightness</key>
+	<string>binaryAtParameter</string>
+	<key>indicatorIncludeVariable</key>
+	<string>allocatorDespiteVar</string>
+	<key>mobileUntilWork</key>
+	<string>delegatePerObserver</string>
+	<key>routerOfMode</key>
+	<string>singletonLevelTheme</string>
+</dict>
+</plist>

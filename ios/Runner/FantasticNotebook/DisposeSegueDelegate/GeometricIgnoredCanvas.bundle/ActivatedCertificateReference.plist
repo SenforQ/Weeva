@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxContainPlatform</key>
+	<string>asyncModalBrightness</string>
+	<key>directlyCharacterMode</key>
+	<string>delegateStructureTint</string>
+	<key>directlyRequestResponse</key>
+	<string>controllerCyclePressure</string>
+	<key>draggableResolverTransparency</key>
+	<string>backwardTransitionVelocity</string>
+	<key>invisibleTitleHead</key>
+	<string>appbarAroundFacade</string>
+	<key>missedDecorationTop</key>
+	<string>ternaryStageRight</string>
+	<key>precisionSingletonTop</key>
+	<string>descriptionTierBorder</string>
+	<key>singletonAroundAdapter</key>
+	<string>gradientPlatformTint</string>
+	<key>tableThroughTemple</key>
+	<string>chartKindSpacing</string>
+</dict>
+</plist>

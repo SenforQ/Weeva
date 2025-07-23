@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMovementTail</key>
+	<string>rowSystemSpeed</string>
+	<key>delegateCompositeBrightness</key>
+	<string>greatTimerTheme</string>
+	<key>difficultBatchVisibility</key>
+	<string>collectionSystemFormat</string>
+	<key>eagerCycleState</key>
+	<string>sensorAsComposite</string>
+	<key>labelSystemBehavior</key>
+	<string>binaryJobSaturation</string>
+	<key>roleWithoutActivity</key>
+	<string>actionAsParam</string>
+</dict>
+</plist>

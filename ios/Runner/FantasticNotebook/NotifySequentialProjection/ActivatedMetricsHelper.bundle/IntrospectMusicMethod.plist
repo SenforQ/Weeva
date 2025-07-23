@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitThroughMethod</key>
+	<string>resolverCycleEdge</string>
+	<key>immediateEffectAppearance</key>
+	<string>sequentialAnchorSize</string>
+	<key>isolatePlatformForce</key>
+	<string>concurrentGraphicValidation</string>
+	<key>labelBesideObserver</key>
+	<string>techniqueAdapterOrientation</string>
+	<key>priorityJobName</key>
+	<string>prevServiceEdge</string>
+	<key>scrollableBitrateName</key>
+	<string>entropyThroughLayer</string>
+	<key>slashAroundKind</key>
+	<string>previewVariableName</string>
+	<key>symmetricConstraintRotation</key>
+	<string>awaitFacadeBehavior</string>
+</dict>
+</plist>

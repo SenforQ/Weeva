@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAmongInterpreter</key>
+	<string>layoutPerLayer</string>
+	<key>projectionStrategyLeft</key>
+	<string>menuContainChain</string>
+	<key>requestMediatorContrast</key>
+	<string>inactiveOperationFrequency</string>
+	<key>scrollAmongType</key>
+	<string>menuFromBuffer</string>
+	<key>statefulContainerBound</key>
+	<string>associatedMomentumScale</string>
+	<key>zoneAsWork</key>
+	<string>providerOutsideMode</string>
+</dict>
+</plist>

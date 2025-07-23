@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAspectratioMode</key>
+	<string>particleInValue</string>
+	<key>basicContainerBottom</key>
+	<string>concurrentHandlerTransparency</string>
+	<key>containerAboutCycle</key>
+	<string>declarativeCursorPadding</string>
+	<key>handlerMediatorRotation</key>
+	<string>accordionGesturedetectorPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicVariantResponse</key>
+	<string>graphicFormMode</string>
+	<key>loopCycleBorder</key>
+	<string>scaleVariableContrast</string>
+	<key>lossPerChain</key>
+	<string>unactivatedDialogsIndex</string>
+	<key>semanticAxisLocation</key>
+	<string>builderVariableFeedback</string>
+	<key>serviceInsideDecorator</key>
+	<string>resourceVersusType</string>
+</dict>
+</plist>

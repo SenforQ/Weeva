@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAboutParam</key>
+	<string>nativeSwitchBehavior</string>
+	<key>groupWorkBottom</key>
+	<string>fusedChannelTop</string>
+	<key>immediateApertureSpacing</key>
+	<string>textWithStyle</string>
+	<key>indicatorAsShape</key>
+	<string>labelBeyondTask</string>
+	<key>lazyRowRate</key>
+	<string>sineEnvironmentInteraction</string>
+	<key>publicUtilState</key>
+	<string>robustSpotLocation</string>
+	<key>themeChainDensity</key>
+	<string>baselineOperationPadding</string>
+	<key>usedActionRate</key>
+	<string>imageActivityTop</string>
+	<key>webProgressbarMargin</key>
+	<string>inheritedRouteCount</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPatternSkewy</key>
+	<string>viewChainBorder</string>
+	<key>dropdownbuttonUntilMemento</key>
+	<string>slashProxyType</string>
+	<key>profileBeyondChain</key>
+	<string>standaloneCoordinatorStyle</string>
+	<key>scrollableNotificationFeedback</key>
+	<string>flexibleMediaqueryStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapNumberStyle</key>
+	<string>cubitViaInterpreter</string>
+	<key>interactiveAwaitMode</key>
+	<string>integerLevelSkewx</string>
+	<key>originalCommandMode</key>
+	<string>cubitExceptTier</string>
+</dict>
+</plist>

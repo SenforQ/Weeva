@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBatchRate</key>
+	<string>futureActivityFormat</string>
+	<key>commandFunctionSkewx</key>
+	<string>singleSegmentValidation</string>
+	<key>concurrentBaselineDelay</key>
+	<string>uniqueSpineInterval</string>
+	<key>notificationInProxy</key>
+	<string>cardMethodSaturation</string>
+	<key>primaryControllerBehavior</key>
+	<string>subscriptionStateRight</string>
+	<key>projectMementoIndex</key>
+	<string>greatMemberLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMetadataBehavior</key>
+	<string>cardLevelBorder</string>
+	<key>chartAtForm</key>
+	<string>gesturedetectorExceptOperation</string>
+	<key>containerObserverStatus</key>
+	<string>nativeDialogsTail</string>
+	<key>inkwellAndLayer</key>
+	<string>persistentVariantStyle</string>
+	<key>mainReferenceResponse</key>
+	<string>batchAgainstSingleton</string>
+	<key>positionExceptLevel</key>
+	<string>utilCycleSkewx</string>
+	<key>sampleCommandValidation</key>
+	<string>delegateInsideProcess</string>
+	<key>typicalModalDelay</key>
+	<string>menuCommandTag</string>
+</dict>
+</plist>

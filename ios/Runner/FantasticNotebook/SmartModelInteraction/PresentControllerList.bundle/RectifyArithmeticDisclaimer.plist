@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedDecorationOffset</key>
+	<string>observerSinceAdapter</string>
+	<key>positionedInAdapter</key>
+	<string>diffableSizeValidation</string>
+	<key>scrollableRoleLocation</key>
+	<string>iconProxyHue</string>
+	<key>sharedContractionBehavior</key>
+	<string>widgetNearAction</string>
+	<key>widgetChainMode</key>
+	<string>sophisticatedPaddingAcceleration</string>
+</dict>
+</plist>

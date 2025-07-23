@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticUntilFacade</key>
+	<string>utilChainSkewy</string>
+	<key>pinchableCallbackIndex</key>
+	<string>nextListenerDepth</string>
+	<key>resultDespiteObserver</key>
+	<string>methodStrategyForce</string>
+</dict>
+</plist>

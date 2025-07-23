@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerIncludeStructure</key>
+	<string>lastTransitionSaturation</string>
+	<key>cubitSingletonShade</key>
+	<string>transitionCycleVisibility</string>
+	<key>entropyAtFlyweight</key>
+	<string>accessibleBoxshadowType</string>
+	<key>exceptionInParam</key>
+	<string>responsiveErrorMode</string>
+	<key>inkwellLevelDepth</key>
+	<string>mainMultiplicationPadding</string>
+	<key>storeAsNumber</key>
+	<string>constNotifierPadding</string>
+</dict>
+</plist>

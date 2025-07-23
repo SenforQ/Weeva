@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOutsideScope</key>
+	<string>basicGradientFeedback</string>
+	<key>cubitUntilActivity</key>
+	<string>criticalNotificationCount</string>
+	<key>durationAndEnvironment</key>
+	<string>storePerEnvironment</string>
+	<key>layoutChainContrast</key>
+	<string>gateContainFramework</string>
+	<key>managerAmongType</key>
+	<string>featureActionCenter</string>
+	<key>nextResultTint</key>
+	<string>bulletChainTension</string>
+	<key>petAwayScope</key>
+	<string>mobileFrameworkBorder</string>
+	<key>reactiveIsolateBrightness</key>
+	<string>parallelGrainDirection</string>
+	<key>repositoryAlongAdapter</key>
+	<string>adaptiveObserverTop</string>
+</dict>
+</plist>

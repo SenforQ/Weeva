@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryObserverRotation</key>
+	<string>textAndScope</string>
+	<key>histogramProxyStyle</key>
+	<string>singleRadiusForce</string>
+	<key>inheritedChartSkewx</key>
+	<string>permissiveTransformerScale</string>
+	<key>sizeActionPressure</key>
+	<string>diversifiedFlexOffset</string>
+	<key>typicalGridSize</key>
+	<string>decorationInsidePrototype</string>
+</dict>
+</plist>

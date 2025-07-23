@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisTierOrientation</key>
+	<string>mapInsideAdapter</string>
+	<key>providerWithoutFramework</key>
+	<string>musicChainFrequency</string>
+	<key>responsiveHandlerBound</key>
+	<string>loopParameterScale</string>
+	<key>stateActivityShape</key>
+	<string>optimizerValueBottom</string>
+	<key>tickerDuringMode</key>
+	<string>missedUsecaseHue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBufferInterval</key>
+	<string>widgetWithProxy</string>
+	<key>controllerTypeType</key>
+	<string>customOffsetRate</string>
+	<key>dedicatedGesturedetectorDistance</key>
+	<string>buttonAwayPrototype</string>
+	<key>descriptionOfMode</key>
+	<string>oldCommandForce</string>
+	<key>keyReducerStyle</key>
+	<string>diversifiedCaptionFeedback</string>
+	<key>nodeCycleCenter</key>
+	<string>interactiveCommandFeedback</string>
+	<key>parallelGrayscaleCenter</key>
+	<string>opaqueDependencyInteraction</string>
+	<key>sensorIncludeAdapter</key>
+	<string>observerFromContext</string>
+	<key>specifyHeapSpeed</key>
+	<string>mobxSingletonVelocity</string>
+</dict>
+</plist>

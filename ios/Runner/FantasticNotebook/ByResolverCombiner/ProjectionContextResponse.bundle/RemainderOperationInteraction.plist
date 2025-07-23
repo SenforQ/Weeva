@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricServiceType</key>
+	<string>inheritedCacheFeedback</string>
+	<key>semanticsByVar</key>
+	<string>concurrentBitrateVelocity</string>
+	<key>singletonAtPlatform</key>
+	<string>storyboardBesideFramework</string>
+	<key>storageOutsideAction</key>
+	<string>accordionUsecaseDuration</string>
+	<key>variantBufferBound</key>
+	<string>arithmeticDespiteSystem</string>
+</dict>
+</plist>

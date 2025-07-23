@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderPatternOrigin</key>
+	<string>blocOutsideEnvironment</string>
+	<key>configurationAtSystem</key>
+	<string>canvasBesideLayer</string>
+	<key>mediaNumberScale</key>
+	<string>disabledStoreColor</string>
+	<key>singletonWorkFrequency</key>
+	<string>modelDespitePattern</string>
+</dict>
+</plist>

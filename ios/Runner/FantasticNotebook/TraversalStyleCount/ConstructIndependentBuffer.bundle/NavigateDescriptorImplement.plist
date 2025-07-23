@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureShapeInterval</key>
+	<string>substantialBlocScale</string>
+	<key>layerAlongMode</key>
+	<string>singleSceneDuration</string>
+	<key>positionedLayerVisibility</key>
+	<string>ephemeralTransitionAlignment</string>
+	<key>providerStyleTint</key>
+	<string>richtextOfComposite</string>
+	<key>sharedCurveOrigin</key>
+	<string>originalLogName</string>
+	<key>statefulIsolateFeedback</key>
+	<string>mediaqueryLevelTint</string>
+</dict>
+</plist>

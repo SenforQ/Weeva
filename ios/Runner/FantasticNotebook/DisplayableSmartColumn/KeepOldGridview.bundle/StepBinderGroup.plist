@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPlateFrequency</key>
+	<string>sequentialSlashTint</string>
+	<key>difficultAllocatorType</key>
+	<string>euclideanPromiseSpacing</string>
+	<key>graphicAtAdapter</key>
+	<string>singleGesturedetectorVelocity</string>
+	<key>mainConfigurationForce</key>
+	<string>queueIncludeProcess</string>
+</dict>
+</plist>

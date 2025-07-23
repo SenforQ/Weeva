@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBufferState</key>
+	<string>basicSkirtDistance</string>
+	<key>chartStyleDistance</key>
+	<string>cursorVarCenter</string>
+	<key>diffableTextfieldCenter</key>
+	<string>asyncFromNumber</string>
+	<key>euclideanKernelScale</key>
+	<string>deferredPageviewMargin</string>
+	<key>groupCommandOffset</key>
+	<string>rowOrVar</string>
+	<key>radiusLikeKind</key>
+	<string>awaitAwayCommand</string>
+	<key>subsequentDurationHead</key>
+	<string>secondProviderName</string>
+</dict>
+</plist>

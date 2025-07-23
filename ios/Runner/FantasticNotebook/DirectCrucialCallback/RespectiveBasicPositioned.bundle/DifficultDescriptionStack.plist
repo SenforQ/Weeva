@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondVisitor</key>
+	<string>handlerCommandTop</string>
+	<key>blocWithoutMethod</key>
+	<string>interactorInsideVar</string>
+	<key>imageFromContext</key>
+	<string>textureSinceValue</string>
+	<key>observerDecoratorBehavior</key>
+	<string>projectChainSkewy</string>
+	<key>protectedEqualizationColor</key>
+	<string>rowOrStrategy</string>
+	<key>rectStructureTint</key>
+	<string>cursorEnvironmentVelocity</string>
+	<key>resilientBulletStatus</key>
+	<string>uniqueDurationType</string>
+	<key>touchNearDecorator</key>
+	<string>providerAndTemple</string>
+</dict>
+</plist>

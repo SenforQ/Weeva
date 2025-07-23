@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithoutAdapter</key>
+	<string>animatedcontainerAtAction</string>
+	<key>controllerVisitorBound</key>
+	<string>resourcePrototypeFeedback</string>
+	<key>crudePageviewAppearance</key>
+	<string>gesturedetectorStrategyPadding</string>
+	<key>documentPerCycle</key>
+	<string>documentOrFramework</string>
+	<key>progressbarCommandInset</key>
+	<string>labelForValue</string>
+	<key>sharedScaffoldFrequency</key>
+	<string>lazyMobileBound</string>
+	<key>sinkWithBuffer</key>
+	<string>titleAsAdapter</string>
+	<key>sophisticatedWidgetShade</key>
+	<string>explicitGestureDuration</string>
+	<key>storageVarTint</key>
+	<string>unsortedConstraintTheme</string>
+</dict>
+</plist>

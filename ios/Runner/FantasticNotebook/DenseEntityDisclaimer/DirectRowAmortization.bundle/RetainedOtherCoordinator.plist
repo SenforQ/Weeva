@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPlatformFeedback</key>
+	<string>batchBeyondOperation</string>
+	<key>behaviorDespiteDecorator</key>
+	<string>imperativeStreamFeedback</string>
+	<key>columnExceptMediator</key>
+	<string>mediumGrayscaleTheme</string>
+	<key>comprehensiveNavigationBottom</key>
+	<string>criticalInterfaceFlags</string>
+	<key>dimensionInterpreterDelay</key>
+	<string>layoutThroughVariable</string>
+	<key>flexAtVar</key>
+	<string>sinkUntilMethod</string>
+	<key>isolateAsProxy</key>
+	<string>compositionalOptionOpacity</string>
+	<key>mobxActionRotation</key>
+	<string>primarySizedboxContrast</string>
+	<key>referenceContainPlatform</key>
+	<string>symmetricTableSaturation</string>
+	<key>visibleTransitionInterval</key>
+	<string>vectorParamStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSwiftDensity</key>
+	<string>optimizerIncludeFramework</string>
+	<key>grainShapeMargin</key>
+	<string>pinchableGridType</string>
+	<key>immediateGraphResponse</key>
+	<string>staticDurationInset</string>
+	<key>masterThanStyle</key>
+	<string>autoAnchorResponse</string>
+	<key>observerContainPattern</key>
+	<string>factoryEnvironmentMomentum</string>
+	<key>permanentExceptionEdge</key>
+	<string>mainBoxshadowForce</string>
+	<key>singletonAlongStyle</key>
+	<string>riverpodMethodType</string>
+</dict>
+</plist>

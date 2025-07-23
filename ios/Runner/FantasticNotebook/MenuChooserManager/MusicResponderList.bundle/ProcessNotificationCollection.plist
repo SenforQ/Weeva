@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSystemSkewy</key>
+	<string>stampDecoratorTail</string>
+	<key>documentFacadeEdge</key>
+	<string>customContainerOffset</string>
+	<key>ignoredSpotRotation</key>
+	<string>interfacePlatformMargin</string>
+	<key>materialSpotCenter</key>
+	<string>easySpriteDistance</string>
+	<key>resolverStyleInteraction</key>
+	<string>reducerExceptStructure</string>
+	<key>sceneProcessStyle</key>
+	<string>immediateTaskValidation</string>
+</dict>
+</plist>

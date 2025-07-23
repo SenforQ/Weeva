@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGraphicAppearance</key>
+	<string>richtextCommandSaturation</string>
+	<key>callbackAmongCommand</key>
+	<string>resultExceptFacade</string>
+	<key>cupertinoContainVariable</key>
+	<string>lossWorkCoord</string>
+	<key>futureProxyShade</key>
+	<string>rowThanOperation</string>
+</dict>
+</plist>

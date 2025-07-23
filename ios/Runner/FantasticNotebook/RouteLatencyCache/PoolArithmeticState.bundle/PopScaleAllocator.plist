@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionServiceHue</key>
+	<string>cyclePerScope</string>
+	<key>allocatorActivityFeedback</key>
+	<string>frameWithoutMediator</string>
+	<key>awaitStructureResponse</key>
+	<string>streamContextSaturation</string>
+	<key>ephemeralButtonSpacing</key>
+	<string>extensionDespiteAction</string>
+	<key>missedCubitOrientation</key>
+	<string>normWithoutParameter</string>
+	<key>navigatorVarType</key>
+	<string>chartAwayVariable</string>
+	<key>progressbarAmongObserver</key>
+	<string>multiplicationObserverBehavior</string>
+	<key>scrollableWorkflowDepth</key>
+	<string>dialogsAtState</string>
+	<key>semanticSliderName</key>
+	<string>handlerAgainstShape</string>
+	<key>sizeActionBrightness</key>
+	<string>inactiveSubscriptionSkewx</string>
+</dict>
+</plist>

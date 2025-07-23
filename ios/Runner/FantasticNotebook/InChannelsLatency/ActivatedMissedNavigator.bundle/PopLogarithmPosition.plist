@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constAnimatedcontainerFlags</key>
+	<string>profileTempleVisibility</string>
+	<key>directDependencySpeed</key>
+	<string>mainCupertinoScale</string>
+	<key>stackParameterOrientation</key>
+	<string>resilientResponseInteraction</string>
+	<key>unaryVersusSystem</key>
+	<string>euclideanResponseHead</string>
+</dict>
+</plist>

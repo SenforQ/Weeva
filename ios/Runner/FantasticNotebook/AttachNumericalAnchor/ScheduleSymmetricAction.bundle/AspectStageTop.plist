@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnActionBrightness</key>
+	<string>batchPerMemento</string>
+	<key>displayableFutureBorder</key>
+	<string>listenerMediatorDistance</string>
+	<key>extensionPerNumber</key>
+	<string>richtextSingletonTop</string>
+	<key>layoutAsPattern</key>
+	<string>mainZoneFormat</string>
+	<key>retainedApertureSize</key>
+	<string>channelFormInset</string>
+	<key>tabviewTypeVelocity</key>
+	<string>rectDuringPattern</string>
+	<key>uniqueCallbackCoord</key>
+	<string>persistentRadiusVelocity</string>
+	<key>vectorCompositeLeft</key>
+	<string>mobileByEnvironment</string>
+	<key>viewOrVariable</key>
+	<string>popupMediatorOpacity</string>
+</dict>
+</plist>

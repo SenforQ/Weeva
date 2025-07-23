@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AppView">
+            <connections>
+                <outlet property="controlButton" destination="TfC-3g-CID" id="HGa-O7-O10"/>
+                <outlet property="countryImageView" destination="iRA-N7-djp" id="iWV-Y3-EnJ"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="q3Z-Jv-xCE">
+            <rect key="frame" x="0.0" y="0.0" width="408.3" height="199.4"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="right" translatesAutoresizingMaskIntoConstraints="NO" id="7Tt-c0-ARW" clipsSubviews="NO">
+                    <rect key="frame" x="2" y="-5" width="356.0" height="154.0"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="bottomLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="1242-2688" highlightedImage="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="iRA-N7-djp">
+                            <rect key="frame" x="-3.1" y="-1.4" width="171.3" height="154.0"/>
+                        </imageView>
+                        <button contentMode="left" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="left" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TfC-3g-CID">
+                            <rect key="frame" x="175" y="-9.5" width="171.3" height="154.0"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="type data image" image="1242-2208">
+                                <color key="titleColor" red="0.0" green="0.90982820208524204" blue="0.37909279123153838" alpha="0.90614789497169816" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="view view view" image="1242-2688">
+                                <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="E9r-Nl-jOA"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="E9r-Nl-jOA" firstAttribute="trailing" secondItem="7Tt-c0-ARW" secondAttribute="trailing" constant="5" id="Lrp-SY-GrX"/>
+                <constraint firstItem="7Tt-c0-ARW" firstAttribute="top" secondItem="q3Z-Jv-xCE" secondAttribute="top" constant="2" id="cGs-Xu-SoO"/>
+                <constraint firstItem="E9r-Nl-jOA" firstAttribute="bottom" secondItem="7Tt-c0-ARW" secondAttribute="bottom" constant="8" id="TyM-Mz-IA8"/>
+                <constraint firstItem="7Tt-c0-ARW" firstAttribute="leading" secondItem="E9r-Nl-jOA" secondAttribute="leading" constant="5" id="3Fh-dG-v5j"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="19.73889894621206" y="-388.77082616979127"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2688" width="114.5" height="130.9"/>
+        <image name="1242-2208" width="74.6" height="55.8"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

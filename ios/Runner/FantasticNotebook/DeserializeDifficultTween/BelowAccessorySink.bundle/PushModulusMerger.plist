@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerQueueAppearance</key>
+	<string>sharedHashBorder</string>
+	<key>independentOptionTransparency</key>
+	<string>difficultProtocolMargin</string>
+	<key>isolateOperationSpeed</key>
+	<string>granularCompleterTint</string>
+	<key>logStyleTop</key>
+	<string>observerBeyondStrategy</string>
+	<key>robustDrawerCount</key>
+	<string>threadActivityPressure</string>
+	<key>servicePlatformFeedback</key>
+	<string>fixedBrushDirection</string>
+	<key>singletonStageName</key>
+	<string>navigationNumberValidation</string>
+	<key>transitionBesideState</key>
+	<string>histogramOrProcess</string>
+</dict>
+</plist>

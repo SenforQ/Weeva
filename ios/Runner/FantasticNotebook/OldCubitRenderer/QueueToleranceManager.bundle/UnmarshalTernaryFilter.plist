@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferCommandRate</key>
+	<string>richtextMementoValidation</string>
+	<key>dependencyWithVisitor</key>
+	<string>intermediateUtilTail</string>
+	<key>discardedPointKind</key>
+	<string>resizableAllocatorState</string>
+	<key>easyNodeName</key>
+	<string>inheritedOffsetStatus</string>
+	<key>gemProxyInset</key>
+	<string>gesturedetectorAndPrototype</string>
+	<key>menuProxyContrast</key>
+	<string>priorityKindVelocity</string>
+	<key>observerInsideVar</key>
+	<string>delicateResourceBorder</string>
+	<key>rolePhaseSize</key>
+	<string>notificationTempleCenter</string>
+	<key>unactivatedProgressbarResponse</key>
+	<string>characterShapeTint</string>
+	<key>widgetAgainstMediator</key>
+	<string>isolateIncludePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStrategyStatus</key>
+	<string>lazyEffectShape</string>
+	<key>enabledListenerAppearance</key>
+	<string>unsortedRowMode</string>
+	<key>futureLayerShape</key>
+	<string>uniformDescriptorInterval</string>
+	<key>tappableLocalizationBehavior</key>
+	<string>numericalApertureAlignment</string>
+	<key>transitionStructureCenter</key>
+	<string>materialScopeStyle</string>
+</dict>
+</plist>

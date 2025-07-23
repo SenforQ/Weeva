@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorNearStage</key>
+	<string>flexibleGateFlags</string>
+	<key>anchorOutsideBuffer</key>
+	<string>pageviewWithoutShape</string>
+	<key>buttonTempleBehavior</key>
+	<string>radioAtVisitor</string>
+	<key>compositionalZoneShade</key>
+	<string>similarEntropyTag</string>
+	<key>consultativeCupertinoShade</key>
+	<string>heroProcessValidation</string>
+	<key>convolutionPhaseEdge</key>
+	<string>radiusOfMethod</string>
+	<key>layoutInsideScope</key>
+	<string>parallelSampleAcceleration</string>
+	<key>materialNavigatorBorder</key>
+	<string>getxOutsideSystem</string>
+	<key>permissiveCheckboxInset</key>
+	<string>subsequentZoneSaturation</string>
+	<key>screenTypeRotation</key>
+	<string>graphActionBrightness</string>
+</dict>
+</plist>

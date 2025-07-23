@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableColumnDensity</key>
+	<string>spriteAlongPrototype</string>
+	<key>exceptionModeValidation</key>
+	<string>controllerByMode</string>
+	<key>mediaqueryMethodFeedback</key>
+	<string>axisByParameter</string>
+	<key>observerParamCoord</key>
+	<string>storageWorkTop</string>
+	<key>offsetWorkPadding</key>
+	<string>durationValueCoord</string>
+	<key>queryInsideMemento</key>
+	<string>heroVarSkewy</string>
+	<key>resolverCommandStatus</key>
+	<string>dropdownbuttonProxyVisible</string>
+	<key>resourceByTask</key>
+	<string>resilientHandlerRotation</string>
+	<key>scrollableSubscriptionCoord</key>
+	<string>richtextFlyweightBorder</string>
+</dict>
+</plist>

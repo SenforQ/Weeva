@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPerBridge</key>
+	<string>smallGrayscaleCenter</string>
+	<key>concurrentSizeFeedback</key>
+	<string>interpolationWithoutEnvironment</string>
+	<key>fusedRadioOrientation</key>
+	<string>routeUntilType</string>
+	<key>giftMementoDepth</key>
+	<string>criticalCurveDensity</string>
+	<key>lostPopupVisible</key>
+	<string>errorModeTop</string>
+	<key>remainderUntilStage</key>
+	<string>managerVarPressure</string>
+	<key>sophisticatedGradientRate</key>
+	<string>managerAdapterDepth</string>
+</dict>
+</plist>

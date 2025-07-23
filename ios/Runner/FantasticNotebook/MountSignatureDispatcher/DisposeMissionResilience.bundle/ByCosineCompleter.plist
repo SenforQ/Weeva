@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScopeSaturation</key>
+	<string>chapterPlatformDuration</string>
+	<key>descriptionBesideStyle</key>
+	<string>resourceWithoutTask</string>
+	<key>hashCycleTransparency</key>
+	<string>observerWithLayer</string>
+	<key>marginOfLevel</key>
+	<string>composableMenuAppearance</string>
+	<key>metadataOfPhase</key>
+	<string>paddingContainParameter</string>
+	<key>mobxStateTag</key>
+	<string>appbarInVar</string>
+	<key>opaqueLabelRotation</key>
+	<string>widgetMediatorType</string>
+	<key>zoneStrategyFrequency</key>
+	<string>unsortedSinkFeedback</string>
+</dict>
+</plist>

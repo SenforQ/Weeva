@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRoleIndex</key>
+	<string>methodVarFeedback</string>
+	<key>capsuleViaContext</key>
+	<string>activatedTransitionDelay</string>
+	<key>cellOutsideFunction</key>
+	<string>captionJobOpacity</string>
+	<key>firstContainerDirection</key>
+	<string>pageviewJobSkewy</string>
+	<key>mutableCardAppearance</key>
+	<string>opaqueSubscriptionTop</string>
+	<key>positionShapeFlags</key>
+	<string>comprehensiveInterpolationTheme</string>
+	<key>presenterSingletonSpacing</key>
+	<string>otherSkinOrigin</string>
+	<key>referenceViaCommand</key>
+	<string>sharedSessionOffset</string>
+	<key>robustPreviewScale</key>
+	<string>positionedStrategyVisible</string>
+</dict>
+</plist>

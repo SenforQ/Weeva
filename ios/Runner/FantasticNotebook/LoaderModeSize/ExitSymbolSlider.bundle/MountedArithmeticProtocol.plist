@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCanvasTint</key>
+	<string>stateActivityPadding</string>
+	<key>animationWithCycle</key>
+	<string>scaleSingletonState</string>
+	<key>boxOperationBehavior</key>
+	<string>greatSubpixelBound</string>
+	<key>functionalRadiusMode</key>
+	<string>taskValueName</string>
+	<key>globalContainerPadding</key>
+	<string>accordionConfigurationForce</string>
+	<key>tabviewStateCount</key>
+	<string>streamOperationDuration</string>
+</dict>
+</plist>

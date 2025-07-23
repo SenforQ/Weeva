@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMediatorSaturation</key>
+	<string>chapterDespiteFacade</string>
+	<key>criticalTransitionMargin</key>
+	<string>priorityOutsideActivity</string>
+	<key>parallelTransformerShape</key>
+	<string>cursorBesideCommand</string>
+	<key>resultShapeMargin</key>
+	<string>statelessWithLevel</string>
+	<key>scrollJobInteraction</key>
+	<string>mobileWithoutAdapter</string>
+	<key>semanticCompleterValidation</key>
+	<string>sizedboxCompositeForce</string>
+	<key>storyboardAgainstEnvironment</key>
+	<string>documentKindIndex</string>
+	<key>textAdapterResponse</key>
+	<string>fusedResultOrientation</string>
+</dict>
+</plist>

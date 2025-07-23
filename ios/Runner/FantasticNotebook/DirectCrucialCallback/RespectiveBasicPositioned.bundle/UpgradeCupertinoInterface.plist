@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVisitorSpacing</key>
+	<string>marginOfKind</string>
+	<key>containerExceptStrategy</key>
+	<string>newestCommandCenter</string>
+	<key>durationVisitorSpeed</key>
+	<string>expandedFlyweightSpeed</string>
+	<key>enabledQueryTheme</key>
+	<string>tabbarBySingleton</string>
+	<key>seamlessBitrateStatus</key>
+	<string>roleActionBrightness</string>
+	<key>specifyGrayscaleDepth</key>
+	<string>unaryVarLocation</string>
+	<key>taskWithoutMemento</key>
+	<string>criticalRowDepth</string>
+	<key>topicThroughFramework</key>
+	<string>symmetricTickerName</string>
+	<key>tweenActionHead</key>
+	<string>scaleOperationName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAwayMethod</key>
+	<string>vectorAroundEnvironment</string>
+	<key>discardedServiceMode</key>
+	<string>featureAlongProcess</string>
+	<key>expandedSystemSize</key>
+	<string>rectOutsideOperation</string>
+	<key>lostInjectionMode</key>
+	<string>sinkWithKind</string>
+	<key>missionObserverState</key>
+	<string>workflowVariableEdge</string>
+	<key>projectionDecoratorType</key>
+	<string>entityAdapterPadding</string>
+	<key>textfieldContextBorder</key>
+	<string>interactorOperationCenter</string>
+</dict>
+</plist>

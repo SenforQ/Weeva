@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMethodFrequency</key>
+	<string>singletonVersusShape</string>
+	<key>effectStateCenter</key>
+	<string>liteFragmentOrientation</string>
+	<key>groupBeyondMediator</key>
+	<string>titleInMediator</string>
+	<key>responseVarFrequency</key>
+	<string>protectedStorageOpacity</string>
+	<key>responseVersusSingleton</key>
+	<string>asyncFutureSpacing</string>
+</dict>
+</plist>

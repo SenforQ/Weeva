@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsNearTemple</key>
+	<string>ternaryLayerBrightness</string>
+	<key>giftChainAlignment</key>
+	<string>riverpodOrBridge</string>
+	<key>navigatorParameterMode</key>
+	<string>routerProxyTransparency</string>
+	<key>optimizerExceptChain</key>
+	<string>progressbarMediatorStyle</string>
+	<key>otherChapterInterval</key>
+	<string>nodeWithoutDecorator</string>
+	<key>rowContextInset</key>
+	<string>scrollableDelegateName</string>
+	<key>scaffoldPhaseAppearance</key>
+	<string>nativeScrollAppearance</string>
+	<key>scrollableStoreType</key>
+	<string>boxLevelColor</string>
+	<key>switchContextLeft</key>
+	<string>asyncDuringProxy</string>
+	<key>visiblePlaybackBehavior</key>
+	<string>navigatorVarOrigin</string>
+</dict>
+</plist>

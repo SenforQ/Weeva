@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopInjectionDensity</key>
+	<string>frameVisitorOffset</string>
+	<key>effectVisitorRotation</key>
+	<string>curveWorkSaturation</string>
+	<key>intuitiveSemanticsMode</key>
+	<string>enabledColumnMomentum</string>
+	<key>isolateAndBridge</key>
+	<string>requestAroundProcess</string>
+	<key>optimizerFunctionMomentum</key>
+	<string>nativeSizePosition</string>
+	<key>resourceVersusStyle</key>
+	<string>localizationExceptCycle</string>
+	<key>workflowDecoratorSize</key>
+	<string>agileResolverAcceleration</string>
+</dict>
+</plist>

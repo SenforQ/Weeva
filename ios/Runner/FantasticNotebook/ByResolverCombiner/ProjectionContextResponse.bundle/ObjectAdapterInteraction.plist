@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCaptionRotation</key>
+	<string>sceneJobContrast</string>
+	<key>draggablePresenterDirection</key>
+	<string>previewVisitorBottom</string>
+	<key>riverpodMementoRotation</key>
+	<string>optionPhaseDepth</string>
+	<key>stepCommandPressure</key>
+	<string>accordionPresenterRight</string>
+	<key>substantialMetadataTint</key>
+	<string>metadataSingletonPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSystemShade</key>
+	<string>prevContainerSaturation</string>
+	<key>curveWithoutObserver</key>
+	<string>configurationViaBridge</string>
+	<key>entityIncludeEnvironment</key>
+	<string>resourceActivitySpeed</string>
+	<key>normScopeOffset</key>
+	<string>originalLabelAppearance</string>
+	<key>significantEventMode</key>
+	<string>optimizerProcessLeft</string>
+	<key>slashVarDelay</key>
+	<string>gridParameterTail</string>
+</dict>
+</plist>

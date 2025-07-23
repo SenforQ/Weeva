@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAtPattern</key>
+	<string>capsuleActivityBehavior</string>
+	<key>denseCoordinatorSpeed</key>
+	<string>normalDecorationSkewy</string>
+	<key>labelBridgeBound</key>
+	<string>otherInjectionFlags</string>
+	<key>offsetBeyondProcess</key>
+	<string>offsetLayerBehavior</string>
+	<key>resultThroughEnvironment</key>
+	<string>indicatorVersusCycle</string>
+	<key>scrollForStage</key>
+	<string>relationalGrayscaleOrientation</string>
+	<key>sliderVersusPattern</key>
+	<string>builderInterpreterDirection</string>
+</dict>
+</plist>

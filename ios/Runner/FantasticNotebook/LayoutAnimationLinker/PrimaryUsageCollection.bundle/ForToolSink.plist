@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentConstraintHue</key>
+	<string>layoutAlongVariable</string>
+	<key>isolateJobLocation</key>
+	<string>statelessPlateSaturation</string>
+	<key>lostCacheSkewx</key>
+	<string>cupertinoInContext</string>
+	<key>memberFrameworkInset</key>
+	<string>transitionVersusOperation</string>
+	<key>multiAllocatorShape</key>
+	<string>synchronousLayerVelocity</string>
+	<key>seamlessLocalizationScale</key>
+	<string>lazySpineColor</string>
+	<key>signatureTaskDistance</key>
+	<string>alertOrPlatform</string>
+	<key>stackThanContext</key>
+	<string>touchDespiteForm</string>
+	<key>widgetAmongFacade</key>
+	<string>asyncWithPhase</string>
+</dict>
+</plist>

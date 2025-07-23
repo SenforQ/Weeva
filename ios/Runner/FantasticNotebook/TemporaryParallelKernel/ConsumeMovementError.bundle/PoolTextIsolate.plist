@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionInsideStructure</key>
+	<string>positionVariableMargin</string>
+	<key>completionLayerValidation</key>
+	<string>asynchronousLocalizationType</string>
+	<key>pivotalAnimationCenter</key>
+	<string>inkwellAgainstComposite</string>
+	<key>richtextNearContext</key>
+	<string>tabbarStructureDelay</string>
+	<key>specifyRowValidation</key>
+	<string>actionScopeContrast</string>
+</dict>
+</plist>

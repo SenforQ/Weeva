@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackScopeDirection</key>
+	<string>metadataVisitorForce</string>
+	<key>cubeDuringObserver</key>
+	<string>tappableStoreAcceleration</string>
+	<key>explicitTransitionRate</key>
+	<string>storyboardLikeTask</string>
+	<key>handlerWorkVisibility</key>
+	<string>labelWithAdapter</string>
+	<key>layoutUntilObserver</key>
+	<string>awaitWithoutProxy</string>
+	<key>sharedParticleFrequency</key>
+	<string>promiseFromJob</string>
+	<key>smallRectDepth</key>
+	<string>builderAroundNumber</string>
+	<key>statelessFeatureTop</key>
+	<string>nextListenerState</string>
+	<key>touchValueEdge</key>
+	<string>bufferActivitySkewy</string>
+	<key>usedIsolateSkewx</key>
+	<string>aspectratioMediatorBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerExceptChain</key>
+	<string>tensorCoordinatorFormat</string>
+	<key>iconValueDensity</key>
+	<string>spriteMethodColor</string>
+	<key>mobxBufferMargin</key>
+	<string>animatedcontainerIncludeCycle</string>
+	<key>resourceStrategyCoord</key>
+	<string>enabledThemeKind</string>
+	<key>utilKindOpacity</key>
+	<string>resilientCharacterVisible</string>
+</dict>
+</plist>

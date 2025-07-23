@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerFacadeSkewy</key>
+	<string>specifyRiverpodTag</string>
+	<key>nodeForWork</key>
+	<string>appbarAlongObserver</string>
+	<key>scrollStructureResponse</key>
+	<string>statefulSingletonIndex</string>
+	<key>stepParamVisibility</key>
+	<string>crudeSinkContrast</string>
+</dict>
+</plist>

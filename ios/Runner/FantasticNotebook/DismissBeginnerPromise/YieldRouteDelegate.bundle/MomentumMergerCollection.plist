@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionExceptPrototype</key>
+	<string>streamBeyondObserver</string>
+	<key>contractionObserverLeft</key>
+	<string>chartWithoutObserver</string>
+	<key>discardedBitrateInset</key>
+	<string>layerAdapterState</string>
+	<key>effectVarBehavior</key>
+	<string>exceptionContainCycle</string>
+	<key>tappableLayerOpacity</key>
+	<string>synchronousContainerTop</string>
+</dict>
+</plist>

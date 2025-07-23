@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderIncludePhase</key>
+	<string>screenThroughMode</string>
+	<key>constraintAmongFacade</key>
+	<string>nodeAtVariable</string>
+	<key>dependencyWorkInset</key>
+	<string>blocParameterTransparency</string>
+	<key>explicitNotifierAppearance</key>
+	<string>mediaqueryLikeStructure</string>
+	<key>interfaceCompositeSkewx</key>
+	<string>materialLabelDirection</string>
+	<key>missionVariableState</key>
+	<string>navigatorByPrototype</string>
+	<key>offsetDuringTier</key>
+	<string>configurationAboutSystem</string>
+	<key>paddingAwayContext</key>
+	<string>diffableToolKind</string>
+	<key>sinkFrameworkDepth</key>
+	<string>reductionDespiteMethod</string>
+	<key>staticBorderSpeed</key>
+	<string>exponentPrototypeShade</string>
+</dict>
+</plist>

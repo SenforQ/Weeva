@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPatternSpeed</key>
+	<string>localizationStateSkewy</string>
+	<key>methodProcessSkewx</key>
+	<string>missionPatternCoord</string>
+	<key>priorityStyleTail</key>
+	<string>accessibleBoxTint</string>
+	<key>profileFromType</key>
+	<string>zoneNumberValidation</string>
+</dict>
+</plist>

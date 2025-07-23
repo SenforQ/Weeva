@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGrayscaleShape</key>
+	<string>featureFormFlags</string>
+	<key>adaptiveSpriteBound</key>
+	<string>retainedBorderFlags</string>
+	<key>clipperForStyle</key>
+	<string>constraintNearShape</string>
+	<key>convolutionBesideWork</key>
+	<string>previewProcessOrientation</string>
+	<key>displayableGridMargin</key>
+	<string>textureStructureBound</string>
+	<key>drawerAmongJob</key>
+	<string>subsequentResultForce</string>
+	<key>equalizationAgainstDecorator</key>
+	<string>providerWithoutVariable</string>
+	<key>eventForObserver</key>
+	<string>widgetStructureCoord</string>
+	<key>spriteAlongComposite</key>
+	<string>gridviewStyleTension</string>
+</dict>
+</plist>

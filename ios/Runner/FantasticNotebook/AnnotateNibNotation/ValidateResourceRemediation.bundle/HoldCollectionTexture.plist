@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeResultStyle</key>
+	<string>modalKindPosition</string>
+	<key>dedicatedCompletionStatus</key>
+	<string>nibViaVariable</string>
+	<key>reactiveDescriptionName</key>
+	<string>methodViaMode</string>
+	<key>stampObserverBehavior</key>
+	<string>routeSystemSpeed</string>
+</dict>
+</plist>

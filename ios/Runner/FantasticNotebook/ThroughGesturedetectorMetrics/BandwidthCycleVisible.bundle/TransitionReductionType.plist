@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePrecisionInterval</key>
+	<string>asyncAlphaDepth</string>
+	<key>apertureExceptValue</key>
+	<string>tweenInDecorator</string>
+	<key>builderContainPrototype</key>
+	<string>normalCharacterVelocity</string>
+	<key>constraintMediatorType</key>
+	<string>backwardGraphAcceleration</string>
+	<key>heapAlongBuffer</key>
+	<string>basicMusicOrigin</string>
+	<key>immutableAllocatorCount</key>
+	<string>gramAsOperation</string>
+	<key>sceneExceptMemento</key>
+	<string>euclideanReducerRotation</string>
+	<key>staticRectDelay</key>
+	<string>numericalBoxIndex</string>
+</dict>
+</plist>

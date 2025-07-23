@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMetadataStyle</key>
+	<string>segmentSystemDensity</string>
+	<key>optionTaskShade</key>
+	<string>logarithmSingletonAppearance</string>
+	<key>protectedHashInterval</key>
+	<string>toolNearInterpreter</string>
+	<key>secondAppbarName</key>
+	<string>dialogsScopeDirection</string>
+</dict>
+</plist>

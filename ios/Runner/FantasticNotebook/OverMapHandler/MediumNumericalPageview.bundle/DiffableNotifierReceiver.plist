@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBridgeBorder</key>
+	<string>statelessAboutType</string>
+	<key>asyncNavigationStatus</key>
+	<string>blocOperationDepth</string>
+	<key>completerPhasePosition</key>
+	<string>commandOperationFeedback</string>
+	<key>documentExceptVisitor</key>
+	<string>matrixDespiteStrategy</string>
+	<key>functionalFactoryFrequency</key>
+	<string>transformerLevelSpacing</string>
+	<key>monsterActionResponse</key>
+	<string>activatedCapacitiesFeedback</string>
+	<key>nextSizeDirection</key>
+	<string>channelSingletonResponse</string>
+	<key>offsetDuringBridge</key>
+	<string>repositoryFunctionCount</string>
+	<key>responsiveTickerOrientation</key>
+	<string>adaptiveUnaryDirection</string>
+</dict>
+</plist>

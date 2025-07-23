@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAlignmentDepth</key>
+	<string>finalAwaitDepth</string>
+	<key>coordinatorVisitorRight</key>
+	<string>popupShapeRotation</string>
+	<key>oldAspectSkewy</key>
+	<string>resultDuringLevel</string>
+	<key>storeOfMethod</key>
+	<string>spineStageName</string>
+	<key>widgetKindForce</key>
+	<string>allocatorOrStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDocumentCount</key>
+	<string>transitionParamBound</string>
+	<key>expandedStructureInteraction</key>
+	<string>largeGridviewDuration</string>
+	<key>retainedFrameDepth</key>
+	<string>accordionCellTheme</string>
+	<key>seamlessCoordinatorDensity</key>
+	<string>utilLikeAction</string>
+	<key>shaderDespiteForm</key>
+	<string>exceptionOfProcess</string>
+	<key>statefulObserverShape</key>
+	<string>immutableCursorBehavior</string>
+	<key>temporaryFactoryScale</key>
+	<string>composableBrushDistance</string>
+</dict>
+</plist>

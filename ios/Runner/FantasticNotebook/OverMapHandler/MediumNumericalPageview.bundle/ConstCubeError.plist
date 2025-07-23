@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTransitionAppearance</key>
+	<string>keyTaskTheme</string>
+	<key>deferredStreamPadding</key>
+	<string>semanticAssetBound</string>
+	<key>equipmentSinceCommand</key>
+	<string>titleFormBorder</string>
+	<key>intermediateRowLeft</key>
+	<string>agileAccessoryBrightness</string>
+	<key>localizationParameterPressure</key>
+	<string>immediateTextureShape</string>
+	<key>musicParamVisible</key>
+	<string>typicalLoopTint</string>
+	<key>originalCompleterBrightness</key>
+	<string>awaitUntilFacade</string>
+	<key>prismaticTransitionMode</key>
+	<string>standaloneAlphaLeft</string>
+</dict>
+</plist>

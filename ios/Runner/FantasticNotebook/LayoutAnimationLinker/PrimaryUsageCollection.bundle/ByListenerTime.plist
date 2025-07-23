@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardScreenStyle</key>
+	<string>commonListviewPressure</string>
+	<key>callbackCommandContrast</key>
+	<string>independentZoneEdge</string>
+	<key>coordinatorFacadeBrightness</key>
+	<string>widgetBesideObserver</string>
+	<key>criticalSinkBound</key>
+	<string>baselineFlyweightVisible</string>
+	<key>declarativeTextDensity</key>
+	<string>desktopNavigationShade</string>
+	<key>invisibleResponseTag</key>
+	<string>presenterAwayKind</string>
+	<key>mainUsecaseVisible</key>
+	<string>providerPlatformVelocity</string>
+	<key>spotFlyweightBrightness</key>
+	<string>cupertinoContextAlignment</string>
+	<key>subtleAnimatedcontainerContrast</key>
+	<string>channelViaScope</string>
+</dict>
+</plist>

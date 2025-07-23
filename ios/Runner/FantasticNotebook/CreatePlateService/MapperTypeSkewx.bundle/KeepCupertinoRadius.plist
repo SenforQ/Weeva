@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSkirtOrientation</key>
+	<string>particleObserverLeft</string>
+	<key>builderVarCenter</key>
+	<string>indicatorWithStage</string>
+	<key>deferredStreamSpacing</key>
+	<string>responsiveTextPadding</string>
+	<key>diffableSkinLocation</key>
+	<string>localButtonAcceleration</string>
+	<key>playbackNearAction</key>
+	<string>custompaintFromObserver</string>
+	<key>publicNodeTop</key>
+	<string>keyNotifierDelay</string>
+	<key>skirtVarTint</key>
+	<string>positionedCompositeRotation</string>
+</dict>
+</plist>

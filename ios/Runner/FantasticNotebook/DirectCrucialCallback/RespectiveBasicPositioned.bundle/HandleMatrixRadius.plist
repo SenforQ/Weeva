@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEffectSpeed</key>
+	<string>flexPrototypeOrientation</string>
+	<key>commandThroughFlyweight</key>
+	<string>borderVersusPattern</string>
+	<key>desktopHeroColor</key>
+	<string>labelAsFacade</string>
+	<key>ignoredRouteSpeed</key>
+	<string>autoIsolateSkewy</string>
+	<key>managerNumberOffset</key>
+	<string>descriptionModeMomentum</string>
+	<key>nibCompositeAcceleration</key>
+	<string>isolateStateMargin</string>
+	<key>requestStateAppearance</key>
+	<string>serviceParameterCoord</string>
+	<key>requiredPopupPadding</key>
+	<string>cubitTypeVelocity</string>
+</dict>
+</plist>

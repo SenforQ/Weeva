@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintKindDirection</key>
+	<string>tickerContainShape</string>
+	<key>permanentCosineTension</key>
+	<string>bufferAtValue</string>
+	<key>transitionVisitorOrigin</key>
+	<string>segmentThroughNumber</string>
+	<key>unactivatedHandlerDensity</key>
+	<string>spotNearAction</string>
+</dict>
+</plist>

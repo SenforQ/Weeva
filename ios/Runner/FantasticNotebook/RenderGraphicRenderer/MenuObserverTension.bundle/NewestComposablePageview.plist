@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCompositeHead</key>
+	<string>catalystAndWork</string>
+	<key>disabledPresenterTail</key>
+	<string>accessibleChartDistance</string>
+	<key>futureExceptParam</key>
+	<string>subsequentPlaybackPadding</string>
+	<key>providerMementoAlignment</key>
+	<string>layoutViaParameter</string>
+	<key>seamlessSceneInset</key>
+	<string>overlayFormColor</string>
+</dict>
+</plist>

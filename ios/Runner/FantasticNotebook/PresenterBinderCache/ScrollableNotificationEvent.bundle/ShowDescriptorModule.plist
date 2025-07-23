@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStyleBound</key>
+	<string>sensorSinceFramework</string>
+	<key>disabledCompletionDepth</key>
+	<string>keyHistogramDistance</string>
+	<key>keyBuilderTint</key>
+	<string>smallRowTint</string>
+	<key>mobxPerValue</key>
+	<string>navigatorPlatformTag</string>
+	<key>sliderViaChain</key>
+	<string>constraintVisitorStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectNearFacade</key>
+	<string>unsortedListenerTheme</string>
+	<key>getxContainComposite</key>
+	<string>nextViewOffset</string>
+	<key>globalIsolateTransparency</key>
+	<string>inheritedMediaqueryTop</string>
+	<key>labelInsideBridge</key>
+	<string>grainFunctionState</string>
+	<key>multiSessionOpacity</key>
+	<string>asyncInteractorShade</string>
+	<key>navigationOrAdapter</key>
+	<string>decorationObserverLocation</string>
+	<key>smallTimerDelay</key>
+	<string>variantAmongBuffer</string>
+</dict>
+</plist>

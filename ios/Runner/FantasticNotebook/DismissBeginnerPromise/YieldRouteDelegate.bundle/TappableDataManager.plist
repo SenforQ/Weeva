@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferNearTemple</key>
+	<string>observerTierSpeed</string>
+	<key>checklistFromTask</key>
+	<string>stateAgainstKind</string>
+	<key>customizedInstructionVelocity</key>
+	<string>decorationProcessDensity</string>
+	<key>decorationViaState</key>
+	<string>intermediateAspectDistance</string>
+	<key>functionalPresenterOpacity</key>
+	<string>transitionAtWork</string>
+	<key>movementStageScale</key>
+	<string>unactivatedCertificatePadding</string>
+</dict>
+</plist>

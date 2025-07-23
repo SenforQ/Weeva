@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedPromiseVisibility</key>
+	<string>discardedTransitionContrast</string>
+	<key>factoryIncludeParam</key>
+	<string>draggableMetadataOffset</string>
+	<key>mapPhaseContrast</key>
+	<string>storyboardOutsideFramework</string>
+	<key>otherViewKind</key>
+	<string>advancedFlexTransparency</string>
+	<key>pageviewModeSkewy</key>
+	<string>layerDecoratorFeedback</string>
+	<key>precisionPatternName</key>
+	<string>positionAgainstStyle</string>
+	<key>scrollableTableState</key>
+	<string>methodUntilPrototype</string>
+	<key>sinkFunctionScale</key>
+	<string>rowPrototypeCoord</string>
+	<key>timerAwayCommand</key>
+	<string>assetAroundProcess</string>
+	<key>unactivatedTransformerState</key>
+	<string>pinchableChannelRight</string>
+</dict>
+</plist>

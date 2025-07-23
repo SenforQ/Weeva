@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMediatorDensity</key>
+	<string>completerByValue</string>
+	<key>controllerByCycle</key>
+	<string>staticPainterOrigin</string>
+	<key>effectAgainstShape</key>
+	<string>kernelCompositeBound</string>
+	<key>sequentialLayerTag</key>
+	<string>crudeGradientBehavior</string>
+	<key>textNearStrategy</key>
+	<string>channelPerTask</string>
+	<key>usecaseDespiteNumber</key>
+	<string>heroVariableVisibility</string>
+</dict>
+</plist>

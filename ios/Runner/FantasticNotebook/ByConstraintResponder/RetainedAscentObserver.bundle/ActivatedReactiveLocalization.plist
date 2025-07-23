@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasThroughSystem</key>
+	<string>segmentVarBottom</string>
+	<key>firstTextMode</key>
+	<string>independentPopupDepth</string>
+	<key>graphAroundNumber</key>
+	<string>tickerFlyweightSpeed</string>
+	<key>layerLayerType</key>
+	<string>handlerDecoratorRate</string>
+	<key>permissiveTickerDistance</key>
+	<string>sliderNearVar</string>
+</dict>
+</plist>

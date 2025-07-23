@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPerScope</key>
+	<string>labelDecoratorMode</string>
+	<key>binaryObserverForce</key>
+	<string>errorWithProxy</string>
+	<key>histogramUntilBuffer</key>
+	<string>directlyPriorityOrientation</string>
+	<key>interfaceLevelOpacity</key>
+	<string>chartLayerTint</string>
+	<key>rectParamShade</key>
+	<string>standaloneNibDuration</string>
+	<key>standaloneBufferShade</key>
+	<string>cubeWithMode</string>
+	<key>visibleRichtextBrightness</key>
+	<string>utilBeyondDecorator</string>
+</dict>
+</plist>

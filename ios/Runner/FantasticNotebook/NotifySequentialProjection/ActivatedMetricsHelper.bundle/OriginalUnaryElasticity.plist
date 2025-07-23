@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTransitionShape</key>
+	<string>containerThroughFlyweight</string>
+	<key>cardKindOffset</key>
+	<string>configurationPrototypeTop</string>
+	<key>descriptionAwayTier</key>
+	<string>routeByActivity</string>
+	<key>interpolationStyleDuration</key>
+	<string>deferredCurveName</string>
+	<key>providerParamMode</key>
+	<string>gridFromCommand</string>
+	<key>sceneEnvironmentPressure</key>
+	<string>providerFromEnvironment</string>
+	<key>smallGraphName</key>
+	<string>dynamicCommandOrigin</string>
+	<key>textAtContext</key>
+	<string>getxChainTint</string>
+	<key>widgetParameterInterval</key>
+	<string>configurationEnvironmentCoord</string>
+</dict>
+</plist>

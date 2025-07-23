@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramViaPlatform</key>
+	<string>customizedConvolutionScale</string>
+	<key>graphWithSystem</key>
+	<string>statefulWithoutType</string>
+	<key>projectionFromComposite</key>
+	<string>sequentialControllerDistance</string>
+	<key>resourceCycleSize</key>
+	<string>symmetricPreviewStatus</string>
+	<key>rowSingletonOpacity</key>
+	<string>reducerCycleDelay</string>
+</dict>
+</plist>

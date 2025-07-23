@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constStampMargin</key>
+	<string>fixedModalDelay</string>
+	<key>curveBesideStyle</key>
+	<string>layoutByFramework</string>
+	<key>curveFrameworkHead</key>
+	<string>themeAwayNumber</string>
+	<key>customBlocCoord</key>
+	<string>positionAmongStrategy</string>
+	<key>eagerGemStyle</key>
+	<string>concurrentTopicTension</string>
+	<key>logModeTop</key>
+	<string>flexibleProgressbarSpacing</string>
+	<key>oldSliderOffset</key>
+	<string>compositionalEqualizationDirection</string>
+	<key>sizedboxInsideProcess</key>
+	<string>standaloneTabviewFormat</string>
+</dict>
+</plist>

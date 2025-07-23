@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRequestKind</key>
+	<string>movementFrameworkFeedback</string>
+	<key>constraintNearPlatform</key>
+	<string>fusedProgressbarSpeed</string>
+	<key>delegateAroundVar</key>
+	<string>interactivePreviewCount</string>
+	<key>descriptionContainActivity</key>
+	<string>resultNearBuffer</string>
+	<key>fixedContractionLeft</key>
+	<string>hierarchicalReducerDepth</string>
+	<key>fixedHandlerVelocity</key>
+	<string>euclideanNormHue</string>
+	<key>listenerExceptVariable</key>
+	<string>consumerBesideLayer</string>
+	<key>mainContainerOffset</key>
+	<string>logVarSaturation</string>
+	<key>pageviewStageHead</key>
+	<string>textureByPhase</string>
+	<key>responsiveProviderTag</key>
+	<string>assetInterpreterType</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBridgeHue</key>
+	<string>curveByOperation</string>
+	<key>builderVisitorType</key>
+	<string>apertureFlyweightType</string>
+	<key>groupContainStyle</key>
+	<string>bitrateOutsideStyle</string>
+	<key>independentAlignmentHue</key>
+	<string>sharedPrecisionContrast</string>
+	<key>liteNavigationCount</key>
+	<string>queryTaskFrequency</string>
+	<key>navigationCycleInset</key>
+	<string>operationObserverSaturation</string>
+	<key>particleThroughMediator</key>
+	<string>eagerRepositoryTheme</string>
+	<key>pivotalNodeCount</key>
+	<string>sceneUntilFramework</string>
+	<key>robustIntensityRotation</key>
+	<string>imageAroundFacade</string>
+</dict>
+</plist>

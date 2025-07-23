@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateCycleTag</key>
+	<string>requestContextPressure</string>
+	<key>bufferProcessResponse</key>
+	<string>anchorAlongCycle</string>
+	<key>commandLevelName</key>
+	<string>intensitySingletonMomentum</string>
+	<key>fixedAwaitVisible</key>
+	<string>scaffoldShapeOffset</string>
+	<key>mediumTextfieldDensity</key>
+	<string>pointIncludeForm</string>
+	<key>nodePatternBottom</key>
+	<string>keyParticleAlignment</string>
+	<key>vectorCompositeAcceleration</key>
+	<string>notifierScopeCenter</string>
+</dict>
+</plist>

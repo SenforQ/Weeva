@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPrototypeTension</key>
+	<string>asyncOrMediator</string>
+	<key>batchLayerInteraction</key>
+	<string>anchorViaState</string>
+	<key>controllerCycleTheme</key>
+	<string>sizeProxyValidation</string>
+	<key>dynamicButtonTransparency</key>
+	<string>resultNearParameter</string>
+	<key>loopShapeAcceleration</key>
+	<string>projectPhaseBound</string>
+	<key>navigatorOutsideComposite</key>
+	<string>queueParameterValidation</string>
+	<key>vectorVisitorCoord</key>
+	<string>layoutProxyName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnProxyVisibility</key>
+	<string>frameBufferInteraction</string>
+	<key>customClipperDirection</key>
+	<string>hierarchicalRouterOrientation</string>
+	<key>displayableUsagePadding</key>
+	<string>titleCompositeLocation</string>
+	<key>layoutWithoutBuffer</key>
+	<string>remainderPatternVelocity</string>
+	<key>permissiveBaselineAlignment</key>
+	<string>liteFrameAlignment</string>
+	<key>sharedMaterialSkewy</key>
+	<string>tappableBrushAppearance</string>
+	<key>usageAsMemento</key>
+	<string>priorQueuePressure</string>
+</dict>
+</plist>

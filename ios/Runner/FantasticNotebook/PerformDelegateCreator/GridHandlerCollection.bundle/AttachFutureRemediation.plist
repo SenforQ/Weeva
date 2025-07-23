@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterByAction</key>
+	<string>asyncFragmentRight</string>
+	<key>coordinatorBesideObserver</key>
+	<string>reducerDecoratorStyle</string>
+	<key>directMaterialState</key>
+	<string>responseAmongObserver</string>
+	<key>granularCachePadding</key>
+	<string>painterAmongFacade</string>
+	<key>imperativeGridviewRotation</key>
+	<string>integerVersusDecorator</string>
+	<key>resultInsideTemple</key>
+	<string>primaryRouterCoord</string>
+	<key>semanticsFromShape</key>
+	<string>directlyStampType</string>
+</dict>
+</plist>

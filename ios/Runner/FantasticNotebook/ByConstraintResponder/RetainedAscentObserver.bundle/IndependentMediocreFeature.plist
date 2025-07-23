@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorPatternForce</key>
+	<string>priorCurveSkewx</string>
+	<key>effectNearMethod</key>
+	<string>signThroughMemento</string>
+	<key>firstDropdownbuttonSkewx</key>
+	<string>pivotalFutureState</string>
+	<key>observerVersusStyle</key>
+	<string>awaitActionType</string>
+	<key>parallelVectorMomentum</key>
+	<string>columnThanMethod</string>
+</dict>
+</plist>

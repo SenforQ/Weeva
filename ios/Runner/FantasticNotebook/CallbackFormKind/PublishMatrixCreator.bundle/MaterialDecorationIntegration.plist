@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTaskBrightness</key>
+	<string>progressbarMediatorResponse</string>
+	<key>checkboxFlyweightStyle</key>
+	<string>offsetFormBottom</string>
+	<key>constraintExceptVariable</key>
+	<string>routerOfOperation</string>
+	<key>listenerStyleName</key>
+	<string>largeSkirtSpacing</string>
+	<key>liteMethodFlags</key>
+	<string>granularSensorSpacing</string>
+	<key>referenceTypeShape</key>
+	<string>signAgainstStyle</string>
+	<key>sequentialProviderRate</key>
+	<string>blocMethodMomentum</string>
+	<key>singletonExceptStyle</key>
+	<string>resultUntilMemento</string>
+	<key>sliderPatternAppearance</key>
+	<string>animationInNumber</string>
+</dict>
+</plist>

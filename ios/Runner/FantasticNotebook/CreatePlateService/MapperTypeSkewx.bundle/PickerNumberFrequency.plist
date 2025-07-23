@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popupModeOffset</key>
+	<string>listviewProxyScale</string>
+	<key>requestIncludeMemento</key>
+	<string>composableControllerVisible</string>
+	<key>screenOutsideParameter</key>
+	<string>resolverShapeCoord</string>
+	<key>topicProcessState</key>
+	<string>navigatorProcessBehavior</string>
+</dict>
+</plist>

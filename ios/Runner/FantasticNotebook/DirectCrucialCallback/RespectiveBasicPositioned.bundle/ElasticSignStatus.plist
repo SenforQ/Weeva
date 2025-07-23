@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAtPrototype</key>
+	<string>nibDuringOperation</string>
+	<key>borderMementoBrightness</key>
+	<string>numericalCompletionOffset</string>
+	<key>difficultLayoutDistance</key>
+	<string>disabledDecorationTag</string>
+	<key>hierarchicalCanvasPadding</key>
+	<string>hierarchicalTextCoord</string>
+	<key>statefulWithoutAction</key>
+	<string>awaitCommandPosition</string>
+	<key>tickerAdapterBehavior</key>
+	<string>popupActivityLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFormShape</key>
+	<string>activeSpecifierTail</string>
+	<key>brushStrategyDepth</key>
+	<string>independentQueryBound</string>
+	<key>cardBridgeSkewx</key>
+	<string>cupertinoSinceStyle</string>
+	<key>cubeFormPressure</key>
+	<string>smartDropdownbuttonContrast</string>
+	<key>groupValueCenter</key>
+	<string>elasticSingletonBrightness</string>
+	<key>heroWithoutContext</key>
+	<string>oldFactoryTension</string>
+	<key>localCompleterCenter</key>
+	<string>liteSymbolMargin</string>
+	<key>mobxCommandFlags</key>
+	<string>cubitProxyVelocity</string>
+	<key>permissiveUsecaseRight</key>
+	<string>exponentAroundActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVersusObserver</key>
+	<string>anchorParameterFlags</string>
+	<key>dimensionForPrototype</key>
+	<string>completionDecoratorStyle</string>
+	<key>eventParameterDistance</key>
+	<string>navigationBesideSingleton</string>
+	<key>painterByTier</key>
+	<string>stampByPattern</string>
+	<key>parallelNodeStyle</key>
+	<string>cycleVersusStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEntityOrientation</key>
+	<string>providerStageVisibility</string>
+	<key>interactiveModelOffset</key>
+	<string>temporaryMasterHead</string>
+	<key>largeExceptionStyle</key>
+	<string>curveDecoratorName</string>
+	<key>navigationChainOffset</key>
+	<string>textfieldByTask</string>
+	<key>navigationContainDecorator</key>
+	<string>persistentKernelAlignment</string>
+	<key>tabbarParameterRight</key>
+	<string>buttonValueOffset</string>
+</dict>
+</plist>

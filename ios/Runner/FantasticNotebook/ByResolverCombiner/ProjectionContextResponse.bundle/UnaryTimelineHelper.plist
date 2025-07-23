@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorSingletonInset</key>
+	<string>sliderStageTop</string>
+	<key>displayableProviderPadding</key>
+	<string>particleLayerRight</string>
+	<key>integerSystemStatus</key>
+	<string>statefulTransitionSpeed</string>
+	<key>localizationFacadeDelay</key>
+	<string>handlerAwaySystem</string>
+	<key>methodPatternCoord</key>
+	<string>cycleChainBorder</string>
+	<key>operationStyleVisibility</key>
+	<string>draggableBaseDirection</string>
+	<key>resourceForKind</key>
+	<string>commandWorkState</string>
+	<key>spotAlongContext</key>
+	<string>commandCompositeStyle</string>
+</dict>
+</plist>

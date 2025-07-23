@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChannelsDensity</key>
+	<string>prevChannelFeedback</string>
+	<key>desktopAlignmentFormat</key>
+	<string>metadataExceptKind</string>
+	<key>gateStateOrientation</key>
+	<string>sequentialProviderOffset</string>
+	<key>localizationIncludeTier</key>
+	<string>normalHeapShape</string>
+	<key>nodeAboutPattern</key>
+	<string>uniqueRadiusPadding</string>
+	<key>promisePatternKind</key>
+	<string>utilActivityStyle</string>
+	<key>routeForScope</key>
+	<string>widgetDecoratorLocation</string>
+	<key>sceneStyleName</key>
+	<string>resizableUtilDuration</string>
+	<key>visibleCycleRotation</key>
+	<string>rapidObserverAlignment</string>
+</dict>
+</plist>

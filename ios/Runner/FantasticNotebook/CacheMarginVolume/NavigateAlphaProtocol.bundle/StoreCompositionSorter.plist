@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOrJob</key>
+	<string>interactiveShaderBottom</string>
+	<key>chapterFormPosition</key>
+	<string>positionPrototypeAppearance</string>
+	<key>groupNumberBehavior</key>
+	<string>gestureStrategyAppearance</string>
+	<key>hierarchicalGiftScale</key>
+	<string>builderTierValidation</string>
+	<key>modelDuringWork</key>
+	<string>resourceTaskSize</string>
+	<key>scrollableNotificationScale</key>
+	<string>subsequentUtilTag</string>
+	<key>seamlessCurveAppearance</key>
+	<string>usageDuringActivity</string>
+	<key>staticMaterialDelay</key>
+	<string>queryDecoratorName</string>
+	<key>themeDuringAction</key>
+	<string>containerDuringActivity</string>
+</dict>
+</plist>

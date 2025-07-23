@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarShapeTransparency</key>
+	<string>requestFrameworkColor</string>
+	<key>asyncServiceStyle</key>
+	<string>spriteThroughPhase</string>
+	<key>basicFutureEdge</key>
+	<string>singletonViaLevel</string>
+	<key>fusedProgressbarTail</key>
+	<string>parallelEntropyDensity</string>
+	<key>nextFutureShape</key>
+	<string>temporaryIntensityShape</string>
+	<key>similarSubscriptionContrast</key>
+	<string>declarativeNodeForce</string>
+</dict>
+</plist>

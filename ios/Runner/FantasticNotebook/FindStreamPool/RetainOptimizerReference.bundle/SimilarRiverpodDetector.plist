@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentConsumerScale</key>
+	<string>channelAsWork</string>
+	<key>labelDespiteMediator</key>
+	<string>entityAboutAction</string>
+	<key>nodeAsDecorator</key>
+	<string>durationMethodInteraction</string>
+	<key>paddingFromContext</key>
+	<string>respectiveWorkflowLocation</string>
+	<key>reactiveMobileCount</key>
+	<string>histogramWithAdapter</string>
+	<key>segueStructureDensity</key>
+	<string>blocAmongKind</string>
+	<key>sinkAlongFlyweight</key>
+	<string>retainedApertureState</string>
+	<key>storageFormOrientation</key>
+	<string>fusedOptionInset</string>
+	<key>workflowByScope</key>
+	<string>cellFromScope</string>
+</dict>
+</plist>

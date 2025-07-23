@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashContextBehavior</key>
+	<string>descriptorFormDepth</string>
+	<key>interactorAmongKind</key>
+	<string>invisibleRemainderVelocity</string>
+	<key>layerModeShade</key>
+	<string>reductionByInterpreter</string>
+	<key>popupInterpreterBorder</key>
+	<string>lossFormBorder</string>
+	<key>subsequentSegueSaturation</key>
+	<string>interpolationFlyweightAlignment</string>
+</dict>
+</plist>

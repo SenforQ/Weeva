@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedWorkflowFlags</key>
+	<string>storyboardAlongComposite</string>
+	<key>beginnerStateVisible</key>
+	<string>storageLikeVar</string>
+	<key>blocActionTension</key>
+	<string>touchVersusMethod</string>
+	<key>segmentActionHead</key>
+	<string>equipmentProcessRotation</string>
+	<key>standaloneProviderSkewx</key>
+	<string>localStoryboardOpacity</string>
+</dict>
+</plist>

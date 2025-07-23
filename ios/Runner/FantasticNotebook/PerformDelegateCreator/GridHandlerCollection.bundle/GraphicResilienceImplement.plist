@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAlignmentDelay</key>
+	<string>requiredStackInterval</string>
+	<key>awaitDuringKind</key>
+	<string>priorFragmentDepth</string>
+	<key>baselineViaCycle</key>
+	<string>responseVarDuration</string>
+	<key>delicateSliderFormat</key>
+	<string>viewOperationStatus</string>
+	<key>layoutAlongStrategy</key>
+	<string>coordinatorInsideType</string>
+	<key>notificationMementoOpacity</key>
+	<string>axisPhaseBorder</string>
+	<key>promiseAndStrategy</key>
+	<string>alphaKindVisibility</string>
+	<key>substantialLayoutName</key>
+	<string>responsiveLoopBottom</string>
+</dict>
+</plist>

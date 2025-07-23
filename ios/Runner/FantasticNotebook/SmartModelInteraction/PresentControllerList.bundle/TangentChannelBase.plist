@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleProcessSize</key>
+	<string>mobxByFacade</string>
+	<key>exponentBeyondBuffer</key>
+	<string>containerAtJob</string>
+	<key>invisibleErrorVisibility</key>
+	<string>storageLevelValidation</string>
+	<key>mutableScaleRotation</key>
+	<string>builderContextValidation</string>
+	<key>optionMethodSkewx</key>
+	<string>granularLogIndex</string>
+	<key>publicProviderBorder</key>
+	<string>graphScopeMode</string>
+</dict>
+</plist>

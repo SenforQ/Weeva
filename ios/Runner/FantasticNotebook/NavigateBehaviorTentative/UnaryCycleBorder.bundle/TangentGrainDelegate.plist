@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTaskBorder</key>
+	<string>overlayActivityHue</string>
+	<key>difficultResolverAcceleration</key>
+	<string>intuitiveFrameAcceleration</string>
+	<key>flexForStyle</key>
+	<string>explicitTechniquePosition</string>
+	<key>sampleAmongBridge</key>
+	<string>sliderDespiteEnvironment</string>
+</dict>
+</plist>

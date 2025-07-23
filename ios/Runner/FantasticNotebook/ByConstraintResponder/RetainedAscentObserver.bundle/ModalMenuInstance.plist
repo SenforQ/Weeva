@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSwitchOrientation</key>
+	<string>semanticDecorationDistance</string>
+	<key>getxFromFlyweight</key>
+	<string>allocatorInterpreterSaturation</string>
+	<key>interactorProxyVelocity</key>
+	<string>segmentPhaseOrientation</string>
+	<key>memberVariableStatus</key>
+	<string>stateShapeContrast</string>
+	<key>storyboardProxyInteraction</key>
+	<string>callbackActivityTransparency</string>
+	<key>uniformCustompaintMode</key>
+	<string>toolOfOperation</string>
+</dict>
+</plist>

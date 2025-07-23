@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicIndicatorInteraction</key>
+	<string>scrollCommandName</string>
+	<key>durationIncludeChain</key>
+	<string>symbolMethodDuration</string>
+	<key>hashInsideMediator</key>
+	<string>interpolationAlongStage</string>
+	<key>observerLayerBorder</key>
+	<string>tweenDuringNumber</string>
+	<key>reactiveDimensionInteraction</key>
+	<string>alignmentDespiteFacade</string>
+</dict>
+</plist>

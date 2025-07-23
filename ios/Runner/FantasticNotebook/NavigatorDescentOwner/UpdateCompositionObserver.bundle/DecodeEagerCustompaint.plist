@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNotificationAppearance</key>
+	<string>gradientOperationTint</string>
+	<key>dynamicTickerMargin</key>
+	<string>interactiveResolverVelocity</string>
+	<key>explicitCompositionOrientation</key>
+	<string>queuePlatformStyle</string>
+	<key>heapBufferMargin</key>
+	<string>temporaryNotifierInteraction</string>
+	<key>intuitiveTimerInteraction</key>
+	<string>currentChannelLeft</string>
+	<key>managerDuringProxy</key>
+	<string>hierarchicalErrorAlignment</string>
+	<key>methodSystemName</key>
+	<string>standaloneFeatureRight</string>
+	<key>touchForOperation</key>
+	<string>difficultCubitPadding</string>
+</dict>
+</plist>

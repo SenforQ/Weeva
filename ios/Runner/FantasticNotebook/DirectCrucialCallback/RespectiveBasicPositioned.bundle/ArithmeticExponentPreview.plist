@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAnchorOrientation</key>
+	<string>zoneOutsideLayer</string>
+	<key>cubitLikeMediator</key>
+	<string>asyncViaForm</string>
+	<key>modelFromType</key>
+	<string>canvasFromMediator</string>
+	<key>petTypePadding</key>
+	<string>immediateStreamVisible</string>
+	<key>tappableSingletonDensity</key>
+	<string>singletonAlongBuffer</string>
+</dict>
+</plist>

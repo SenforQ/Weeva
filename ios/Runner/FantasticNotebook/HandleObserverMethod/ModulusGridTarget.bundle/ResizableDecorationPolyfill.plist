@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBufferTop</key>
+	<string>mobileOffsetMargin</string>
+	<key>explicitBatchValidation</key>
+	<string>batchFromLayer</string>
+	<key>loopThanScope</key>
+	<string>dependencyBeyondTier</string>
+	<key>missedGridviewScale</key>
+	<string>symmetricGradientSkewy</string>
+	<key>mobileTransitionAcceleration</key>
+	<string>fusedMapColor</string>
+	<key>operationForKind</key>
+	<string>techniqueStageOrigin</string>
+	<key>tableVisitorAppearance</key>
+	<string>animationBridgeTint</string>
+	<key>titleByPhase</key>
+	<string>retainedViewRight</string>
+</dict>
+</plist>

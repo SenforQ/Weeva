@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRepositoryShade</key>
+	<string>delicateIndicatorRight</string>
+	<key>desktopMediaqueryContrast</key>
+	<string>isolateNumberStyle</string>
+	<key>iterativeBulletVelocity</key>
+	<string>nextApertureBrightness</string>
+	<key>queueStateInteraction</key>
+	<string>delegateScopeColor</string>
+	<key>scaleViaAction</key>
+	<string>nextButtonHue</string>
+	<key>statefulLevelForce</key>
+	<string>interactorStructureContrast</string>
+	<key>storageAdapterAppearance</key>
+	<string>routerFromCommand</string>
+	<key>textfieldDecoratorFormat</key>
+	<string>modulusSinceProcess</string>
+</dict>
+</plist>

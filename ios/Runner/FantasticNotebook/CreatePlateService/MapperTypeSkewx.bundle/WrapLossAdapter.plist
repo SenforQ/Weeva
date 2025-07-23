@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredAllocatorIndex</key>
+	<string>variantLikePattern</string>
+	<key>loopExceptSingleton</key>
+	<string>transitionCycleForce</string>
+	<key>numericalSampleDirection</key>
+	<string>permissiveTransformerTheme</string>
+	<key>resultProxyDelay</key>
+	<string>utilFromStrategy</string>
+	<key>spriteIncludeVisitor</key>
+	<string>modalAsState</string>
+	<key>textureInterpreterInterval</key>
+	<string>materialContainMode</string>
+	<key>viewLevelBottom</key>
+	<string>customCertificateStyle</string>
+</dict>
+</plist>

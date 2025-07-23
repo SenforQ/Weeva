@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customControllerOpacity</key>
+	<string>flexOperationInterval</string>
+	<key>decorationViaMediator</key>
+	<string>checkboxProxyTag</string>
+	<key>multiBlocFlags</key>
+	<string>imperativeCanvasInteraction</string>
+	<key>priorRadiusHue</key>
+	<string>accessibleStoreLocation</string>
+</dict>
+</plist>

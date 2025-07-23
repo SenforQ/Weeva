@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedMetadataSpeed</key>
+	<string>permanentMapTail</string>
+	<key>durationAboutAction</key>
+	<string>sliderAndShape</string>
+	<key>isolateCycleRight</key>
+	<string>columnBeyondActivity</string>
+	<key>notifierPatternFormat</key>
+	<string>mobileMapForce</string>
+	<key>observerForCommand</key>
+	<string>sequentialDescriptorSkewx</string>
+	<key>sizeAsFramework</key>
+	<string>rapidStackBorder</string>
+</dict>
+</plist>

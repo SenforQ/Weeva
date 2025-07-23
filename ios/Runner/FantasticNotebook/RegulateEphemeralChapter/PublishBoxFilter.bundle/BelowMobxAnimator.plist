@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeCoordinatorShape</key>
+	<string>ternaryContainSingleton</string>
+	<key>numericalProviderPosition</key>
+	<string>labelViaChain</string>
+	<key>resourceActivityResponse</key>
+	<string>tappableExponentKind</string>
+	<key>workflowContextSpeed</key>
+	<string>nextGraphicMode</string>
+</dict>
+</plist>

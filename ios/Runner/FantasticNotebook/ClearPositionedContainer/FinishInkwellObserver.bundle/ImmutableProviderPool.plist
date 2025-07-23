@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintKindBehavior</key>
+	<string>scrollableAssetCoord</string>
+	<key>containerBesideProxy</key>
+	<string>easyConstraintInterval</string>
+	<key>dialogsJobVisibility</key>
+	<string>tensorLabelVelocity</string>
+	<key>subtleSegueTransparency</key>
+	<string>toolStateValidation</string>
+</dict>
+</plist>

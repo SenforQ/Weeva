@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLabelMargin</key>
+	<string>storeWithoutType</string>
+	<key>explicitTabviewInteraction</key>
+	<string>apertureVersusAdapter</string>
+	<key>intermediateLayoutFeedback</key>
+	<string>staticNavigationDistance</string>
+	<key>menuLikeValue</key>
+	<string>baseDecoratorVelocity</string>
+	<key>textVariableSkewy</key>
+	<string>containerParamAlignment</string>
+</dict>
+</plist>

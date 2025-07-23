@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderShapeBehavior</key>
+	<string>sustainableOperationResponse</string>
+	<key>coordinatorPerBridge</key>
+	<string>movementViaVisitor</string>
+	<key>eagerSignatureStyle</key>
+	<string>gesturedetectorTierVisibility</string>
+	<key>layerDuringCycle</key>
+	<string>adaptiveStoreRotation</string>
+	<key>mainEntityTheme</key>
+	<string>intensityVariableState</string>
+	<key>resolverAndVisitor</key>
+	<string>bulletChainInterval</string>
+	<key>taskAmongComposite</key>
+	<string>permissiveTaskMargin</string>
+</dict>
+</plist>

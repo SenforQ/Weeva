@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionAgainstVariable</key>
+	<string>rowDecoratorDuration</string>
+	<key>factoryVersusLayer</key>
+	<string>statefulFlyweightScale</string>
+	<key>immutableSwiftBorder</key>
+	<string>granularPromiseDistance</string>
+	<key>resizableOverlayAppearance</key>
+	<string>actionPerWork</string>
+	<key>touchForMode</key>
+	<string>notifierAgainstSystem</string>
+</dict>
+</plist>

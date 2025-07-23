@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDialogsMargin</key>
+	<string>rowForStructure</string>
+	<key>documentWithStrategy</key>
+	<string>smartStreamPosition</string>
+	<key>gradientExceptKind</key>
+	<string>grainFormDelay</string>
+	<key>imperativeTopicRight</key>
+	<string>providerFunctionFlags</string>
+	<key>liteBulletCenter</key>
+	<string>routeOutsidePrototype</string>
+	<key>mainAccessoryCenter</key>
+	<string>matrixMethodSize</string>
+	<key>nodeThroughParameter</key>
+	<string>immutableTextEdge</string>
+	<key>routeParameterBottom</key>
+	<string>primaryExtensionBorder</string>
+	<key>textureWithoutParam</key>
+	<string>invisibleMovementFlags</string>
+</dict>
+</plist>

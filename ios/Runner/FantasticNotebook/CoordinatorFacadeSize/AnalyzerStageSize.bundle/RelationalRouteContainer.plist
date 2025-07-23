@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAgainstTask</key>
+	<string>crudeStepSpacing</string>
+	<key>exceptionAwayValue</key>
+	<string>canvasActionCount</string>
+	<key>listenerLevelSize</key>
+	<string>asynchronousBorderInset</string>
+	<key>pinchableOffsetOrientation</key>
+	<string>boxAndMode</string>
+	<key>roleDecoratorOpacity</key>
+	<string>stateModeColor</string>
+	<key>streamByStrategy</key>
+	<string>typicalLayoutBrightness</string>
+	<key>timerVersusActivity</key>
+	<string>instructionVisitorDuration</string>
+</dict>
+</plist>

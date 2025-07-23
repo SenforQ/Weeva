@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorStrategyOrientation</key>
+	<string>capsuleCommandVelocity</string>
+	<key>previewAwayTemple</key>
+	<string>spotProcessMargin</string>
+	<key>radiusShapeFeedback</key>
+	<string>delicateTabbarOrientation</string>
+	<key>staticPreviewRight</key>
+	<string>largeChecklistTop</string>
+	<key>threadParameterStyle</key>
+	<string>storageNearContext</string>
+</dict>
+</plist>

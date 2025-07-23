@@ -91,7 +91,7 @@ class AppAssets {
 
   // 获取指定编号的预览图片路径（p文件夹中的图片）
   static String getFigurePreviewPath(int number, int imageIndex) {
-    return '${figurePath}$number/p/${number}_p_2025_07_03_$imageIndex.png';
+    return '${figurePath}$number/p/${number}_p_2025_07_22_$imageIndex.png';
   }
 
   // 获取所有可用的figure编号列表

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveHashOrientation</key>
+	<string>ephemeralTernaryOffset</string>
+	<key>animationSinceJob</key>
+	<string>futureWithBuffer</string>
+	<key>containerActivityScale</key>
+	<string>collectionLikeParameter</string>
+	<key>textModeState</key>
+	<string>intuitiveGraphicScale</string>
+</dict>
+</plist>

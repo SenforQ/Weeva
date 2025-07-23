@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitBufferType</key>
+	<string>taskBufferLocation</string>
+	<key>flexibleGraphInteraction</key>
+	<string>rapidAnimationRotation</string>
+	<key>functionalGrainPadding</key>
+	<string>crucialWidgetTransparency</string>
+	<key>queryAlongComposite</key>
+	<string>completionDuringKind</string>
+	<key>resourceActionDensity</key>
+	<string>iconTaskTransparency</string>
+	<key>textExceptParameter</key>
+	<string>mediaVarFormat</string>
+</dict>
+</plist>

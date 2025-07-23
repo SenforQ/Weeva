@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartCompositeBehavior</key>
+	<string>resizableDecorationOrientation</string>
+	<key>customCanvasTag</key>
+	<string>canvasAlongFunction</string>
+	<key>explicitLayerVisibility</key>
+	<string>repositoryLikeProxy</string>
+	<key>featureContextCoord</key>
+	<string>coordinatorScopeRate</string>
+	<key>positionedLayerColor</key>
+	<string>screenProxyOrientation</string>
+	<key>scrollableCommandBehavior</key>
+	<string>taskFunctionDepth</string>
+	<key>streamTypeTag</key>
+	<string>flexShapeBrightness</string>
+</dict>
+</plist>

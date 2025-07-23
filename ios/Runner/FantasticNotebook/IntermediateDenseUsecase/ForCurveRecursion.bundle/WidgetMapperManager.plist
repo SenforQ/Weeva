@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardObserverInset</key>
+	<string>logContextOffset</string>
+	<key>composableStateFrequency</key>
+	<string>criticalOverlayRate</string>
+	<key>customizedImageFrequency</key>
+	<string>requiredFutureRotation</string>
+	<key>materialPlateFormat</key>
+	<string>fixedBufferTension</string>
+	<key>mobileResponseSkewx</key>
+	<string>entropySystemBound</string>
+	<key>pointAndObserver</key>
+	<string>methodWithoutChain</string>
+	<key>previewWithoutFacade</key>
+	<string>newestAssetBorder</string>
+	<key>spotCompositeInteraction</key>
+	<string>transitionEnvironmentCenter</string>
+	<key>transitionThroughWork</key>
+	<string>curveOfActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCompositionVisibility</key>
+	<string>entityInNumber</string>
+	<key>callbackByWork</key>
+	<string>checkboxJobState</string>
+	<key>capacitiesFormDelay</key>
+	<string>storyboardAtParam</string>
+	<key>cellContainTask</key>
+	<string>textBridgeLeft</string>
+	<key>geometricAnimationDepth</key>
+	<string>pageviewAwayMode</string>
+	<key>routeForStage</key>
+	<string>configurationAtTier</string>
+	<key>similarAnimationHead</key>
+	<string>hyperbolicLayoutSize</string>
+	<key>statefulSingletonPosition</key>
+	<string>temporaryFutureInset</string>
+</dict>
+</plist>

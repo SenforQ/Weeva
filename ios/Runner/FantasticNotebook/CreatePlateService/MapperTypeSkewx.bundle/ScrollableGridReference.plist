@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWidgetRotation</key>
+	<string>associatedSliderBrightness</string>
+	<key>configurationScopeDelay</key>
+	<string>queueVisitorDensity</string>
+	<key>consumerAwayType</key>
+	<string>actionPhaseBorder</string>
+	<key>eagerWorkflowTransparency</key>
+	<string>stackBufferTint</string>
+	<key>isolateBufferInterval</key>
+	<string>publicCommandScale</string>
+	<key>queueContainForm</key>
+	<string>significantButtonValidation</string>
+</dict>
+</plist>

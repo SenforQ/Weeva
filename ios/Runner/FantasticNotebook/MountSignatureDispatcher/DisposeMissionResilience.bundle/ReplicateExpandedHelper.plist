@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoViaStyle</key>
+	<string>gesturedetectorNearTier</string>
+	<key>currentSessionStyle</key>
+	<string>mediaThroughMode</string>
+	<key>delicateCoordinatorTransparency</key>
+	<string>pinchableOverlayMode</string>
+	<key>expandedChainTail</key>
+	<string>queryStateHead</string>
+	<key>functionalTabviewOrigin</key>
+	<string>listenerAndMethod</string>
+	<key>permissiveCollectionSkewy</key>
+	<string>denseAwaitDensity</string>
+	<key>rectAlongState</key>
+	<string>intensityViaDecorator</string>
+	<key>rowOfScope</key>
+	<string>hardCommandTop</string>
+	<key>touchVersusMode</key>
+	<string>integerParameterInterval</string>
+	<key>viewIncludeState</key>
+	<string>denseCapsuleTheme</string>
+</dict>
+</plist>

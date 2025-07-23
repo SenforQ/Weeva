@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorStyleValidation</key>
+	<string>interfaceParamFlags</string>
+	<key>globalCommandTint</key>
+	<string>nativeRequestName</string>
+	<key>graphWithoutParam</key>
+	<string>uniformViewOpacity</string>
+	<key>largeContainerPressure</key>
+	<string>immediateTernaryKind</string>
+	<key>nextTaskDelay</key>
+	<string>composableNodeOffset</string>
+	<key>protocolStyleHue</key>
+	<string>rectAroundVisitor</string>
+	<key>similarMapEdge</key>
+	<string>visibleMatrixScale</string>
+	<key>streamStructureInset</key>
+	<string>granularColumnRight</string>
+	<key>timerAboutWork</key>
+	<string>taskAsChain</string>
+</dict>
+</plist>

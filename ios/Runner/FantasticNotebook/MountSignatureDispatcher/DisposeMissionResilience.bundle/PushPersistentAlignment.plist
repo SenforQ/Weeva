@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAlignmentLeft</key>
+	<string>declarativeContainerKind</string>
+	<key>cardLikeDecorator</key>
+	<string>nodeInsideObserver</string>
+	<key>crudeHandlerOrigin</key>
+	<string>anchorWorkPosition</string>
+	<key>dynamicObserverDuration</key>
+	<string>switchDuringPattern</string>
+	<key>mediaTaskShade</key>
+	<string>progressbarValueBrightness</string>
+	<key>staticWidgetMode</key>
+	<string>compositionAwayState</string>
+</dict>
+</plist>

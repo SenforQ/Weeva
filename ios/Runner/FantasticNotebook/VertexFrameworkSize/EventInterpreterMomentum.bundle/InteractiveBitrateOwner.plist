@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisSingletonPadding</key>
+	<string>webCallbackPosition</string>
+	<key>builderShapeVelocity</key>
+	<string>tangentOutsideScope</string>
+	<key>canvasObserverName</key>
+	<string>grayscaleProxyValidation</string>
+	<key>firstTimerColor</key>
+	<string>tabbarPerMode</string>
+	<key>frameCommandPosition</key>
+	<string>cupertinoOfFunction</string>
+	<key>ignoredListenerMargin</key>
+	<string>newestSkirtInset</string>
+	<key>matrixIncludeStructure</key>
+	<string>mobileRoleDelay</string>
+	<key>overlayObserverBottom</key>
+	<string>eventCompositeSpeed</string>
+	<key>sortedNavigationAcceleration</key>
+	<string>nodeAndOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStorageAlignment</key>
+	<string>displayableCurveAppearance</string>
+	<key>backwardShaderRight</key>
+	<string>nodeScopeSize</string>
+	<key>customizedReductionDelay</key>
+	<string>viewOutsidePattern</string>
+	<key>delegateTierInteraction</key>
+	<string>cycleAgainstTask</string>
+	<key>smallGateBehavior</key>
+	<string>imperativePresenterBound</string>
+	<key>textureEnvironmentBehavior</key>
+	<string>hierarchicalRouteInset</string>
+	<key>widgetWithoutFlyweight</key>
+	<string>getxOfFunction</string>
+</dict>
+</plist>

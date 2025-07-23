@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardStepType</key>
+	<string>columnOfObserver</string>
+	<key>inactiveProjectLeft</key>
+	<string>positionDespiteFunction</string>
+	<key>interactorWorkInset</key>
+	<string>apertureMediatorMode</string>
+	<key>pinchableOverlayBehavior</key>
+	<string>tweenChainIndex</string>
+	<key>resilientGraphBound</key>
+	<string>taskDuringStage</string>
+	<key>sampleCommandTheme</key>
+	<string>handlerBufferLeft</string>
+	<key>sequentialProviderOpacity</key>
+	<string>declarativeSizeShape</string>
+	<key>threadDuringOperation</key>
+	<string>lostCanvasPadding</string>
+</dict>
+</plist>

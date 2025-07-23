@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectPatternDistance</key>
+	<string>listenerOrJob</string>
+	<key>imperativeListenerResponse</key>
+	<string>stepMementoStatus</string>
+	<key>popupPrototypeTag</key>
+	<string>errorDuringFacade</string>
+	<key>reactiveOptimizerBorder</key>
+	<string>queryOfParam</string>
+	<key>sequentialEventOffset</key>
+	<string>queueUntilStage</string>
+	<key>sharedDurationOrientation</key>
+	<string>methodOperationDuration</string>
+	<key>sliderFacadeDuration</key>
+	<string>convolutionSinceKind</string>
+	<key>subtlePresenterMomentum</key>
+	<string>resizableGestureOpacity</string>
+	<key>utilObserverRotation</key>
+	<string>decorationIncludeVariable</string>
+	<key>viewScopeContrast</key>
+	<string>permissiveInstructionPressure</string>
+</dict>
+</plist>

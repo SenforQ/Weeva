@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionDuringStage</key>
+	<string>unsortedAnimationVisible</string>
+	<key>graphicInterpreterOrigin</key>
+	<string>normObserverTheme</string>
+	<key>indicatorAsMode</key>
+	<string>imperativeGemBorder</string>
+	<key>largeBuilderHue</key>
+	<string>constGestureRight</string>
+	<key>multiPlaybackVisibility</key>
+	<string>similarCaptionCenter</string>
+	<key>popupPerFramework</key>
+	<string>channelAndDecorator</string>
+	<key>sharedDurationTheme</key>
+	<string>originalScaffoldVelocity</string>
+	<key>timerParamOpacity</key>
+	<string>consultativeMenuBottom</string>
+</dict>
+</plist>

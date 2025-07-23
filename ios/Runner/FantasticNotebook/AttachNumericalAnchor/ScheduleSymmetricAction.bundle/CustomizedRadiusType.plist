@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentStyleTheme</key>
+	<string>immutableDrawerType</string>
+	<key>materialAtContext</key>
+	<string>asyncRemainderLeft</string>
+	<key>navigationTierFeedback</key>
+	<string>routerVariableMode</string>
+	<key>stateFacadeBottom</key>
+	<string>immutableParticlePosition</string>
+	<key>storageSinceVariable</key>
+	<string>agilePaddingSaturation</string>
+</dict>
+</plist>

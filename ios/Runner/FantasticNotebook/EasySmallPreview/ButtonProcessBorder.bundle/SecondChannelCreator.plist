@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentObserverMargin</key>
+	<string>multiToolRotation</string>
+	<key>discardedTransitionMomentum</key>
+	<string>commonStreamInset</string>
+	<key>exponentParameterStatus</key>
+	<string>fixedProjectAlignment</string>
+	<key>originalNavigatorSkewx</key>
+	<string>priorMemberMode</string>
+	<key>singleTangentRotation</key>
+	<string>localBuilderInteraction</string>
+	<key>specifyGroupDepth</key>
+	<string>listviewLayerAlignment</string>
+	<key>staticResourceVisibility</key>
+	<string>gateMethodTop</string>
+</dict>
+</plist>

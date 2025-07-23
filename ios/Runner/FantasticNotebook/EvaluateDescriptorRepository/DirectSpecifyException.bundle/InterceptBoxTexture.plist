@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGateTheme</key>
+	<string>animationFormFeedback</string>
+	<key>callbackAgainstProxy</key>
+	<string>scrollBufferShade</string>
+	<key>characterNumberResponse</key>
+	<string>subsequentPresenterTail</string>
+	<key>declarativeCoordinatorTheme</key>
+	<string>progressbarFunctionInterval</string>
+	<key>decorationVarAlignment</key>
+	<string>viewAdapterStatus</string>
+	<key>elasticStampTail</key>
+	<string>tableProxyInterval</string>
+	<key>isolatePatternAppearance</key>
+	<string>documentFacadeState</string>
+	<key>mediocreExpandedEdge</key>
+	<string>permanentProgressbarBorder</string>
+</dict>
+</plist>

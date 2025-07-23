@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupWorkDuration</key>
+	<string>checklistModeState</string>
+	<key>lazyApertureInset</key>
+	<string>controllerLevelBehavior</string>
+	<key>permissiveConstraintDensity</key>
+	<string>nextBlocScale</string>
+	<key>routerAmongProxy</key>
+	<string>progressbarPlatformForce</string>
+</dict>
+</plist>

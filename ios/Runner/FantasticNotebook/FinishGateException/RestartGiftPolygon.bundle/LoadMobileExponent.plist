@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRequestSaturation</key>
+	<string>nextScalePadding</string>
+	<key>difficultAssetVisibility</key>
+	<string>sharedTweenTint</string>
+	<key>gradientBufferAcceleration</key>
+	<string>navigatorPerMediator</string>
+	<key>resizableButtonLocation</key>
+	<string>prevWidgetFormat</string>
+	<key>semanticsFormDuration</key>
+	<string>subtleSwitchSpacing</string>
+	<key>specifyTextfieldType</key>
+	<string>usecaseAsProcess</string>
+</dict>
+</plist>

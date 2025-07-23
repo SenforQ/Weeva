@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitNearMethod</key>
+	<string>activatedBatchSpacing</string>
+	<key>granularCallbackPadding</key>
+	<string>assetByBridge</string>
+	<key>groupInLevel</key>
+	<string>finalRectDelay</string>
+	<key>injectionViaStructure</key>
+	<string>mediaForCommand</string>
+	<key>keyMarginScale</key>
+	<string>decorationThanNumber</string>
+	<key>mediaScopeTag</key>
+	<string>specifyStreamDirection</string>
+	<key>rectAndPattern</key>
+	<string>exceptionScopeForce</string>
+	<key>transitionThroughProxy</key>
+	<string>fixedInterpolationPadding</string>
+	<key>uniformDecorationPressure</key>
+	<string>sizedboxOutsideVariable</string>
+</dict>
+</plist>

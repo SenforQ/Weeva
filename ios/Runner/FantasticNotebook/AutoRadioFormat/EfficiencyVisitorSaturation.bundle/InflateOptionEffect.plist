@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftPrototypeVelocity</key>
+	<string>gateOrLevel</string>
+	<key>groupStrategyType</key>
+	<string>mapAboutLayer</string>
+	<key>queryAlongTask</key>
+	<string>textJobName</string>
+	<key>routeByForm</key>
+	<string>asyncNotifierScale</string>
+	<key>sineWorkEdge</key>
+	<string>activatedThemeName</string>
+</dict>
+</plist>

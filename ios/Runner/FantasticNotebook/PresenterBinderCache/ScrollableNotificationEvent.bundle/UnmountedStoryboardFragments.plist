@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonFutureRotation</key>
+	<string>sessionViaMediator</string>
+	<key>exponentJobType</key>
+	<string>globalCubitState</string>
+	<key>interfaceParamColor</key>
+	<string>streamSingletonStatus</string>
+	<key>resourceSystemStyle</key>
+	<string>respectiveServiceMode</string>
+	<key>rowAmongPlatform</key>
+	<string>reductionLevelPosition</string>
+	<key>sliderNumberEdge</key>
+	<string>statefulUsecaseState</string>
+	<key>storyboardAndStructure</key>
+	<string>resizableSkirtDuration</string>
+	<key>textInVar</key>
+	<string>handlerContainBuffer</string>
+</dict>
+</plist>

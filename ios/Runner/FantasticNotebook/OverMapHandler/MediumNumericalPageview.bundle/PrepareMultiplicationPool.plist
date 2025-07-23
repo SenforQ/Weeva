@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileHeapAppearance</key>
+	<string>mediocreUtilOrientation</string>
+	<key>futureDuringWork</key>
+	<string>requiredStreamColor</string>
+	<key>localBrushEdge</key>
+	<string>switchActivityShade</string>
+	<key>lostRepositoryPressure</key>
+	<string>sceneStageRotation</string>
+	<key>menuFormFeedback</key>
+	<string>reducerPerKind</string>
+	<key>priorityPrototypeDistance</key>
+	<string>semanticCursorOffset</string>
+</dict>
+</plist>

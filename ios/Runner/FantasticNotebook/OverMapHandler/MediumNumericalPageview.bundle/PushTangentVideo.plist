@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveDrawerFlags</key>
+	<string>gridAtStage</string>
+	<key>dialogsFacadeState</key>
+	<string>taskNumberValidation</string>
+	<key>dynamicProjectSaturation</key>
+	<string>interactiveTabviewFrequency</string>
+	<key>isolatePatternVelocity</key>
+	<string>diffableTickerTail</string>
+	<key>scaffoldAmongContext</key>
+	<string>adaptiveNavigatorForce</string>
+	<key>specifyTextValidation</key>
+	<string>interfaceScopeSkewx</string>
+	<key>tweenFlyweightFrequency</key>
+	<string>logExceptPrototype</string>
+</dict>
+</plist>

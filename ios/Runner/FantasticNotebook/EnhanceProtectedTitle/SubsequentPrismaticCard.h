@@ -1,0 +1,18 @@
+#import "ControllerVolumeInstance.h"
+#import "PartitionAdvancedGraph.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface SubsequentPrismaticCard : NSObject
+
+
+- (void) detachDenseDrawer;
+
+- (void) persistFirstAlignment;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

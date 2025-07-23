@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicReducerState</key>
+	<string>alertValueOrientation</string>
+	<key>curveNearOperation</key>
+	<string>mobileGroupVelocity</string>
+	<key>flexibleButtonTag</key>
+	<string>grayscaleAgainstEnvironment</string>
+	<key>gridFrameworkVisible</key>
+	<string>resolverCommandScale</string>
+	<key>offsetBesideStrategy</key>
+	<string>mediumAllocatorTransparency</string>
+	<key>paddingNumberBorder</key>
+	<string>immediateManagerSpeed</string>
+	<key>specifierProxyBound</key>
+	<string>euclideanVariantLocation</string>
+	<key>storageStrategyVisibility</key>
+	<string>touchActivityVelocity</string>
+</dict>
+</plist>

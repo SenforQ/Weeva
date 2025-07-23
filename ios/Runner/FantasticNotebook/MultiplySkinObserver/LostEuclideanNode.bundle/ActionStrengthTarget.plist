@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPrototypeDensity</key>
+	<string>iconInPrototype</string>
+	<key>gradientContextBound</key>
+	<string>pinchableSinkLeft</string>
+	<key>groupAmongFlyweight</key>
+	<string>actionAlongKind</string>
+	<key>protocolScopeCoord</key>
+	<string>storeInsideObserver</string>
+	<key>repositoryCommandFeedback</key>
+	<string>offsetIncludeScope</string>
+	<key>subscriptionInsideVar</key>
+	<string>pinchableManagerSaturation</string>
+	<key>textBeyondCycle</key>
+	<string>alphaEnvironmentOpacity</string>
+	<key>usedRadiusRight</key>
+	<string>spineScopeIndex</string>
+</dict>
+</plist>

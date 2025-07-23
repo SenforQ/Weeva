@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintNearVar</key>
+	<string>metadataOutsideOperation</string>
+	<key>gridviewJobBehavior</key>
+	<string>modulusStrategyTint</string>
+	<key>nodeAsState</key>
+	<string>statelessPopupSize</string>
+	<key>prismaticChartCenter</key>
+	<string>parallelLabelStyle</string>
+	<key>providerAlongStage</key>
+	<string>equalizationAmongVariable</string>
+	<key>skinTierSize</key>
+	<string>spriteShapeTransparency</string>
+	<key>spotBufferRate</key>
+	<string>localizationAdapterSize</string>
+	<key>textOfWork</key>
+	<string>featureModeAlignment</string>
+</dict>
+</plist>

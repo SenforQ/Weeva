@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorExceptContext</key>
+	<string>iterativeRadiusTop</string>
+	<key>graphTierOpacity</key>
+	<string>tweenAroundLayer</string>
+	<key>independentViewSpacing</key>
+	<string>topicParamEdge</string>
+	<key>inkwellThroughPattern</key>
+	<string>singletonInsideDecorator</string>
+	<key>multiplicationPerScope</key>
+	<string>controllerKindTransparency</string>
+	<key>sceneInFramework</key>
+	<string>retainedPreviewOrigin</string>
+	<key>taskFacadeResponse</key>
+	<string>listenerDuringObserver</string>
+	<key>threadChainMargin</key>
+	<string>repositoryDuringPrototype</string>
+	<key>unsortedSampleSpeed</key>
+	<string>logOutsideAction</string>
+</dict>
+</plist>

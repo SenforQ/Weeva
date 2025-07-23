@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBridgeFlags</key>
+	<string>cubitFormBound</string>
+	<key>behaviorOutsideComposite</key>
+	<string>constraintOutsideNumber</string>
+	<key>constraintAwayTier</key>
+	<string>transitionBufferPosition</string>
+	<key>iconLevelName</key>
+	<string>viewOutsideInterpreter</string>
+	<key>logarithmInsideMethod</key>
+	<string>giftFacadeMomentum</string>
+	<key>protectedColumnHue</key>
+	<string>ignoredConfigurationTransparency</string>
+	<key>sampleWithoutParam</key>
+	<string>customFlexFormat</string>
+</dict>
+</plist>

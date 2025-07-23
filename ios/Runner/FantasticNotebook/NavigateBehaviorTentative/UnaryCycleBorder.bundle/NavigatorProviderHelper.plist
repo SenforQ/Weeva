@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperFlyweightResponse</key>
+	<string>nativeSpotType</string>
+	<key>resizableServiceBottom</key>
+	<string>customObserverOrientation</string>
+	<key>symmetricOperationDensity</key>
+	<string>animatedcontainerTypeInset</string>
+	<key>transformerAtValue</key>
+	<string>sortedGrainBound</string>
+</dict>
+</plist>

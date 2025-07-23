@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSegueFrequency</key>
+	<string>controllerCommandState</string>
+	<key>desktopUtilBrightness</key>
+	<string>newestCollectionForce</string>
+	<key>kernelCommandPadding</key>
+	<string>integerFromVar</string>
+	<key>largeGradientTheme</key>
+	<string>pinchableDecorationCount</string>
+	<key>mainControllerCenter</key>
+	<string>normalRouterType</string>
+	<key>permanentSignPressure</key>
+	<string>seguePhaseMomentum</string>
+	<key>respectiveProgressbarBrightness</key>
+	<string>promiseDespiteDecorator</string>
+	<key>serviceCompositeFormat</key>
+	<string>batchSinceSingleton</string>
+	<key>staticCaptionMargin</key>
+	<string>animatedcontainerMethodPadding</string>
+</dict>
+</plist>

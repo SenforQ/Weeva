@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeViewAppearance</key>
+	<string>effectEnvironmentInterval</string>
+	<key>materialTransitionCount</key>
+	<string>concurrentConstraintCenter</string>
+	<key>normStrategyCenter</key>
+	<string>relationalTitleTop</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPlatformTag</key>
+	<string>touchModeAcceleration</string>
+	<key>aspectratioTierBound</key>
+	<string>reactiveOffsetTop</string>
+	<key>assetObserverPosition</key>
+	<string>criticalExpandedMode</string>
+	<key>batchLayerDistance</key>
+	<string>positionPlatformVelocity</string>
+	<key>containerDespiteFlyweight</key>
+	<string>semanticsNearChain</string>
+	<key>containerExceptPattern</key>
+	<string>observerActivityFlags</string>
+	<key>ignoredMusicBound</key>
+	<string>sustainableSignatureLeft</string>
+	<key>responseDespiteFunction</key>
+	<string>rectParameterColor</string>
+</dict>
+</plist>

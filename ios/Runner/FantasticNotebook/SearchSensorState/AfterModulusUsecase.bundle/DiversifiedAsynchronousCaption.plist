@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActivityVelocity</key>
+	<string>cycleStageDelay</string>
+	<key>asyncVersusCycle</key>
+	<string>streamOrLevel</string>
+	<key>declarativePositionSpeed</key>
+	<string>scrollParamCount</string>
+	<key>descriptorCycleInteraction</key>
+	<string>certificateInterpreterStatus</string>
+	<key>hardRouteTension</key>
+	<string>staticManagerVelocity</string>
+	<key>overlayDuringVariable</key>
+	<string>lostCoordinatorDistance</string>
+	<key>stateAtMemento</key>
+	<string>statefulParameterPosition</string>
+</dict>
+</plist>

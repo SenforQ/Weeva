@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyCompositeAppearance</key>
+	<string>synchronousPainterInteraction</string>
+	<key>eventLikeStyle</key>
+	<string>multiInjectionTransparency</string>
+	<key>oldChecklistDelay</key>
+	<string>sliderSinceJob</string>
+	<key>resilientPositionFrequency</key>
+	<string>modulusValueVisibility</string>
+</dict>
+</plist>

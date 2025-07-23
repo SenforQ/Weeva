@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSubpixelSaturation</key>
+	<string>priorIntensitySaturation</string>
+	<key>backwardBinaryBottom</key>
+	<string>curveParameterContrast</string>
+	<key>coordinatorTemplePadding</key>
+	<string>methodAroundFunction</string>
+	<key>dynamicGramSpeed</key>
+	<string>mainDescriptorBrightness</string>
+	<key>modelIncludeProcess</key>
+	<string>requestTaskBorder</string>
+	<key>resultContainInterpreter</key>
+	<string>arithmeticAgainstContext</string>
+	<key>taskAroundPlatform</key>
+	<string>descriptionStyleInterval</string>
+	<key>techniqueVisitorAlignment</key>
+	<string>mediaqueryTaskCoord</string>
+</dict>
+</plist>

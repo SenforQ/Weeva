@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicOverlayMomentum</key>
+	<string>tensorSliderResponse</string>
+	<key>currentCallbackState</key>
+	<string>textForParameter</string>
+	<key>resolverWithFramework</key>
+	<string>secondCellDelay</string>
+</dict>
+</plist>

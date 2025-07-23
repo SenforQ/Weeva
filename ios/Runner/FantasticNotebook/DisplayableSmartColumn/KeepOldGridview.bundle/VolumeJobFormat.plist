@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameAroundValue</key>
+	<string>queueIncludeBuffer</string>
+	<key>heapBesideScope</key>
+	<string>streamMethodFrequency</string>
+	<key>inheritedGetxOrientation</key>
+	<string>hyperbolicRectSkewx</string>
+	<key>nextEventOpacity</key>
+	<string>contractionActionTransparency</string>
+	<key>promiseBesideFunction</key>
+	<string>reusableNotifierTag</string>
+	<key>reactiveButtonCoord</key>
+	<string>builderScopeSpacing</string>
+	<key>signatureThroughOperation</key>
+	<string>builderAmongContext</string>
+	<key>standalonePreviewOrientation</key>
+	<string>resolverDuringObserver</string>
+	<key>themeJobTint</key>
+	<string>finalProviderOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCompleterVisibility</key>
+	<string>constResolverVisible</string>
+	<key>interactiveTangentBound</key>
+	<string>imageAgainstJob</string>
+	<key>mediaMementoVisibility</key>
+	<string>channelLikeAction</string>
+	<key>newestSingletonOpacity</key>
+	<string>currentAnimationState</string>
+	<key>playbackVisitorShade</key>
+	<string>materialCompletionHead</string>
+	<key>rapidIntegerShade</key>
+	<string>curveExceptShape</string>
+</dict>
+</plist>

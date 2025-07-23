@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTitleInteraction</key>
+	<string>listenerProcessRate</string>
+	<key>commonListenerPadding</key>
+	<string>localCaptionInteraction</string>
+	<key>constraintOperationHue</key>
+	<string>histogramInActivity</string>
+	<key>intensityFrameworkCenter</key>
+	<string>popupAtMemento</string>
+	<key>prevGridviewDensity</key>
+	<string>constraintThroughStrategy</string>
+	<key>resizableActionColor</key>
+	<string>primaryGridInteraction</string>
+	<key>sceneOutsideLevel</key>
+	<string>basicInjectionTag</string>
+	<key>segueFacadeKind</key>
+	<string>ternaryFlyweightType</string>
+</dict>
+</plist>

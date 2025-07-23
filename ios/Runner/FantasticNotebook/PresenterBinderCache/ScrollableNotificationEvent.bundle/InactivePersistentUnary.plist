@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationParamRight</key>
+	<string>tickerNumberSkewx</string>
+	<key>firstStateKind</key>
+	<string>channelUntilEnvironment</string>
+	<key>interpolationOperationShape</key>
+	<string>utilEnvironmentPressure</string>
+	<key>normalQueueInterval</key>
+	<string>serviceNumberSize</string>
+	<key>significantMobileKind</key>
+	<string>staticPreviewVisible</string>
+	<key>symmetricQueueInterval</key>
+	<string>screenLayerTag</string>
+	<key>toolViaVariable</key>
+	<string>curveOutsidePhase</string>
+</dict>
+</plist>

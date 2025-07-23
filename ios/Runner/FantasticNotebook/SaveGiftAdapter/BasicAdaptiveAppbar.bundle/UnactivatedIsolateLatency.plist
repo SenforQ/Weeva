@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesTierRate</key>
+	<string>checklistStageState</string>
+	<key>documentSinceTier</key>
+	<string>webUsecaseVisibility</string>
+	<key>listviewParameterRight</key>
+	<string>apertureBeyondStage</string>
+	<key>mediaqueryStageTag</key>
+	<string>taskKindCenter</string>
+	<key>queryOutsideFlyweight</key>
+	<string>interpolationNearShape</string>
+	<key>requestOutsideFlyweight</key>
+	<string>reducerBesideSingleton</string>
+	<key>requestSingletonOpacity</key>
+	<string>uniqueScaleSkewy</string>
+	<key>routeDecoratorSaturation</key>
+	<string>textureNearOperation</string>
+	<key>skirtPhaseSkewy</key>
+	<string>geometricAllocatorOffset</string>
+	<key>widgetFacadeFlags</key>
+	<string>durationOperationVisibility</string>
+</dict>
+</plist>

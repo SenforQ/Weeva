@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAboutStage</key>
+	<string>descriptionAgainstFacade</string>
+	<key>custompaintWithoutStyle</key>
+	<string>decorationContainFlyweight</string>
+	<key>finalTextOrientation</key>
+	<string>accordionTweenTheme</string>
+	<key>inactiveDecorationFrequency</key>
+	<string>controllerForVisitor</string>
+	<key>intensitySingletonVelocity</key>
+	<string>loopByFlyweight</string>
+	<key>listviewPhaseOrientation</key>
+	<string>pointFromActivity</string>
+	<key>managerNearStage</key>
+	<string>requestActionDensity</string>
+	<key>petIncludePrototype</key>
+	<string>unactivatedOptionStatus</string>
+	<key>tabviewFormInterval</key>
+	<string>pageviewAlongChain</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVariableDelay</key>
+	<string>sceneAndInterpreter</string>
+	<key>eagerStoreContrast</key>
+	<string>layerChainBehavior</string>
+	<key>inactiveGridviewVisibility</key>
+	<string>tabbarOrOperation</string>
+	<key>listenerProcessStyle</key>
+	<string>immediateBuilderInteraction</string>
+	<key>standaloneAppbarAppearance</key>
+	<string>interactorContainFunction</string>
+</dict>
+</plist>

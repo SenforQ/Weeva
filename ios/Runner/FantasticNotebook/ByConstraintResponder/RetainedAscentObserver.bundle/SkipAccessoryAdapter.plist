@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionVariableOrientation</key>
+	<string>entityJobDirection</string>
+	<key>largeContainerMode</key>
+	<string>matrixInLevel</string>
+	<key>responsiveLogAcceleration</key>
+	<string>hyperbolicFutureTop</string>
+	<key>titleInterpreterOpacity</key>
+	<string>awaitBufferVisible</string>
+	<key>usecaseSingletonForce</key>
+	<string>independentDurationBottom</string>
+</dict>
+</plist>

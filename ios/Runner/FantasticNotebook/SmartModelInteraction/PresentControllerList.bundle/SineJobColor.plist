@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFrameworkOrigin</key>
+	<string>statelessSlashVelocity</string>
+	<key>operationIncludeObserver</key>
+	<string>textVisitorBehavior</string>
+	<key>overlayDecoratorTransparency</key>
+	<string>semanticVariantAcceleration</string>
+	<key>tappableModelDepth</key>
+	<string>groupMementoMargin</string>
+</dict>
+</plist>

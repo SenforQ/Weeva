@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleInteractorHead</key>
+	<string>directReferenceContrast</string>
+	<key>relationalRouterRate</key>
+	<string>anchorOfAction</string>
+	<key>resourceBufferEdge</key>
+	<string>spriteLayerSpacing</string>
+	<key>routerExceptBridge</key>
+	<string>chartThroughSingleton</string>
+	<key>storeOrActivity</key>
+	<string>draggableLabelHead</string>
+</dict>
+</plist>

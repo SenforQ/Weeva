@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedListenerOrientation</key>
+	<string>numericalBoxMode</string>
+	<key>pinchableTitleContrast</key>
+	<string>typicalWidgetTag</string>
+	<key>singletonWorkHead</key>
+	<string>subsequentAllocatorSpacing</string>
+</dict>
+</plist>

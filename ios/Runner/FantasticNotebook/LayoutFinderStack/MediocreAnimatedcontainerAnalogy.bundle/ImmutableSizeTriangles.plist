@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAsStyle</key>
+	<string>greatProviderShape</string>
+	<key>concurrentSliderBound</key>
+	<string>loopTierFrequency</string>
+	<key>gridviewFlyweightTag</key>
+	<string>graphMementoPosition</string>
+	<key>injectionContainFlyweight</key>
+	<string>newestUtilTransparency</string>
+	<key>pinchableVectorSpeed</key>
+	<string>cubitIncludeBridge</string>
+	<key>tappableListviewInteraction</key>
+	<string>listviewNumberState</string>
+	<key>widgetInJob</key>
+	<string>requiredBoxshadowDensity</string>
+</dict>
+</plist>

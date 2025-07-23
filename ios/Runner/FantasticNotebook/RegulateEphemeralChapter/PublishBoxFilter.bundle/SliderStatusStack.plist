@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStrategyInteraction</key>
+	<string>smallConsumerFormat</string>
+	<key>crudeButtonOrigin</key>
+	<string>pinchableContainerRate</string>
+	<key>delicateCubeStyle</key>
+	<string>desktopModelResponse</string>
+	<key>menuDecoratorCount</key>
+	<string>resourceMediatorResponse</string>
+	<key>metadataAmongNumber</key>
+	<string>accessibleStackTheme</string>
+</dict>
+</plist>

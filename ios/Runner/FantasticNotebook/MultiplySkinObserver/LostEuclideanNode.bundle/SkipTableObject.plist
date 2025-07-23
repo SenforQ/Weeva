@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionVersusScope</key>
+	<string>sceneInsidePhase</string>
+	<key>overlayStateFlags</key>
+	<string>materialCollectionFrequency</string>
+	<key>parallelCubeSpeed</key>
+	<string>channelNumberDelay</string>
+	<key>robustMovementOrientation</key>
+	<string>gridviewOrScope</string>
+	<key>slashWithoutMode</key>
+	<string>gridThanTask</string>
+</dict>
+</plist>

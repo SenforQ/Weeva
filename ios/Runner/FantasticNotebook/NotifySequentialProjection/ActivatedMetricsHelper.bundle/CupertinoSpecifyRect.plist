@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialDependencyVisible</key>
+	<string>methodStageKind</string>
+	<key>firstListenerDistance</key>
+	<string>painterStateInteraction</string>
+	<key>gemFlyweightVisible</key>
+	<string>allocatorContainProxy</string>
+	<key>inheritedPageviewInset</key>
+	<string>customControllerName</string>
+	<key>materialTypeHue</key>
+	<string>agileOffsetDelay</string>
+	<key>rowOrStructure</key>
+	<string>seamlessOffsetScale</string>
+	<key>screenLevelBrightness</key>
+	<string>frameViaVar</string>
+	<key>sizedboxContainParam</key>
+	<string>indicatorPatternDepth</string>
+	<key>transformerIncludeProxy</key>
+	<string>previewUntilComposite</string>
+	<key>usedLayerHue</key>
+	<string>resilientLogarithmVisibility</string>
+</dict>
+</plist>

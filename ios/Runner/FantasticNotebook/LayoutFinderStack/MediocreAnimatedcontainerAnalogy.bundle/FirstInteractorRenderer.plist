@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchShapeAcceleration</key>
+	<string>euclideanCacheHead</string>
+	<key>delegateAwayPattern</key>
+	<string>petForPrototype</string>
+	<key>eventChainFlags</key>
+	<string>routeAsAction</string>
+	<key>expandedPerCycle</key>
+	<string>factoryWorkCoord</string>
+	<key>interactorWorkBrightness</key>
+	<string>nodeIncludeLevel</string>
+	<key>lazyActionDirection</key>
+	<string>extensionAsType</string>
+	<key>nodeStructureVisible</key>
+	<string>projectionParameterSpeed</string>
+	<key>sizeAsLevel</key>
+	<string>assetBridgeDepth</string>
+</dict>
+</plist>

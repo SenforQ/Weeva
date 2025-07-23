@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleTypeVelocity</key>
+	<string>groupParameterAcceleration</string>
+	<key>featureInMethod</key>
+	<string>resolverVariableAcceleration</string>
+	<key>normFunctionOpacity</key>
+	<string>contractionFunctionResponse</string>
+	<key>requiredRowInset</key>
+	<string>callbackFromContext</string>
+	<key>semanticTernaryCoord</key>
+	<string>mediaqueryAboutFunction</string>
+	<key>taskTempleFeedback</key>
+	<string>semanticObserverDirection</string>
+	<key>usedBoxOffset</key>
+	<string>beginnerAspectTint</string>
+</dict>
+</plist>

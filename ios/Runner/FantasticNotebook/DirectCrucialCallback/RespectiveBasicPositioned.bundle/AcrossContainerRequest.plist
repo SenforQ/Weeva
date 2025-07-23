@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellViaMethod</key>
+	<string>statelessMaterialInteraction</string>
+	<key>concreteStatefulType</key>
+	<string>constOperationTag</string>
+	<key>handlerThroughFunction</key>
+	<string>sequentialTextDepth</string>
+	<key>relationalChannelRotation</key>
+	<string>controllerAgainstBridge</string>
+	<key>rowWithDecorator</key>
+	<string>sizedboxUntilContext</string>
+	<key>similarBlocVelocity</key>
+	<string>baselineWithOperation</string>
+	<key>subscriptionProcessSize</key>
+	<string>roleViaPrototype</string>
+	<key>viewMediatorCenter</key>
+	<string>synchronousMenuTint</string>
+</dict>
+</plist>

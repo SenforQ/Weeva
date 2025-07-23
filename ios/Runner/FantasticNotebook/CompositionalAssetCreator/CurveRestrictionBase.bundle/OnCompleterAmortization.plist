@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkDuration</key>
+	<string>callbackAndShape</string>
+	<key>cycleFacadeCenter</key>
+	<string>deferredTextDepth</string>
+	<key>gradientParameterVisible</key>
+	<string>modelNearBuffer</string>
+	<key>handlerThanJob</key>
+	<string>isolateInsideOperation</string>
+	<key>painterVersusJob</key>
+	<string>fixedBuilderType</string>
+	<key>popupContextBottom</key>
+	<string>hashViaCycle</string>
+	<key>resolverInsidePlatform</key>
+	<string>sizeInsideParam</string>
+	<key>symbolObserverSize</key>
+	<string>mutableRequestHead</string>
+</dict>
+</plist>

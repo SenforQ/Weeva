@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseDuringForm</key>
+	<string>functionalEquipmentTransparency</string>
+	<key>chapterMediatorFormat</key>
+	<string>entityFunctionState</string>
+	<key>displayableStateShade</key>
+	<string>subtleAlertType</string>
+	<key>graphExceptActivity</key>
+	<string>unsortedScrollDirection</string>
+	<key>handlerJobTail</key>
+	<string>metadataValueColor</string>
+	<key>localizationAgainstChain</key>
+	<string>viewContainFunction</string>
+	<key>profileNearFlyweight</key>
+	<string>descriptionOfPlatform</string>
+	<key>queryVariableMode</key>
+	<string>tableWithPlatform</string>
+	<key>sliderSystemOffset</key>
+	<string>musicAlongType</string>
+</dict>
+</plist>

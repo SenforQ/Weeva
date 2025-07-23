@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelMediatorBrightness</key>
+	<string>statefulBesideWork</string>
+	<key>cubitAmongStyle</key>
+	<string>sortedCallbackFeedback</string>
+	<key>draggableFactoryFlags</key>
+	<string>progressbarProxyDistance</string>
+	<key>previewLevelCoord</key>
+	<string>permissiveEqualizationStatus</string>
+	<key>sinkThroughSystem</key>
+	<string>aspectratioIncludePhase</string>
+	<key>storageUntilJob</key>
+	<string>instructionDuringFunction</string>
+</dict>
+</plist>

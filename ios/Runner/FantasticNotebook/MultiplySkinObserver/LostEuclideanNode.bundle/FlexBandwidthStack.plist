@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeReducerBound</key>
+	<string>inheritedCharacterRight</string>
+	<key>denseSpriteLeft</key>
+	<string>tappableTextureBehavior</string>
+	<key>liteObserverSkewx</key>
+	<string>uniqueTitleFeedback</string>
+	<key>localizationOperationIndex</key>
+	<string>widgetBufferBehavior</string>
+	<key>richtextStateOrigin</key>
+	<string>positionInOperation</string>
+	<key>semanticStorageValidation</key>
+	<string>resizableSliderLeft</string>
+	<key>sizeStrategyOpacity</key>
+	<string>unactivatedAxisBrightness</string>
+	<key>tabbarFormVisible</key>
+	<string>iterativeStoreDuration</string>
+	<key>usedNodeFlags</key>
+	<string>containerAwayKind</string>
+</dict>
+</plist>

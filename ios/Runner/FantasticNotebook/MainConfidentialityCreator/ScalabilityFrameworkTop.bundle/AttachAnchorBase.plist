@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBesideSingleton</key>
+	<string>mediocreBorderAcceleration</string>
+	<key>immediateAnimationContrast</key>
+	<string>ternaryDecoratorForce</string>
+	<key>movementSingletonShade</key>
+	<string>tweenJobBorder</string>
+	<key>positionShapeOrientation</key>
+	<string>titleCompositeAppearance</string>
+	<key>signatureVarDepth</key>
+	<string>threadJobTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineStageVisible</key>
+	<string>metadataPerAdapter</string>
+	<key>buttonAwaySingleton</key>
+	<string>semanticsObserverRight</string>
+	<key>gridTaskRotation</key>
+	<string>skirtFacadeShape</string>
+	<key>singleStateBehavior</key>
+	<string>themeAboutPlatform</string>
+	<key>sliderParamIndex</key>
+	<string>newestSwitchValidation</string>
+	<key>smallIconPressure</key>
+	<string>asyncInjectionFormat</string>
+	<key>transitionTempleIndex</key>
+	<string>coordinatorInPattern</string>
+</dict>
+</plist>

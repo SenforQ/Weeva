@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densePointDelay</key>
+	<string>directlyQueryOpacity</string>
+	<key>dropdownbuttonStyleEdge</key>
+	<string>completerAlongContext</string>
+	<key>futureAlongStage</key>
+	<string>cubitVersusMethod</string>
+	<key>viewVersusCycle</key>
+	<string>imperativeHandlerRight</string>
+</dict>
+</plist>

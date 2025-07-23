@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitUntilMediator</key>
+	<string>firstNavigatorShape</string>
+	<key>elasticDocumentBorder</key>
+	<string>nextRoleMode</string>
+	<key>grainMethodAppearance</key>
+	<string>interactorKindSpacing</string>
+	<key>responsiveExceptionShade</key>
+	<string>textfieldAtFlyweight</string>
+</dict>
+</plist>

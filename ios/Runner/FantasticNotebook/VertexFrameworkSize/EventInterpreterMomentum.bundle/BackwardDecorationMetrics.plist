@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperLayerRight</key>
+	<string>currentRoleSkewx</string>
+	<key>commonViewSkewy</key>
+	<string>specifyBrushPosition</string>
+	<key>equalizationNearLayer</key>
+	<string>labelKindVisibility</string>
+	<key>frameModeDepth</key>
+	<string>resizableGraphBound</string>
+	<key>monsterFormFrequency</key>
+	<string>storageFlyweightAlignment</string>
+	<key>nativeStepDistance</key>
+	<string>animationInsideNumber</string>
+	<key>nodeActionDelay</key>
+	<string>featureBridgeInset</string>
+	<key>presenterParamShade</key>
+	<string>hierarchicalTangentContrast</string>
+	<key>scrollableEntropyVisibility</key>
+	<string>awaitNumberForce</string>
+	<key>tabbarVisitorTop</key>
+	<string>asyncSubpixelVisible</string>
+</dict>
+</plist>

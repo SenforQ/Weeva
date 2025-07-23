@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFrameworkBottom</key>
+	<string>missionVersusEnvironment</string>
+	<key>builderAboutMode</key>
+	<string>easyTaskTransparency</string>
+	<key>directColumnSize</key>
+	<string>containerCompositeState</string>
+	<key>eagerLocalizationDepth</key>
+	<string>baselineOrParameter</string>
+	<key>gesturedetectorActivityBrightness</key>
+	<string>interactorPhaseCount</string>
+	<key>gesturedetectorThanScope</key>
+	<string>desktopAnimationForce</string>
+	<key>getxModeTint</key>
+	<string>popupInsideTier</string>
+	<key>listenerActivityVelocity</key>
+	<string>cellExceptVariable</string>
+	<key>reusableContractionDistance</key>
+	<string>independentCardAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionProviderSize</key>
+	<string>futureFormStatus</string>
+	<key>actionNumberFormat</key>
+	<string>otherButtonShade</string>
+	<key>advancedScrollSkewy</key>
+	<string>workflowInAdapter</string>
+	<key>callbackPerStage</key>
+	<string>builderLikeFacade</string>
+	<key>disabledPlaybackSpacing</key>
+	<string>resourceAdapterSpeed</string>
+	<key>gemThanFlyweight</key>
+	<string>assetAdapterScale</string>
+	<key>handlerActivityCoord</key>
+	<string>mobileAsProxy</string>
+	<key>matrixValueHead</key>
+	<string>workflowWithSingleton</string>
+	<key>singletonPerWork</key>
+	<string>lostAspectratioTransparency</string>
+	<key>sliderExceptForm</key>
+	<string>dependencyAtObserver</string>
+</dict>
+</plist>

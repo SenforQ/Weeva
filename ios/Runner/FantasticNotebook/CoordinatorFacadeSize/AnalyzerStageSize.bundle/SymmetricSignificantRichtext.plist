@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineParamSpacing</key>
+	<string>topicParameterBorder</string>
+	<key>disabledRequestOrigin</key>
+	<string>unaryWithMediator</string>
+	<key>handlerMethodPadding</key>
+	<string>numericalPaddingDistance</string>
+	<key>isolateWithoutProcess</key>
+	<string>displayableInteractorHue</string>
+	<key>localizationThanComposite</key>
+	<string>petThroughShape</string>
+	<key>usageBufferBrightness</key>
+	<string>finalButtonTension</string>
+</dict>
+</plist>

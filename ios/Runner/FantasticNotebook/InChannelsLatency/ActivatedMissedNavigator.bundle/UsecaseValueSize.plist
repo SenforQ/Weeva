@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTaskTop</key>
+	<string>tweenBridgeCount</string>
+	<key>compositionalSliderBottom</key>
+	<string>draggableGraphSpacing</string>
+	<key>functionalStatefulHue</key>
+	<string>histogramOfPattern</string>
+	<key>resourceStyleSpeed</key>
+	<string>coordinatorCommandState</string>
+	<key>reusableRichtextInset</key>
+	<string>inheritedLabelCenter</string>
+	<key>sceneAndBuffer</key>
+	<string>dialogsChainKind</string>
+	<key>uniformNavigationOrientation</key>
+	<string>tweenKindOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerFactoryType</key>
+	<string>sizedboxBeyondActivity</string>
+	<key>constraintAwaySingleton</key>
+	<string>advancedDialogsTop</string>
+	<key>extensionTypeScale</key>
+	<string>switchParameterOrientation</string>
+	<key>gridviewKindColor</key>
+	<string>mobileLocalizationResponse</string>
+	<key>positionedOfLayer</key>
+	<string>ephemeralResourceBorder</string>
+	<key>relationalCoordinatorTag</key>
+	<string>lossDuringShape</string>
+	<key>sliderDecoratorDistance</key>
+	<string>actionAndTier</string>
+	<key>stateMementoIndex</key>
+	<string>asyncParameterOrientation</string>
+</dict>
+</plist>

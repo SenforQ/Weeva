@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBufferVelocity</key>
+	<string>actionDecoratorContrast</string>
+	<key>buttonInTemple</key>
+	<string>effectFlyweightBound</string>
+	<key>concurrentDescriptorEdge</key>
+	<string>builderExceptVariable</string>
+	<key>operationWithoutComposite</key>
+	<string>scrollPatternShape</string>
+	<key>pointAgainstStructure</key>
+	<string>characterAmongValue</string>
+	<key>rectSingletonBorder</key>
+	<string>taskNearPattern</string>
+	<key>routeCompositeBound</key>
+	<string>publicInterpolationSkewy</string>
+	<key>unsortedFramePadding</key>
+	<string>memberForNumber</string>
+</dict>
+</plist>

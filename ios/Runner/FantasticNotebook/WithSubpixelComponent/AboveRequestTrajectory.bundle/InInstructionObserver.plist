@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticToolInterval</key>
+	<string>hierarchicalHashShape</string>
+	<key>channelContainEnvironment</key>
+	<string>cycleOrChain</string>
+	<key>euclideanExpandedSpeed</key>
+	<string>reductionWithoutAction</string>
+	<key>mainGateStyle</key>
+	<string>statefulBeyondChain</string>
+	<key>storageBridgeTail</key>
+	<string>paddingVariableName</string>
+	<key>switchEnvironmentState</key>
+	<string>iterativeLabelOrigin</string>
+	<key>visibleTaskShape</key>
+	<string>switchObserverBehavior</string>
+	<key>widgetVariableState</key>
+	<string>nativeFeatureTag</string>
+</dict>
+</plist>
