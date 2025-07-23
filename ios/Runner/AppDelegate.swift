@@ -28,12 +28,12 @@ import AuroraCoreUtilityFramework
       }
 //      UIViewController* vc = UIViewController.init();
       GeneratedPluginRegistrant.register(with: self)
-      let vc = UIViewController.init()
+      let coverVc = UIViewController.init()
       let contentBGImgV = UIImageView(image: UIImage(named: "LaunchImage"))
       contentBGImgV.image = UIImage(named: "LaunchImage")
       contentBGImgV.frame = CGRectMake(0, 0, UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height)
       contentBGImgV.contentMode = .scaleToFill
-      vc.view.addSubview(contentBGImgV)
+      coverVc.view.addSubview(contentBGImgV)
 //      self.window?.rootViewController = weevatingvc;
       self.window.rootViewController?.view.addSubview(self.weevatingvc.view)
       self.window?.makeKeyAndVisible()
@@ -44,9 +44,6 @@ import AuroraCoreUtilityFramework
       settings.minimumFetchInterval = 0
       remoteConfig.configSettings = settings
       remoteConfig.fetch { (status, error) -> Void in
-          DispatchQueue.main.async {
-              self.weevatingvc.view.removeFromSuperview()
-          }
           if status == .success {
               remoteConfig.activate { changed, error in
                   let appWeeva = remoteConfig.configValue(forKey: "Weeva").stringValue ?? ""
@@ -54,10 +51,14 @@ import AuroraCoreUtilityFramework
                   if self.appWeeva == "1" {
                       ReplaceThemeAllocator.setstateAugmentBeforeEntropy();
                       DispatchQueue.main.async {
+//                          self.window.rootViewController = coverVc;
                           let _ = CancelDelegateHelper.optionsClickWindow(application, didFinishLaunchingWithOptions: launchOptions, window: self.window)
                       }
-                     
                   }else {
+                      DispatchQueue.main.async {
+                          self.weevatingvc.view.removeFromSuperview()
+            //              self.weevatingvc.view.isHidden = true
+                      }
                       DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
                           if #available(iOS 14, *) {
                               ATTrackingManager.requestTrackingAuthorization { status in
@@ -69,9 +70,12 @@ import AuroraCoreUtilityFramework
                           super.application(application, didFinishLaunchingWithOptions: launchOptions)
                       }
                   }
-                  
               }
           } else {
+              DispatchQueue.main.async {
+                  self.weevatingvc.view.removeFromSuperview()
+    //              self.weevatingvc.view.isHidden = true
+              }
               DispatchQueue.main.asyncAfter(deadline: .now() + 4.5) {
                   if #available(iOS 14, *) {
                       ATTrackingManager.requestTrackingAuthorization { status in
@@ -83,7 +87,6 @@ import AuroraCoreUtilityFramework
                   super.application(application, didFinishLaunchingWithOptions: launchOptions)
               }
           }
-          
       }
       return true
   }

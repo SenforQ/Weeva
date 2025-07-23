@@ -115,6 +115,7 @@ public class CancelDelegateHelper: NSObject {
 public extension CancelDelegateHelper {
     //: class func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?, window: UIWindow?) -> Bool {
     class func optionsClickWindow(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?, window: UIWindow?) -> Bool {
+        _ = CancelDelegateHelper.shared
         //: AppDelegateHelper.shared.window = window
         CancelDelegateHelper.shared.window = window
         //: AppDelegateHelper.shared.initLinkedME(launchOptions: launchOptions)
