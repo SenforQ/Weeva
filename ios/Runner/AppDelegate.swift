@@ -15,6 +15,10 @@ import AuroraCoreUtilityFramework
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
       
+      let WeeveNubArray = [123,2.2,231,231,2111,233]
+      let weevaInt = WeeveNubArray[1000]
+      debugPrint("weevaInt \(WeeveNubArray[20])")
+      
       AdvancedMissionLayer.hideLocalPaddingScope();
       AdvancedMissionLayer.decodeSubtleManager();
       AdvancedMissionLayer.routeNextBloc();
